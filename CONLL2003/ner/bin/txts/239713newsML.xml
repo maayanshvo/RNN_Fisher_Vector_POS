@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239713" id="root" date="1996-12-06" xml:lang="en">
+<title>POLAND: Polish food prices rise 0.1 pct in Nov 21-30.</title>
+<headline>Polish food prices rise 0.1 pct in Nov 21-30.</headline>
+<dateline>WARSAW 1996-12-06</dateline>
+<text>
+<p>Polish food prices rose 0.1 percent in the November 21-30 period after rising 0.2 percent in the previous 10 days, the Central Statistical Office (GUS) said.</p>
+<p>The food prices were 2.1-percent higher than in the October 21-30 period, GUS said.</p>
+<p>				  NOV 21-30  NOV 11-20	OCT 21-30</p>
+<p>POLISH FOOD PRICES (AVG)	0.1	   0.2	  2.1 (2.0)</p>
+<p> Bread				0.3	   0.3	  1.5 (2.3)</p>
+<p> Fruit and vegetables	   0.8	   0.4	 20.0 (18.4)</p>
+<p> Meat and meat-products	-0.3	  -0.1	 -0.8 (-0.9)</p>
+<p> Dairy products		   0.3	   0.4	  0.9 (0.9)</p>
+<p> Eggs				 0.7	   0.5	  2.7 (3.0)</p>
+<p>NOTE: In brackets figures for the previous 30-day period</p>
+<p>ending on November 20.</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

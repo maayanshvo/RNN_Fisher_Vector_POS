@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241107" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Australian tourism surge raises transport fears.</title>
+<headline>Australian tourism surge raises transport fears.</headline>
+<byline>Richard Pullin</byline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>The number of tourists visiting Australia is set to pass the four million mark in 1996 for the first time, the government said on Friday.</p>
+<p>But industry groups warned that transport links needed to be upgraded to maintain growth and handle the steady influx.</p>
+<p>Tourism Minister John Moore said visitor numbers had quadrupled over the past 12 years, placing Australia among the fastest growing tourism destinations in the world.</p>
+<p>The four millionth visitor for 1996 was expected to arrive before Christmas, following a 12.6 percent rise in visitor numbers in the first nine months, he said.</p>
+<p>About 3.7 million tourists visited Australia in 1995, compared with a total population of about 18 million.</p>
+<p>The industry is already the country's biggest export earner, overshadowing more traditional industries such as coal, wool and wheat exports.</p>
+<p>Moore said more than half of all visitors this year were expected to come from Japan and the rest of Asia, and the region was expected to dominate tourist growth over the next 10 years.</p>
+<p>However, a report released on Friday by lobby group Tourism Task Force warned that governments risked the industry's expansion unless they embraced the role of the private sector in building new transport infrastructure.</p>
+<p>The report into transport needs across Australia said visitor numbers were expected to exceed 8.5 million by 2005.</p>
+<p>However, tourism development in Sydney was being restricted by traffic congestion, rail travel was discouraged by uncoordinated services, and the cruise industry was being hampered by high charges and outdated regulations.</p>
+<p>&quot;The forecast level of growth is...highly dependent upon Australia's marketing strategy and the extent and timing of tourism infrastructure,&quot; it said.</p>
+<p>Governments had to encourage the private sector to develop new air, rail, road and sea infrastructure, the report said.</p>
+<p>It recommended a series of proposed developments, but warned that Australia faced a limited &quot;window of opportunity&quot; to attract private capital before investors switched to growing demand elsewhere in the Asian region.</p>
+<p>It also noted that Australia's vast distances and the competing needs of different levels of government made if difficult to identify transport priorities.</p>
+<p>&quot;Until there is recognition of these unique difficulties, the provision of tourism transport infrastructure will remain fragmented,&quot; the report said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

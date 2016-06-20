@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241320" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Alsons plans new cement terminal.</title>
+<headline>Alsons plans new cement terminal.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Alsons Cement Corp (Alcem) said on Friday it was planning a new cement terminal in Batangas, just south of Manila.</p>
+<p>Alcem assistant corporate secretary Allen Morallos told the Philippine Stock Exchange the management had got board approval to &quot;negotiate ... for the procurement of permits for the construction of its cement terminal in Calaca, Batangas.&quot;</p>
+<p>Alcem is based in the southern Philippines.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

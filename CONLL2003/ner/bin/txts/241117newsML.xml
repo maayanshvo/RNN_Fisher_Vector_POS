@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241117" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Sinn Fein's Gerry Adams challanges Australian ban.</title>
+<headline>Sinn Fein's Gerry Adams challanges Australian ban.</headline>
+<dateline>BRISBANE 1996-12-06</dateline>
+<text>
+<p>Ireland's Sinn Fein leader Gerry Adams has challenged the Australian government's decision to refuse him an entry visa because of his &quot;intimate association&quot; with the Irish Republican Army (IRA), his lawyer said on Friday.</p>
+<p>Adam's Australian lawyer Terry Fisher told Reuters that Adams had applied to the federal court on Thursday to review the ban by Australian Immigration Minister Philip Ruddock.</p>
+<p>Ruddock refused Adams a business visa on November 8 on the grounds that he was not a person of good character. Adams had applied in October for a visa to enter Australia to promote his controversial autobiography &quot;Before the Dawn&quot;.</p>
+<p>Documents lodged with the court say there was no evidence to justify the ban, that it involved an error of law and was an improper exercise of power under the country's Migration Act.</p>
+<p>&quot;We are particularly concerned to see what documents the minister used to base his decision upon,&quot; said Fisher, who is a member Australian Aid for Ireland which raises funds for the families of political prisoners in Ireland.</p>
+<p>Fisher said the case would not be heard until early 1997.</p>
+<p>Adams, whose Sinn Fein party is excluded from multi-party talks in Belfast as long as the IRA uses armed force in its campaign against British rule in Northern Ireland, has blamed the British government for pressuring Australia to ban him.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRISBANE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

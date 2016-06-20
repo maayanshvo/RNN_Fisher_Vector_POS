@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240561" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Traffic crashes down but top cause of teen deaths.</title>
+<headline>Traffic crashes down but top cause of teen deaths.</headline>
+<byline>Mike Cooper</byline>
+<dateline>ATLANTA 1996-12-05</dateline>
+<text>
+<p>The rate at which young drivers are involved in fatal traffic accidents has declined 20 percent since 1988 but motor vehicle crashes remain the leading cause of death for Americans aged 15 to 20, federal health officials said Thursday.</p>
+<p>Although 15- to 20-year-olds were only 6.7 percent of the total number of licensed drivers in 1995, they represented 14 percent of those involved in fatal traffic accidents, the Centers for Disease Control and Prevention (CDC) said.</p>
+<p>There were 36.9 fatal traffic accidents per 100,000 young drivers in 1995, a 20.1 percent decrease from the 1988 rate of 46.2 per 100,000. The trend parallels a decrease in traffic fatalities among the general population.</p>
+<p>&quot;Overall, for all ages, there has been this decline,&quot; CDC epidemiologist Ann Dellinger said.</p>
+<p>The CDC said teen drivers were drinking a little less, probably because of higher legal drinking ages. &quot;In 1988, all 50 states had gone back to 21 as a legal age for alcohol,&quot; she said. Young drivers were also wearing their seat belts a little Between 1988 and 1995, there were 68,206 fatal traffic accidents involving young drivers. In those accidents, 74.4 percent of the drivers were male and 27.3 percent had alcohol in their blood.</p>
+<p>The CDC said 39.8 percent of the accidents occurred at night and 53.7 percent of drivers were not wearing a safety belt or motorcycle helmet at the time of the crash.</p>
+<p>More states have begun adopting stricter rules for licensed drivers who are under 21, requiring them to drive only during the day or with an adult who has a license. A National Highway Traffic Safety Administration study found that these restrictions can reduce accidents involving young drivers by 5 percent to 16 percent.</p>
+<p>On a per mile basis, a 16-year-old was 18 times as likely as someone aged 30 to 34 to be involved in a fatal traffic accident, the CDC said. Drunk driving is also a problem among young adults. The CDC said drivers aged 21 to 24 had the highest intoxication rates in fatal crashes in 1995.</p>
+<p>The total number of alcohol-related traffic fatalities, regardless of the age of the driver, increased 4.1 percent from 1989 to 1995, the CDC said.</p>
+<p>&quot;We need to be sure that every new driver knows the real-life consequences of mixing risky behaviors with driving, and especially the risks of drunk and drugged driving,&quot; Health and Human Services Secretary Donna Shalala said in a statement.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

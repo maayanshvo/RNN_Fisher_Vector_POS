@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241885" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: France sends blast suspects list to neighbours.</title>
+<headline>France sends blast suspects list to neighbours.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>France has sent its European neighbours a list of 13 people suspected of involvement in a Paris commuter train blast last Tuesday in which three people died, French television said.</p>
+<p>France-2 television said the list had been sent to &quot;all European countries.&quot;  </p>
+<p>The Interior Ministry, questioned about the television report, said it was awaiting instructions about what information it should release on the matter.</p>
+<p>The television report gave no details about the suspects but French authorities have said in the past that they were uneasy about the activities of Algerian Moslem fundamentalists in Belgium, Britain, Sweden and Germany.</p>
+<p>No one has claimed responsibility for Tuesday's blast in which 94 people were also injured.</p>
+<p>The Algerian Armed Islamic Group (GIA) claimed responsibility for a series of bomb attacks in France in 1995 in which eight people were killed and 160 injured.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

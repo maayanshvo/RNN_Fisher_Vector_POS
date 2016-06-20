@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239074" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: CRICKET-AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD.</title>
+<headline>CRICKET-AUSTRALIA V WEST INDIES WORLD SERIES SCOREBOARD.</headline>
+<dateline>MELBOURNE 1996-12-06</dateline>
+<text>
+<p>Scoreboard in the World Series</p>
+<p>limited overs match between Australia and West Indies on Friday:</p>
+<p>West Indies</p>
+<p> S.Campbell c Healy b Gillespie	31</p>
+<p> R.Samuels c M.Waugh b Gillespie	7</p>
+<p> B.Lara c Warne b Moody		   5</p>
+<p> S.Chanderpaul c Healy b Blewett     54</p>
+<p> C.Hooper run out			   7</p>
+<p> J.Adams lbw b Moody			5</p>
+<p> J.Murray c Blewett b Warne	    24</p>
+<p> N.McLean c and b M.Waugh		 7</p>
+<p> K.Benjamin b Warne			 8   </p>
+<p> C.Ambrose run out			  2</p>
+<p> C.Walsh not out			    8	  </p>
+<p> Extras (lb-10 w-1 nb-3)		 14</p>
+<p> Total (49.2 overs)		     172		  </p>
+<p>Fall of wickets: 1-11 2-38 3-64 4-73 5-81 6-120 7-135 8-150</p>
+<p>9-153.</p>
+<p>Bowling: Reiffel 10-2-26-0 (nb-3), Gillespie 10-0-39-2,</p>
+<p>Moody 10-1-25-2, Blewett 6.2-0-27-1, Warne 10-0-34-2 (w-1),</p>
+<p>M.Waugh 3-0-11-1.</p>
+<p>Australia</p>
+<p> M.Taylor b McLean				29</p>
+<p> M.Waugh c Murray b Benjamin		  27</p>
+<p> R.Ponting lbw McLean			    5</p>
+<p> G.Blewett not out				57</p>
+<p> M.Bevan st Murray b Hooper		    3</p>
+<p> S.Law b Hooper				   21</p>
+<p> T.Moody not out				   3</p>
+<p> Extras (lb-17 nb-8 w-3)			28</p>
+<p> Total (for five wickets, 48.4 overs)    173</p>
+<p>Fall of wickets: 1-59 2-70 3-78 4-90 5-160.</p>
+<p>Did not bat: I.Healy, P.Reiffel, S.Warne, J.Gillespie.</p>
+<p>Bowling: Ambrose 10-3-19-0 (2nb 1w), Walsh 9-0-34-0 (4nb),</p>
+<p>Benjamin 9.4-0-43-1 (1nb 1w), Hooper 10-0-27-2 (1nb), McLean</p>
+<p>10-1-33-2 (1w).</p>
+<p>Result: Australia won by five wickets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="WEIND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

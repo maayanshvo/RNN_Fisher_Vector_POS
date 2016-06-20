@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240136" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Naked Florida man sought for attacking schoolgirls.</title>
+<headline>Naked Florida man sought for attacking schoolgirls.</headline>
+<dateline>ORLANDO, Fla. 1996-12-06</dateline>
+<text>
+<p>Florida police were searching Friday for a naked man who attacked three girls as they made their way to school bus stops, raping one and robbing another in separate incidents.</p>
+<p>All three attacks occurred Thursday and Orlando police said they suspected the man may have been responsible for a string of recent indecent exposure cases involving teenage girls on their way to school bus stops.</p>
+<p>Investigators, who said the man appeared to be in his late 20s, warned students not to walk alone and to have a parent with them until the school bus arrived.</p>
+<p>In the first attack, before dawn, a naked man with a goatee beard got out of a car, demanded a 15-year-old girl give him her purse and then drove away.</p>
+<p>Police said the man appeared again a few miles away, where another 15-year-old saw him get out of the car with a gun. He drove away when she screamed.</p>
+<p>He later forced a 14-year-old into his car, drove her to nearby woods and raped her.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ORLANDO, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

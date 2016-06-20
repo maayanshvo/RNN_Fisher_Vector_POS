@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239979" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BALANCE - City of Hartford, Conn. at $11.8 mln.</title>
+<headline>BALANCE - City of Hartford, Conn. at $11.8 mln.</headline>
+<text>
+<p>CITY OF HARTFORD, CONNECTICUT</p>
+<p>RE: $25,000,000</p>
+<p>GENERAL OBLIGATION BONDS</p>
+<p>    MOODY'S: Aaa / A1	    S&amp;P: AAA / AA-</p>
+<p>Delivery Date: 12/16/1996</p>
+<p>FSA INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>12/15/2000	   1,250M    6.25	  4.10</p>
+<p>12/15/2001	     575M    4.60	  4.20</p>
+<p>12/15/2003	     145M    4.40	  4.40</p>
+<p>12/15/2004	     625M    4.50	  4.50</p>
+<p>12/15/2005		55M    4.60	  4.60</p>
+<p>12/15/2006	     145M    4.70	  4.70</p>
+<p>12/15/2007	     850M    4.85	  4.85</p>
+<p>12/15/2008	   1,200M    4.95	  4.95</p>
+<p>12/15/2009	   1,240M    5.05	  5.05</p>
+<p>12/15/2010	   1,250M    5.15	  5.15</p>
+<p>12/15/2011	   1,235M    5.25	  5.25</p>
+<p>12/15/2012	   1,200M    5.25	  5.30</p>
+<p>12/15/2013	   1,135M    5.30	  5.35</p>
+<p>12/15/2014	     850M    5.30	  5.35</p>
+<p>  Total:	    11,755M</p>
+<p>State Street Bank and Trust Company</p>
+<p>Prudential Securities Incorporated</p>
+<p>PaineWebber Incorporated</p>
+<p>First Union Capital Markets Corp. - NJ</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240092" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Municipal sales total $5.314 bln for week of Dec 9.</title>
+<headline>Municipal sales total $5.314 bln for week of Dec 9.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Scheduled competitive and negotiated municipal bond sales are expected to total $5.314 billion in 163 offerings for week of December 9, according to Reuters Municipal Bond Information Group.</p>
+<p>Competitive sales total $1.384 billion in 94 issues. The largest issue is a $165 million Metro Atlanta RTA on Dec 11.</p>
+<p>Negotiated sales total $3.930 billion in 69 offerings. The largest is a $579 million Municipal Assistance Corporation of New york City issue through Morgan Stanley Inc.</p>
+<p>An additional $241 million of negotiated deals in eight offerings are on the possible sales calendar, meaning underwriters have said they may price them during the week depending on market conditions.</p>
+<p>--U.S. Municipal Information Group, 212-859-1826</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241336" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Fourteen missing, three hurt in Japan mudslide.</title>
+<headline>Fourteen missing, three hurt in Japan mudslide.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Three construction workers were injured and 14 others were missing following a mudslide on Friday in a central Japanese mountain village, police said.</p>
+<p>The mudslide at Otari village in Nagano prefecture, 230 km (138 miles) northwest of Tokyo, washed away a bridge and cut off access to the homes of about 30 people, police said.</p>
+<p>The missing workers, including three women, were among a crew of about 50 who were repairing roads that had been damaged when a previous flash flood swept tonnes of rocks and mud down a steep mountain, police said.</p>
+<p>Six workers were rescued, one of whom was seriously injured. Two sustained moderate injuries, police said.</p>
+<p>The accident took place in a ski resort and hot spring spa area, a region of rugged mountains which is highly prone to landslides.</p>
+<p>Otari is located near one of the main ski slopes to be used in the 1998 Winter Olympics at Nagano.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

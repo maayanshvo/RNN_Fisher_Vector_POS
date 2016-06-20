@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239385" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: First Comm'l OKs 1-for-125 reverse split.</title>
+<headline>First Comm'l OKs 1-for-125 reverse split.</headline>
+<dateline>SACRAMENTO, Calif. 1996-12-06</dateline>
+<text>
+<p>First Commercial Bancorp Inc said Friday that its shareholders approved a one-for-125 reverse stock split.</p>
+<p>&quot;The company's low per share stock price would have failed to comply with the proposed new rules for trading on the NASDAQ SmallCap Market,&quot; First Commercial said in a release.</p>
+<p>&quot;The board of directors believes that the reverse stock split will increase the per share market price of the company's common stock, thereby allowing it to satisfy those requirements.&quot;  </p>
+<p>First Commercial shares closed Friday at 3/32.</p>
+<p>The company said it filed an amendment to its certificate of incorporation that becomes effective today, and as a result, each share of its common stock will be converted into 1/125th of a share.</p>
+<p>First Commercial said it will not issue fractional shares, but will exchange them for cash.</p>
+<p>The reverse split became effective 1700 EST Friday, the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240564" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Texas Petrochemicals idles unit, trims MTBE output.</title>
+<headline>Texas Petrochemicals idles unit, trims MTBE output.</headline>
+<dateline>HOUSTON 1996-12-05</dateline>
+<text>
+<p>Texas Petrochemicals Corp on Thursday idled one of two dehydro units at its Houston manufacturing plant in a move that will cut its production of methyl tertiary butyl ether (MTBE) to 13,000 barrels per day, a spokesman said.</p>
+<p>The plant, located east of Houston on the ship channel, has a rated capacity to produce 25,000 barrels per day of MTBE, a gasoline additive, he said.</p>
+<p>The dehydro unit was idled in reaction to rising feedstock costs for isobutane and methanol and declining prices for MTBE, he said.</p>
+<p>-- Houston Bureau 713 210-8508</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

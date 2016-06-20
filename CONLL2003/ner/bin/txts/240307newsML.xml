@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240307" id="root" date="1996-12-06" xml:lang="en">
+<title>UNITED NATIONS: Boutros-Ghali says cannot confirm Iraqi oil start.</title>
+<headline>Boutros-Ghali says cannot confirm Iraqi oil start.</headline>
+<dateline>UNITED NATIONS 1996-12-06</dateline>
+<text>
+<p>U.N. Secretary-General Boutros Boutros-Ghali said Friday he could not confirm the start date for the Iraqi oil-for-food accord, saying he must wait for a report from inspectors before issuing clearance.</p>
+<p>When asked if he could confirm statements from senior U.N. officials Friday that he would clear oil sales on Monday, Boutros-Ghali said, &quot;No, I cannot confirm. Still I have not received the complete report of my experts (Saybolt inspectors in Iraq).&quot;  </p>
+<p>Dutch-firm Saybolt has yet to give its report to the secretary-general on the operational status of key oil metering equipment at the Zakho station along the Turkey-Iraq border. A previous Saybolt trip revealed faulty equipment.</p>
+<p>Boutros-Ghali said he did not when he would receive the Saybolt report.</p>
+<p>&quot;When I receive it I will have a meeting and on the basis of this meeting we will decide (when the clearance for oil sales can be given),&quot; said Boutros-Ghali.</p>
+<p>A U.N. spokesman said earlier that the Saybolt report would be released later Friday.</p>
+<p>When asked if he thought Monday was a likely date for issuing his own report, Boutros-Ghali said, &quot;I don't know.&quot;</p>
+<p>Under the oil-for-food deal, Iraq is allowed to sell $2 billion worth of crude over a six-month period in order to buy food and aid for civilians, suffering from sanctions imposed after Baghdad invaded Kuwait in 1990.</p>
+<p>--United Nations,+1 212 859 1828</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

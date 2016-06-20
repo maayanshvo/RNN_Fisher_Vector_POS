@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240760" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Ballot questions and bond referendums by state.</title>
+<headline>Ballot questions and bond referendums by state.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>The following is a list of upcoming ballot initiatives and measures. The list will be updated as information is made available.</p>
+<p>P - passed. D - defeated. NA - not available</p>
+<p>FLORIDA</p>
+<p>MARCH 25</p>
+<p>--Pinellas Cty, Fla., 10-year extension of one-cent sales tax increase for schools.</p>
+<p>NEW JERSEY</p>
+<p>P - DECEMBER 4</p>
+<p>--$2.95 million Runnemede school district bonds for school renovations.</p>
+<p>DECEMBER 10</p>
+<p>--$145 million Woodbridge school bonds for renovations and new construction.</p>
+<p>DECEMBER 12</p>
+<p>--$28.5 million Evesham Township School Board bonds for school additions and repairs.</p>
+<p>--$2.65 million Northern Highlands Regional High School, in Allendale, school bonds for technology and physical education improvements.</p>
+<p>JANUARY 28, 1997</p>
+<p>--$10 million Willingboro school bonds for renovations. PENNSYLVANIA</p>
+<p>DECEMBER 12</p>
+<p>--Evesham Township School Board bonds for school renovations.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

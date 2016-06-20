@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240730" id="root" date="1996-12-06" xml:lang="en">
+<title>DUBAI: Iran, Russia to set up shipping company.</title>
+<headline>Iran, Russia to set up shipping company.</headline>
+<dateline>DUBAI 1996-12-06</dateline>
+<text>
+<p>Iran and Russia have agreed to set up a shipping company to boost transportation across the Caspian Sea, the official Iranian News Agency (IRNA) said on Friday.</p>
+<p>The move marks an &quot;important step in the exchange of commodities between the two countries and between the northern and southern parts of the region,&quot; IRNA added.</p>
+<p>It gave no further details but said the agreement was reached during the first meeting of the Russian-Iranian Commission for Economic Cooperation since the collapse of the Soviet Union in 1991.</p>
+<p>The talks ended in Moscow on Thursday with broad agreement to expand economic relations, including the purchase of tens of millions of dollars worth of Russian subway cars and technical equipment.</p>
+<p>The Caspian Sea was divided between the Soviet Union and Iran first in 1921 and again in 1940.</p>
+<p>But since the break-up of the Soviet Union and the birth of three new states -- Azerbaijan, Kazakhstan and Turkmenistan -- along the Caspian shores, the sea has become the subject of an intense diplomatic and legal battle over its immense reserves of oil and gas.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

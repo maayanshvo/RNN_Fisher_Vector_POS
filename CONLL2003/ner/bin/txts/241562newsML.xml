@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241562" id="root" date="1996-12-07" xml:lang="en">
+<title>CANADA: ALPINE SKIING-OFFICIALS HOPE TO SALVAGE WORLD CUP WEEKEND.</title>
+<headline>ALPINE SKIING-OFFICIALS HOPE TO SALVAGE WORLD CUP WEEKEND.</headline>
+<dateline>WHISTLER, British Columbia 1996-12-06</dateline>
+<text>
+<p>World Cup ski officials hope to be able to get in at least one men's downhill training run on Saturday in an effort to salvage the weekend racing programme.</p>
+<p>For the third consecutive day, Friday's scheduled training runs were cancelled due to heavy wet snow and fog on Whistler Mountain, leaving the scheduled World Cup events in jeopardy.</p>
+<p>Rules call for at least one training run to be completed before a World Cup downhill race can be staged. Organisers hope to get that run in on Saturday morning, conditions permitting, and stage the race later in the day or on Sunday.</p>
+<p>&quot;There was no possibility today to make a training run,&quot; said Bernd Zobel, the Canadian men's national coach, citing too much new snow and poor visibility.</p>
+<p>If organisers are forced to run the downhill on Sunday, the super-giant slalom originally scheduled for Sunday would likely be abandoned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHISTLER, British Columbia"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

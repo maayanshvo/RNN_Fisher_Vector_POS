@@ -1,0 +1,54 @@
+PRESALE - Columbia Sch Dist, Mo..
+
+AMT: 7,750,000	DATE: 12/09/96	NYC Time: 1500	CUSIP: 198036
+
+ISSUER: Columbia Sch Dist					     ST: MO
+
+ISSUE: G.O. school building Series 1997 A		    TAX STAT: Exempt-ULT
+
+M/SP/F: NA/AA/NA							  BOOK ENTRY: N
+
+ENHANCEMENTS: None							BANK QUAL: N
+
+DTD: 01/01/97							     SURE BID: N
+
+DUE: 3/1/99-08						SR MGR:
+
+1ST CPN: 09/01/97
+
+CALL: 3/1/04 @ par					  NIC
+
+DELIVERY: 30 days					   ORDERS:
+
+PAYING AGENT: UMB Bank of St. Louis
+
+L.O.: Gilmore & Bell, Kansas City
+
+F.A.:
+
+LAST SALE: $5,000,000 5/22/96 @ 5.0670% NIC; 9yrs 11mos avg;BBI 5.96%
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1999		    200,000
+
+2000		    300,000
+
+2001		    500,000
+
+2002		    500,000
+
+2003		    750,000
+
+2004		    750,000
+
+2005		  1,000,000
+
+2006		  1,000,000
+
+2007		  1,250,000
+
+2008		  1,500,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

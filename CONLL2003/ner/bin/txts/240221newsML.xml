@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240221" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Airbus expands around Chinese plane.</title>
+<headline>Airbus expands around Chinese plane.</headline>
+<dateline>PARIS</dateline>
+<text>
+<p>Airbus, the European aerospace consortium, said Friday it will build a 100-seater jet with China.</p>
+<p>&quot;A specific agreement has been reached on the new 100 seat (Chinese) jet family in which all the European partners involved have agreed that it will be part of the Airbus product range,&quot; a statement from Airbus said.</p>
+<p>Airbus, with the Italian aerospace company Alenia, a unit of the Finmeccanica holding company, will set up a new company to direct the venture with China and Singapore. Singapore Technologies Aerospace is also a partner in the project.</p>
+<p>Earlier this week Boeing Co. and McDonnell Douglas Corp. said they would work with China on future wide-body jets, particularly two stretched versions of the Boeing 747 jumbo.</p>
+<p>The new Airbus company &quot;will lead the European contributions to the programme management, product and technical development, marketing, sales and poduct support of the project,&quot; the Airbus statement said. The statement gave no financial details.</p>
+<p>The Airbus partners include British Aerospace Plc, French state-owned Aerospatiale, Daimler-Benz Aerospace, a unit of Daimler-Benz AG and Construcciones Aeronauticas SA of Spain.</p>
+<p>The 100-seater plane for China will share common features with the Airbus A320 family, which includes the A321 and A319, seating between 124 and 186 passengers.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

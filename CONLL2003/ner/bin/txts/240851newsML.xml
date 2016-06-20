@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240851" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: German DAX closes bourse down 4.05 pct at 2,791.96.</title>
+<headline>German DAX closes bourse down 4.05 pct at 2,791.96.</headline>
+<text>
+<p>1250 GMT - German DAX ends bourse session down 4.05 percent with dollar down and following comments by Bundesbanker Jochimsen and Fed chief Greenspan.</p>
+<p>* 30-share bourse DAX down 117.96 points to 2,791.96, lowest close since 2,763.69 on November 22 but off day low of 2,760.76 when DAX down five percent.</p>
+<p>* December DAX future down 103 points to 2,791.5.</p>
+<p>* Dollar trades under 1.53, off highs around 1.56.</p>
+<p>* BASF and Bayer both down strongly.</p>
+<p>* Munich Re down on 1996-97 earnings warning.</p>
+<p>* U.S. unemployment report due at 1330 GMT.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

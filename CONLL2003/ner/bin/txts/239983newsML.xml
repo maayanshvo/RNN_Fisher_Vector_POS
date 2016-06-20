@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239983" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Northeast responds to agency nuclear report.</title>
+<headline>Northeast responds to agency nuclear report.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Northeast Utilities (NU) said a report on its nuclear facilities from the Connecticut Department of Public Utility Control (DPUC) did not take into account significant changes made by the company.</p>
+<p>NU said the report, among other things, did not consider the hiring of Bruce Kenyon as chief executive and president of subsidiary NU Nuclear or the hiring of David Goebel to head the company's department of nuclear oversight.</p>
+<p>The DPUC report, released Dec 6, said NU lacked leadership and planning in administration of its four Connecticut nuclear power plants.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

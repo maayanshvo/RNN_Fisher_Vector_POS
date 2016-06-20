@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239412" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Individual Investor to go to Nasdaq Nat'l.</title>
+<headline>Individual Investor to go to Nasdaq Nat'l.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Individual Investor Group Inc, a financial information services company, said Friday its common stock, which has traded on Nasdaq SmallCap Market since 1991, will begin trading on Nasdaq National Market Dec 9.</p>
+<p>Individual Investor said it was accepted for listing after meeting the more stringent quantitative and non-quantitative requirements of the Nasdaq National Market.</p>
+<p>The company's ticker symbol will remain the same.</p>
+<p>--New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

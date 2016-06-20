@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240517" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Reich-U.S. economy growing at two pct or more - RFTV.</title>
+<headline>Reich-U.S. economy growing at two pct or more - RFTV.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Labor Secretary Robert Reich Friday called the November jobs report mixed, but said the economy still seems to be growing at a two percent annualized clip or better.</p>
+<p>&quot;It's not too hot, it's not too cold,&quot; Reich told Reuters Financial Television. &quot;We probably are talking about growth of two percent or better,&quot; he added.</p>
+<p>The Labor Department reported earlier that the unemployment rate rose to 5.4 percent in November from 5.2 percent in October as jobs growth slowed to 118,000 from 224,000.  </p>
+<p>Reich said it was hard to say if the unemployment rate has bottomed out. &quot;We are seeing about a year of unemployment under 5.5 percent,&quot; he said. &quot;It seems to me it's likely to stay in that range.&quot;</p>
+<p>The outgoing Labor Secretary said the rise in the unemployment rate last month was mostly due to new entrants into the labor market, rather than because of a loss of jobs.</p>
+<p>&quot;I am relatively positive about where we are going on employment growth,&quot; Reich added, &quot;although there is clearly a slowdown.&quot;  </p>
+<p>In today's jobs report, the Labor Department also reported that average hourly earnings rose nine cents an hour in November.</p>
+<p>Reich though saw no reason to be concerned about wage-push inflation. With jobs growth slowing, &quot;it doesn't feel like this economy is overheating in any way,&quot; he said.</p>
+<p>Summing up, Reich said the economy was in &quot;remarkably good shape overall.&quot; But he voiced concern about &quot;extreme&quot; income inequality. &quot;We do need in this country to be very concerned lest we develop a two-tiered society,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

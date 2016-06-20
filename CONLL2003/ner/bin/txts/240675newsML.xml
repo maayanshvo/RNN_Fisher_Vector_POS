@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240675" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Korea Merchant Banking sets $75 mln three-year FRN.</title>
+<headline>Korea Merchant Banking sets $75 mln three-year FRN.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>The following floating-rate issue was announced by lead manager Westdeutsche Landesbank GZ.</p>
+<p> BORROWER   KOREA MERCHANT BANKING CORP</p>
+<p> AMT    $75 MLN	 BASE	 6M-LIBOR  MATURITY    27.DEC.99</p>
+<p> TYPE	 FRN	 MARGIN     +50 PB    PAY DATE    27.DEC.96</p>
+<p> LAST MOODY =	   ISS PRICE  PAR	 FULL FEES   39 BP</p>
+<p> LISTING    LUX	 DENOMS (K) 10  SALE LIMS US/UK/DE/HK/KR/JP</p>
+<p> NEG PLG    =	   CRS DEFLT  =	   FORCE MAJ   IPMA 2</p>
+<p> GOV LAW    GERMAN    MGT/UND    14 BP     SELL CONC  25 BP</p>
+<p>-- London Newsroom +44 171 542 8863</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

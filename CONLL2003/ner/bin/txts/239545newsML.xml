@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239545" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: Sasol invests 9 mln rand to curb emissions.</title>
+<headline>Sasol invests 9 mln rand to curb emissions.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>Sasol Ltd said on Friday it had completed a nine million rand project to reduce the emission of noxious nitrogen oxides (NOx) from its nitric acid plant in Sasolburg.</p>
+<p>Sasol said in a statement the modification had improved plant production because of previous reluctance to run the plant at maximum capacity due to concerns about excessive emissions.</p>
+<p>It said the volumes of NOx emissions were within statutory limits but after this project, which converts noxious NOx emissions into harmless nitrogen and water, emissions were now negligible and would have little impact on the environment.</p>
+<p>Nitric acid is used in the production of explosives and about 60 percent of the final product was exported to overseas markets, it said.</p>
+<p>-- Johannesburg newsroom, +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GENV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

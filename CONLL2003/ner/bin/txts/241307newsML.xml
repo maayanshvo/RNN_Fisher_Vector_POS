@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241307" id="root" date="1996-12-06" xml:lang="en">
+<title>CHINA: China stock accounts soar to 20.85 mln by end-Nov.</title>
+<headline>China stock accounts soar to 20.85 mln by end-Nov.</headline>
+<dateline>BEIJING 1996-12-06</dateline>
+<text>
+<p>China had 20.85 million stock accounts as at the end of November, up by 11.1 million compared with the end of 1995, the Securities Daily said on Friday, quoting the Shenzhen Stock Exchange.</p>
+<p>There were 11 million stock accounts in Shanghai by the end of November, a 161.9 percent increase compared with the end of 1995, the newspaper said.</p>
+<p>The southern city of Shenzhen had 9.85 million stock accounts, up 77.5 percent from the end of 1995, the daily said.</p>
+<p>It gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

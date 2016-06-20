@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240091" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CME lumber ends lower, spread trading hits January.</title>
+<headline>CME lumber ends lower, spread trading hits January.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>CME lumber futures closed lower, with late bear spreading by one trader pushing January to session lows in late trading.</p>
+<p>Nervousness about the economy and ideas lumber futures were due for a correction sparked much of Friday's selling. The economy worries were the product of sharply lower stock markets. Also, analysts have said lumber prices rose too high too fast in recent weeks and were due for a correction.</p>
+<p>Cash spruce prices were higher in Random Lengths weekly cash report Friday, but CME traders had been expecting the gains. Random Lengths quoted spruce at $407 per thousand board feet, up from $378 a week ago.</p>
+<p>Lumber closed down $6.10 to $1.50 with January off the most at $409.30.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

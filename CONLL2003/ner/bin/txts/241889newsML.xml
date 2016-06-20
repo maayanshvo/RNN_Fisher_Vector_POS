@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241889" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: Two killed in light aircraft crash in Germany.</title>
+<headline>Two killed in light aircraft crash in Germany.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>Two people including a flying teacher were killed when a small aircraft crashed into a wood in western Germany, a police spokesman said on Saturday.</p>
+<p>The plane disappeared from radar screens shortly after taking off from Aschaffenburg for Mannheim late on Friday night. The cause of the crash was not immediately clear.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

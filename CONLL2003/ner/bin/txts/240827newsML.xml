@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240827" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: ACCESS energy futures prices add to daytime gains.</title>
+<headline>ACCESS energy futures prices add to daytime gains.</headline>
+<dateline>LOS ANGELES 1996-12-05</dateline>
+<text>
+<p>U.S. energy futures added to floor session gains in light NYMEX ACCESS trade Thursday, as forecasts for colder temperatures in distillate-hungry Northeastern markets raised supply concerns.</p>
+<p>&quot;The cold weather forecasts are helping right now,&quot; a trader said.</p>
+<p>Earlier, NYMEX crude ended daytime trade 78 cents higher at $25.58 a barrel, following breakthroughs of key technical levels and reports of tighter supplies.</p>
+<p>Front-month heating oil firmed 0.09 cents a gallon to 75.20 cents as roughly 100 lots changed hands within the first few hours of ACCESS. About 112 lots were exchanged overall, traders said.</p>
+<p>NYMEX gasoline for January delivery climbed 0.12 cents a gallon to 69.80 cents as a light 33 lots traded in the nearby month and 35 moved overall.</p>
+<p>January crude was barely changed from its settlement, edging up one cent to $25.66 a barrel. About 350 lots were traded for January and 870 in all months.</p>
+<p>-- David Brinkerhoff, Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

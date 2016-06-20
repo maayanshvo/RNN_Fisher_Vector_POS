@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239759" id="root" date="1996-12-06" xml:lang="en">
+<title>NICARAGUA: Chamorro seeks ruling on Nicaragua political spat.</title>
+<headline>Chamorro seeks ruling on Nicaragua political spat.</headline>
+<dateline>MANAGUA 1996-12-06</dateline>
+<text>
+<p>Nicaraguan President Violeta Chamorro said on Friday she has asked the Supreme Court to intervene in a dispute in the National Assembly that led to a legislative crisis.</p>
+<p>&quot;I decided to go to the Supreme Court ...to ask for its intervention to clear up this confusing situation and re-establish the institutional order that this country needs so badly,&quot; Chamorro said over state radio from El Salvador. She was on her way to a sustainable development summit in Bolivia.</p>
+<p>The squabble between two rival factions in the National Assembly has cast doubts over the legality of dozens of laws passed over the past two weeks and led to the formation of two rival boards of directors to run the legislative body.</p>
+<p>On one side is a group of outgoing legislators who lost their seats in Nicaragua's Oct. 20 elections, allied with the powerful left-wing Sandinista bench. They are opposing a group of returning deputies allied with President-elect Arnoldo Aleman's right-wing Liberal Alliance.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAGUA"/>
+<dc element="dc.creator.location.country.name" value="NICARAGUA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

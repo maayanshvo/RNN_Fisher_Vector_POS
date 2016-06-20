@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239292" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Canada economic indicators survey Dec 9 - Dec 13.</title>
+<headline>Canada economic indicators survey Dec 9 - Dec 13.</headline>
+<text>
+<p>DATE   EST/GMT    INDICATOR	   PERIOD  AVG-FCAST  PREV</p>
+<p>12/09 0815/1315  Hsg strts (annual)  NOV    127,175  118,000</p>
+<p>12/09 0830/1330  New hsg PI	    OCT     +0.1    -2.0 pct</p>
+<p>12/12 0830/1330  New Mtr Veh sls     OCT     +7.5    +1.1 pct</p>
+<p>Bank		HSG STARTS(ANNUALIZED)  NEW HSG PI</p>
+<p>NESBITT BURNS	130,000		    +0.1 pct</p>
+<p>LEHMAN		 126,700		    +0.1 pct</p>
+<p>MONTREAL	     130,000			 N/A</p>
+<p>TECHNICAL DATA     122,000		    +0.1 pct</p>
+<p>Bank		NEW MTR VEH SALES</p>
+<p>NESBITT BURNS	+8.0 pct</p>
+<p>LEHMAN		 +8.3 pct</p>
+<p>MONTREAL	     +7.5 pct</p>
+<p>TECHNICAL DATA     +6.0 pct</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

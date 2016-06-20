@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241389" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan PM says seeks separate bank regulatory body.</title>
+<headline>Japan PM says seeks separate bank regulatory body.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Japan's Prime Minister Ryutaro Hashimoto on Friday reiterated his view that the functions of inspecting and supervising financial institutions should be separated from the Finance Ministry.</p>
+<p>&quot;I don't think the new body would belong to the Finance Ministry,&quot; Hashimoto told the key budget committee of the Lower House of parliament.</p>
+<p>He added that he expected his Liberal Democratic Party (LDP) and two other parties forming a loose alliance with it, to decide to let the new body supervise all financial institutions, which would include not only banks but also agricultural financial institutions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

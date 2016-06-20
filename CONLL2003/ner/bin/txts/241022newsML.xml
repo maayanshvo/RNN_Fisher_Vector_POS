@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241022" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. stocks fall after Greenspan spooks markets.</title>
+<headline>U.S. stocks fall after Greenspan spooks markets.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S. stocks fell early on Friday after Federal Reserve Chairman Alan Greenspan's warning of &quot;irrational exuberance&quot; in asset markets worried investors and caused a sell-off at stock exchanges around the world.</p>
+<p>The Dow Jones industrial average fell 59.63 points to 6,377.47 in the first few minutes of trading. In the broader market, declining issues swamped advances on the New York Stock Exchange, and the Nasdaq composite index tumbled 35.06 points to 1,265.06.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

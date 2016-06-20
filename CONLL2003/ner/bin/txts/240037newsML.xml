@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240037" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. Spring/White Wheat - MGE gains push bids up.</title>
+<headline>U.S. Spring/White Wheat - MGE gains push bids up.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Dark northern spring wheat bids were mostly higher Friday, with some of the market's strength stemming from gains at the Minneapolis Grain Exchange, dealers said.</p>
+<p>March wheat on the MGE closed up 3-3/4 cent per bushel at $3.81-1/2, and May closed up 4-1/4 at $3.63-3/4 per bushel.</p>
+<p>Farmer selling was described as moderate by many merchandisers.</p>
+<p>&quot;We bought some wheat today (Friday)&quot; one Montana dealer said. &quot;People (farmers) are going to keep selling these rallies.</p>
+<p>Producers needing money ahead of the new year were are also expected to be featured sellers through the end of December, dealers said.  </p>
+<p>Price per bushel for 14-pct protein dark northern spring, durum and white wheats, in dollars per bushel:</p>
+<p>		    Spring    Chg   Durum(m) Chg   White  Chg</p>
+<p>MINNESOTA</p>
+<p> Minneapolis	4.57    unc    5.70    up .10    --    --</p>
+<p> Duluth	     4.57    unc    ---     ---	 --    --</p>
+<p>NORTH DAKOTA</p>
+<p>Hunter</p>
+<p> (Red River)	3.82   up .04  5.90    dn .10    --    --</p>
+<p>		    Spring   Chg   HRW 12pct Chg   White  Chg</p>
+<p> Billings MT	4.16   unc    4.12   up .05  ---    ---</p>
+<p> Havre MT	   4.06   up .02  ---    ---    ---    ---</p>
+<p> Rudyard MT	 4.08   up .02  ---    ---    ---    ---</p>
+<p> Wolf Point MT    3.91   up .03  ---    ---    ---    ---</p>
+<p> Portland OR	5.17   up .01		   4.1000 up .10</p>
+<p> Pendleton OR     ---		---     ---  3.6100 up .03</p>
+<p> Coolee City WA   4.63   up .02	    ---  3.6300 up .07</p>
+<p> Waterville WA    4.55   up .02  ---     ---  3.5500 up .07</p>
+<p> Wenatchee WA     4.65   up .02  ---     ---  3.6500 up .07</p>
+<p>note: nc=no comparison, unq=unquoted</p>
+<p>((Chicago bureau 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+Manitoba Pork forward contract AM prices - Dec 6.
+
+WINNIPEG 1996-12-06
+
+Manitoba Pork opening forward contract prices in Canadian dollars per hundred lbs (Cwt) for Dec 6 including minimum guaranteed price --
+
+CONTRACT  PREVIOUS     OPEN AM  OPEN AM   OPENING RANGE
+
+ DATE     PM CLOSE     FIXED    MINIMUM    AT 0930 CST
+
+Feb  97   79.94	  79.62     75.65     77.03-81.83
+
+Mar  97   76.37	  75.82     71.88     73.25-78.02
+
+Apr  97   74.13	  74.40     70.45     71.82-76.54
+
+May  97   76.51	  76.78     72.84     74.21-78.97
+
+Jun  97   77.53	  77.01     73.09     74.45-79.18
+
+Jul  97   74.45	  73.78     69.86     71.22-75.95
+
+Aug  97   72.41	  71.84     67.92     69.28-74.01
+
+Sep  97   69.18	  69.00     65.08     66.44-71.18
+
+Oct  97   68.00	  67.82     63.90     65.26-69.99
+
+Nov  97   68.00	  67.82     63.90     65.26-69.99
+
+Note: Manitoba Government Price Index (C$ per cwt) -
+
+    Dec 4	  87.16
+
+Manitoba's Hog Price Range:  84.00-86.00 per cwt
+
+CAN/U.S. DOLLAR EXCHANGE RATE: 1.3570
+
+Source: Manitoba Pork.
+
+((Winnipeg bureau 204 947 3548))
+

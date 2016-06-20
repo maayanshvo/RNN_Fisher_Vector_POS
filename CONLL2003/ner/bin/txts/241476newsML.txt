@@ -1,0 +1,46 @@
+Table of Greek mutual fund flows, assets.
+
+ATHENS 1996-12-06
+
+Ionian Bank reported the following daily and year-to-date changes in the volume of Greek mutual fund outstanding shares, net assets and net share prices.
+
+					 Dec 5/Dec 4	Dec 5/Dec 31,95
+
+						 (%)		  (%)
+
+NET SHARE PRICES*
+
+  Total market			   -0.01		11.73
+
+  Fixed income mutual funds	   0.03		12.83
+
+  International funds		  -0.06		 8.18
+
+  Growth Funds			   -0.54		-3.51
+
+* Prices include distributed dividends
+
+VOLUME OF SHARES
+
+  Total market			   -0.37		39.40
+
+  Fixed income mutual funds	  -0.39		45.20
+
+  International funds		  -0.25	     -25.04
+
+  Growth funds			   -0.04		-7.47
+
+NET ASSETS
+
+  Total market			   -0.37		54.21
+
+  Fixed income mutual funds	  -0.36		61.62
+
+  International funds		  -0.29	     -20.36
+
+  Growth funds			   -0.59	     -11.57
+
+All calculations are based on a performance index of mutual funds whose base was set to be equal to 100 on December 31, 1991.
+
+--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4
+

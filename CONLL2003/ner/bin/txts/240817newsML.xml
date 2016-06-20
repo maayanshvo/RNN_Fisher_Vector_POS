@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240817" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESS DIGEST - New York Times page one - Dec 6.</title>
+<headline>PRESS DIGEST - New York Times page one - Dec 6.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The New York Times reported the following stories on its front page Friday: - President Clinton announced his selection of Madeleine Albright to be secretary of state and Republican William Cohen, who is retiring from the Senate, to be secretary of defense.</p>
+<p>- Facing demonstrations protesting the annulment of local elections won by his opposition, Serb President Slobodan Milosevic made several concessions, and there were hints that he may reconsider the elections decision.</p>
+<p>- Japanese and European auto makers have come roaring back in the United States this autumn, by cutting prices and increasing rebates.</p>
+<p>- A confidential report on June's Saudi base bombing that killed 19 American troops is due in the hands of top officials this week. The report will contribute to determining the fate of Brig. Gen. Terryl Schwalier, who commanded the Air Force fighters enforcing the no-flight zone over southern Iraq.</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

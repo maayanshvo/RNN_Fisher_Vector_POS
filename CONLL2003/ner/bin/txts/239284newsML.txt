@@ -1,0 +1,44 @@
+Bank of Canada monetary index to Dec 4. [CORRECTED 19:03 GMT]
+
+OTTAWA 1996-12-06
+
+The Bank of Canada released its monetary conditions index:
+
+		    3-month paper	Cdn dollar	Index
+
+Dec 4		  2.99		 84.64	 -5.74
+
+(Corrects Dec 4 index from -5.47)
+
+Nov 27		 2.92		 84.79	 -5.74
+
+Nov 20		 3.01		 84.85	 -5.63
+
+Nov 13		 3.05		 85.49	 -5.34
+
+Nov 6		  3.06		 85.88	 -5.18
+
+Oct 30		 3.30		 85.18	 -5.21
+
+Oct 23		 3.33		 85.07	 -5.23
+
+Oct 16		 3.55		 84.38	 -5.28
+
+Oct 9		  3.59		 84.39	 -5.23
+
+Oct 2		  3.84		 83.95	 -5.16
+
+Sept 25		4.01		 83.55	 -5.15
+
+Sept 18		4.06		 83.18	 -5.24
+
+Sept 11		4.09		 83.25	 -5.18
+
+Sept 4		 4.17		 83.18	 -5.14
+
+Aug 28		 4.15		 83.37	 -5.08
+
+NOTE - The index measures the 3-month prime corporate paper rate and the Canadian dollar index against G-10 currencies. Index base is January 1987.
+
+-- Reuters Ottawa Bureau (613) 235-6745
+

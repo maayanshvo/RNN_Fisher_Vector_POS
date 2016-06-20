@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241451" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: French non-farm payrolls fall final 0.1 pct in Q3.</title>
+<headline>French non-farm payrolls fall final 0.1 pct in Q3.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French national statistics institute INSEE gave the following revised seasonally adjusted payrolls data, in millions unless stated.</p>
+<p>				 Sept 96    Q3 change   96/95 chg</p>
+<p>						(pct)	 (pct)</p>
+<p> Non-farm market total    14.64	 -0.1     -0.2</p>
+<p> Industry excl building    4.09	 -0.4     -1.7</p>
+<p> Industry incl building    5.21	 -0.6     -2.3</p>
+<p> Building, civil works     1.12	 -1.4     -4.8</p>
+<p> Services			8.12	  0.2	1.4</p>
+<p>-- Paris Newsroom +33 1 42 21 53 81</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

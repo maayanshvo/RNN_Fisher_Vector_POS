@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240879" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: French Oct M3 money supply falls one percent.</title>
+<headline>French Oct M3 money supply falls one percent.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>The Bank of France gave the following money supply figures (the year-on-year change is expressed as an average centred on the previous month)</p>
+<p> Money measure  Billions   Monthly change    12-month change</p>
+<p>(end-Oct)	(unadj)	(adjusted)	    Sep	 Aug</p>
+<p>    M1	    1,641.6	 -2.0		  5.8	 5.4</p>
+<p>    M2	    3,128.7	 -0.4		  7.5	 7.4</p>
+<p>    M3	    5,255.0	 -1.0		 -0.4	-0.2</p>
+<p>    M4	    5,341.5	 -1.1		 -0.2	 0.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

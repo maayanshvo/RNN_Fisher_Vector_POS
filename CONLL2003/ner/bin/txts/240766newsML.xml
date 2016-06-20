@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240766" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BALANCE - San Francisco utilities at $32.5 mln.</title>
+<headline>BALANCE - San Francisco utilities at $32.5 mln.</headline>
+<text>
+<p>CITY AND COUNTY OF SAN FRANCISCO, CALIFORNIA</p>
+<p>RE: $131,470,000</p>
+<p>PUBLIC UTILITIES COMMISION</p>
+<p>SAN FRANCISCO WATER REVENUE BONDS</p>
+<p>1996 SERIES A</p>
+<p>    MOODY'S: Aa		    S&amp;P: AA-</p>
+<p>Delivery Date: 12/19/1996 Expected</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>11/01/2008	   4,450M    5.50	  4.90</p>
+<p>11/01/2009	   4,910M    5.00	100.00</p>
+<p>11/01/2010	   5,480M    5.00	  5.10</p>
+<p>11/01/2011	   5,255M    5.00	  5.15</p>
+<p>11/01/2012	   6,050M    5.00	  5.20</p>
+<p>11/01/2013	   6,350M    5.00	  5.25</p>
+<p>  Total:	    32,495M</p>
+<p>J.P. Morgan Securities Inc.</p>
+<p>Bear, Stearns &amp; Co. Inc.</p>
+<p>Dillon, Read &amp; Co. Inc.</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>Morgan Stanley &amp; Co. Incorporated</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

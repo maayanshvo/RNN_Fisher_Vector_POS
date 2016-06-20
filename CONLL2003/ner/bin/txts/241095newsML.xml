@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241095" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Eurotunnel says fire might have stopped train.</title>
+<headline>Eurotunnel says fire might have stopped train.</headline>
+<dateline>LONDON 1996-12-05</dateline>
+<text>
+<p>Intense heat from the fire on a Channel Tunnel freight train last month could have caused an electrical fault which stopped the train, a Eurotunnel spokesman said on Thursday.</p>
+<p>After the blaze on November 18, which injured 34 people and severely damaged a section of the undersea passage, there was concern that the train had come to a halt in the tunnel despite drivers' instructions to keep moving in the event of fire.</p>
+<p>Eurotunnel spokesman John Noulton responded to claims by an engineering expert that in the event of a fire, electricity could arc between overhead power lines and earthing cables.</p>
+<p>&quot;The temperature seems to have been high enough and there was dense smoke,&quot; Noulton told Britain's Channel Four television news. &quot;All the ingredients for ionisation were there. It's possible.&quot;</p>
+<p>One of Eurotunnel's safety procedures in the event of a blaze is that trains should continue through the tunnel and out into the open where passengers can be more easily evacuated and flames tackled more quickly.</p>
+<p>But during the fire, the train came to a halt a third of the way into the 51-km (32-mile) northbound tunnel. Several passengers suffered from smoke inhalation.</p>
+<p>Freight traffic resumed a few days after the fire but shuttles of the type on which the fire occured will only resume after a French investigation of the accident is over.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

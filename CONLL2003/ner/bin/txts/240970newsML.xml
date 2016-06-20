@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240970" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: German Jan-August coffee imports detailed.</title>
+<headline>German Jan-August coffee imports detailed.</headline>
+<dateline>HAMBURG 1996-12-06</dateline>
+<text>
+<p>German net green coffee imports from outside the EU totalled 7.73 million bags in January-August compared with 7.66 million in the year-ago period, the DKV coffee association said.</p>
+<p>Imports of 1.04 million bags in August were down from 1.08 million in August 1995 but up from 992,860 bags in July 1996.</p>
+<p>Colombia shipped 198,226 bags in August after 164,185 in July, El Salvador 160,553 (129,184), Indonesia 72,218 (78,959), Ethiopia 69,252 (60,456) and Kenya 63,969 (60,043).</p>
+<p>Brazil was in seventh position with 54,333 bags (29,055).</p>
+<p>--Hamburg newsroom +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100137">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAMBURG"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

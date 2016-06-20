@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239328" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Jennifer Convertibles Inc Q4 loss narrows.</title>
+<headline>Jennifer Convertibles Inc Q4 loss narrows.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr loss	  $0.09	     loss $1.29</p>
+<p> Net  loss	 506		 loss 7,374</p>
+<p> Net sales	 27,190		   29,728</p>
+<p> Avg shrs	  5,701		    5,701</p>
+<p>	  12 MONTHS</p>
+<p> Shr loss	  1.06		loss 2.12</p>
+<p> Net loss	  6,023	     loss 12,068</p>
+<p> Net sales	 106,041		  126,074</p>
+<p> Avg shrs	  5,701		    5,701</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: The company said that the reduction in loss on lower sales volume from the year-ago period was due, in part, to the initial impact of the store-closing and consolidation program, as well as other ongoing actions aimed at reducing costs and improving margins.</p>
+<p>---New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

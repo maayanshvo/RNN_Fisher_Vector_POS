@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241617" id="root" date="1996-12-07" xml:lang="en">
+<title>NETHERLANDS: SOCCER-DUTCH FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-DUTCH FIRST DIVISION SUMMARIES.</headline>
+<dateline>AMSTERDAM 1996-12-07</dateline>
+<text>
+<p>Summaries of Dutch first</p>
+<p>division matches on Saturday:</p>
+<p>PSV Eindhoven 6 (Marcelo 7, 38, Nilis 49, Petrovic 58, 69,</p>
+<p>Vampeta 73) Volendam 0. Halftime 2-0. Attendance 27,300.</p>
+<p>Heerenveen 2 (Tobiassen 35, Hansma 45) Fortuna Sittard 2 (Dirkx</p>
+<p>47, Van der Weert 56). 2-0. 13,200.</p>
+<p>Roda JC Kerkrade 2 (Sibon 27, Vurens 65) Groningen 0. 1-0.</p>
+<p>6,300.</p>
+<p>Played on Friday:</p>
+<p>RKC Waalwijk 1 (Starbuck 76) Willem II Tilburg 2 (Konterman 45,</p>
+<p>Van der Vegt 77). 0-1. 5,300.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

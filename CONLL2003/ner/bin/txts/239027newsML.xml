@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239027" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Chairman of French perfume firm Cacharel jailed.</title>
+<headline>Chairman of French perfume firm Cacharel jailed.</headline>
+<dateline>MARSEILLE, France 1996-12-06</dateline>
+<text>
+<p>The chairman of perfume firm Cacharel, Jean Bousquet, was sentenced on Friday to a year in jail for fraud when he was mayor of the southern French city of Nimes.</p>
+<p>Bousquet, a member of the centrist Union for French Democracy, was Nimes mayor from 1983 to 1995 and is a member of the French National Assembly.</p>
+<p>He was also given a suspended 18-month prison sentence, banned from public office for five years, fined 300,000 francs ($57,700) and ordered to turn over another 636,000 francs ($122,300) to Nimes.</p>
+<p>Bousquet was accused of using city funds for his personal residences. His attorney Jean-Marc Varaut said he would appeal against the conviction.</p>
+<p>Cacharel is a unit of French cosmetics company L'Oreal</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARSEILLE, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

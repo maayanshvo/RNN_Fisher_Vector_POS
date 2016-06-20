@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240127" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: US spot prods remain lower amid bearish Iraq news.</title>
+<headline>US spot prods remain lower amid bearish Iraq news.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S refined oil product prices remained lower Friday afternoon as NYMEX futures traders continued to digest bearish news on apparently imminent Iraqi oil sales and the end of French oil strikes.</p>
+<p>Spot traders said the news had given buyers serious pause before doing deals, and noted gasoline differentials were sinking. They added the reports took any bearishness out of news of refinery problems on the U.S. Gulf Coast's &quot;Refinery Row.&quot;</p>
+<p>Gasoline prices were off by 0.80 cent to nearly two cents a gallon, while distillate prices were about 0.80 cent lower with the NYMEX doing most, if not all of, the bearish work.</p>
+<p>On the gasoline front, diffs weakened the most dramatically on the U.S. Gulf Coast, where prompt &quot;M4&quot; conventional gasoline was talked 1.25 cents weaker at between 5.25 and 5.00 cents under January NYMEX.</p>
+<p>In New York Harbor, prompt &quot;A5&quot; winter-grade regular 87-octane reformulated gasoline (RFG) was heard offered at 0.90 cent over the screen -- which would mean diffs had weakened by over 2.00 cents, though traders were quick to note that bids were scarce which made the significance of the lower offers difficult to gauge.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

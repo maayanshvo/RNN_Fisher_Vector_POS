@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241324" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: China's steel firm to launch 400 mln A shares.</title>
+<headline>China's steel firm to launch 400 mln A shares.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Benggang Steel Sheet (Group) Co Ltd has filed an application with the China Securities Regulatory Commission to offer 400 million A shares and list them in Shenzhen, a company official said on Friday.</p>
+<p>Benggang, based in the city of Bengxi in northeastern Liaoning province, makes steel products for a number of China's major automobile makers, the official told the Hong Kong-based China Securities Bulletin newsletter.</p>
+<p>The initial public offering (IPO) would be launched in 1997 and a lead underwriter for the offer was currently being selected, he added.</p>
+<p>If the issue goes through, the firm planned to use the money to improve its production technology, the official said.</p>
+<p>The firm's total share capital and results over the past few years would not be released to the public until its restructuring into a joint-stock entity, currently underway, is completed, he said.</p>
+<p>China's giant Bengxi Steel and Iron (Group) Co Ltd, a state-owned enterprise, would be Benggang's biggest shareholder, the official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

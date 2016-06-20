@@ -1,0 +1,36 @@
+OPTIONS - US debt volatilities steady after data.
+
+CHICAGO 1996-12-06
+
+Implied volatilities for U.S. debt options were mostly steady, despite gyrations in bond and stock markets after overnight remarks by Federal Reserve Chairman Alan Greenspan, dealers said.
+
+Late Thursday, Greenspan said the Fed must be wary when "irrational exuberance" infected U.S. asset markets, sending stock and bond markets into a tailspin.
+
+But debt implied volatilities were tempered, after some initial gains, by a weaker than expected November U.S. employment report, with weekend time-decay concerns also eating into premiums, traders said.  
+
+"Had those payrolls numbers come out higher, we'd still be rocking and rolling right now," said a Eurodollar options trader at a brokerage firm. "(But) as soon as the payrolls numbers came out, the market quieted down considerably."
+
+November non-farm payrolls grew by 118,000, compared with economists' average forecast af a 179,000 rise and October's revised 224,000 gain.
+
+March Eurodollar futures were off 0.01 point on the day after dipping as low as 94.36 in GLOBEX after-hours trade. March Treasury bond futures, which had fallen to 112-8/32 overnight, returned toward Thursday's settlement of 114-3/32.  
+
+Greenspan spoke again in Philadelphia Friday but declined to comment on market reaction to his Thursday night speech.
+
+A Treasury bond trader at a brokerage firm said damage to the market was considerable from a technical point of view, and that the near-term direction was "up in the air".
+
+Implied volatility for March T-bond futures options was virtually unchanged at 10.0 percent. One firm was said to have bought 5,000 lots of March 112 puts covered against futures.
+
+Volatility for March 10-year note futures options stood at 6.4 percent, buoyed slightly early by a 10,000 contract purchase of March 110 straddles by a Japanese house.  
+
+"What we're not seeing is a big sell-off in volatility that has followed most of the employment numbers for the last few months," he noted. "Maybe we're seeing a break in pattern."
+
+((Chicago Derivatives Desk 312-408-8750))
+
+((E-mail: derivatives@reuters.com))  
+
+The shorter end of the curve was mixed, with implied volatilities for March and June Eurodollar futures options rising 0.1 and 0.2 point respectively to around 10.3 and 14.3 percent, while most of the back months were flat to off 0.1 point.
+
+"The front end, which has been the cheapest on a volatility basis for the last two to three weeks, is catching a little bit of a bid," the brokerage Eurodollar trader said.
+
+He said he could not tell if that implied the futures market was looking for further corrective slides in the near term.
+

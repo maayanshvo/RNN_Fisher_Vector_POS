@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241613" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: SOCCER-LEADING FRENCH LEAGUE SCORERS.</title>
+<headline>SOCCER-LEADING FRENCH LEAGUE SCORERS.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>Leading scorers in the French first</p>
+<p>division after Saturday's matches:</p>
+<p>14 - Japhet N'Doram (Nantes), Stephane Guivarch (Rennes),</p>
+<p>David Zitelli (Strasbourg)</p>
+<p>11 - Alain Caveglia (Lyon), Anton Drobnjak (Bastia)</p>
+<p>10 - Miladin Becanovic (Lille)</p>
+<p>9 - Anderson (Monaco)</p>
+<p>8 - Jean-Pierre Papin (Bordeaux), Thierry Henry (Monaco),</p>
+<p>Julio-Cesar Dely-Valdes (Paris-SG)</p>
+<p>7 - Victor Ikpeba (Monaco), Jocelyn Gourvennec (Nantes),</p>
+<p>Leonardo (Paris-SG)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MONAC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

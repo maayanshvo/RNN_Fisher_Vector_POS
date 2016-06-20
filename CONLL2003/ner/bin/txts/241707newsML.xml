@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241707" id="root" date="1996-12-07" xml:lang="en">
+<title>EL SALVADOR: Grenade attack kills two children in El Salvador.</title>
+<headline>Grenade attack kills two children in El Salvador.</headline>
+<dateline>SAN SALVADOR, El Salvador 1996-12-07</dateline>
+<text>
+<p>Two children were killed and another injured early on Saturday when unknown assailants detonated a grenade in northern El Salvador, Red Cross officials said.</p>
+<p>Iris Alvarenga, 11, and Elmer Flores, nine, were killed after a fragmentation grenade exploded near them in the town of La Palma, some 50 miles (80 km) of the capital San Salvador.</p>
+<p>An 11-year-old girl, Celia Villeda, and four others were injured in the blast, according to a Red Cross spokesman in San Salvador.</p>
+<p>Alvarenga and Flores were standing next to an unidentified woman who was washing police uniforms near a river and may have been the target of the attack, the Red Cross official said. The woman was unharmed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ELSAL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN SALVADOR, El Salvador"/>
+<dc element="dc.creator.location.country.name" value="EL SALVADOR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239232" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Electronic Data bags flight data contract.</title>
+<headline>Electronic Data bags flight data contract.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Information technology firm Electronic Data Systems said on Friday it had bagged a contract for the first air traffic control project being funded under the Private Finance Initiative.</p>
+<p>In a statement, EDS said the contract would be in the region of 50 million stg.</p>
+<p>The contract involved upgrading the flight data processing system at the Oceanic Control Centre in Prestwick in south west Scotland for National Air Traffic Services Ltd (NATS), subsidiary of the Civil Aviation Authority.</p>
+<p>The system is responsible for the control of aircraft flying transatlantic routes from Europe and North America.</p>
+<p>The system, which would use satellite technology, is scheduled to enter service in 2000.</p>
+<p>--London Newsroom +44-171-542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

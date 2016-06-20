@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240302" id="root" date="1996-12-06" xml:lang="en">
+<title>ITALY: Italy's Stet MD to quit after sell-off.</title>
+<headline>Italy's Stet MD to quit after sell-off.</headline>
+<dateline>ROME 1996-12-06</dateline>
+<text>
+<p>Ernesto Pascale, managing director of Italian state telecommunications holding Stet, said he was ready to leave the company once it had been privatised, a magazine reported.</p>
+<p>Pascale, in an interview with weekly Il Mondo released ahead of publication on Saturday, said he hoped privatisation would take place swiftly.</p>
+<p>&quot;As far as I'm concerned, with privatisation I can't do anything but say thank you and go. I take that for granted. Saying that, I add that I would like to see privatisation immediately,&quot; Pascale was quoted as saying.</p>
+<p>Stet's privatisation has been repeatedly delayed. The group is now due to be sold off late in 1997 once it has merged with its operating arm Telecom Italia, a process which is expected to take around six months.</p>
+<p>--Milan bureau +392 66129507</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROME"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

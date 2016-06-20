@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240491" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Nord Pacific gets Simberi mine license.</title>
+<headline>Nord Pacific gets Simberi mine license.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Nord Pacific Ltd said Friday the Government of Papua New Guinea granted its Simberi Gold Co subsidiary a lease to develop and operate a gold mine on Simberi Island in the Tabar Islands Group.</p>
+<p>Construction is planned to begin in 1997 with initial gold production expected in early 1998, Nord said.</p>
+<p>The mine is planned to produce 40,000 ounces of gold per year from open pit mining of near-surface oxide deposits. Operating costs are projected to be $210 per ounce of gold produced, and capital development costs are estimated to be about $20 million, the company said.  </p>
+<p>Reserves are sufficient for an initial five years of production, but it is anticipated that mine life will be extended as additional drilling expands the oxide reserve and resource base, currently 440,000 ounces.</p>
+<p>&quot;This is the first step in the development of what could become a very significant gold operation on Simberi Island,&quot; Nord said.</p>
+<p>&quot;In 1997, our exploration programs will focus on sulfide gold deposits which underlie the near-surface oxide deposits. A limited amount of deeper drilling in the 1980's intersected high grade sulfide gold mineralization, and we expect that eventually this deeper mineralization could turn out to contain the bulk of the gold on Simberi Island,&quot; it said.</p>
+<p>--New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

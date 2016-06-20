@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239341" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Food Lion judge delays ruling on damages.</title>
+<headline>Food Lion judge delays ruling on damages.</headline>
+<dateline>GREENSBORO, N.C. 1996-12-06</dateline>
+<text>
+<p>A federal judge hearing pretrial motions in Food Lion Inc.'s lawsuit against the ABC television network recessed court on Friday without ruling on whether the grocery chain could claim damages.</p>
+<p>Food Lion filed a lawsuit against ABC in 1992 after the network aired a &quot;PrimeTime Live&quot; show that charged the chain handled meat and fish in an unsanitary and deceptive way.</p>
+<p>U.S. District Judge Carlton Tilley told lawyers in the case he was not ready to rule and did indicate when he would do so. The trial, due to begin on Monday, will be split into a liability phase and a damages phase, the judge added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I97100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GREENSBORO, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

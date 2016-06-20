@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240568" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: ADR REPORT - ADRs plunge in New York trade.</title>
+<headline>ADR REPORT - ADRs plunge in New York trade.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Foreign shares plunged in New York on Friday following anti-inflation comments by Federal Reserve Chairman Alan Greenspan.</p>
+<p>&quot;It was just panic. That's the word -- panic,&quot; said one trader in American Depositary Receipts (ADRs).</p>
+<p>He added, &quot;Just pick a stock. Everything is down three, four, five percent.&quot;</p>
+<p>Decliners swamped advancers 10 to one in an index of 807 ADRs. Volume was a strong 32.7 million shares in late morning.  </p>
+<p>Greenspan warned late on Thursday that the U.S. central bank had to beware of &quot;irrational exuberance&quot; in stock and asset markets. New York markets plummeted on the comments.</p>
+<p>Among major European stocks, Royal Dutch Petroleum Co was off 2-1/4 to 164-1/2 and Unilever NV fell 3-3/8 to 166.</p>
+<p>Brazilian telephone company Telebras dropped 2-1/8 to 76-5/8 after a strong rise in recent days and ahead of mid-December's options and futures settlements.  </p>
+<p>Canadian oil company Arakis Energy Corp was the volume leader among ADRs. Its shares fell 3/16 to 5-3/8 with 2.7 million shares traded.</p>
+<p>-- Ian Simpson, Wall Street desk, (212) 859-1879</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

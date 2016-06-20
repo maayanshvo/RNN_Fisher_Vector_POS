@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241737" id="root" date="1996-12-07" xml:lang="en">
+<title>JAPAN: USTR's Barshefsky welcomes Japan insurance plan.</title>
+<headline>USTR's Barshefsky welcomes Japan insurance plan.</headline>
+<dateline>TOKYO 1996-12-07</dateline>
+<text>
+<p>The United States welcomed Japan's proposals to deregulate the primary sector of its insurance market, acting U.S. Trade Representative Charlene Barshefsky said on Saturday.</p>
+<p>&quot;We will study the proposals further and we welcome the fact that these proposals have at last been made,&quot; Barshefsky told a news conference at the U.S. embassy in Tokyo.</p>
+<p>&quot;The proposals are sufficiently interesting to us that (USTR) Ambassador (Ira) Shapiro will remain in Tokyo to discuss them further,&quot; she said.</p>
+<p>Barshefsky and Japanese Finance Minister Hiroshi Mitsuzuka earlier wrapped up two days of talks aimed a resolving a longstanding dispute over opening Japan's huge insurance market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

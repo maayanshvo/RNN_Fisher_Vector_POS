@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241241" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Kobe rubber futures mostly down in after-hours.</title>
+<headline>Kobe rubber futures mostly down in after-hours.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Kobe rubber futures were mostly weaker in extremely thin after-hours trade on Friday on scattered technical selling ahead of the weekend, traders said.</p>
+<p>Prices ranged from 0.8 yen per kg lower to steady from the day's close. Benchmark May was down 0.5 yen at 141.8 yen.</p>
+<p>During the day, prices were a tad firmer, backed by lower rubber stocks at the end of November, they said.</p>
+<p>&quot;Prices turned lower in after-hours trade. The impact of the stock falls was short-lived as that had already been factored into the market,&quot; an analyst at a commodity broker said. -- Tokyo Commodities Desk +81-3-3432-7431</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

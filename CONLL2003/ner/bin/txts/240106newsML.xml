@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240106" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: US Midwest hog prices seen steady-off $0.50-trade.</title>
+<headline>US Midwest hog prices seen steady-off $0.50-trade.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>U.S. Midwest direct cash hog prices for Monday were seen steady to $0.50 per cwt lower, pressured by ongoing weak pork prices, dealers said.</p>
+<p>Pork prices were pressured by increased production following last week's holiday-shortened slaughter schedule.</p>
+<p>Top prices for hogs delivered to the plant in Iowa and southern Minnesota could range $57.00-$57.50, they said.</p>
+<p>Illinois top prices for hogs at the plant could range $56.50 to $57.00 and Indiana/Ohio top plant prices for hogs could range from $56.00 to $56.50, the dealers said.  </p>
+<p>USDA estimated hog slaughter for the week to date at 1.810 million head, up 17.0 percent from last week, but down 5.4 percent from a year ago.</p>
+<p>Fresh loin prices at midday were quoted mostly $4.00 per cwt lower, hams were $2.00 lower, bellies mostly $2.00 to $3.00 lower and lean trimmings $3.00 lower, USDA said.</p>
+<p>Pork trading was slow to moderate and demand light against moderate offerings, USDA said. There were 38.5 loads of pork and 9.0 loads of pork trimmings sold.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240720" id="root" date="1996-12-06" xml:lang="en">
+<title>TUNISIA: Tunis bourse closes down in active trade.</title>
+<headline>Tunis bourse closes down in active trade.</headline>
+<dateline>TUNIS 1996-12-06</dateline>
+<text>
+<p>The Tunis Stock Exchange index on Friday closed down 0.55 percent in active trade, bourse sources said.</p>
+<p>The market's 30-share index closed at 593.11 from 596.38 on Thursday.</p>
+<p>Trade volume was 5.98 million dinars against 6.30 million dinars.</p>
+<p>Banque Nationale Agricole bank was unchanged at 30.99 dinars with 152,621 shares changing hands.</p>
+<p>Retail stores Monoprix  was down one dinar to 35.1 dinar. Household firm AMS eased 0.81 dinar to 26.34 dinars.</p>
+<p>No trade was reported on BIAT bank for its first day on the computerised dealing system where it joined eight other listed firms, while the remainder are still traded on the board.</p>
+<p>($ = one dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240229" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: MoDo open on fate of sulphite mill unit.</title>
+<headline>MoDo open on fate of sulphite mill unit.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish forestry group MoDo's managing director Bengt Pettersson said on Friday he was open about the future of the Domsjo sulphite mill, saying he would not rule out closing or selling the plant.</p>
+<p>&quot;I do not want to rule anything out, a closing, continued operation or a sale...It depends on how things go in Domsjo, what you can develop and what you can't,&quot; Pettersson told Reuters.</p>
+<p>He said that there had been no bids for Domsjo following an earlier decision to close it down.</p>
+<p>&quot;We have not made any attempts to sell it and I have not heard of any buyers,&quot; he said.</p>
+<p>In the spring MoDo planned to apply for a permit to increase pulp production but said the terms of the application had not yet been decided.</p>
+<p>-- Joel Dahlberg, Stockholm newsroom +46-8-700 1011</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

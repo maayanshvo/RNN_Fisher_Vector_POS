@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239035" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: ALPINE SKIING-WOMEN'S DOWNHILL POSTPONED.</title>
+<headline>ALPINE SKIING-WOMEN'S DOWNHILL POSTPONED.</headline>
+<dateline>VAIL, Colorado 1996-12-06</dateline>
+<text>
+<p>Heavy snowfall forced postponement of a women's World Cup downhill on Friday.</p>
+<p>The race is reset for Saturday, when it will be run immediately prior to the World Cup women's super-G originally scheduled for that day.</p>
+<p>The move is not unprecedented for Vail World Cup events. Under similar circumstances, the resort held two women's super-G events on the same day in 1987.</p>
+<p>With 17 inches (43 cms) of fresh snow on the course and no indication of let up, officials made the decision just prior to the scheduled start of the downhill.</p>
+<p>Saturday's downhill is now scheduled to begin at 9:30 a.m. (1630 gmt) and the super-G at 1:30 p.m. (2030 gmt).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VAIL, Colorado"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

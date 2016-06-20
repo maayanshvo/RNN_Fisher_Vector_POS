@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239607" id="root" date="1996-12-06" xml:lang="en">
+<title>SLOVAKIA: Skinheads attack Bratislava Rabbi - police.</title>
+<headline>Skinheads attack Bratislava Rabbi - police.</headline>
+<dateline>BRATISLAVA 1996-12-06</dateline>
+<text>
+<p>Four skinheads attacked and insulted the rabbi of Bratislava, Baruch Meyers, in the city centre on Friday, but he escaped unharmed, a police spokesman told Reuters.</p>
+<p>&quot;A group of four skinheads attacked the rabbi, one kicked him in the hand but caused no injury,&quot; the spokesman said.</p>
+<p>&quot;All four attackers were apprehended and two have been detained,&quot; the spokesman added</p>
+<p>He was unable to give more details.</p>
+<p>&quot;The further procedure is now in the hands of the local police investigator,&quot; the spokesman said.</p>
+<p>It was the second attack by skinheads in two years on Meyers, an American. Meyers was not available for comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

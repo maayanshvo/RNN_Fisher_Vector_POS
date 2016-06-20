@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240671" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Residential Mortgage Secs sets 64 mln stg FRN.</title>
+<headline>Residential Mortgage Secs sets 64 mln stg FRN.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Residential Mortgage Securities 1 Plc has issued a three-tranche asset-backed bond for a total of 64.2 million stg, lead manager Nomura said.</p>
+<p>CLASS A</p>
+<p> AMT    59 MLN STG    BASE	*3M-LIBOR  LEG MAT     09.MAR.34</p>
+<p> S&amp;P	  AAA	 MARGIN     +15 BP    AVG LIFE    4.11 YRS</p>
+<p> REOFFER    99.90     ISS PRICE  PAR	 PAY DATE    13.DEC.96</p>
+<p> FULL FEES  0.40	MGT/UND    0.30	SELLING     0.10</p>
+<p> NOTES     *TO DECEMBER 2006 THEN 3M-LIBOR +40 BP</p>
+<p>* * * * *</p>
+<p>CLASS M</p>
+<p> AMT    5.2 MLN STG   BASE	*3M-LIBOR  LEG MAT     09.MAR.34</p>
+<p> S&amp;P	  =	   MARGIN     +40 BP    AVG LIFE    9.99 YRS</p>
+<p> REOFFER    99.28     ISS PRICE  PAR	 PAY DATE    13.DEC.96</p>
+<p> FULL FEES  1.47	MGT/UND    0.75	SELLING     0.72</p>
+<p> NOTES     *TO DECEMBER 2006 THEN 3M-LIBOR +90 BP</p>
+<p>* * * * *</p>
+<p>THERE IS ALSO A 3.19 MILLION STG CLASS B TRANCHE</p>
+<p>* * * * *</p>
+<p>COMMON TERMS</p>
+<p> LISTING    LONDON    DENOMS (K) 10	  SALE LIMITS US/UK</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA 2</p>
+<p> NOTES	CALLABLE ON EVERY COUPON DATE ASSUMING LESS THAN 10</p>
+<p>		PERCENT OF THE CLASS OUTSTANDING</p>
+<p>-- London Newsroom +44 171 542 8863</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240031" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Ailing D.C. suburb named state enterprise zone.</title>
+<headline>Ailing D.C. suburb named state enterprise zone.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Maryland Governor Parris Glendening named troubled Silver Spring, Md. a state &quot;enterprise zone&quot; and said nine businesses recently decided to locate  or expand existing sites in the town.</p>
+<p>&quot;Today's announcements mark a new beginning for downtown Silver Spring,&quot; Glendening said.</p>
+<p>Montgomery County Executive douglas Duncan recently terminated a tentative plan by Canadian developers to build a megamall in the town center.</p>
+<p>The nine firms, which currently employ over 480 workers, include the National Council of Senior Citizens, Preferred Pediatrics Home Care Network, Information Systems and Services Inc., Palmer Brothers Painting, Technology Service Corporation, Information Systems Solutions International, MicroDynamics, NEXGEN Solutions, and BSG&amp;G Companies.</p>
+<p>--Vicky Stamas, 202-898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

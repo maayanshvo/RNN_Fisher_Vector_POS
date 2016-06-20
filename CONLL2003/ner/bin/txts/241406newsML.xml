@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241406" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan NTT says hopes to start int'l business soon.</title>
+<headline>Japan NTT says hopes to start int'l business soon.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Nippon Telegraph and Telephone Corp (NTT) said on Friday that it hopes to move into the international telecommunications business as soon as possible following the government's decision to split NTT into three firms under a holding company.  </p>
+<p>&quot;We hope to start international telephone business as soon as possible,&quot; a company official told Reuters.</p>
+<p>The official said the latest government decision to split the company under a holding company would allow flexibility in NTT's international phone business.</p>
+<p>Earlier, Posts and Telecommunications Minister Hisao Horinouchi told a news conference the government plans to split NTT into three firms under a holding company, but did not specify when the restructuring would likely take effect.</p>
+<p>One of the three new companies will be a long-distance operator and the other two will be local-call operators, Horinouchi said. One of the local firms will operate in west Japan and the other in east Japan, he added.</p>
+<p>The long-distance operator will offer international services, Horinouchi said.</p>
+<p>The NTT official said the timing of the planned split-up was uncertain because more discussions by government officials were required.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

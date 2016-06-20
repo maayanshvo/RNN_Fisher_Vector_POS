@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241873" id="root" date="1996-12-07" xml:lang="en">
+<title>NORWAY: Kvaerner wins Woodside deal - paper.</title>
+<headline>Kvaerner wins Woodside deal - paper.</headline>
+<dateline>OSLO 1996-12-07</dateline>
+<text>
+<p>A Norwegian newspaper said on Saturday that Kvaerner Oil &amp; Gas, a part of Norway's Kvaerner ASA group, has been awarded a 2.7 billion crown contract to build a floating production ship for Woodside Petroleum's Laminaria Field off Australia.</p>
+<p>&quot;Kvaerner's Oil &amp; Gas division has landed the contract with the Australian oil company Woodside Petroleum,&quot; financial daily Dagens Naeringsliv said in a frontpage report.</p>
+<p>&quot;Kvaerner has thus managed to shake off (U.S.) competitor Brown &amp; Root in the final bidding round,&quot; it said, quoting &quot;good sources&quot;.</p>
+<p>London-based Kvaerner has been among the bidders to supply Woodside with a floating production, storage and offloading (FPSO) oil facility for the Laminaria oil field.</p>
+<p>Woodside has been widely expected to make a decision this month on the Laminaria field, but Kvaerner refuses to confirm a deal has now been made, Dagens Naeringsliv said.</p>
+<p>The newspaper added, however: &quot;Both parties have now signed everything there is to be signed, except for the official final signature. It is expected that Woodside Petroleum will issue a press release on the contract in the middle of this month.&quot;</p>
+<p>News reports have said the planned FPSO, with a process capacity of 140-170,000 barrels per day of oil and a storage capacity of 1.4 million barrels of oil, will be the largest in Australia.</p>
+<p>The ship is to be completed at the end of 1998, according to Dagens Naeringsliv.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I36101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

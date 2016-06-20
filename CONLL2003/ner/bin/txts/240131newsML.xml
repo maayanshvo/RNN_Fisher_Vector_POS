@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240131" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. West spot power lower as weather moderates.</title>
+<headline>U.S. West spot power lower as weather moderates.</headline>
+<dateline>LOS ANGELES 1996-12-06</dateline>
+<text>
+<p>Spot power prices in the U.S. West fell amid moderating weather, rainfall in the Northwest and lower natural gas prices, market sources said Friday.</p>
+<p>&quot;Temperatures are moderating and there is lots of water,&quot; said one Portland, Ore., trader.</p>
+<p>While most of the recent rain in the Northwest has been to the east of the Cascade Mountains, snow at lower elevations is expected to melt, adding to near-term flows through hydroelectric dams on the Columbia and Snake Rivers, he explained.</p>
+<p>For Monday, however, Bonneville Power Administration continued to offer surplus power only during off-peak demand hours.</p>
+<p>Firm, peak California-Oregon border (COB) electricity for Monday was assessed at $28.00-29.00 per megawatt hour (MWh), down from $32.00-35.00 for Friday.</p>
+<p>Firm, off-peak COB power for Monday was also lower at $17.00-18.00.</p>
+<p>Monday firm, peak power at Mid-Columbia (Mid-C) was quoted at $27.50-28.50, down from $29.00-30.00.</p>
+<p>Monday firm, off-peak power at Mid-C was also lower at $17.00-18.00.</p>
+<p>Southwest prices were down in line with the Northwest.</p>
+<p>&quot;It is a bit warmer in Arizona and more people are trying to sell,&quot; said another power trader.</p>
+<p>Firm, peak Palo Verde (PV) electricity for Monday was quoted at $27.00-28.00 per MWh, down from $29.00-30.00. Firm, off-peak PV power was unchanged at $17.00-18.00.</p>
+<p>Monday firm, peak prices at Four Corners were quoted lower at $28.00-29.00 per MWh, while firm off-peak was assessed at $17.00-18.00.</p>
+<p>--D Beasley, Los Angeles bureau + 1 213 955 6761</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

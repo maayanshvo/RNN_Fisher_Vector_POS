@@ -1,0 +1,46 @@
+FORECAST -- U.S. economic indicators -- Dec 9 wk.
+
+DATE  EST/GMT   Indicator	  Period  Avg forecast Previous
+
+12/10 0900/1400 BTM/Schroders w/e 12/07    NA	   -0.2 pct
+
+12/10 1000/1500 Wholesale Inv     Oct	NA	   -1.3 pct
+
+12/10 1000/1500 Current Acct   Q3 96	 NA	-$38.78 bln
+
+12/10 1000/1500 Rich Fed Survey   Nov	NA    4 ship/17 svc
+
+12/10 1455/1955 Redbook	 w/e 12/07    NA	   -0.7 pct
+
+12/11 0830/1330 Producer Prices   Nov    +0.3 pct     +0.4 pct
+
+		     ex-Food/Energy	    +0.2 pct     -0.3 pct
+
+12/12 0830/1330 Consumer Prices   Nov    +0.3 pct     +0.3 pct
+
+			ex-Food/Energy	   +0.2 pct     +0.2 pct
+
+12/12 0830/1330 Jobless Claims w/e 12/07  341,000	336,000
+
+DATE   EST/GMT    Indicator     Period  Avg Fcast  Prev Report
+
+12/12 0830/1330 Retail Sales	Nov    +0.3 pct     +0.2 pct
+
+		     ex-autos		    +0.2 pct     +0.4 pct
+
+12/12 1000/1500 Atlanta Fed Index Nov	NA		 -9.4
+
+12/12 1000/1500 Real Earnings     Nov	NA	   -1.5 pct
+
+12/13 1000/1400 Business Inven    Oct    +0.2 pct     +0.1 pct
+
+12/13 1000/1500 Univ of Mich    Dec-Pre    99.2	     99.2
+
+---------------------FOLLOWING WEEK'S DATA--------------------
+
+12/16 0915/1315 Industrial Prod   Nov		     -0.5 pct
+
+		     Capacity Util				82.7 pct
+
+12/17	     FOMC Meets in Washington
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239816" id="root" date="1996-12-06" xml:lang="en">
+<title>PERU: Peruvian Congress passes new bank law.</title>
+<headline>Peruvian Congress passes new bank law.</headline>
+<dateline>LIMA 1996-12-06</dateline>
+<text>
+<p>The Peruvian Congress approved Friday a new General Law for the Financial System updating regulations for the local bank and insurance sectors.</p>
+<p>It is an extraordinary law, since it allows the modernization of our financial system to bring it in line with international standards,'' said Congress President Victor Joy Way.</p>
+<p>It makes it more solid and competitive, so as to guarantee savings and credit.''</p>
+<p>Officials and analysts said the law's most important changes are to lower to 11, by the year 2000, the maximum ratio of risk-weighted assets to net worth for commercial banks from the current value of 12.5; increase financial institutions' maximum levels of credit to businesses; and strengthen the role of the Superintendency of Banks and Insurance.</p>
+<p>-- Eduardo Orozco, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

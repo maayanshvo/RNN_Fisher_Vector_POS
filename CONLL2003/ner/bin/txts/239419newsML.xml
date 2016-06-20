@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239419" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Cinema Ride sees '96 revs over $3 million.</title>
+<headline>Cinema Ride sees '96 revs over $3 million.</headline>
+<dateline>STUDIO CITY, Calif. 1996-12-12</dateline>
+<text>
+<p>Cinema Ride Inc said on Friday it expects revenues for the year ending December 31 to exceed $3.0 million, an increase of about 35 percent over 1995 sales.</p>
+<p>Earlier, the company reported a third quarter net profit of $2,281, or nil per share, on revenue of $1.0 million versus a net loss of $513,936, or $0.11 a share, on revenue of $665,208 one year ago.</p>
+<p>&quot;We just opened our third location -- in the heart of Times Square in New York City -- and revenues from our Las Vegas location continue to excel,&quot; Mitch Francis, chief executive officer, said in a statement.</p>
+<p>&quot;Early indications are that revenues from our Times Square location will be comparable to those from our Las Vegas location,&quot; he added.</p>
+<p>Francis also noted the company has been able to cut operating costs at each of its locations and is in discussions to obtain additional financing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-12"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STUDIO CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

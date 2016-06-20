@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241530" id="root" date="1996-12-06" xml:lang="en">
+<title>BOLIVIA: Bolivia's YPFB sells three oil units for $835 million.</title>
+<headline>Bolivia's YPFB sells three oil units for $835 million.</headline>
+<dateline>LA PAZ, Bolivia 1996-12-05</dateline>
+<text>
+<p>Bolivia's state-owned oil company Yacimietos Petroliferos Fiscales Bolivianos (YPFB) sold three of its four operating units for a total of $835 million in a round of privatisation spin-offs on Thursday.</p>
+<p>Bidders from the U.S., Europe and Latin America came up winners, with U.S. major Amoco Corp. the biggest spender in its $307 million bid for Chaco Sam -- a YPFB exploration and production unit with a book value of just $155 million.</p>
+<p>A largely Argentine consortium including YPF SA and Perez Companc bought Andina Sam, another YPFB exploration and production unit for $265 million. The consortium also included Plus Petrol Bolivia in a bid that was twice Andina's net worth of $130 million.</p>
+<p>Another consortium consisting of Houston-based Enron Corp. and Anglo-Dutch giant Royal Dutch/Shell Group spent $264 million for YPFB's transportation unit, Empresa Transportadora de Hidrocarburos SAM. YPFB had set Empresa Transportadora's book value at just $98 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LA PAZ, Bolivia"/>
+<dc element="dc.creator.location.country.name" value="BOLIVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

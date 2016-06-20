@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241590" id="root" date="1996-12-07" xml:lang="en">
+<title>JAPAN: FIGURE SKATING-RESULTS AT NHK TROPHY.</title>
+<headline>FIGURE SKATING-RESULTS AT NHK TROPHY.</headline>
+<dateline>TOKYO 1996-12-07</dateline>
+<text>
+<p>Results at the NHK Trophy figure</p>
+<p>skating competition on Saturday:</p>
+<p>Pairs final</p>
+<p> 1. Jenni Meno/Todd Sand (U.S.)			    1.5 points</p>
+<p> 2. Evgenia Shishkova/Vadim Naumov (Russia)	    3.0</p>
+<p> 3. Kyoko Ina/Jason Dungjen (U.S.)			 4.5</p>
+<p> 4. Shen Xue/Zhao Hongbo (China)			   7.0</p>
+<p> 5. Marina Khalturina/Andrei Kruokov (Kazakhstan)    7.0</p>
+<p>6. Michelle Menzies/Jean-Michel Bombardier (Canada) 8.5</p>
+<p> 7. Dorota Zagorska/Mariusz Siudek (Poland)	   10.5</p>
+<p> 8. Danielle Carr/Stephen Carr (Australia)	    12.0</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

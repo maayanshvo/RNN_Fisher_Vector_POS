@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241278" id="root" date="1996-12-06" xml:lang="en">
+<title>CHINA: Foreign planes to land in China's popular Guilin.</title>
+<headline>Foreign planes to land in China's popular Guilin.</headline>
+<dateline>BEIJING 1996-12-06</dateline>
+<text>
+<p>China's tourist spot of Guilin in the southern region of Guangxi will open its airport to foreign aircraft, the Xinhua news agency said on Friday.</p>
+<p>An assessment group made up of the State Council's Port Office, the Civil Aviation Administration of China, the General Administration of Customs and other authorities had granted the airport permission to handle foreign aircraft, Xinhua said.</p>
+<p>&quot;The move is expected to give a shot in the arm to the economic expansion of Guangxi and southwest China as a whole,&quot; the agency said but gave no further details.</p>
+<p>Guilin is well known for its mountain and river scenery and is one of China's most popular tourist destinations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

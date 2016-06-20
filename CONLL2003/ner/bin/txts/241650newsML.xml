@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241650" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: Ex-Falklands chief warns Argentina on sovereignty.</title>
+<headline>Ex-Falklands chief warns Argentina on sovereignty.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>A former governor of the Falkland Islands warned Argentina on Saturday that the sovereignty of the disputed islands was not open to question.</p>
+<p>Sir Rex Hunt, who was governor and commander-in-chief of the British-ruled islands during the 1982 Argentine invasion, said sovereignty was decided &quot;once and for all&quot; when a British task force expelled the Argentine invaders.</p>
+<p>Hunt hit out at a recent resolution from the United Nations Decolonisation Committee urging resumption of Anglo-Argentine sovereignty talks on the islands, known as the Malvinas in Latin America.</p>
+<p>&quot;Sovereignty belongs to the United Kingdom and the right to decide their own future belongs to the people of the Falkland Islands,&quot; he told the annual meeting of the Falkland Islands Association.</p>
+<p>Hunt said that visits to the islands by Argentines and the re-establishment of communications were banned while the sovereignty claim persisted.</p>
+<p>But he said relatives would be able to visit the graves of Argentina's war dead on the Falklands for humanitarian reasons.</p>
+<p>Britain has agreed to allow 30 family members to visit the South Atlantic islands early next year to pay homage to their dead at the Port Darwin cemetery, where over 200 Argentine soldiers, mainly young conscripts, lie buried.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="FALK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239145" id="root" date="1996-12-06" xml:lang="en">
+<title>ROMANIA: ROMANIA ECONOMIC INDICATORS.</title>
+<headline>ROMANIA ECONOMIC INDICATORS.</headline>
+<text>
+<p>INDICATORS</p>
+<p> ROMANIA CONSUMER INFLATION   OCT 96     SEPT 96	OCT 95</p>
+<p>  pct change month/month	+3.4	   +2.4	  +3.5</p>
+<p>  pct change year/year	 +45.1	  +45.3	 +24.3</p>
+<p>PRODUCER PRICES</p>
+<p>  Industry			 AUG 96	JULY 96	 AUG 95</p>
+<p>  pct change month/month	+4.8	  +13.2	   +1.6</p>
+<p>  pct change year/year	 +59.0	  +54.2	  +32.1</p>
+<p> UNEMPLOYMENT RATE	     OCT 96	 SEPT 96	OCT 95</p>
+<p>  pct of workforce		 5.9	    5.9	    9.0</p>
+<p> MONEY SUPPLY		    OCT 96	 SEPT 96	OCT 95</p>
+<p>M2</p>
+<p> pct change mth/mth	     +7.5	   +3.8	   +4.9</p>
+<p> pct change yr/yr		+68.4	  +64.9	  +81.5</p>
+<p>M1</p>
+<p> pct change mth/mth	     +1.9	   +5.3	   +7.5</p>
+<p> pct change yr/yr		+61.14	 +54.2	  +55.1</p>
+<p>Note: M2 includes currency, demand deposits, time and</p>
+<p>savings deposits and foreign currency deposits. M1 measures</p>
+<p>only cash in circulation and demand deposits.</p>
+<p> DAILY AVERAGE REFINANCING   OCT 96     SEPT 96	OCT 95</p>
+<p>  (bln ROL)		     5,988.6     5,057.3     2,874.8</p>
+<p> ROMANIA TRADE BALANCE     JAN-OCT     JAN-SEPT   JAN-OCT 1995</p>
+<p>  imports (USD mln)	  6,951.1	5,450.4	7,714.0</p>
+<p>  exports			6,060.8	6,038.9	6,398.0</p>
+<p>  balance			 -890.3	 -588.5     -1,316.0</p>
+<p>Note: Trade data on a customs cleared basis.</p>
+<p> INDUSTRIAL OUTPUT	     OCT 96	SEPT 96	OCT 95</p>
+<p> pct change			 -0.2	  +9.7   +9.2 (yr/yr)</p>
+<p> STATE BUDGET		 JAN-SEPT 96 JAN-SEPT 95   FY 1995</p>
+<p> Revenues  (bln ROL)	12,551.5     11,094.6     12,888.3</p>
+<p> Expenditures		 15,411.2     12,998.8     15,858.0</p>
+<p> Balance			-2,859.7     -1,904.2     -2,969.7</p>
+<p> FOREX RESERVE ASSETS	  OCT 96     SEPT 96	 OCT 95</p>
+<p> Total reserves (USD mln)  3,143.0	2,722.8	2,374.1</p>
+<p> of which National Bank    1,014.5	  703.6	  N.A.</p>
+<p>NOTE: Total reserves data includes Romania's gold reserves of</p>
+<p>some 87 tonnes, the Special Drawing Rights holdings and hard</p>
+<p>currency reserves of local banks and the National Bank.</p>
+<p> DOMESTIC CREDIT		   OCT 96     SEPT 96	OCT 95</p>
+<p> Total (bln ROL)		 27,275.4    24,869.5    15,390.7</p>
+<p>    Net credit to government  3,488.1     2,709.7	 435.5</p>
+<p>    Non-government credit    23,787.3    22,159.8    14,955.3</p>
+<p> BALANCE OF PAYMENTS	 JAN-AUG 96   JAN-AUG 95   FY 1995</p>
+<p>  current account (USD mln) -708.0	 -923.0	 -1,292</p>
+<p> KEY INTEREST RATES	    DISCOUNT		LOMBARD</p>
+<p> rate				 35 pct		   90 pct</p>
+<p> last changed		 December 95		April 96</p>
+<p> former rate			30 pct		 100 pct</p>
+<p> GROSS DOMESTIC PRODUCT	  1995	   1994</p>
+<p> change yr/yr (pct)		+6.9	   +3.9</p>
+<p> EXPORTS			    +22.2	  +22.6</p>
+<p> IMPORTS			    +32.4	   +5.1</p>
+<p>CREDIT RATINGS</p>
+<p>Romania has BB-minus (BB-) by Standard and Poor's and IBCA,</p>
+<p>Ba-three (Ba3) from Moody's Investor Service and BB-plus (BB+)</p>
+<p>from Japan Credit Rating Agency.</p>
+<p>-- Bucharest Newsroom 40-1 3120264</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="ROMANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

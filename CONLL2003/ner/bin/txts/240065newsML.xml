@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240065" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Gruber &amp; McBaine take 6.1 pct Gateway Data stake.</title>
+<headline>Gruber &amp; McBaine take 6.1 pct Gateway Data stake.</headline>
+<dateline>PHOENIX 1996-12-06</dateline>
+<text>
+<p>Gateway Data Science Corp said Gruber &amp; McBaine Capital Management Inc. bought 171,600 shares -- or 6.1 percent -- of the company's common stock.</p>
+<p>The company said San Francisco-based Gruber bought the shares as an investment.</p>
+<p>The company did not say whether or not the purchase made Gruber Gateway Data's largest shareholder. Officials from Gateway Data were not immediately available to comment.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHOENIX"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

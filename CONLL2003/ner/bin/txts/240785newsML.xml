@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240785" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Caldor plans to cut expenses, lower prices.</title>
+<headline>Caldor plans to cut expenses, lower prices.</headline>
+<dateline>NORWALK, Conn. 1996-12-06</dateline>
+<text>
+<p>Caldor Corp., the nation's fourth-largest discount department store chain, Friday unveiled a five-year plan to lower prices, limit the products in its store and cut expenses.</p>
+<p>The plan, to reposition Caldor as a full-line, upscale discount retailer in the Northeast and Mid-Atlantic, will serve as basis for talks with creditors for its restructuring plan and emergence from bankruptcy, the company said.</p>
+<p>Caldor filed for Chapter 11 bankruptcy protection in September 1995.</p>
+<p>The Norwalk, Conn.-based retailer said the new business plan is not expected to produce any near-term benefits, but will help the company return to long-term profitability.</p>
+<p>Caldor said it will set priorities for its product line to focus on family apparel and home products that differentiate it from rival discount department stores, appeal to its upscale core customer base and help improve gross margins.</p>
+<p>Caldor operates 161 stores with about 23,000 employees in 10 East Coast states. It has annual sales of about $2.7 billion.</p>
+<p>Caldor's stock was unchanged at $1.75 early on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORWALK, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

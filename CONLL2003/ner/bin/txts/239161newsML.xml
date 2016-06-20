@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239161" id="root" date="1996-12-06" xml:lang="en">
+<title>HUNGARY: NATIONAL BANK OF HUNGARY STATEMENT.</title>
+<headline>NATIONAL BANK OF HUNGARY STATEMENT.</headline>
+<dateline>BUDAPEST 1996-12-06</dateline>
+<text>
+<p>The National Bank of Hungary (NBH) said in a statement on Friday that the bank will work on Saturday December 21 but will be closed on Tuesday December 24.</p>
+<p>On Friday December 20 NBH employees will work to their Tuesday schedule and on Saturday December 21 they will follow the Friday schedule, the statement said.</p>
+<p>-- Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

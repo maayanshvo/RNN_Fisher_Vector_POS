@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239744" id="root" date="1996-12-06" xml:lang="en">
+<title>HUNGARY: Hungary o/n rates end up before Dec 10 tax payment.</title>
+<headline>Hungary o/n rates end up before Dec 10 tax payment.</headline>
+<dateline>BUDAPEST 1996-12-06</dateline>
+<text>
+<p>Hungarian overnight interest rates closed higher on Friday as market liquidity tightened before the December 10 social security contribution payment deadline, dealers said.</p>
+<p>&quot;The banks are already preparing for the December 10 tax payment,&quot; said Budapest Bank's Sandor Tolonics. &quot;They expect a larger-than-average payment.&quot;</p>
+<p>The overnight market opened at 22.00/22.75 percent, then substantial money was taken up at 22.5 percent. But later, rates dropped and closed at 22.00/22.25 as a large bank finished borrowing money.  </p>
+<p>On Thursday, overnight rates moved between 21.625 and 22.125.</p>
+<p>Dealers said liquidity could tighten further early next week as the social security contribution payments date approaches.</p>
+<p>-- Sandor Peto, Budapest newsroom (36 1) 327 4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

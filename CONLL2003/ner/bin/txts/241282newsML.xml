@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241282" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Tokyo rubber futures firmer on inventory falls.</title>
+<headline>Tokyo rubber futures firmer on inventory falls.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Tokyo rubber futures ended mostly firmer on Friday in thin trade, supported by news that Japan's rubber stocks at the end of November fell from a month earlier.</p>
+<p>Prices ranged from 0.1 yen per kg lower to 0.4 yen firmer. Benchmark May was up 0.4 yen at 142.4 yen.</p>
+<p>Activity was sluggish. &quot;News of a fall in Japan's rubber stocks caused scattered short-covering in nearby months in the afternoon session. Otherwise, trade was featureless,&quot; a trader said. They said investors' interest in the market was thin as prices have been trapped in narrow ranges.</p>
+<p>-- Tokyo Commodities Desk +81-3-3432-7431</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

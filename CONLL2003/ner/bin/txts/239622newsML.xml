@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239622" id="root" date="1996-12-06" xml:lang="en">
+<title>HUNGARY: Hungarian Gazprom $160 mln loan oversubscribed.</title>
+<headline>Hungarian Gazprom $160 mln loan oversubscribed.</headline>
+<dateline>BUDAPEST 1996-12-06</dateline>
+<text>
+<p>A $160 million loan syndicated to Russia's Gazprom group by a group of Hungarian banks, was oversubscribed, Hungarian news agency MTI said.</p>
+<p>MTI, quoting a statement from Magyar Kulkereskedelmi Bank Rt (MKB), one of the lead managers, did not specify the size of oversubscription.</p>
+<p>MKB was unavailable for immediate comment.</p>
+<p>The loan, the first to be arranged for Gazprom by Hungarian banks, will be used to finance Gazprom's gas deliveries to Hungary, it said.</p>
+<p>The two other co-lead managers of the loan were OTP Bank and Altalanos Ertekforgalmi Bank Rt (AEB) in which a Gazprom subsidiary, Gazprombank, became sole owner earlier this year.</p>
+<p>The group of banking consortium included Postabank Rt, Kereskedelmi es Hitelbank Rt, Budapest Bank Rt, which is the Hungarian banking unit of GE, Daewoo Bank Magyarorszag Rt, Inter-Europa Bank and Magyar Takarekszovetkezei Bank Rt.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,18 @@
+French Oct M3 money supply falls one percent.
+
+PARIS 1996-12-06
+
+The Bank of France gave the following money supply figures (the year-on-year change is expressed as an average centred on the previous month)
+
+ Money measure  Billions   Monthly change    12-month change
+
+(end-Oct)	(unadj)	(adjusted)	    Sep	 Aug
+
+    M1	    1,641.6	 -2.0		  5.8	 5.4
+
+    M2	    3,128.7	 -0.4		  7.5	 7.4
+
+    M3	    5,255.0	 -1.0		 -0.4	-0.2
+
+    M4	    5,341.5	 -1.1		 -0.2	 0.0
+

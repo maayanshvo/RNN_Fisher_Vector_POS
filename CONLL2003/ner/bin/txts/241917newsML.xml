@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241917" id="root" date="1996-12-07" xml:lang="en">
+<title>PAKISTAN: Taleban say they force Iranian plane to land.</title>
+<headline>Taleban say they force Iranian plane to land.</headline>
+<dateline>ISLAMABAD 1996-12-07</dateline>
+<text>
+<p>Fighter jets of the Afghan Taleban militia forced an Iranian plane to land at the Shindand military airbase in western Afghanistan, Taleban sources said on Saturday.</p>
+<p>The sources said the plane had been on its way to the city of Kunduz in northern Afghanistan, an area controlled by forces opposed to the Taleban.  </p>
+<p>Iranian radio reported on Saturday that a U.N. plane, which was carrying Tajik Islamic opposition leader Sayed Abdullo Nuri from the Iranian town of Mashhad to northern Afghanistan had been intercepted by Afghan Taleban aircraft and forced to land at Shindand.</p>
+<p>&quot;According to reports reaching us from Herat, a U.N. aeroplane, which was flying from Mashhad to Taloqan in the north of Afghanistan, was confronted by Taleban warplanes in Herat's airspace on Saturday morning and forced to land,&quot; the radio, monitored by the British Broadcasting Corporation, said.</p>
+<p>&quot;The plane, which is now at Shindand airport, was carrying eight Tajik passengers. Abdullo Nuri, the Tajik opposition leader, is among the passengers,&quot; the radio added.</p>
+<p>The radio quoted the Taleban as saying that the plane had also been carrying a number of Iranians.</p>
+<p>&quot;U.N. efforts to have the plane fly again have so far been unsuccessful and there has been no information about the passengers' fate,&quot; it said in a Pashto language broadcast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFGH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="TADZK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISLAMABAD"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

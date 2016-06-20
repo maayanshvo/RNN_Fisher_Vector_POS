@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241844" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S. West Coast products steady to lower Friday.</title>
+<headline>U.S. West Coast products steady to lower Friday.</headline>
+<dateline>LOS ANGELES 1996-12-06</dateline>
+<text>
+<p>U.S. West Coast spot products were steady to lower late Friday amid lower heating oil futures and thin pre-weekend activity, traders said.</p>
+<p>January heating oil ended the day 0.45-cent lower at 74.66 cents a gallon.</p>
+<p>Meanwhile, gasoline held at Thursday levels, as gasoline futures crept up 0.12 cent to 69.80 cents a gallon.</p>
+<p>Traders said local trade faded Friday ahead of the weekend, with no changes from early deals.  </p>
+<p>Los Angeles low sulphur diesel offers eased 0.75 cent from Thursday to 71 cents a gallon. Buyers were willing to pay 70 cents, even with their Thursday bids.</p>
+<p>CARB-grade diesel in L.A. was flat at 74/75 cents a gallon.</p>
+<p>L.A. CARB gasoline fell 1.50 cents, to 68.50/69.50 cents, tracking an weak early NYMEX which saw the January futures contract as low as 68.10 cents a gallon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

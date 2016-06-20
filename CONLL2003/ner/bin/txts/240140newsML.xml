@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240140" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. dentist charged with having family shoplifter.</title>
+<headline>U.S. dentist charged with having family shoplifter.</headline>
+<dateline>ROSEVILLE, Minn 1996-12-06</dateline>
+<text>
+<p>A well-to-do dentist and his family have been charged with receiving stolen goods after allegedly employing their own personal shoplifter to steal designer clothes and crystal, police said on Friday.</p>
+<p>Gregory Dick, a prominent 58-year-old dentist, his wife Judy, 56, son James, 32, and daughter Stacy Zehran, 33, were charged on Thursday with receiving more than $250,000 in stolen goods over the past few years that included Armani suits, Polo sweaters and Waterford crystal.</p>
+<p>Police marched into the family's $450,000 home in this Minneapolis suburb the day after Thanksgiving after arranging a &quot;sting&quot; operation with suspected shoplifter Gregory Thomas, 37, who had been caught earlier in a department store.</p>
+<p>Thomas went to the family's house with some $6,000 worth of merchandise from the store, for which the family paid him $800 in cash, police said. They said Judy Dick responded to the arrest by saying: &quot;OK, you caught us red-handed, now what?&quot;</p>
+<p>Police said the family gave Thomas detailed lists of what they wanted stolen, including clothing sizes. Thomas pleaded guilty to theft charges. He told police the family had provided him with money for bail after previous arrests.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROSEVILLE, Minn"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

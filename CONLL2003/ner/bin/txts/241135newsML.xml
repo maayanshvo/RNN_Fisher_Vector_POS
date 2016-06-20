@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241135" id="root" date="1996-12-06" xml:lang="en">
+<title>NEW ZEALAND: NZ scientist cites progress in treating diabetes.</title>
+<headline>NZ scientist cites progress in treating diabetes.</headline>
+<dateline>WELLINGTON 1996-12-06</dateline>
+<text>
+<p>A New Zealand scientist on Friday believes he has achieved a world-first in the treatment of diabetes using pig cells transplanted into two patients.</p>
+<p>Professor Bob Elliott of the Auckland University School of Medicine hopes the treatment will eventually rule out altogether diabetes sufferers' need for insulin injections.</p>
+<p>The patients are still producing insulin seven months after receiving the live pig cell transplants. However, they still need injections, as the cells produce only about a quarter of their insulin requirements.</p>
+<p>&quot;We could up that though, possibly to take the whole lot. In fact I'm sure we could, and that's what we'll be aiming for in the next round (of research),&quot; Elliott told Reuters on Friday.</p>
+<p>He said he was wary of negative side-effects and erred on the side of caution when planning the dose of cells the patients received, but is now confident he can inject more cells.</p>
+<p>The insulin-producing cells are dotted around the pigs' main digestive gland, the pancreas. Encased in a gel-like substance which prevents them being destroyed, the cells are injected into the human abdominal cavity in a five-minute procedure.</p>
+<p>&quot;We're hoping they'll last for many years. Just how long we don't know, but it would be nice,&quot; Elliott said.</p>
+<p>He said pigs were very &quot;donor-friendly&quot; for humans.</p>
+<p>&quot;They have a lot of similarities with humans in many ways. The amount of insulin they produce in response to a meal is about the same, and they are an omnivore like a human. There is a lot of information about pigs and their reactions in human systems,&quot; Elliott said.</p>
+<p>He said pig insulin had been used in injections for 50 or 60 years.</p>
+<p>The latest finding, evolved from research started 10 years ago, has been put on hold while a working party established by the Ministry of Health sets up guidelines for the use of animal tissues in transplantation. Elliott hopes this will be completed within six months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

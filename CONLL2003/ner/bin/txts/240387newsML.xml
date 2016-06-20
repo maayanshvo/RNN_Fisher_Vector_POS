@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240387" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Hindu party forces adjournment of India parliament.</title>
+<headline>Hindu party forces adjournment of India parliament.</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>Hindu nationalists forced the adjournment of India's lower house of parliament for two hours on Friday, protesting against a proposal to observe a minute of silence over the destruction of a mosque by a Hindu mob in 1992.</p>
+<p>Deputies of the Bharatiya Janata Party (BJP) shouted pro-Hindu slogans in the house after a communist MP proposed the silent gesture in remembrance of the 16th-century Babri mosque, which was razed on December 6, 1992.</p>
+<p>The house was due to reassemble later on Friday but it was not clear if the proposal to commemorate the mosque's destruction would again be raised.</p>
+<p>The destruction of the mosque in the northern Indian town of Ayodhya triggered nationwide Hindu-Moslem violence in which more than 3,000 people were killed.</p>
+<p>Indian officials blame revenge-minded Moslem underworld gangs in Bombay for a string of bombings in the city three months later that killed 260 people.</p>
+<p>The BJP backs a hardline Hindu campaign to build a temple at the site of the mosque, which Hindus believe was the birthplace of the Lord Rama. The campaign catapulted BJP from the political fringe to become India's main opposition party in 1991.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

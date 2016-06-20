@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240537" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: New England Patriots said in deal for stadium.</title>
+<headline>New England Patriots said in deal for stadium.</headline>
+<dateline>BOSTON 1996-12-06</dateline>
+<text>
+<p>The owner of the New England Patriots football team, Robert Kraft, and Massachusetts Port Authority officials are close to reaching a $500,000-a-year deal to build a football stadium in South Boston, the Boston Herald reported Friday.</p>
+<p>Citing unnamed sources, the newspaper reported the &quot;secret deal&quot; would provide a $1 million mitigation payment to the city and include state financing for roads and parking.</p>
+<p>Kraft plans to build a $200 million, privately financed stadium on the site and pay $500,000 annually to MassPort to lease land near the Marine Industrial Park which the agency owns, the Herald said.</p>
+<p>Boston Mayor Thomas Menino has said his top priority for the city is a convention center, not a stadium.</p>
+<p>The authority's bonds are AA by Standard &amp; Poor's Corp and and Moody's Investors Service.</p>
+<p>Officials from MassPort and the Patriots were not immediately available for comment.</p>
+<p>--Boston bureau, 617-367-4106</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I5010031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

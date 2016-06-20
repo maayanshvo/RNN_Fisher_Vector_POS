@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241870" id="root" date="1996-12-07" xml:lang="en">
+<title>VATICAN: Pope says defend children from exploitation.</title>
+<headline>Pope says defend children from exploitation.</headline>
+<dateline>VATICAN CITY 1996-12-07</dateline>
+<text>
+<p>Pope John Paul called on Saturday for an end to what he called the shameful and brutal exploitation of children around the world.</p>
+<p>&quot;How can one not remember the many children exploited in the most shameful and brutal ways, or in ways that are more subtle but just as perverse, which are typical of modern, spectacle society,&quot; he said.</p>
+<p>In a message to jurists attending a Rome seminar on minors' rights, the Catholic Church leader said that while society had made great strides in legislation to protect children, much more had to be done.</p>
+<p>Too many children around the world were abondoned to their own devices, making them ripe for a life of crime, he said.</p>
+<p>The Pope made no specific mention of recent child sex scandals that have shaken some European countries but appeared to be referring to the scandals when he spoke of the shameful exploitation of children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VATICAN CITY"/>
+<dc element="dc.creator.location.country.name" value="VATICAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

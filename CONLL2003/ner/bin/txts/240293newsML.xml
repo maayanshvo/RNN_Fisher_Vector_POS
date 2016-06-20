@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240293" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Chirac, Juppe slightly up in opinion poll.</title>
+<headline>Chirac, Juppe slightly up in opinion poll.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>The popularity of French President Jacques Chirac and of Prime Minister Alain Juppe, which had appeared heading for rock-bottom, has risen slightly, according to an opinion poll published on Friday.</p>
+<p>The Sofres poll for the weekly Le Figaro Magazine, carried out in late November, showed 62 percent of those asked disapproved of Chirac, down four points from the previous month. Thirty-seven percent approved of him against 32 percent in October.</p>
+<p>Juppe's popularity also rose slightly from 23 to 25 percent while the number who disapproved dropped from 75 to 72 percent.</p>
+<p>The reasons for the slight rise were not explained.</p>
+<p>The centre-right government has been buffeted by rising unemployment and mounting dissent on coalition backbenches over austerity policies imposed to qualify France for a single European currency.</p>
+<p>The poll was carried out between November 27 and 29 among 1,000 people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

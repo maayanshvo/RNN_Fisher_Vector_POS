@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241358" id="root" date="1996-12-06" xml:lang="en">
+<title>MALAYSIA: Metroplex seeks continued suspension.</title>
+<headline>Metroplex seeks continued suspension.</headline>
+<dateline>KUALA LUMPUR 1996-12-06</dateline>
+<text>
+<p>Metroplex Bhd said it is seeking a continued trading suspension in its stock pending an announcement.</p>
+<p>In a statement sent to the Kuala Lumpur Stock Exchange late on Thursday, the company said the suspension is &quot;pending another unrelated formal announcement&quot;. It did not offer details and a company representative declined further comment.</p>
+<p>Shares of Metroplex closed at 3.30 ringgit on December 4.</p>
+<p>On Thursday, the company said it plans to focus on hotel and leisure activities under a proposed restructuring plan, which will also involve the disposal of its property development subsidiaries.</p>
+<p>-- Kuala Lumpur newsroom (603 230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I5010022">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

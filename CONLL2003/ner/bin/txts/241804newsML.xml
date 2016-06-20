@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241804" id="root" date="1996-12-07" xml:lang="en">
+<title>MOROCCO: PRESS DIGEST - Morocco - Dec 7.</title>
+<headline>PRESS DIGEST - Morocco - Dec 7.</headline>
+<dateline>RABAT 1996-12-07</dateline>
+<text>
+<p>These are the leading stories in the Moroccan press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LE MATIN DU SAHARA</p>
+<p>- Euro-Mediterranean businessmen's hold conference in Marrakesh. Federal structure created between business associations of Morocco, Algeria, Tunisia and Egypt.</p>
+<p>- Moroccan Prince Moulay Rasheed attended Franco-African summit which contributed to improvement of links between Morocco and certain African states with whom relations deteriorated over the (Western) Sahara.</p>
+<p>- Battle against maternal mortality is a national priority.</p>
+<p>- Crown Prince Mohamed in Washington at invitation of U.S. Vice President Al Gore.</p>
+<p>L'OPINION</p>
+<p>- Moroccan student Mohamed Ben Chaou dies from wounds caused by bomb blast on train in Paris.</p>
+<p>- Visit to Morocco of Algerian Interior Minister Mustapha Ben Mansour seen as step towards acceleration of bilaterial relations.</p>
+<p>- First use of computers on Moroccan electoral lists reveals many anomalies.</p>
+<p>AL MAGHRIB</p>
+<p>- Europe to help finance programme to support Moroccan private sector, from 1997.</p>
+<p>- Road tests may be demanded for cars of five years of age, from present 10-year age checks.</p>
+<p>AL BAYANE</p>
+<p>- Paris court to hold first trial from Monday of some 20 people accused of belonging to Moslndamentalist network set up in France.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240011" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Cherryville USD 447, Kan..</title>
+<headline>PRESALE - Cherryville USD 447, Kan..</headline>
+<text>
+<p>AMT: 3,200,000	DATE: 12/09/96	NYC Time: 2000     CUSIP: 613317</p>
+<p>ISSUER: Cherryville USD 447					  ST: KS</p>
+<p>ISSUE: GO school building, Series 1996			   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								    BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None						     BANK QUAL: Y</p>
+<p>DTD: 12/01/96							    SURE BID: Y</p>
+<p>DUE: 9/1/99-17						SR MGR:</p>
+<p>1ST CPN: 03/01/98</p>
+<p>CALL: 9/1/06 at par					 NIC</p>
+<p>DELIVERY: 1/8/97 approx				   ORDERS:</p>
+<p>PAYING AGENT: State Treasurer's Office, Topeka</p>
+<p>L.O.: Gilmore &amp; Bell, Wichita</p>
+<p>F.A.: Ranson &amp; Assoc., Inc., Wichita</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999		     50,000</p>
+<p>2000		     85,000</p>
+<p>2001		     90,000</p>
+<p>2002		    100,000</p>
+<p>2003		    110,000</p>
+<p>2004		    120,000</p>
+<p>2005		    130,000</p>
+<p>2006		    140,000</p>
+<p>2007		    150,000</p>
+<p>2008		    160,000</p>
+<p>2009		    170,000</p>
+<p>2010		    185,000</p>
+<p>2011		    195,000</p>
+<p>2012		    210,000</p>
+<p>2013		    225,000</p>
+<p>2014		    240,000</p>
+<p>2015		    260,000</p>
+<p>2016		    280,000</p>
+<p>2017		    300,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

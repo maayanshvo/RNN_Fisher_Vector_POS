@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241393" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan MOF wants right as NTT shareholder upheld.</title>
+<headline>Japan MOF wants right as NTT shareholder upheld.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Finance Minister Hiroshi Mitsuzuka said on Friday that he hopes the ministry's right as a large shareholder in Nippon Telegraph and Telephone Corp will be upheld.</p>
+<p>&quot;I have not yet heard the final report from the Posts and Telecommunications Ministry. However, we hope our right as a shareholder will be sufficiently secured as the ministry holds a large amount of shares in the company,&quot; Mitsuzuka told a regular news conference.</p>
+<p>Posts and Telecommunications Minister Hisao Horinouchi said on Friday that the government plans to split NTT into three firms under a holding company, with one of the new companies becoming a long-distance operator and the other two local-call operators.</p>
+<p>Concerning the issue of whether to introduce a system of taxing companies on a consolidated basis, Mitsuzuka said the issue should be studied from a viewpoint of fairness and neutrality.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

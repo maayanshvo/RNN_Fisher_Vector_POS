@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240483" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Columbia U. leading inflation index 103.1 in Nov.</title>
+<headline>Columbia U. leading inflation index 103.1 in Nov.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The Center For International Business Cycle Research (CIBCR) leading inflation index (LII) fell to 103.1 in November from a revised 103.6 in October, CIBCR said.</p>
+<p>The six-month smoothed annualized growth rate of the LII fell to -1.2 percent from -0.5 percent, it said.</p>
+<p>Recent declines in the index resulted from slower growth in industrial materials prices and a smaller number of purchasing managers reporting higher prices, CIBCR said.</p>
+<p>&quot;U.S. inflation remains low,&quot; said a CIBCR report.</p>
+<p>CIBCR is affiliated with Columbia University.</p>
+<p>-- N.A. Treasury Desk 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

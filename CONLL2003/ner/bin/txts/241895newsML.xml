@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241895" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: Thomas &amp; Betts sets final terms with Augat.</title>
+<headline>Thomas &amp; Betts sets final terms with Augat.</headline>
+<dateline>MEMPHIS, Tenn. 1996-12-06</dateline>
+<text>
+<p>Thomas &amp; Betts Corp said on Friday that the exchange ratio for its proposed merger with Augat Inc was set at 0.6356 of a Thomas &amp; Betts common share for each share of Augat.</p>
+<p>The exchange ratio is based on the average closing price per share of Thomas &amp; Betts common stock for the 20 trading days ended December 6, pursuant to the terms of the merger agreement between Thomas &amp; Betts and Augat on October 7.</p>
+<p>Because the $44.40 average closing price of Thomas &amp; Betts common stock for this 20-day trading period was more than $41.50 per share (the maximum price at which an earlier exchange ratio of 0.6800 would apply), the exchange ratio was computed by dividing $28.22 by the average closing price, pursuant to the terms of the merger agreement.</p>
+<p>The company said that both its shareholders and Augat's shareholders will meet on December 11 to vote on the proposed merger.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I34531">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

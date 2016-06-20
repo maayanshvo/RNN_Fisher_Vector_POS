@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240067" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fidelity reports &quot;very slight&quot; redemption activity.</title>
+<headline>Fidelity reports &quot;very slight&quot; redemption activity.</headline>
+<dateline>BOSTON 1996-12-06</dateline>
+<text>
+<p>Fidelity Investments said the sharp decline in the stock market Friday spurred a &quot;very slight&quot; number of redemptions in U.S. domestic stock mutual funds.</p>
+<p>Fidelity spokesman Scott Beyerl said investor calls to the massive mutual fund company were &quot;slightly higher than on an average Friday.&quot;</p>
+<p>&quot;People tend to call and ask a lot of questions on a day like this,&quot; he said.</p>
+<p>Telephone activity has also picked up as the end of the year approaches with investors considering their tax options, he said.</p>
+<p>Stocks opened sharply lower Friday, with Dow Jones industrials losing more than 130 points before recovering some ground toward the end of the session to close down 55.16 at 6381.95.</p>
+<p>Comments by Federal Reserve Chairman Alan Greenspan, who warned Thursday night about &quot;irrational exuberance&quot; in the financial markets, unsettled the market, analysts said.</p>
+<p>-- Michael Ellis, Boston bureau (617) 367-4176</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8150211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

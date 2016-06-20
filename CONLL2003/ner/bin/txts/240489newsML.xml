@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240489" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Bells re-examine video plans, CAI hit.</title>
+<headline>Bells re-examine video plans, CAI hit.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Bell Atlantic Corp said Friday that it and merger partner NYNEX Corp are re-evaluating their methods for offering video to homes after disappointing results from wireless cable firm CAI Wireless Systems Inc.</p>
+<p>CAI stock was down 1-1/8 to 1-5/8 after the New York Times first reported the Bells' move.</p>
+<p>&quot;CAI hasn't managed the penetration in the East Coast cites that we hoped for. That obviously means some re-examination of the strategy for delivering video,&quot; Bell Atlantic spokesman Eric Rabe said.  </p>
+<p>The two Bells have invested $100 million in CAI, which plans to use microwave signals, beamed by line of sight to wall-mounted receivers, to deliver television signals.</p>
+<p>However, the proportion of homes which could be reached in trials has proven uneconomically low because of signal obstruction by hills, trees and other buildings.</p>
+<p>On the West Coast the technology has had fewer problems.</p>
+<p>Rabe said Bell Atlantic may issue a statement later on what its plans were. He declined any further comment.</p>
+<p>The New York Times said the Bells were considering using satellite technology instead of microwave signals.</p>
+<p>The newspaper predicted that TeleTV, a venture to produce programming and entertainment that is owned by the two Bells and Pacific Telesis Group, would end up being folded into Bell Atlantic as a result.</p>
+<p>The report also said Bell Atlantic and NYNEX were considering buying a stake in American Sky Broadcasting (ASkyB), a venture between Rupert Murdoch's News Corp Ltd and MCI Communications Corp.</p>
+<p>-- Nick Louth, New York Newsroom 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

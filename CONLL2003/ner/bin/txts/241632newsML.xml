@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241632" id="root" date="1996-12-07" xml:lang="en">
+<title>SWITZERLAND: NORDIC SKIING-WORLD CUP CROSS-COUNTRY RESULTS.</title>
+<headline>NORDIC SKIING-WORLD CUP CROSS-COUNTRY RESULTS.</headline>
+<dateline>DAVOS, Switzerland 1996-12-07</dateline>
+<text>
+<p>Results of World Cup</p>
+<p>Nordic skiing 10-km classic cross-country races on Saturday:</p>
+<p>Men:</p>
+<p> 1. Mika Myllyla (Finland)	     26 minutes two seconds</p>
+<p> 2. Erling Jevne (Norway)		26:15.4</p>
+<p> 3. Fulvio Valbusa (Italy)	     26:16.9</p>
+<p> 4. Harri Kirvesniemi (Finland)	26:32.8</p>
+<p> 5. Sami Repo (Finland)		  26:33.4</p>
+<p> 6. Niklas Jonsson (Sweden)	    26:37.9</p>
+<p> 7. Alois Stadlober (Austria)	  26:44.1</p>
+<p> 8. Henrik Forsberg (Sweden)	   26:46.3</p>
+<p> 9. Anders Bergstroem (Sweden)	 26:47.5</p>
+<p> 10. Oyvind Skannes (Norway)	   26:48.9</p>
+<p> 11. Odd-Bjorn Hjelmeset (Norway)    26:49.9</p>
+<p> 12. Markus Gandler (Austria)	  26:51.7</p>
+<p> 13. Giorgio Vanzetta (Italy)	  26:55.8</p>
+<p> 14. Jochen Behle (Germany)	    26:57.1</p>
+<p> 15. Marco Albarello (Italy)	   26:57.7</p>
+<p>Women:</p>
+<p> 1. Stefania Belmondo (Italy)	  29:06.0</p>
+<p> 2. Elena Vaelbe (Russia)		29:12.8</p>
+<p> 3. Nina Gavriliuk (Russia)	    29:21.0</p>
+<p> 4. Liubov Egorova (Russia)	    29:24.8</p>
+<p> 5. Larissa Lazutina (Russia)	  29:39.8</p>
+<p> 6. Marit Mikkelsplass (Norway)	29:43.7</p>
+<p> 7. Olga Danilova (Russia)	     30:03.6</p>
+<p> 8. Tuulikki Pyykkonen (Finland)     30:07.4</p>
+<p> 9. Anita Moen-Guidon (Norway)	 30:08.1</p>
+<p> 10. Bente Martinsen (Norway)	  30:09.6</p>
+<p> 11. Svetlana Nageikina (Russia)     30:13.5</p>
+<p> 12. Julija Tschepalova (Russia)     30:20.7</p>
+<p> 13. Trude Dybendahl (Norway)	  30:21.5</p>
+<p> 14. Sylvia Honegger (Switzerland)   30:23.4</p>
+<p> 15. Fumiko Aoki (Japan)		 30:27.7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAVOS, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

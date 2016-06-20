@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240381" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian cotton prices regain after recent losses.</title>
+<headline>Indian cotton prices regain after recent losses.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Indian cotton prices recovered after recent losses on easing pressure of new crop arrivals as well as reports that Indian government has allowed fresh export of 100,000 bales (170 kg each), dealers said on Friday.</p>
+<p>&quot;Indian government on Thursday allowed Cotton Corporation of India to export this quantity,&quot; said M.B. Lal, chairman of Cotton Corporation of India. &quot;Now we will buy more cotton in the coming days from producing centres.&quot;.</p>
+<p>In spot deals Bengal-deshi rose by 10 rupees to 830/860 rupees per maund (37.32 kg) while Punjab saw-ginned rose by the same margin to 1,430/1,600.</p>
+<p>-- Bombay commodities +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

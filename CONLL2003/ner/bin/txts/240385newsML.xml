@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240385" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian call money, Dec 6 - (closing) - 0.10-0.25 pct.</title>
+<headline>Indian call money, Dec 6 - (closing) - 0.10-0.25 pct.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Call money (in pct) at 1430 IST</p>
+<p>    TIME	O/N-market range     DFHI	    STCI</p>
+<p>    0945	  0.10-0.25	  0.10-0.25    0.10-0.50</p>
+<p>    1430	  0.10-0.25	  0.10-0.25    0.10-0.50</p>
+<p>		3-day Market range</p>
+<p>		    2.00-3.50</p>
+<p>		(Reporting Friday)</p>
+<p>The indicative call rates are based on contributions from the ABN Amro, Andhra Bank, Bank of Baroda, Bank of India, Birla Capital AMC, Canara Bank, Centurion Bank, Citibank N.A., Corporation Bank, Discount and Finance House of India, Global Trust Bank, Industrial Credit and Investment Corporation of India (ICICI), ICICI Securities &amp; Finance Co., Industrial Development Bank of India (IDBI), IDBI Bank Ltd, Indian Overseas Bank, Securities Trading Corporation of India (STCI), India (SBI), Standard Chartered Bank, Unit Trust of India (UTI) and UTI Bank.</p>
+<p>For contributions contact Samir Shah on (022) 265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

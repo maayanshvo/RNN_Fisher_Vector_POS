@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240001" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Perham, Minn..</title>
+<headline>PRESALE - Perham, Minn..</headline>
+<text>
+<p>AMT: 1,450,000	DATE: 12/09/96	NYC Time: 1200	CUSIP: 713788</p>
+<p>ISSUER: Perham							    ST: MN</p>
+<p>ISSUE: General obligation Series 1996			   TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 12/01/96							     SURE BID: Y</p>
+<p>DUE: 2/1/98-12						SR MGR:</p>
+<p>1ST CPN: 08/01/97</p>
+<p>CALL: 2/1/04 @ par					  TIC</p>
+<p>DELIVERY: 12/30/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: Firstar Bank Minnesota, St. Paul</p>
+<p>L.O.: Dorsey &amp; Whitney, Minneapolis</p>
+<p>F.A.: Ehlers &amp; Associates, Minneapolis</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     90,000</p>
+<p>1999		     90,000</p>
+<p>2000		     90,000</p>
+<p>2001		     90,000</p>
+<p>2002		    100,000</p>
+<p>2003		    100,000</p>
+<p>2004		    100,000</p>
+<p>2005		    105,000</p>
+<p>2006		    105,000</p>
+<p>2007		    110,000</p>
+<p>2008		     85,000</p>
+<p>2009		     85,000</p>
+<p>2010		     95,000</p>
+<p>2011		    100,000</p>
+<p>2012		    105,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

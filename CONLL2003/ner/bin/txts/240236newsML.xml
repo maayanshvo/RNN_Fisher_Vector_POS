@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240236" id="root" date="1996-12-06" xml:lang="en">
+<title>UNITED NATIONS: Four Africans expected to enter U.N. race.</title>
+<headline>Four Africans expected to enter U.N. race.</headline>
+<dateline>UNITED NATIONS 1996-12-06</dateline>
+<text>
+<p>Four African states are expected to nominate candidates for the post of U.N. secretary-general later on Friday now that Boutros Boutros-Ghali has temporarily put aside his bid for re-election, diplomats said.</p>
+<p>The expected nominees are Kofi Annan of Ghana, the U.N. undersecretary-general for peacekeeping; Ahmedou Ould Abdallah of Mauritania, the former U.N. special envoy for Burundi; Amara Essy of the Ivory Coast, its foreign minister and a former U.N. General Assembly president; and Hamid Algabid of Niger, secretary-general of the Organisation of the Islamic Conference.  </p>
+<p>The envoys said that representatives of the U.N. missions of Ghana, the Ivory Coast, Mauritania and Niger had scheduled a meeting with Security Council president Paolo Fulci of Italy to hand in the nominations in writing.</p>
+<p>Boutros-Ghali on Wednesday opened the door for other candidates to contest his job by saying he was suspending temporarily his candidacy but was not withdrawing completely from the race.</p>
+<p>The United States on Nov. 19 vetoed his bid for re-election while the other 14 Security Council members supported him.</p>
+<p>The move by the African states means that the council could begin voting on candidates next week, a procedure that could either result in a decision or turn into a bitter fight with vetoes against each nominee. Boutros-Ghali's term expires on Dec. 31.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURUN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="NIGER">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

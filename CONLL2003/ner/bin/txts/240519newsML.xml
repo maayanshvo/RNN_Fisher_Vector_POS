@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240519" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Mid Ocean Q4 shr $1.54 vs $1.18.</title>
+<headline>Mid Ocean Q4 shr $1.54 vs $1.18.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>1996			1995</p>
+<p> Shr primary     $1.54		    $1.18</p>
+<p> Net		 $56.6		    $43.2</p>
+<p> Revs		$149.6		   $119.3</p>
+<p> Avg shrs primary36.8 million		 36.6 million</p>
+<p>	     MONTHS</p>
+<p> Shr primary     $5.75			  $4.90</p>
+<p> Net		 $211.6			 $182.9</p>
+<p> Revs		$539.1			 $452.2</p>
+<p> Avg shrs primary  36.8 million		   37.3 million</p>
+<p>(All data above 000s except per share numbers)</p>
+<p>NOTE: Net gains on investments were $3.3 million for the quarter, compared with $3.1 million in the year-ago period.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

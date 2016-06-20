@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241603" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: NFL AMERICAN FOOTBALL-FORMER NFL COMMISSIONER PETE ROZELLE DIES.</title>
+<headline>NFL AMERICAN FOOTBALL-FORMER NFL COMMISSIONER PETE ROZELLE DIES.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Former National Football League Commissioner Pete Rozelle, who guided the NFL through a period of meteoric growth in popularity and prosperity, died on Friday. He was 70 years old.</p>
+<p>Rozelle, who had been treated for brain cancer in recent years, died at his California home.</p>
+<p>During nearly three decades as commissioner, Rozelle created the Super Bowl and Monday Night Football, forged a merger with the rival American Football League and instituted a revolutionary plan for television revenue sharing that helped turn the league into a model sports empire.</p>
+<p>Under Rozelle's innovative leadership, the NFL grew from 12 to 28 teams before his surprise retirement in 1989, when he was succeeded by current commissioner Paul Tagliabue.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241457" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Germany welcomes Albright appointment.</title>
+<headline>Germany welcomes Albright appointment.</headline>
+<dateline>BONN 1996-12-06</dateline>
+<text>
+<p>Germany welcomed on Friday Madeleine Albright's appointment as U.S. Secretary of State, saying President Bill Clinton could not have made a better choice for both Germany and Europe.</p>
+<p>&quot;I learned of your nomination with great pleasure and satisfaction,&quot; German Foreign Minister Klaus Kinkel wrote in a telegram to Albright. &quot;Your president could not have made a better choice from a German and a European point of view.</p>
+<p>On Thursday Clinton named Albright, the U.S. ambassador to the United Nations, as his choice for secretary of state. Senate confirmation is expected.</p>
+<p>&quot;Your personal and professional connection with Europe and your deep knowledge of European concerns, in particular the former Soviet Union and central and eastern Europe, are an excellent basis for bilateral and transatlantic relations in the next few years,&quot; he said.</p>
+<p>Kinkel said in the telegram, released by his ministry, he was sure he and Albright would work constructively together.</p>
+<p>&quot;As the representative of your country at the United Nations, you became well known for your perseverance and strength of leadership but also for your pragmatism,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

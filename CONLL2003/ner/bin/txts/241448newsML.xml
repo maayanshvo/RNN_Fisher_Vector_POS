@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241448" id="root" date="1996-12-06" xml:lang="en">
+<title>NETHERLANDS: Dutch Nov consumer prices rise 2.3 pct yr/yr.</title>
+<headline>Dutch Nov consumer prices rise 2.3 pct yr/yr.</headline>
+<dateline>VOORBURG, Netherlands 1996-12-06</dateline>
+<text>
+<p>The Dutch consumer price index (CPI) fell a provisional 0.1 percent in November from October, giving a 2.3 percent year-on-year rise, the Central Bureau of Statistics (CBS) said.  </p>
+<p>DUTCH CONSUMER PRICE INFLATION   Nov 96    Oct 96    Nov 95</p>
+<p> Monthly CPI pct change		-0.1	+0.3	 0.0</p>
+<p> Year-on-year CPI pct change	  2.3	 2.4	 1.6</p>
+<p> Index (base 1990)		    117.8     117.9     115.1</p>
+<p>NOTES - Economists had expected the November CPI to rise between 2.3 percent and 2.5 percent year-on-year.  </p>
+<p>The detailed index figures were:</p>
+<p>					    Weighting    Nov 96    Oct 96</p>
+<p> Food, drink, tobacco			 180     109.1     108.8</p>
+<p> Clothes, shoes				  72     101.9     102.9</p>
+<p> Rent, heating, lighting		    261     131.0     131.0</p>
+<p> Furniture, household appliances etc.    80     107.0     106.9</p>
+<p> Medical care				     6     119.4     119.3</p>
+<p> Transport, communication		   144     119.2     119.5</p>
+<p> Leisure, education			   107     107.5     106.9</p>
+<p> Other goods, services			113     115.6     116.9</p>
+<p> Consumer taxes, govt. services	    37     151.0     151.0</p>
+<p>-- Amsterdam Newsroom +31 20 570 8500</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VOORBURG, Netherlands"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

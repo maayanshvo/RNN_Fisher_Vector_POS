@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239645" id="root" date="1996-12-06" xml:lang="en">
+<title>CZECH REPUBLIC: Direct equity trades on the Czech PSE - Dec 6.</title>
+<headline>Direct equity trades on the Czech PSE - Dec 6.</headline>
+<dateline>PRAGUE 1996-12-06</dateline>
+<text>
+<p>The following is a list of direct equity trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max.Price  Volume   Turnover</p>
+<p>				  pct	  pct   (shares)(CZK 000's)</p>
+<p> 1.IF ZIVNOBANKA	   439.00    439.00	2000     878.000</p>
+<p> 2.SPORIT.PRIVAT.IF	520.00    520.00    284765  148077.800</p>
+<p> AGB, PODILOVY FOND	471.10    471.10	1811     853.170</p>
+<p> AUTIA			 452.00    452.00	 443     200.236</p>
+<p> CUTISIN		    1400.00   1400.00	8000   11200.000</p>
+<p> C. RADIOKOMUNIKACE     3546.75   3546.75	 500    1773.378</p>
+<p> CESKA POJISTOVNA	 3065.00   3065.00	 500    1532.500</p>
+<p> CESKA SPORITELNA	  300.00    300.00     52800   15840.000</p>
+<p> CEZ			   954.00    982.00     67183   65079.310</p>
+<p> CEZ 2			 766.00    810.00	9503    7403.298</p>
+<p> CKD PRAHA HOLDING	 407.00    968.00     25092   12618.852</p>
+<p> CS.PLAVBA LABSKA	  340.00    340.00    212982   72413.880</p>
+<p> DEZA			 1809.05   1809.05	1788    3234.581</p>
+<p> ELEKTRARNA KOLIN	 1101.00   1101.00	 200     220.200</p>
+<p> GALENA			975.00    982.31	2800    2740.237</p>
+<p> CHEMOPETROL GROUP	1110.52   1117.34     10575   11804.720</p>
+<p> IPB			   260.00    260.00    278515   72413.900</p>
+<p> ISC MUZO		   1633.43   1633.43     11806   19284.275</p>
+<p> JIHLAVAN		     90.00     90.00	2225     200.250</p>
+<p> JIP VETRNI		  235.00    235.00	3000     705.000</p>
+<p> KOMERCNI BANKA	   1707.75   2110.00    614000 1053974.188</p>
+<p> KOMERCNI BANKA IF	 610.00    675.47   1826300 1232264.000</p>
+<p> KONE LIFTS		  239.20    239.20	2083     498.254</p>
+<p> LECIVA PRAHA	     2303.42   2303.42	1355    3121.141</p>
+<p> MORSLEZS.TEPLARNY	1077.40   1150.00     84166   93687.797</p>
+<p> OBAL ROZKOS		 200.00    200.00	3430     686.000</p>
+<p> OKD			   110.00    111.00     32700    3607.000</p>
+<p> PRAZSKE PIVOVARY	 2338.00   2360.00	1300    3053.700</p>
+<p> PRVNI SEVZAP.TEPL.     1369.00   1400.00     12460   17308.550</p>
+<p> RIF			   815.00    822.00	6020    4923.040</p>
+<p> SEPAP			 915.73    918.93	 438     401.793</p>
+<p> SEVEROC. DOLY	     690.33    690.33	2200    1518.743</p>
+<p> SIF			  2776.94   2776.94    198000  549834.120</p>
+<p> SLOVACKE STROJIRNY	110.00    110.00     38012    4181.320</p>
+<p> SPIF CESKY		  395.00    418.75     28010   11273.600</p>
+<p> SPOLEK CHEM.HUT.V.	150.00    150.00    160821   24123.150</p>
+<p> SPT TELECOM		3072.96   3141.10     20995   65408.203</p>
+<p> SSZ			  1400.00   2500.00     24133   57010.950</p>
+<p> STREDOC. ENERGET.	1999.00   1999.00	6300   12593.700</p>
+<p> SYNTHESIA		   301.00    301.00	1000     301.000</p>
+<p> SKODA PLZEN		 915.75    946.00     27506   25669.627</p>
+<p> TABAK			6495.00   6495.00	 600    3897.000</p>
+<p> TENEZ CHOTEBOR	    900.00    900.00	 223     200.700</p>
+<p> VALCOVNY PLECHU	   550.00    550.00    164560   90508.000</p>
+<p> VITKOVICE		   233.00    234.00     10800    2521.800</p>
+<p> VODNI STAVBY PRAHA     1415.00   1425.00	6000    8520.000</p>
+<p>	 -- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

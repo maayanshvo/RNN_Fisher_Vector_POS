@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241744" id="root" date="1996-12-07" xml:lang="en">
+<title>JAPAN: Japan asks USTR's Barshefsky to return to Tokyo.</title>
+<headline>Japan asks USTR's Barshefsky to return to Tokyo.</headline>
+<dateline>TOKYO 1996-12-07</dateline>
+<text>
+<p>Japanese Finance Minister Hiroshi Mitsuzuka said on Saturday he has asked acting U.S. Trade Representative Charlene Barshefsky to return to Tokyo on December 14 to continue talks on ending an insurance dispute between the two countries.</p>
+<p>Mitsuzuka said he sees the current December 15 deadline as the final one in the dispute. Previous deadline have been extended as the two sides failed to reach agreement.  </p>
+<p>He spoke to reporters after the two held talks aimed at resolving the dispute over how Japan should deregulate its insurance market ahead of a December 15 deadline.</p>
+<p>Barshefsky is to leave Tokyo later Saturday to attend the World Trade Organisation meeting in Singapore.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

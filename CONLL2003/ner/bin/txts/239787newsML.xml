@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239787" id="root" date="1996-12-06" xml:lang="en">
+<title>JAMAICA: Jamaica to miss banana quota.</title>
+<headline>Jamaica to miss banana quota.</headline>
+<dateline>KINGSTON, Jamaica 1996-12-06</dateline>
+<text>
+<p>Jamaica will fail to meet its 105,000 tonnes export quota to the European Union, banana industry officials said on Friday.</p>
+<p>They blamed bad weather and a poor performance by small farmers for the shortfall.</p>
+<p>Marshall Hall, managing director of Producers Group, said his firm's three estates, run in conjunction with the British firm Ffyfes, would produce 80,000 tonnes.</p>
+<p>Small farmers will add some 16,000 tonnes for a total production of 96,000 tons. They were expected to produce some 25,000 tons this year which would have brought Jamaica up to its full quota, he said.</p>
+<p>Jamaica expects to earn US$51 million from banana exports to Europe this year.</p>
+<p>The quotas were established as part of a preferential regime with the EU. The regime is being challenged by the United States and four Latin American states before the World Trade Organization and a final ruling is expected at the end of January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="JAMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KINGSTON, Jamaica"/>
+<dc element="dc.creator.location.country.name" value="JAMAICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

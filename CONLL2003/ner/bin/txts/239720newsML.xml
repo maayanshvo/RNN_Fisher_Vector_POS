@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239720" id="root" date="1996-12-06" xml:lang="en">
+<title>ESTONIA: Estonian Nov mo/mo CPI unchanged 0.6 pct.</title>
+<headline>Estonian Nov mo/mo CPI unchanged 0.6 pct.</headline>
+<dateline>TALLINN 1996-12-06</dateline>
+<text>
+<p>Estonian inflation in November was at 0.6 percent month-on-month for the third consecutive month, and the year-on-year rate was 16.4 percent, the statistics</p>
+<p>office said on Friday.</p>
+<p> ESTONIAN CONSUMER PRICES     Nov '96    Oct '96    Nov '95</p>
+<p> Month-on-month change (pct)   +0.6	 +0.6	 +1.4</p>
+<p> Year-on-year change (pct)    +16.4	+17.2	+28.4</p>
+<p> Index (1993 avg=100)	   241.0	239.4	N/A</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

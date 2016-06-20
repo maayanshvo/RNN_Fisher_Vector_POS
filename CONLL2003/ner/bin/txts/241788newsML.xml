@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241788" id="root" date="1996-12-07" xml:lang="en">
+<title>LEBANON: Lebanon budget deficit 259 bln pounds in November.</title>
+<headline>Lebanon budget deficit 259 bln pounds in November.</headline>
+<dateline>BEIRUT 1996-12-07</dateline>
+<text>
+<p>Lebanon's budget deficit for November dipped sharply to 259 billion Lebanese pounds from 774 billion in October, the finance ministry said on Saturday.</p>
+<p>Interest payments were 255 billion pounds in November compared with 740 billion a month earlier.</p>
+<p>The ministry issued the following details (in billions of Lebanese pounds) -</p>
+<p>					 Nov 96		 Oct 96</p>
+<p> Expenditures			  552		  1,061</p>
+<p>  (of which interest payments)   255		    740</p>
+<p> Revenues				293		    287</p>
+<p> Deficit				 259		    774</p>
+<p>($1 = 1,554 Lebanese pounds at end November)</p>
+<p>--Beirut editorial (961 1) 864148 602056 353078 861723</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

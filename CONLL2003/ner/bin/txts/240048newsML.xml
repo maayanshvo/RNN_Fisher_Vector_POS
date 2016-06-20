@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240048" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Pork carcass gross cut-out values - USDA.</title>
+<headline>Pork carcass gross cut-out values - USDA.</headline>
+<dateline>DES MOINES 1996-12-06</dateline>
+<text>
+<p>Estimated gross cutout values of a 175 lb hog carcass based on USDA cutting yield tests and carlot prices.</p>
+<p>Friday's  carcass grades &amp; prices per cwt.:</p>
+<p>			  US #1    US #2    US #3    US #4</p>
+<p>Change from	   78.78    76.58    74.38    72.18</p>
+<p>Thursday's  value:  -0.95    -0.92    -0.88    -0.85</p>
+<p>Average cutout value this week:</p>
+<p>			  80.20    77.95    75.70    73.46</p>
+<p>				     % OF    FOB     CHANGE FROM</p>
+<p>			 WEIGHT   CARCASS  VALUE     THURSDAY</p>
+<p>Skinned hams	14-20 Lb   21.01%  $87.00    -2.00</p>
+<p>Loins, 1/4&quot; Trim  14-22 Lb   20.33% $139.00    -2.00</p>
+<p>Bellies, Sdls.    12-14 Lb   13.90%  $69.00    -1.00</p>
+<p>Spareribs	   3.5Dn Lb    3.03% $116.00</p>
+<p>Picnics		8-12 Lb   10.31%  $49.00</p>
+<p>Butts, 1/4&quot; Trim    4-8 Lb    7.25%  $89.00     1.00</p>
+<p>Jowl		     --	 2.85%  $39.00</p>
+<p>Neckbones		--	 1.52%  $15.00</p>
+<p>Feet		     --	 1.05%  $26.00</p>
+<p>Tails		    --	 0.22%  $52.00</p>
+<p>Trim 72%		 --	 2.19%  $69.00    -1.00</p>
+<p>Lard		     --	10.85%  $20.25</p>
+<p>Total carcass %    == 94.51%</p>
+<p>US #2 Carcass Value per cwt =  $76.58</p>
+<p>NOTE: Value may change without adequate test.</p>
+<p>--Chicago newsdesk 312-408-8720--</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

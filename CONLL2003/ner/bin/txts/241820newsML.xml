@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241820" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S. High Court to decide sheriff liability case.</title>
+<headline>U.S. High Court to decide sheriff liability case.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The Supreme Court said Friday it would decide if the county sheriff is a final policymaker for law enforcement and must face a liability lawsuit seeking damages for violations of constitutional rights.</p>
+<p>The case involved Walter McMillian, who had been convicted of murder and spent nearly six years on death row in Alabama. His conviction was overturned after it was shown that local officials withheld key evidence corroborating his innocence.</p>
+<p>He then filed a civil lawsuit against various government officials involved in his arrest and imprisonment, including the sheriff in Monroe County.</p>
+<p>A federal judge dismissed the suit, ruling the county could not be held liable for the sheriff's actions because sheriffs were not final policymakers for the county in the area of law enforcement. A U.S. appeals court upheld the decision.</p>
+<p>The Supreme Court agreed to hear McMillian's appeal. It will schedule arguments on the issue early next year, with a decision due by the end of the 1996-97 term.</p>
+<p>The high court had agreed to decide a similar case last year, but the justices were unable to rule on the merits because of technical, jurisdictional problems with that case.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

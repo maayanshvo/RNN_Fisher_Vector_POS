@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241816" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S. space shuttle lands, bringing home problems.</title>
+<headline>U.S. space shuttle lands, bringing home problems.</headline>
+<byline>Steven Young</byline>
+<dateline>CAPE CANAVERAL, Fla. 1996-12-07</dateline>
+<text>
+<p>Space shuttle Columbia's record-breaking mission ended on Saturday, but left lingering problems for the next flight, set to pick up a U.S. astronaut from Russia's Mir space station in January.</p>
+<p>The $2 billion spaceship touched down at the Kennedy Space Centre in the first rays of the morning sun at 6:49 a.m. EST (1149 GMT), just a short distance from the launch pad it left nearly 18 days earlier.</p>
+<p>&quot;It was a fantastic mission,&quot; shuttle commander Ken Cockrell said as the shuttle came to a stop on the three-mile (5-km) long runway.</p>
+<p>Bad weather had delayed the shuttle's return by two days, and propelled the mission into the record books as the longest ever in the 15-year U.S. shuttle programme.</p>
+<p>The completion of the mission also put an end to the marathon space-flying career of Story Musgrave, at 61 the oldest person to orbit the Earth. After six shuttle flights, NASA has told the veteran not to expect any more.</p>
+<p>&quot;This one was pure ecstasy,&quot; an exuberant Musgrave said at a news conference after the landing. &quot;If this is the last space flight, this was the one to finish on.&quot;</p>
+<p>The 7.3 million mile (11.75 million km) journey saw the successful release and retrieval of two science satellites. But it was marred by damage to the shuttle's solid rocket boosters and a stuck airlock hatch.</p>
+<p>NASA managers said they would need to investigate the problems before the scheduled Jan. 12 launch of shuttle Atlantis on a mission to pick up U.S. astronaut John Blaha from Russia's Mir space station.</p>
+<p>The solid-fuelled boosters used to launch Columbia on Nov. 19 suffered damage to the insulation that protects their nozzles from the heat of the rocket's searing exhaust, shuttle programme manager Tommy Holloway said.</p>
+<p>Engineers thought they had explained similar damage on a rocket used by Atlantis in September as a unique occurrence, caused by a chance combination of factors. They had said it was unlikely to happen again.</p>
+<p>About 22 gouges were found in one of the bell-shaped nozzles and about 30 in the other after Columbia's flight. Examination of the boosters was continuing, but the erosion did not appear as deep as that seen after the last flight.</p>
+<p>&quot;We do have a situation where the nozzles are behaving a bit differently than they have in the past,&quot; Holloway said. &quot;We always take these observations very seriously.&quot;</p>
+<p>An investigation team was expected to present its findings to shuttle managers on Dec. 20.</p>
+<p>NASA engineers will also be seeking an explanation for why the shuttle's airlock hatch jammed on Thanksgiving night (Nov. 28), preventing two space walks intended to practice space station assembly.</p>
+<p>The hatch was to be examined as early as Monday evening to determine what caused the door to jam shut.</p>
+<p>Atlantis, which is due to be moved to the launch pad this week, has a total of five hatches. Three of the five must open for astronauts to move to and from Mir.</p>
+<p>&quot;We will be looking at what the options are ... to assure ourselves that this (problem) does not occur in the future when it might be more important to us,&quot; Holloway said.</p>
+<p>Columbia's mission, which should have been a routine science-oriented trip, saw its fair share of drama, with a satellite passing unexpectedly close to the shuttle's cabin and difficulty flying three spacecraft -- two satellites and the shuttle -- in formation.</p>
+<p>The Wake Shield Facility, one of two free-flying satellites deployed from Columbia, appeared to have fulfilled its promise of manufacturing ultra-pure semiconductors. The project's semiconductor bounty, produced in the vacuum of space, may lead to superfast electronic devices.</p>
+<p>Astronomers said a U.S.-German ultraviolet telescope, which flew free of Columbia for two weeks, obtained a wealth of new information about the life cycles of stars and the mysterious interstellar matter that lies between them.</p>
+<p>&quot;We had a fine machine,&quot; Cockrell said after the landing. &quot;It had one little sticky door knob on it... We didn't let that get in the way of us feeling very accomplished.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

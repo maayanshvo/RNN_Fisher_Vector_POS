@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240301" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Euro-body denounces torture by Turkish police.</title>
+<headline>Euro-body denounces torture by Turkish police.</headline>
+<dateline>STRASBOURG 1996-12-06</dateline>
+<text>
+<p>The European Committee for the Prevention of Torture, in a rare public statement, on Friday denounced Turkish police for physically torturing prison inmates.</p>
+<p>The Committee, part of the Strasbourg-based Council of Europe which safeguards democracy and human rights, issued the statement after visiting police-run institutions in Adana, Bursa and Istanbul in September. The committe also met former inmates who were examined by police doctors.</p>
+<p>&quot;A considerable number of those examined had lesions or other medical signs compatible with their allegations of bad treatment...and in particular with blows on the soles of their feet, blows on the palms of their hands, and with being suspended by their arms,&quot; the Committee said.</p>
+<p>&quot;Two of the people examined had lost the use of their two arms. These effects could prove irreversible,&quot; it said.</p>
+<p>The team reported that it had found equipment for electric shocks and for suspending people by their arms in the offices of police headquarters in Istanbul.</p>
+<p>According to the Committee, the Turkish government was informed of its findings and &quot;failed to recognise the gravity of the situation&quot;. Notes and circulars issued by the Turkish authorities to improve the human rights situation were not enforced.</p>
+<p>&quot;It is up to the state to make sure it is obeyed,&quot; the Committee said, adding that in no circumstances could the fight against guerrilla violence justify torture or other ill-treatment by security forces.</p>
+<p>The Committee issued a similar report four years ago. Turkey is the only member of the Council of Europe which has never published findings by the Committee. It decided to publish the latest report as the only way of putting pressure on Ankara.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STRASBOURG"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

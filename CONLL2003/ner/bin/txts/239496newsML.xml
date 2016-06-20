@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239496" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Amoco to boost Bolivian oil, gas production.</title>
+<headline>Amoco to boost Bolivian oil, gas production.</headline>
+<dateline>HOUSTON 1996-12-06</dateline>
+<text>
+<p>Amoco Corp expects to triple production from Bolivian oil and natural gas fields acquired after winning operatorship and 50 percent ownership of Empresa Petrolera Chaco, executives said on Friday.</p>
+<p>&quot;We expect to triple production in six to seven years,&quot; said Al Denson, Amoco's country manager in Bolivia.</p>
+<p>Amoco bid $306.7 million for Chaco, which was formed in the capitalization of state oil company Yacimientos Petroliferos Fiscales Boliviano (YPFB). The company was one of three Bolivian entities put up for sale.</p>
+<p>Chaco is currently producing about 180 million cubic feet per day of natural gas, which is sold into the market or reinjected into fields to maintain production. It also produces about 9,300 barrels of oil and condensate a day.</p>
+<p>Chaco has proved hydrocarbon reserves of 1.4 trillion cubic feet of natural gas and 35 million barrels of oil, which will be booked by Amoco on a net basis after the deal is closed in the first quarter 1997, Denson said.</p>
+<p>-- Houston newsdesk +1 713 210 8508</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

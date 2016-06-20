@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239761" id="root" date="1996-12-06" xml:lang="en">
+<title>BRAZIL: Brazil's CSC to begin work on steel plant in 1997.</title>
+<headline>Brazil's CSC to begin work on steel plant in 1997.</headline>
+<dateline>SAO PAULO 1996-12-06</dateline>
+<text>
+<p>Brazil's Companhia Siderurgica do Ceara (CSC) said on Friday that it would begin construction next year on a steel plant in the northern state of Ceara.</p>
+<p>CSC will build the minimill at the Pecem port complex 28 miles (45 km) from the state capital of Fortaleza, according to a statement.</p>
+<p>CSC is a joint venture led by Brazil's Vicunha Group. Its other partners are Brazil's state-owned mining company Cia Vale do Rio Doce, steelmaker Cia Siderurgica Nacional (CSN), the state oil monopoly Petrobras and Japan's NKK Corp.</p>
+<p>CSC President Benjamin Steinbruck was quoted in the statement as saying the partners would directly provide 30 percent of project funding and &quot;international institutions&quot; would provide the rest.</p>
+<p>The mill will operate on fuel or natural gas, and produce a million tonnes of steel sheets a year.</p>
+<p>-- James Craig, Sao Paulo newsroom 5511 248 5413</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

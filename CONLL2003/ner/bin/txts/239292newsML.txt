@@ -1,0 +1,32 @@
+Canada economic indicators survey Dec 9 - Dec 13.
+
+DATE   EST/GMT    INDICATOR	   PERIOD  AVG-FCAST  PREV
+
+12/09 0815/1315  Hsg strts (annual)  NOV    127,175  118,000
+
+12/09 0830/1330  New hsg PI	    OCT     +0.1    -2.0 pct
+
+12/12 0830/1330  New Mtr Veh sls     OCT     +7.5    +1.1 pct
+
+Bank		HSG STARTS(ANNUALIZED)  NEW HSG PI
+
+NESBITT BURNS	130,000		    +0.1 pct
+
+LEHMAN		 126,700		    +0.1 pct
+
+MONTREAL	     130,000			 N/A
+
+TECHNICAL DATA     122,000		    +0.1 pct
+
+Bank		NEW MTR VEH SALES
+
+NESBITT BURNS	+8.0 pct
+
+LEHMAN		 +8.3 pct
+
+MONTREAL	     +7.5 pct
+
+TECHNICAL DATA     +6.0 pct
+
+((Reuters Toronto Bureau (416) 941-8100))
+

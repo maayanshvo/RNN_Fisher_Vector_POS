@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241751" id="root" date="1996-12-07" xml:lang="en">
+<title>SOUTH KOREA: Seoul stocks edges lower to 38-month low.</title>
+<headline>Seoul stocks edges lower to 38-month low.</headline>
+<dateline>SEOUL 1996-12-07</dateline>
+<text>
+<p>South Korean stocks continued their downward path on Saturday closing at a 38-month low as the government's plan to sell Korea Telecom shares next week continue to weigh on the market, brokers said.</p>
+<p>The composite stock index stood at 696.11 at the close, down 3.78 points from Friday. The level is the lowest since September 21, 1993, when the index closed at 694.66.</p>
+<p>&quot;The market is no different from yesterday,&quot; said Hur Gyung-shik of Samsung Securities. &quot;The government's Korea Telecom selling is expected to divert institutional investors' interest away from the market.&quot;  </p>
+<p>The finance ministry said on Friday the government planned to sell 6.92 million shares of Korea Telecom to institutions and corporations in an auction on December 12 and 13.</p>
+<p>Brokers said uncertain market prospects, including fears of labour unrest and an overhang of loans for margin trading, kept most investors sidelined.</p>
+<p>Volume totalled 14.04 million shares in half trading on Saturday, compared with 23.94 million on Friday. Despite the decline in the index, gainers beat losers 427 to 373.</p>
+<p>--JEAN YOON (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

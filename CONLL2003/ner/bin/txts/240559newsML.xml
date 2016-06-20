@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240559" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Norfolk Southern calls CSX lawsuit frivolous.</title>
+<headline>Norfolk Southern calls CSX lawsuit frivolous.</headline>
+<dateline>NORFOLK, Va. 1996-12-05</dateline>
+<text>
+<p>Norfolk Southern Corp said on Thursday the claims filed against it by CSX Corp and Conrail Inc are &quot;frivolous.&quot;</p>
+<p>Earlier, CSX and Conrail said they filed counterclaims against Norfolk, alleging interference in their planned merger.</p>
+<p>&quot;If they really believe that Norfolk Southern is not serious about buying Conrail, as they have alleged, then they should remove the barriers they put up and we'll find out quickly that their claims are nothing more than total fabrication,&quot; the company said in a written statement.</p>
+<p>Norfolk Southern made a $110 per share bid for Conrail, an offer valued at about $10 billion, in an effort to top the $8.6 billion cash and stock deal between Conrail and CSX.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORFOLK, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

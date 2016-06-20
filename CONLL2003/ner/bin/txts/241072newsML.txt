@@ -1,0 +1,4 @@
+LME - warehouse stock movements.
+
+LONDON, Dec 06 - Latest LME warehouse stock changes are: copper up 6400, tin up 215, lead up 1200, zinc down 3050, aluminium down 3325, nickel up 444, aluminium alloy down 180
+

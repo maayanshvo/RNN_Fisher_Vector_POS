@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241459" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Swiss Q2 industry orders fall 5.0 pct yr/yr.</title>
+<headline>Swiss Q2 industry orders fall 5.0 pct yr/yr.</headline>
+<dateline>BERNE 1996-12-06</dateline>
+<text>
+<p>Swiss industry saw new orders fall 5.0 percent in the second quarter of 1996 from a year earlier while production was down 6.0 percent in the same period, the Federal Statistics Office said on Friday.</p>
+<p>					 Q2 96	Q1 96	Q2 95</p>
+<p> Orders pct change yr/yr	 -5.0	 -1.0	 0.0</p>
+<p> Index (1995 average=100)	96.6	 101.7	102</p>
+<p>Foreign orders</p>
+<p>  Pct change yr/yr		 -7.0	 -3.0	 N.A.</p>
+<p>Domestic orders</p>
+<p>  Pct change yr/yr		 -4.0	 -2.0	 N.A.</p>
+<p>Foreign orders include chemicals while domestic orders exclude chemicals, the statistics office said.</p>
+<p>					 Q2 96	Q1 96	Q2 95</p>
+<p> Production pct change yr/yr   -6.0	 +2.0	 +3.0</p>
+<p> Index (1995 average=100)	95.6	 98.4	 101</p>
+<p>Figures from orders and production, which exclude construction, reflect a switch this year to a revised system of collecting data that is based on NOGA international norms, the office said.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERNE"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

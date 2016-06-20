@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241725" id="root" date="1996-12-07" xml:lang="en">
+<title>MALAYSIA: Malaysia's MIDF chairman dies.</title>
+<headline>Malaysia's MIDF chairman dies.</headline>
+<dateline>KUALA LUMPUR 1996-12-07</dateline>
+<text>
+<p>Zain Azraai Zainal Abidin, chairman of Malaysian Industrial Development Finance Berhad (MIDF), died on Saturday from lung cancer, the national Bernama news agency reported.</p>
+<p>Zain Azraai, 60, died at his brother's house in Kuala Lumpur, Bernama said.</p>
+<p>The agency quoted the brother, Zain Azhari, as saying that Zain Azraai had returned home in October after a surgery for lung cancer in London.</p>
+<p>MIDF, a financial and industrial property group, also runs one of Malaysia's two shares issuing houses, MIDF Corporate and Consultancy Services.</p>
+<p>Share of MIDF closed 25 Malaysian cents down to 4.80 ringgit ($1.90) on Friday.</p>
+<p>-- Kuala Lumpur newsroom (603-2307509)</p>
+<p>($1= 2.52 ringgit)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I8150106">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

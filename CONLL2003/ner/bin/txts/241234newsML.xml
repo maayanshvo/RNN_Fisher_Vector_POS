@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241234" id="root" date="1996-12-06" xml:lang="en">
+<title>TAIWAN: Taiwan dollar ends slightly firmer in active trade.</title>
+<headline>Taiwan dollar ends slightly firmer in active trade.</headline>
+<dateline>TAIPEI 1996-12-06</dateline>
+<text>
+<p>The Taiwan dollar reversed its early weakness to finish slightly firmer on Friday as the U.S. dollar weakened in Tokyo and elsewhere, dealers said.</p>
+<p>The local unit slid slightly in early trade due in part to swap trading for the Asian Development Bank's Thursday issuance of T$7 billion Taiwan dollar-denominated bonds.</p>
+<p>But the U.S. dollar's slide overseas pushed the local unit higher in afternoon trdae, dealers said.</p>
+<p>The rate ended at T$27.491 after trading in a T$27.498-489 range, compared with Thursday's T$27.493 close.</p>
+<p>Turnover through dealers was an active US$272 million.  </p>
+<p>Dealers said they did not expect major movements in the exchange rate regardless of domestic or overseas factors.</p>
+<p>&quot;The central bank wants a stable exchange rate,&quot; said one dealer. &quot;No matter what happend in Taiwan or in overseas markets, the movements won't be big.&quot;</p>
+<p>A T$27.48-50 trading range was seen in the near term.</p>
+<p>-- Joyce Liu (2-5080815)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

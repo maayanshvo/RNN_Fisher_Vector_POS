@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239528" id="root" date="1996-12-06" xml:lang="en">
+<title>COTE D'IVOIRE: U.N. evacuates staff from Central African Republic.</title>
+<headline>U.N. evacuates staff from Central African Republic.</headline>
+<dateline>ABIDJAN 1996-12-06</dateline>
+<text>
+<p>The United Nations evacuated its staff in the Central African Republic on Friday because of mounting violence in a two-week-old army mutiny in the capital, a U.N. official said.</p>
+<p>The official from the U.N. refugee agency UNHCR said a chartered plane had picked up the staff from Bangui and was heading for Abidjan, Ivory Coast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ICST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABIDJAN"/>
+<dc element="dc.creator.location.country.name" value="COTE D'IVOIRE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

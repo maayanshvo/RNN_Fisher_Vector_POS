@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239430" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. reserve assets fell in November.</title>
+<headline>U.S. reserve assets fell in November.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>U.S. Treasury Department said Friday that U.S. reserve assets fell $113 million in November to $75.44 billion from $75.56 billion in October.</p>
+<p>U.S. holdings of foreign currencies fell to $38.49 billion in March from $38.77 billion in October.</p>
+<p>Gold stocks totaled $11.05 billion in both months.</p>
+<p>Special Drawing Right with International Monetary Fund rose to $10.39 billion in November from $10.23 billion in October.</p>
+<p>The value of the U.S. reserve position with IMF was virtually unchanged in November at $15.52 billion.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

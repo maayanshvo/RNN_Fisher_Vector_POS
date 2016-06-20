@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240865" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Electrolux to merge U.S. and Canada units.</title>
+<headline>Electrolux to merge U.S. and Canada units.</headline>
+<dateline>STOCKHOLM, Sweden</dateline>
+<text>
+<p>Swedish appliance maker Electrolux said Friday it would combine the appliance and outdoor product businesses of American Yard Products, Frigidaire Co. and Poulan/Weed Eater in the United States and Canada.</p>
+<p>Electrolux said the merger will take effect Jan. 1.</p>
+<p>&quot;This new structure will allow Electrolux to capitalise on and develop synergies in these two core business areas,&quot; Electrolux said.</p>
+<p>It said Hans Backman had been named to lead the process across the Electrolux group. Robert Cook was appointed president of the combined organisation.</p>
+<p>&quot;We are entering a new phase of development for major appliances and outdoor products in North America,&quot; said Leif Johansson, Electrolux president and chief executive officer.</p>
+<p>&quot;Our customers will benefit from better service and support and from continued new product introductions.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM, Sweden"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

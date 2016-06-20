@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241840" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S., N. Korea to meet in New York.</title>
+<headline>U.S., N. Korea to meet in New York.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The United States will press North Korea during talks next week in New York to make a gesture toward South Korea that could help put the recent submarine incursion incident behind them, the State Department said on Friday.</p>
+<p>Spokesman Nicholas Burns said the director of American affairs in North Korea's foreign ministry would arrive in New York in a day or two and would hold talks with his American counterpart next week.</p>
+<p>It is believed to be the first meeting between North Korea and the United States since Pyongyang last month released American Carl Hunziker, who was held for several months on spying charges that were strongly rejected by Washington and the man's family.</p>
+<p>The meeting also comes after South Korean President Kim Young-sam, during talks with President Bill Clinton in Manila last month, agreed to stick with a landmark U.S.-North Korean nuclear agreement under which the North would receive over $6 billion in new nuclear power reactors and alternative energy supplies.</p>
+<p>In September, a North Korean submarine intruded into South Korean waters and 22 crewmen were killed by South Korean troops or found dead. The incident greatly heightened tensions on the Korean peninsula.</p>
+<p>The United States has joined its ally Seoul in demanding the North make some kind of gesture that would acknowledge the serious mistake of sending the submarine into the South.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

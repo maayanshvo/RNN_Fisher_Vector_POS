@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240201" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Nebraska fed cattle roundup - USDA.</title>
+<headline>Nebraska fed cattle roundup - USDA.</headline>
+<dateline>OMAHA 1996-12-06</dateline>
+<text>
+<p>Slaughter steers and heifers were not established Thursday. Demand limited. Seller interest light. - USDA</p>
+<p>Thursday	 200     Last Week Holiday     Last Year  N/A</p>
+<p>Week to Date 3,500  Sm Pd Lst Wk   800    Sm Pd Lst Yr  N/A</p>
+<p>Dressed Basis Delivered not well tested.</p>
+<p>Dressed Basis Steers: Few Select and Choice 2-3, 1200-1300 lbs 112.00; load early 114.00.</p>
+<p>Dressed Basis Heifers: Few Select and Choice 2-3, 1100-1200 lbs 112.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

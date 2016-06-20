@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241949" id="root" date="1996-12-07" xml:lang="en">
+<title>SRI LANKA: Six Sri Lanka soldiers die in mine blast.</title>
+<headline>Six Sri Lanka soldiers die in mine blast.</headline>
+<dateline>COLOMBO 1996-12-07</dateline>
+<text>
+<p>Six Sri Lankan soldiers were killed and at least five wounded when bombs planted by Tamil rebels exploded near a well used by troops in the northern Jaffna peninsula, a military spokesman said on Saturday.</p>
+<p>The explosion occurred on Friday morning at Meesalai near Jaffna town, in the heart of the former stronghold of the Liberation Tigers of Tamil Eelam (LTTE) guerrillas, he said.</p>
+<p>&quot;Soldiers had gone to the well to bathe when one stepped on a pressure mine. Two mines had exploded,&quot; he told Reuters.</p>
+<p>The well was close to a sentry point manned by the army, which now controls much of the peninsula after capturing it from the guerrillas a year ago.</p>
+<p>The LTTE, who are fighting for an independent Tamil homeland in the north and east of this predominantly Sinhalese island, have carried out attacks on troops and on government targets in a bid to stop Colombo from taking full control over their former bastion.</p>
+<p>Colombo last month announced plans to hold local government elections in Jaffna and three other districts in the north which have been wrecked by the ethnic war which broke out in 1983. It has called for nominations for elections next week.</p>
+<p>But moderate Tamil political parties in Colombo opposed the plan saying the north was unsuitable for a peaceful election because vast areas of the region were still in the grips of the Tigers.</p>
+<p>The government has been pushing Tamil parties to begin political activity in the north as an alternative to LTTE rule.</p>
+<p>Deputy Defence Minister Anuruddha Ratwatte told parliament on Friday Tamil parties should help the government fill the political vacuum in the north and help restore a civil administration in the region.</p>
+<p>Colombo says more than 50,000 people have died in the war.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

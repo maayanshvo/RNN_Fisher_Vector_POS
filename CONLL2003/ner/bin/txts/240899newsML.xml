@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240899" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Swiss Re says 1996 premium volume up.</title>
+<headline>Swiss Re says 1996 premium volume up.</headline>
+<dateline>ZURICH 1996-12-06</dateline>
+<text>
+<p>Swiss Reinsurance Co said premium volumes would finish 1996 two percent higher at 13 billion Swiss francs, although major currency exchange rate fluctuations could still have a strong impact.  </p>
+<p>&quot;We anticipate a slight decrease in premium development measured in original currencies,&quot; a Swiss Re statement said.</p>
+<p>&quot;In comparison to the previous year, however, various major currencies have gained against the Swiss franc; we therefore expect a premium volume of 13 billion Swiss francs, representing an increase of two percent,&quot; the reinsurer said.</p>
+<p>Swiss Re added that large fluctuations in the remainder of the year could still have a strong influence on premiums.</p>
+<p>-- Zurich Newsroom, +41-1-631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

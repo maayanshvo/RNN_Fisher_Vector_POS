@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239041" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: FREESTYLE SKIING-WORLD CUP MOGUL RESULTS.</title>
+<headline>FREESTYLE SKIING-WORLD CUP MOGUL RESULTS.</headline>
+<dateline>TIGNES, France 1996-12-06</dateline>
+<text>
+<p>Results of the World Cup</p>
+<p>freestyle skiing moguls competition on Friday:</p>
+<p>Men</p>
+<p> 1. Jesper Ronnback (Sweden)	  25.76 points</p>
+<p> 2. Andrei Ivanov (Russia)	    24.88</p>
+<p> 3. Ryan Johnson (Canada)	     24.57</p>
+<p> 4. Jean-Luc Brassard (Canada)	24.40</p>
+<p> 5. Korneilus Hole (Norway)	   23.92</p>
+<p>6. Jeremie Collomb-Patton (France) 23.87</p>
+<p> 7. Jim Moran (U.S.)		    23.25</p>
+<p> 8. Dominick Gauthier (Canada)	22.73</p>
+<p> 9. Johann Gregoire (France)	  22.58</p>
+<p> 10. Troy Benson (U.S.)		 22.56</p>
+<p>Women</p>
+<p> 1. Tatjana Mittermayer (Germany)   24.32</p>
+<p> 2. Candice Gilg (France)	     24.31</p>
+<p> 3. Minna Karhu (Finland)	     24.05</p>
+<p> 4. Tae Satoya (Japan)		  23.75</p>
+<p> 5. Ann Battellle (U.S.)		23.56</p>
+<p> 6. Donna Weinbrecht (U.S.)	   22.48</p>
+<p> 7. Liz McIntyre (U.S.)		 22.00</p>
+<p> 8. Elena Koroleva (Russia)	   21.77</p>
+<p> 9. Ljudmila Dymchenko (Russia)     21.59</p>
+<p> 10. Katleen Allais (France)	  21.58</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIGNES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

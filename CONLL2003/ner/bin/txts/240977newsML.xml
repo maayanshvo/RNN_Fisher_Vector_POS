@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240977" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Munich Re says to split stock.</title>
+<headline>Munich Re says to split stock.</headline>
+<dateline>MUNICH, Germany 1996-12-06</dateline>
+<text>
+<p>Muenchener Rueckversicherungs AG, the world's largest reinsurer, said on Friday it expected to switch its shares to a lower par value by September 1997 at the earliest.</p>
+<p>The group, known as Munich Re, plans to seek approval for the move at its shareholders' meeting today.</p>
+<p>The company said the switch would probably become effective in September.</p>
+<p>The planned 10-for-one stock split would reduce the par value of Munich Re's shares to five marks from 50, causing their price to drop to around one tenth of the present value.</p>
+<p>Munich Re's registered shares, part of the blue-chip DAX index, were trading at 3,710 marks on Friday.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

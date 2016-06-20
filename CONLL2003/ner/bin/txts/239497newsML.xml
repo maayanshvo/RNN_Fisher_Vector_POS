@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239497" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: AMEX to launch tobacco stock options index soon.</title>
+<headline>AMEX to launch tobacco stock options index soon.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>The American Stock Exchange (AMEX) said on Friday it is preparing to launch options on a new index of nine tobacco companies.</p>
+<p>&quot;We think this is an area of a lot of interest and an options index is a good fit,&quot; an AMEX spokesman said.</p>
+<p>He said the index, called the Tobacco Index, is expected to get regulatory approval soon and begin trading in late December or early January.</p>
+<p>Its tentative ticker symbol is .BUT.</p>
+<p>The options will be European style, meaning they can only be exercised at expiration.  </p>
+<p>The nine companies include American Brands Inc, B.A.T Industries Plc, Dimon Inc, Empresas La Moderna SA de CV, Loews Corp, Philip Morris Cos Inc, RJR Nabisco Holdings Corp, UST Inc and Universal Corp.</p>
+<p>((--Derivatives desk, 312-408-8750))</p>
+<p>((E-mail: derivatives@reuters.com))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

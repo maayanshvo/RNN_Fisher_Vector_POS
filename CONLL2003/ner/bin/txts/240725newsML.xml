@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240725" id="root" date="1996-12-06" xml:lang="en">
+<title>CYPRUS: Cyprus Airways pilots put strike on hold.</title>
+<headline>Cyprus Airways pilots put strike on hold.</headline>
+<dateline>NICOSIA 1996-12-06</dateline>
+<text>
+<p>Cyprus Airways pilots said on Friday they had suspended threats to go on strike after their union agreed to meet aviation chiefs to discuss demands.</p>
+<p>Pilots' union Pasipi had earlier threatened to go on strike unless a pilot suspended from duty was back at work by the weekend.</p>
+<p>Industrial action, a union announcement said, has been put on hold in view of a meeting its representatives will have with civil aviation authorities on Saturday.</p>
+<p>Pasipi had demanded the reinstatement of one of its members grounded by the airline after a flight incident in July.</p>
+<p>The dispute prompted a 48-hour strike threat from Pasipi at the peak of the holiday season in August.</p>
+<p>The strike was called off at the last minute after appeals from the government, which controls 80 percent of the airline.</p>
+<p>-- Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,26 @@
+World Bank sets 250 million stg zero-coupon bond.
+
+LONDON 1996-12-06
+
+The following bond was announced by
+
+lead manager Daiwa Europe.
+
+ BORROWER   WORLD BANK
+
+ AMT    250 MLN STG   COUPON     ZERO	MATURITY    17.JUL.00
+
+ TYPE   ZERO-COUPON   ISS PRICE  79.795    PAY DATE    16.DEC.96
+
+ FULL FEES  0.1875    REOFFER    =	   SPREAD	=
+
+ MOODY	AAA	 LISTING    NONE	PAY FREQ    =
+
+ S&P	  AAA	 DENOMS (M) ONE	 SALE LIMITS US/UK
+
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   YES
+
+ GOV LAW    ENGLISH   HOME CTRY  SUPRA     TAX PROVS   STANDARD
+
+-- London Newsroom +44 171 542 7658
+

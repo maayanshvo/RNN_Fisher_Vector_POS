@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240275" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Bremen coffee prices ease, buyers take advantage.</title>
+<headline>Bremen coffee prices ease, buyers take advantage.</headline>
+<dateline>BREMEN 1996-12-06</dateline>
+<text>
+<p>Outright coffee prices in the Bremen market were $1.50-2.0 off on the week per 50 kg fob.</p>
+<p>Traders said this was the net effect of lower futures although New York last reversed losses on short-covering after five days of losses in a row amid fund liquidations.</p>
+<p>Buyers took advantage of the lower prices, motivated by forecasts Brazil's coming coffee crop should fall from 1996/97 due to weather patterns and falling uses of farm inputs.</p>
+<p>Arabica differentials were steady to higher.</p>
+<p>Robusta buyers kept an eye on quality and transport problems arising from unusually heavy rainfall in Vietnam.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BREMEN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

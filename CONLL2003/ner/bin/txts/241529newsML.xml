@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241529" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Tokyo stocks lower on profit taking.</title>
+<headline>Tokyo stocks lower on profit taking.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Tokyo stocks were lower on profit taking in early morning Friday trade after posting healthy gains in the previous day's session, brokers said. They added that position squaring ahead of the weekend was also expected to weigh down the market.</p>
+<p>At 0018 GMT, the Nikkei 225 was down 110.80 points or 0.53 percent at 20,833.10. Its December futures were down 70 points at 20,870.</p>
+<p>&quot;Thursday's gains were pretty big, so today, things are bound to be slower,&quot; a broker at a middle-sized brokerage said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

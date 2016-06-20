@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239139" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: AT LEAST 36 DIE ON S.AFRICA'S HOLIDAY ROADS.</title>
+<headline>AT LEAST 36 DIE ON S.AFRICA'S HOLIDAY ROADS.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>At least 12 people a day have died on South Africa's roads, just three days since the start of the Christmas holiday season, officials said. </p>
+<p>The National Traffic Information Centre set up to coordinate the holiday rush said 36 people had died in road accidents since December 3.</p>
+<p>Ten people were killed in Mpumalanga province which boasts much of the country's best game reserves, eight in Gauteng, five in the Western Cape and Northern Province, three in both the Free State and Kwazulu-Natal, and one each in the Eastern Cape and North West.</p>
+<p>&quot;Driver fatigue, lack of concentration...unroadworthy vehicles and accidents involving pedestrians have been the main causes of the accidents reported,&quot; the centre's Marleen Leita said in a statement, appealing to motorists to drive with care.</p>
+<p>A total of 1,117 people died on South Africa's roads last December, the centre said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

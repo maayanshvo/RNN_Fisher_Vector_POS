@@ -1,0 +1,70 @@
+FOB Gulf Grain - FOB values remain unchanged.
+
+CHICAGO 1996-12-06
+
+U.S. Gulf FOB basis values were unchanged on Friday in very quiet trading, exporters said.
+
+"There is absolutely nothing going on in the cash markets," a trader said.
+
+U.S. wheat is still overvalued relative to that of other major exporters, so the U.S. wheat export market remained lackluster, dealers said.
+
+Some exporters were cheered by news that the U.S. and Turkey has ironed out recent differences over phytosanitary concerns, they said.
+
+However, the U.S. attache in Argentina raised that country's wheat forecast by one million tonnes to 15.5 million tonnes. Argentina is expected to be an aggressive exporter when the crop becomes available in late December.  
+
+CORN (No. 3 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu) -
+
+    --	 Bid	    Chng     Offer	     Chng
+
+Dec20/Jan10 36    +  H   unc	+39    +  H    unc
+
+January     36    +  H   unc	+38    +  H    unc
+
+February    36    +  H   unc	+38    +  H    unc
+
+March	 33    +  H   unc	+36    +  H    unc
+
+--------
+
+--------
+
+--------
+
+--------
+
+Note: Z=CBOT December, H=CBOT March, nc=no comparison.  
+
+SOYBEANS (No. 2 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu)
+
+    --	 Bid	    Chng     Offer	     Chng
+
+Dec	   unq	    nc	 +38    +  F    unc
+
+Jan	   unq	    nc	 +38    +  F    unc
+
+Feb	   unq	    nc	 +41    +  H    unc
+
+March	 unq	    unc	+39    +  H    unc
+
+Note: F=CBOT January. H=CBOT March  
+
+SRW WHEAT (FOB, U.S. Gulf, basis CBOT, cts/bu) -
+
+    --	 Bid	    Chng     Offer	     Chng
+
+Dec	   unq	     nc	+40    +  H    unc
+
+Jan	   unq	     nc	+35    +  H    unc
+
+Feb	   unq	     nc	+35    +  H    unc
+
+HRW WHEAT (FOB, U.S. Gulf, basis KCBT, cts/bu) -
+
+Dec	   unq	     nc	+86    +  H    unc
+
+Jan	   unq	     nc	+74    +  H    unc
+
+Feb	   unq	     nc	+66    +  H    unc
+
+Note:  H=March futures. nc=no comparison.
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239348" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Trans World Airlines Nov load factor down.</title>
+<headline>Trans World Airlines Nov load factor down.</headline>
+<dateline>ST. LOUIS 1996-12-06</dateline>
+<text>
+<p>Trans World Airlines Inc said Friday its load factor fell to 58.8 percent in November from 63.7 percent a year ago.</p>
+<p>This year's number was hurt because the Sunday after Thanksgiving, usually the heaviest travel day of the year, came in December, TWA said.  </p>
+<p>Available seat miles were 3.12 billion, up from 2.97 billion a year ago, while revenue passenger miles were 1.84 billion, down from 1.90 billion a year ago.</p>
+<p>For the year through November, load factor was 66.9 percent, up from 66.0 percent a year ago.</p>
+<p>Available seat miles were 37.33 billion, up from 34.80 billion, while revenue passenger miles rose to 24.96 billion from 22.97 billion, TWA said.</p>
+<p>((--Chicago newsdesk 312 408 8787)).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

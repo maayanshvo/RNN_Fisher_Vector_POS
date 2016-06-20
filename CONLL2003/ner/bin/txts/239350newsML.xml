@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239350" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: AMREP Corp Q2 Oct 31 profit falls.</title>
+<headline>AMREP Corp Q2 Oct 31 profit falls.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Three Months Ended Oct. 31,</p>
+<p>						  1996		  1995</p>
+<p> Revenues			    $ 33,230,000	$ 42,410,000</p>
+<p> Net Income				 262,000	   1,279,000</p>
+<p> Net Income per share			0.04		  0.17</p>
+<p>Weighted average number of</p>
+<p>   common shares outstanding	7,369,000	   7,396,000</p>
+<p>					   Six Months Ended Oct. 31,</p>
+<p>						   1996		 1995</p>
+<p> Revenues				67,638,000	  83,332,000</p>
+<p> Net Income				 665,000	   2,060,000</p>
+<p> Net Income per share			0.09		  0.28</p>
+<p>Weighted average number of</p>
+<p>   common shares outstanding	7,369,000	   7,395,000</p>
+<p>-- New York Newsdesk 212 859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

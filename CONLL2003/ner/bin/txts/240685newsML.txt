@@ -1,0 +1,22 @@
+EMK sets $35 million Russian MinFin-linked notes.
+
+LONDON 1996-12-06
+
+The following bond was announced by lead manager Donaldson, Lufkin & Jenrette International.
+
+ BORROWER   EMK LTD
+
+ AMT	  $35 MLN   COUPON     11.582    MATURITY    17.MAY.03
+
+ TYPE	 STRAIGHT  ISS PRICE  PAR	 PAY DATE    19.DEC.96
+
+ GOV LAW    ENGLISH   REOFFER    =	   SPREAD	+570 BP
+
+ DENOMS (K) 10-100    LISTING    LUX     SALE LIMITS US/UK/JE/RU
+
+ UNDERLYING GOVT BOND FIVE-YEAR U.S. TREASURY NOTE
+
+ NOTES	SECURED BY MINFIN SERIES 4 NOTES
+
+-- London Newsroom +44 171 542 7658
+

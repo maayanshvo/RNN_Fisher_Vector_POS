@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241456" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Majority Cr Foncier shares tendered in CDC bid.</title>
+<headline>Majority Cr Foncier shares tendered in CDC bid.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>An overwhelming majority of Credit Foncier de France shares have been tendered to an offer launched by state-owned bank CDC for the specialist property lender, the business daily Les Echos reported on Friday.</p>
+<p>The newspaper said the 70 franc per share offer had met &quot;clear success&quot; and that some 80 to 90 percent of shares were tendered to CDC's bid for the bank, due to be wound down by the government because of heavy property losses .</p>
+<p>The results of the offer are to be officially published on December 9.</p>
+<p>-- Paris Newsroom +33 1 4221 5452</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

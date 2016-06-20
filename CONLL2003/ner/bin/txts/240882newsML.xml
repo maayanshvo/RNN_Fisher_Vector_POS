@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240882" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Alusuisse chemicals invests 36 mln Sfr.</title>
+<headline>Alusuisse chemicals invests 36 mln Sfr.</headline>
+<dateline>ZURICH 1996-12-06</dateline>
+<text>
+<p>The Alusuisse-Lonza Group said its chemicals division would invest 36 million Swiss francs in the construction of an additional multipurpose plant at its Visp Fine Chemicals Complex.</p>
+<p>The new plant, where high-quality fine chemicals will be produced, is scheduled to come on stream in the summer of 1998, Alusuisse said in a statement.</p>
+<p>The fine chemicals complex, which has been gradually expanded since 1984, produces custom syntheses of intermediates and active ingredients for pharmaceuticals, plant protection agents and special polymers.</p>
+<p>Given the current broad product portfolio in the research and development pipeline, Alusuisse's Lonza division anticipates strong growth of the custom syntheses business.</p>
+<p>-- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

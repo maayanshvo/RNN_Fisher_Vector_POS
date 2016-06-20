@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240118" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CME live and feeder cattle close lower.</title>
+<headline>CME live and feeder cattle close lower.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>CME live and feeder cattle futures closed lower, pressured early by a sharp drop in stock markets and later by lower midday cash beef prices, traders said.</p>
+<p>Also bearish were forecasts for lower cash cattle prices next week.</p>
+<p>Feeders largely followed the drop in live cattle and stocks, plus from light spreading that involved buying live cattle and selling feeders.</p>
+<p>Stocks fell early after Fed Chairman Greenspan said recent stock gains were irrational and could damage the economy.</p>
+<p>But stocks later recovered much of the decline, removing pressure from the commodity markets.</p>
+<p>Beef prices continue to fall, frustrating cattle traders who have expected a turnaround from the week-long decline. At midday Friday, USDA beef cutout values were unchanged to down $0.28 per cwt for choice cuts. The cutout value for 700 to 850-lb choice cuts dropped to $108.02 from $118.05 a week ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

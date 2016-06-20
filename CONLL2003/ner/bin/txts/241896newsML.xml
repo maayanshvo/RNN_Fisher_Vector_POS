@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241896" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: USAir says BA must separate itself from USAir.</title>
+<headline>USAir says BA must separate itself from USAir.</headline>
+<dateline>ARLINGTON, Va. 1996-12-06</dateline>
+<text>
+<p>USAir Group Inc said late on Friday that the British government's decision to impose conditions on the British Airways PLC, American Airlines' proposed merger sent a message that BA must separate itself from USAir to allow competition.</p>
+<p>&quot;The U.K government has sent a clear message that British Airways must separate itself from USAir so that we can compete in the important U.S.-U.K. marketplace,&quot; USAir said in a statement.  </p>
+<p>The airline, said, however, that much more had to be done to ensure that sufficient slots and ground facilities existed for new competitors.</p>
+<p>It said it will continue to pursue &quot;aggressively&quot; its goal of becoming a full and effective competitor at London's Heathrow Airport.</p>
+<p>The British government said on Friday that British Airways and AMR Corp must drop 168 slots a week at London Heathrow airport and reduce services on the London to Dallas Fort Worth route.  BA would also be required to drop a clause in its pact with USAir that prevents USAir from competing on transatlantic routes.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ARLINGTON, Va."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

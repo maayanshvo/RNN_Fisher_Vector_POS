@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241953" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: Mother Teresa cheerful, meets colleagues.</title>
+<headline>Mother Teresa cheerful, meets colleagues.</headline>
+<dateline>CALCUTTA 1996-12-07</dateline>
+<text>
+<p>Mother Teresa, recovering from heart surgery, was cheerful on Saturday and met members of her Roman Catholic religious order, a clinic administrator said.</p>
+<p>&quot;Mother Teresa is better. She is very cheerful. She had a good sleep,&quot; S.K. Tiwari, an administrator at Calcutta's B.M. Birla Heart Research Centre, told reporters.</p>
+<p>He said the 86-year-old nun, known as the &quot;Saint of the Gutters&quot; for her work with the poor, the sick and dying, also met members of her Missionaries of Charity order.</p>
+<p>Doctors said on Friday that Mother Teresa would not return home as hoped this weekend and had little chance of resuming work in the immediate future.</p>
+<p>Mother Teresa had surgery on November 29 to clear two blocked coronary arteries. But an irregular heartbeat and lung and kidney problems have complicated her recovery.</p>
+<p>Late on Friday, she walked through the clinic's intensive care unit, Tiwari said.</p>
+<p>&quot;She had a long stroll through the intensive therapy unit,&quot; he said. &quot;She blessed everybody in the unit.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

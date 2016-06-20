@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241403" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan drug shares climb on strong prospects.</title>
+<headline>Japan drug shares climb on strong prospects.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Shares of Japanese pharmaceutical firms  0#PHA.T climbed in Friday morning trade, as foreign investors chased after the shares due to their sound business prospects, brokers said.</p>
+<p>As of 0052 GMT, shares of Tanabe Seiyaku Co Ltd were up 13 yen to 1,010 yen.</p>
+<p>Sankyo Co Ltd shares rose 10 yen to 3,320 yen. Takeda Chemical Industries Ltd was up 10 yen to 2,390 yen, the 13th most heavily traded issue on the first section of the Tokyo bourse in a trade of 1.451 million shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

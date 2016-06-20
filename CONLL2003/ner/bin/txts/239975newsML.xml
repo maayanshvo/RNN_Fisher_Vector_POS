@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239975" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: FORECAST -- U.S. economic indicators -- Dec 9 wk.</title>
+<headline>FORECAST -- U.S. economic indicators -- Dec 9 wk.</headline>
+<text>
+<p>DATE  EST/GMT   Indicator	  Period  Avg forecast Previous</p>
+<p>12/10 0900/1400 BTM/Schroders w/e 12/07    NA	   -0.2 pct</p>
+<p>12/10 1000/1500 Wholesale Inv     Oct	NA	   -1.3 pct</p>
+<p>12/10 1000/1500 Current Acct   Q3 96	 NA	-$38.78 bln</p>
+<p>12/10 1000/1500 Rich Fed Survey   Nov	NA    4 ship/17 svc</p>
+<p>12/10 1455/1955 Redbook	 w/e 12/07    NA	   -0.7 pct</p>
+<p>12/11 0830/1330 Producer Prices   Nov    +0.3 pct     +0.4 pct</p>
+<p>		     ex-Food/Energy	    +0.2 pct     -0.3 pct</p>
+<p>12/12 0830/1330 Consumer Prices   Nov    +0.3 pct     +0.3 pct</p>
+<p>			ex-Food/Energy	   +0.2 pct     +0.2 pct</p>
+<p>12/12 0830/1330 Jobless Claims w/e 12/07  341,000	336,000</p>
+<p>DATE   EST/GMT    Indicator     Period  Avg Fcast  Prev Report</p>
+<p>12/12 0830/1330 Retail Sales	Nov    +0.3 pct     +0.2 pct</p>
+<p>		     ex-autos		    +0.2 pct     +0.4 pct</p>
+<p>12/12 1000/1500 Atlanta Fed Index Nov	NA		 -9.4</p>
+<p>12/12 1000/1500 Real Earnings     Nov	NA	   -1.5 pct</p>
+<p>12/13 1000/1400 Business Inven    Oct    +0.2 pct     +0.1 pct</p>
+<p>12/13 1000/1500 Univ of Mich    Dec-Pre    99.2	     99.2</p>
+<p>---------------------FOLLOWING WEEK'S DATA--------------------</p>
+<p>12/16 0915/1315 Industrial Prod   Nov		     -0.5 pct</p>
+<p>		     Capacity Util				82.7 pct</p>
+<p>12/17	     FOMC Meets in Washington</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

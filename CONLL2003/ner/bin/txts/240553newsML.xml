@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240553" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Florida court decision could give state millions.</title>
+<headline>Florida court decision could give state millions.</headline>
+<dateline>TALLAHASSEE, Fla. 1996-12-05</dateline>
+<text>
+<p>The Florida Supreme Court ruled on Thursday that local governments may levy taxes on hundreds of special districts that govern everything from ports to hospitals, a decision which could mean millions in revenue to state municipalities.</p>
+<p>The 4-3 ruling dramatically split the court and was expected to spark a flurry of protest from special taxing districts, governing bodies set up by state lawmakers for specific purposes that had previously enjoyed tax exempt status.</p>
+<p>The decision came in response to a case involving the Canaveral Port Authority, a special taxing district that owns property and leases space for warehouses, retail shops and other businesses at the Atlantic port east of Orlando.</p>
+<p>Brevard County authorities attempted to levy property taxes on the port's holdings, arguing that it was set up by the legislature as a tax exempt political subdivision. The Port Authority filed suit and won.</p>
+<p>The high court disagreed, saying the port's activities fell outside the realm of state government. Only those entities that provide basic services will be allowed to retain their tax exempt protections, the high court wrote.</p>
+<p>&quot;What comprises the state is thus limited to counties, entities providing the public system of education, and agencies, departments, or branches of state government that perform the administration of the state government,&quot; Justice Charles Wells wrote in a nine-page opinion.</p>
+<p>Dissenters said the decision rocked the financial underpinnings of special districts and would result in what would amount to a financial feeding frenzy from Florida cities and counties already strapped for cash.</p>
+<p>&quot;This court has no authority to destroy the constitutional concept of special districts in order that counties, school districts, and municipalities might divide the spoils of this judicial fiat,'' Justice Ben Overton said in a 13-page dissent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLAHASSEE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

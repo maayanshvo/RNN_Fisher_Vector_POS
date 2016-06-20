@@ -1,0 +1,40 @@
+CBOT silver deliveries - Dec 6.
+
+CHICAGO 1996-12-06
+
+Delivery notices against December silver futures for December 7 (In contracts).
+
+LOCATION:				     GRADE/CLASS
+
+WAREHOUSE			     TOTAL
+
+4002 FIRST NATIONAL SIL-GOLD	  1
+
+4003 HARRIS TRUST SILVER-GOLD	 4
+
+				TOTAL	 5
+
+			 TOTAL
+
+FIRM    NAME	ISSUES  CUSTOMER  HOUSE
+
+044  LFG C&I	     1	  1
+
+255  REFCO		 3	  3
+
+905  ADM		   1	  1
+
+     TOTAL		 5	  5
+
+			 TOTAL
+
+FIRM    NAME	 STOPS  CUSTOMER  HOUSE
+
+020  PRUDENTIAL	  1	  1
+
+044  LFG C&I	     4	  4
+
+     TOTAL		 5	  5
+
+	 LAST DAY ASSIGNED:  12/02/96
+

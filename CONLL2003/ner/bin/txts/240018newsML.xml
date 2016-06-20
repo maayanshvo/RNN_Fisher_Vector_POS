@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240018" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - 1.750 mln Allen Par Sch Dist, La..</title>
+<headline>PRESALE - 1.750 mln Allen Par Sch Dist, La..</headline>
+<text>
+<p>AMT: 1,750,000	DATE: 12/09/96	NYC Time: 1200	CUSIP: 017810</p>
+<p>ISSUER: Allen Parish School District Ward One		   ST: LA</p>
+<p>ISSUE: G.O. school, Series 1997				    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NR/NR/NA							  BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 01/01/97							     SURE BID: N</p>
+<p>DUE: 3/1/97-11						SR MGR:</p>
+<p>1ST CPN: 03/01/97</p>
+<p>CALL: 3/1/06 @ par					  NIC</p>
+<p>DELIVERY: 1/21/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: To be agreed upon</p>
+<p>L.O.: Foley &amp; Judell, New Orleans</p>
+<p>F.A.: Fiscal Services, Inc., New Orleans</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		     40,000</p>
+<p>1998		     15,000</p>
+<p>1999		     25,000</p>
+<p>2000		     25,000</p>
+<p>2001		     35,000</p>
+<p>2002		     45,000</p>
+<p>2003		    135,000</p>
+<p>2004		    145,000</p>
+<p>2005		    155,000</p>
+<p>2006		    165,000</p>
+<p>2007		    170,000</p>
+<p>2008		    180,000</p>
+<p>2009		    195,000</p>
+<p>2010		    205,000</p>
+<p>2011		    215,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

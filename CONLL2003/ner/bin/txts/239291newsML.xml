@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239291" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Toronto stocks end weaker, but recovered from lows.</title>
+<headline>Toronto stocks end weaker, but recovered from lows.</headline>
+<text>
+<p>CHANGE				     CHANGE</p>
+<p>TSE	5810.06    -31.69    HI 5810.10	  LOW    5672.21</p>
+<p>DJI	6381.95    -30.19    GOLD (LONDON)   US$370.25  +1.25</p>
+<p>FTSE100  3963.00    -88.20    GOLD (NY-COMEX) US$370.80  -2.20</p>
+<p>NIKKEI  20276.70   -667.20    LME CASH NICKEL US$6770    -45.0</p>
+<p>CANDLR    1.3590		  LME CASH ALUM   US$1487.5  -15.5</p>
+<p>CAN 30-YR 111.90     +0.15    BRENT CRUDE OIL US$25.62   +0.04</p>
+<p>---------------------MARKET COMMENT---------------------------</p>
+<p>* Toronto's key stock index ended weaker on Friday, but recovered most of its heavy early losses * TSE seen resuming upward march, analysts * 12 of 14 sub-groups end lower</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

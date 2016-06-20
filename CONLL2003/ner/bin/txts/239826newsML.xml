@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239826" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Mexico's ICA unit wins $50 mln contract.</title>
+<headline>Mexico's ICA unit wins $50 mln contract.</headline>
+<dateline>MEXICO CITY 1996-12-06</dateline>
+<text>
+<p>Empresas ICA, Mexico's largest construction company, said Friday that  Navistar International Transportation Corp. awarded ICA Fluor Daniel a construction contract for a truck assembly plant worth $50 million.</p>
+<p>&quot;ICA Fluor Daniel will construct three assembly buildings, the main offices and auxiliary services for the plant, with construction scheduled to begin in January 1997 and executed over a 13-month period,&quot; ICA said.  </p>
+<p>&quot;All the construction will be performed by ICA Fluor Daniel under a turn-key contract with a guaranteed maximum,&quot; ICA said.</p>
+<p>The plant will be located in the Escobedo on the outrskirts of the northern city of Monterrey.</p>
+<p>The plant has been designed for the assembly and painting of medium and heavy trucks and bus chassis in two combined production trains with a 65-unit capacity per day, a statement from the company said.</p>
+<p>--Chris Aspin, Mexico City newsroom +525 7289530</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

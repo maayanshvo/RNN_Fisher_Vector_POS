@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239575" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: Clinic Holdings lifts yr shr, div.</title>
+<headline>Clinic Holdings lifts yr shr, div.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>Year ended Sept 30, 1996</p>
+<p>			(million rand unless stated)</p>
+<p>Shr, attrib (cts)</p>
+<p>    - diluted		     47.9	 vs    43.9</p>
+<p>    - undiluted		   47.3	 vs    43.4</p>
+<p>    Div (cts)	9.5 making 16.5	 vs    15.5</p>
+<p>    Attrib income		47.81	 vs    42.98</p>
+<p>    Pre-tax			62.87	 vs    56.83</p>
+<p>    Tax			    11.18	 vs    13.04</p>
+<p>    Interest paid		68.66	 vs    53.29</p>
+<p>    Turnover		  1,019.33	 vs    840.78</p>
+<p>    Share of associates'	0.63	 vs    nil</p>
+<p>Div payable January 10</p>
+<p>on register December 27</p>
+<p>Full name: Clinic Holdings Ltd</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

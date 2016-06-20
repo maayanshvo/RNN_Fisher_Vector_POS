@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239885" id="root" date="1996-12-06" xml:lang="en">
+<title>SINGAPORE: Singapore property prices seen down but stablising.</title>
+<headline>Singapore property prices seen down but stablising.</headline>
+<dateline>SINGAPORE 1996-12-06</dateline>
+<text>
+<p>More consolidation in property prices over the next six months was predicted on Friday by Singapore's Deputy Prime Minister, Brigadier General (retired) Lee Hsien Loong.</p>
+<p>BG Lee said in a speech that consolidation would see prices stabilise at levels more in line with underlying supply and demand.</p>
+<p>&quot;Given our strong economic fundamentals, the outlook for the medium and long terms are good. However in the short term there will inevitably by ups and downs in the property market,&quot; said BG Lee, speaking at a dinner of the Real Estate Developers' Association of Singapore.</p>
+<p>He said the government's anti-speculation measures implemented in May had prevented the property market from overheating.</p>
+<p>&quot;The government can and will ensure that market conditions are orderly, and intervene to check speculation when it becomes excessive,&quot; he said.</p>
+<p>BG Lee said some speculation was necessary in a dynamic property market, but he warned that if left unchecked the property bubble bursts damaging the economy, particularly the financial sector, small investors and home-owners.</p>
+<p>-- Singapore newsroom (65 8703011)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8500011">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8500031">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241321" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Omico starts investment house operations.</title>
+<headline>Omico starts investment house operations.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Mining firm Omico Corp said on Friday it had refocused the operation of its subsidiary to investment banking.</p>
+<p>In a statement to the Philippine Stock Exchange, Omico said it had changed the name of Omico Resources Corp, a holding company, into Omico Kapital Corp, an investment house.</p>
+<p>The amendments have been approved by the Securities and Exchange Commission.</p>
+<p>The investment house will underwrite bonds and securities.</p>
+<p>- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

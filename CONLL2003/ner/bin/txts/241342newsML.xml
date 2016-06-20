@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241342" id="root" date="1996-12-06" xml:lang="en">
+<title>MALAYSIA: KL tin unchanged at 14.99 rgt/kg.</title>
+<headline>KL tin unchanged at 14.99 rgt/kg.</headline>
+<dateline>KUALA LUMPUR 1996-12-06</dateline>
+<text>
+<p>Malaysia's tin price ended unchanged at 14.99 ringgit ($5.95) a kg on support from European and local buyers despite an overnight fall on the London Metal Exchange (LME), traders said.</p>
+<p>&quot;Some strong buying kept the price steady...otherwise the market would have followed the LME,&quot; said a trader.</p>
+<p>Buyers and sellers matched positions for a final turnover of 92 tonnes against 83 on Thursday. The local price was trading at a premium of $20 against London, compared to a discount of $10 on Thursday.</p>
+<p>- Barani Krishnaan (603-2307509) ($1= 2.5210 ringgit).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

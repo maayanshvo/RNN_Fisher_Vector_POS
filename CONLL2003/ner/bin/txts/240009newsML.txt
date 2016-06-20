@@ -1,0 +1,72 @@
+PRESALE - Glendale Sch Dist, Pa..
+
+AMT: 3,000,000	DATE: 12/09/96	NYC Time: 1130     CUSIP: 378523
+
+ISSUER: Glendale SD						    ST: PA
+
+ISSUE: GO, Series 1997						 TAX STAT: Exempt-ULT
+
+M/SP/F:								    BOOK ENTRY: N
+
+ENHANCEMENTS: None						     BANK QUAL: Y
+
+DTD: 01/01/97							    SURE BID: N
+
+DUE: 4/15/98-16					     SR MGR:
+
+1ST CPN: 04/15/97
+
+CALL: 4/15/02 at par					TIC
+
+DELIVERY: 1/9/97 approx				   ORDERS:
+
+PAYING AGENT: To be nemed by the School District
+
+L.O.: Peck, Shaffer & Williams, Pittsburgh
+
+F.A.: Milt Lopus Assoc., Harrisburg
+
+LAST SALE: $5,000,000 FSA 11/21/96 @ 5.24205% TIC; 11yrs 8mos Avg; BBI-5.60%
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		     95,000
+
+1999		    105,000
+
+2000		    110,000
+
+2001		    120,000
+
+2002		    120,000
+
+2003		    125,000
+
+2004		    135,000
+
+2005		    140,000
+
+2006		    145,000
+
+2007		    150,000
+
+2008		    165,000
+
+2009		    165,000
+
+2010		    175,000
+
+2011		    185,000
+
+2012		    195,000
+
+2013		    205,000
+
+2014		    210,000
+
+2015		    225,000
+
+2016		    230,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

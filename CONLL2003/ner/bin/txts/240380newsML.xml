@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240380" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian Shipping -- Madras cargoes - Dec 6.</title>
+<headline>Indian Shipping -- Madras cargoes - Dec 6.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Madras port on December 6:</p>
+<p> Commodity		Tons		  Ship	    Berthing</p>
+<p>		  (LDD/ULD)  (Balance)</p>
+<p>---------------------------------------------------------------</p>
+<p> Containers	   27 (ULD)    140     Tiger Cloud	05/12</p>
+<p> Containers	  205 (LDD)    110     Pacific Eagle    02/12</p>
+<p> Barytes	   1,862 (LDD)  9,138     Jag Ravi	   05/12</p>
+<p> Sugar	     6,892 (LDD)  6,108     Jin Cheng Jiang  01/12</p>
+<p> Containers	  124 (ULD)     75     Novokubunak	04/12</p>
+<p> General	     561 (ULD)  1,842     Gujarat	    04/12</p>
+<p> Cobble Stone   10,470 (LDD) 13,770     Leo		  02/12</p>
+<p> Phosphorous     8,897 (ULD)  6,103     Alhasa	     01/12</p>
+<p> General/Granite 4,453 (ULD)    ---     Maribor	    29/11</p>
+<p> General/Granite 1,287 (LDD) 15,713     Maribor	    29/11</p>
+<p> Thermal Coal   17,624 (ULD) 13,746     Balaji Vintage   04/12</p>
+<p> Urea	     14,490 (ULD) 10,134     Aditya Kiran     01/12</p>
+<p> Scrap	    17,156 (ULD) 14,344     World Themis     25/11</p>
+<p> Thermal Coal   19,475 (ULD) 12,000     Valarchi	   04/12</p>
+<p> Thermal Coal    5,752 (ULD) 27,364     Jag Rashmi	 05/12</p>
+<p> Steam Coal     30,853 (ULD) 21,645     Vikraman	   02/12</p>
+<p> Naptha	   22,700 (LDD)  6,000     Mechanic Yraskov 04/12</p>
+<p> Containers	   35 (ULD)    505     Tiger Wave	 05/12</p>
+<p> Granite Block   5,027 (LDD)  1,473     Panglima	   01/12</p>
+<p>--------------------------------------------------------------</p>
+<p>	    Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>(Source: J.M.Baxi &amp; Co, Madras)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

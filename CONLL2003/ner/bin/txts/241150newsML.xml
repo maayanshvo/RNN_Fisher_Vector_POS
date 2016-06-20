@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241150" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian tourism to exceed 4 million - govt.</title>
+<headline>RTRS-Australian tourism to exceed 4 million - govt.</headline>
+<dateline>CANBERRA 1996-12-06</dateline>
+<text>
+<p>Tourism to Australia is expected to exceed four million visitors in one year for the first time in 1996, Tourism Minister John Moore said on Friday.</p>
+<p>The industry, already Australia's biggest foreign exchange earner after years of growth, had already shown strong growth in 1996 with figures for the first nine months showing a 12.6 percent annual rise, Moore said.  </p>
+<p>&quot;Visitor arrivals have quadrupled over the past 12 years, placing Australia among the fastest growing tourism destinations in the world,&quot; Moore said.</p>
+<p>Visitor numbers were 3.7 million in 1995, compared to Australia's population of about 19 million.</p>
+<p>&quot;Every 18 additional visitors to Australia (are) estimated to generate one job, so the strong growth in inbound tourism throughout the year has provided a real filip to the country's employment prospects,&quot; the minister said.</p>
+<p>About half of visitors to Australia come from Asia, particularly Japan. -- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

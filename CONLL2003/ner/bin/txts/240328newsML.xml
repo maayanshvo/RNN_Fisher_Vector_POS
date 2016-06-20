@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240328" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: INDIAN MONEY MARKET RATES - Dec 6.</title>
+<headline>INDIAN MONEY MARKET RATES - Dec 6.</headline>
+<text>
+<p>Indicative market rates</p>
+<p>* Call money:(O/N/)			 0.10-0.25 pct</p>
+<p>* Commercial paper: P1+		  12.00-14.00 pct</p>
+<p>* Commercial paper: P1		   13.50-15.00 pct</p>
+<p>* Certificate of deposit: 90 day     12.00-13.50 pct</p>
+<p>* Treasury bills:</p>
+<p>  91  day t-bill			    7.75-8.00 pct</p>
+<p>  364 day t-bill			   10.20-10.30 pct</p>
+<p>  T-bill maturing on 25/01/97	   6.75-7.40 pct</p>
+<p>  T-bill maturing on 08/02/97	   7.00-7.50 pct</p>
+<p>  T-bill maturing on 01/03/97	   7.50-7.75 pct</p>
+<p>  T-bill maturing on 10/10/97	   9.50-10.00 pct</p>
+<p>  T-bill maturing on 24/10/97	   9.85-10.10 pct</p>
+<p>  T-bill maturing on 07/11/97	   9.90-10.20 pct</p>
+<p>  T-bill maturing on 21/11/97	   9.95-10.20 pct</p>
+<p>  T-bill maturing on 05/12/97	  10.15-10.25 pct</p>
+<p>.</p>
+<p>Inter-corporate deposits:</p>
+<p>			(Grade)</p>
+<p> 60-90 days	    A		    16.00-18.00 pct</p>
+<p> 60-90 days	    B		    21.00-25.50 pct</p>
+<p>.</p>
+<p>* Note: Grade A refers to blue chip corporates</p>
+<p>	    Grade B refers to other corporates</p>
+<p>* These rates are based on a consensus of rates offered by leading banks.</p>
+<p>* To contribute to this daily composite rate, please telephone Samir Shah on 022 265-9000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

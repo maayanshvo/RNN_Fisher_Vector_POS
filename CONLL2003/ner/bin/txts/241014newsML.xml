@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241014" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. stocks fall at open after Greenspan comments.</title>
+<headline>U.S. stocks fall at open after Greenspan comments.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S. stocks fell sharply at Friday's opening after comments by Fed Chairman Alan Greenspan overnight sparked heavy losses in global markets.</p>
+<p>The Dow industrials index was down 60 to 6,396 while the 30-year bond was down 16/32 to yield 6.55 percent.</p>
+<p>The U.S. unemployment rate edged higher in November as the economy pumped out new jobs at a slower pace, the Labour Department said on Friday.</p>
+<p>The department, in the government's first assessment of the economy's vitality in November, said unemployment rose to 5.4 percent last month as 118,000 new jobs were created, less than expected by analysts.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241294" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: Bank of Korea says supplies 300 bln won to banks.</title>
+<headline>Bank of Korea says supplies 300 bln won to banks.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>Bank of Korea said on Friday it supplied 300 billion won to commercial banks through three-day repurchase agreements to relieve the acute shortage in market liquidity.  </p>
+<p>&quot;We have decided to supply 300 billion won due to rising market rates and an expectation that banks will not be able to meet the reserve requirement deadline tomorrow,&quot; said an official at the Bank of Korea. &quot;The repos will help banks meet their reserve requirement obligations.&quot;</p>
+<p>--Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

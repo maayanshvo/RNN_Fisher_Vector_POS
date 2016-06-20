@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239473" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Hirel to buy Marine Power Inc.</title>
+<headline>Hirel to buy Marine Power Inc.</headline>
+<dateline>FORT LAUDERDALE, Fla. 1996-12-06</dateline>
+<text>
+<p>Hirel Holdings Inc said Friday it had signed a non-binding letter of intent to acquire the assets of Marine Power Inc, a Louisiana-based producer of marine engines, for undisclosed terms.</p>
+<p>Marine Power, which generated gross sales of about $11 million for the fiscal year ended June 1996, would become a Hirel unit.</p>
+<p>The deal is expected to be close by year-end, Hirel said.</p>
+<p>It said the acquisition offered growth and expansion opportunities in both the marine power aftermarket and the original equipment manufacturer business.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="FORT LAUDERDALE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

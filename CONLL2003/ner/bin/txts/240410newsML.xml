@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240410" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Mother Teresa improving day by day - doctors.</title>
+<headline>Mother Teresa improving day by day - doctors.</headline>
+<dateline>CALCUTTA 1996-12-06</dateline>
+<text>
+<p>Mother Teresa is improving with each passing day following life-saving heart surgery last week, her doctors said on Friday.</p>
+<p>&quot;Last night she didn't sleep till one o'clock. She was talking to her sisters,&quot; a morning medical bulletin issued by Calcutta's B.M. Birla Heart Research Centre said.</p>
+<p>&quot;Mother Teresa's condition is improving day by day,&quot; the bulletin added.</p>
+<p>Mother Teresa had surgery last Friday to clear two blocked coronary arteries, her third such operation in five years.</p>
+<p>But an irregular heartbeat, bronchial pneumonia, and long-standing kidney and lung problems complicated her recovery.</p>
+<p>&quot;She is looking cheerful, but according to the doctor on call she is still not out of danger,&quot; the bulletin said.</p>
+<p>Doctors believe Mother Teresa's recovery will take a long time and say the nun, who was fitted with a heart pacemaker in 1989, may never be as active as before.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CALCUTTA"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

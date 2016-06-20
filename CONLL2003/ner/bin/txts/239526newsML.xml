@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239526" id="root" date="1996-12-06" xml:lang="en">
+<title>MAURITIUS: Mauritius put on cyclone alert.</title>
+<headline>Mauritius put on cyclone alert.</headline>
+<dateline>PORT LOUIS 1996-12-06</dateline>
+<text>
+<p>Mauritian authorities put the Indian Ocean island on cyclone alert on Friday.</p>
+<p>The weather services office said the centre of the intense tropical cyclone Daniella was 570 km (310 miles) north by northwest of the island on Friday afternoon and was moving south by southwest at eight km an hour (four knots).</p>
+<p>Although not threatening Mauritius directly, it is coming closer to the island and could change direction, it added.</p>
+<p>Winds up to 75 km an hour (40 knots) could blow over Mauritius during the night of Friday to Saturday, it said. The weather in the capital Port Louis was heavily cloudy on Friday afternoon with occasional showers.</p>
+<p>The northeastern coast of the nearby island of Madagascar has also gone on alert.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MAURTS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PORT LOUIS"/>
+<dc element="dc.creator.location.country.name" value="MAURITIUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241422" id="root" date="1996-12-06" xml:lang="en">
+<title>ISRAEL: PRESS DIGEST - Israel - Dec 6.</title>
+<headline>PRESS DIGEST - Israel - Dec 6.</headline>
+<dateline>JERUSALEM 1996-12-06</dateline>
+<text>
+<p>These are some of the leading stories in Israeli newspapers on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>JERUSALEM POST</p>
+<p>- Palestinian President Arafat sending mixed signals on meeting with Israeli Prime Minister Netanyahu.</p>
+<p>- Portugal atones 500 years after Jews expelled.</p>
+<p>- Japan's Sharp Corp has decided to cancel plans for multimillion dollar plant in northern Israeli development town of Kiryat Shmona, Industry and Trade Ministry source says</p>
+<p>HAARETZ</p>
+<p>- PLO's Abu Ala says if Israel doesn't keep signed agreements, 'We'll demand Haifa, Jaffa and Safed'.</p>
+<p>- EU envoy says he's carrying message to Syria today that Israel wants to renew peace talks.</p>
+<p>MAARIV</p>
+<p>- Security around Netanyahu increased after warnings from Jewish and Arab sources.</p>
+<p>- Opinion poll: 51 percent support formation of national unity government, 27 percent oppose, 22 percent don't know.</p>
+<p>YEDIOTH</p>
+<p>- Security around Netanyahu increased.</p>
+<p>GLOBES</p>
+<p>- Tel Aviv district court temporarily bars communications minister from awarding general license for provision of international communications services to Barak and Golden Line companies who won tender after petition by Dolphin company, which came in third in tender.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241556" id="root" date="1996-12-07" xml:lang="en">
+<title>FINLAND: SKI JUMPING-LEADING WORLD CUP RESULTS/STANDINGS.</title>
+<headline>SKI JUMPING-LEADING WORLD CUP RESULTS/STANDINGS.</headline>
+<dateline>KUUSAMO, Finland 1996-12-07</dateline>
+<text>
+<p>Leading results in a</p>
+<p>World Cup high hill (120-metre) ski jumping event on Saturday:</p>
+<p> 1. Takanobu Okabe (Japan)		  303.4 points (first jump</p>
+<p>145.4/second jump 158)</p>
+<p> 2. Kazuyoshi Funaki (Japan)		295.4 (151.5/143.9)</p>
+<p> 3. Andreas Goldberger (Austria)	  274.4 (144.4/130)</p>
+<p> 4. Dieter Thoma (Germany)		  267 (141.6/124.4)</p>
+<p> 5. Ari-Pekka Nikkola (Finland)	   256.4 (126/130.4)</p>
+<p> 6. Reinhard Schwarzenberger (Austria)  252.6 (119.7/132.9)</p>
+<p> 7. Noriaki Kasai (Japan)		   242 (124.2/117.8)</p>
+<p> 8. Hiroya Saitoh (Japan)		   234.7 (124.6/110.1)</p>
+<p> 9. Jani Soininen (Finland)		 231.5 (115/116.5)</p>
+<p>10. Kristian Brenden (Norway)	     228.1 (129.4/98.7)</p>
+<p>Leading World Cup standings (after three events):</p>
+<p> 1. Thoma					 210 points</p>
+<p> 2. Brenden				     206</p>
+<p> 3. Goldberger				  160</p>
+<p> 4. Okabe					 146</p>
+<p> 5. Funaki					143</p>
+<p> 6. Saitoh					121</p>
+<p> 7. Espen Bredesen (Norway)		 112</p>
+<p> 8. Nikkola				     101</p>
+<p> 9. Soininen				    85</p>
+<p>10. Primoz Peterka (Slovakia)	     76</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUUSAMO, Finland"/>
+<dc element="dc.creator.location.country.name" value="FINLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

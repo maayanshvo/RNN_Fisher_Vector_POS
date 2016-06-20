@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239137" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: GUNMEN KILL FOUR IN S.AFRICA'S ZULU PROVINCE.</title>
+<headline>GUNMEN KILL FOUR IN S.AFRICA'S ZULU PROVINCE.</headline>
+<dateline>DURBAN, South Africa 1996-12-06</dateline>
+<text>
+<p>At least four people have been shot dead in two suspected political attacks in South Africa's volatile Zulu heartland, police said on Friday.</p>
+<p>A police spokesman said two youths believed to be supporters of President Nelson Mandela's African National Congress (ANC) had been killed when unknown gunmen opened fire at the rural settlement of Izingolweni on KwaZulu-Natal province's south coast on Thursday night.</p>
+<p>The victims were 18 and 20, he said, adding one other youth had been wounded in the shooting.</p>
+<p>In another attack, also on the province's south coast on Thursday night, two men were shot dead near Umkomaas.</p>
+<p>&quot;We suspect that these killings are linked to politics,&quot; spokesman Bala Naidoo told Reuters. There had been no arrests.</p>
+<p>The killings came just hours after violence monitors said they were not optimistic of a peaceful festive season in KwaZulu-Natal and pointed the south coast region where 18 people were massacred last Christmas as one of potential hot spots.</p>
+<p>They said the recent lull in political feuding could be upset as thousands of migrant workers, some tense with grudges brewed in the cities and keen to settle old scores, flock back to their home villages.</p>
+<p>More than 14,000 people have lost their lives in over a decade of political turf wars between the ANC and Zulu Chief Mangosuthu Buthelezi's Inkatha Freedom Party in the province.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DURBAN, South Africa"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

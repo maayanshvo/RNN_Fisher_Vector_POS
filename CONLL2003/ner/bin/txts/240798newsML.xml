@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240798" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NASA scrubs Florida landing due to runway fog.</title>
+<headline>NASA scrubs Florida landing due to runway fog.</headline>
+<dateline>CAPE CANAVERAL, Fla. 1996-12-06</dateline>
+<text>
+<p>NASA ruled out space shuttle Columbia's planned landing at the Kennedy Space Centre on Friday after thick fog blanketed the shuttle's Florida landing strip.</p>
+<p>For a second consecutive day, bad weather forced NASA to cancel Columbia's return to Florida. NASA ground controllers said they were studying the possibility of landing the shuttle at Edwards Air Force Base in California later in the day, weather permitting.  </p>
+<p>&quot;The fog is not burning off as we like it,&quot; ground controller Curt Brown radioed to the shuttle crew shortly before 8:30 a.m. EST (1330 GMT). &quot;We're looking at Edwards for a third landing attempt.&quot;</p>
+<p>NASA spokeswoman Eileen Hawley said weather conditions at the backup landing strip in California's Mojave Desert may be acceptable for a touchdown at 11:06 a.m. EST (1606 GMT). Earlier on Friday, the National Aeronautics and Space Administration said the California site had winds gusting beyond NASA's safety limits.</p>
+<p>The astronauts are equipped with five additional days' worth of food, oxygen and supplies and the shuttle can safely remain in orbit until one of its two primary landing sites is available.</p>
+<p>The delay also pushed Columbia's crew closer to setting a new record for the longest shuttle flight. The record for the longest mission was set last July by a different crew aboard the Columbia, which stayed aloft for 17 days.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

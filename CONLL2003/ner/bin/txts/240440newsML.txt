@@ -1,0 +1,38 @@
+Bank of Canada weekly assets and liabilities.
+
+DATE	ASSETS			  C$(million)	 CHANGE(C$million)
+
+12/04    Total T-bills		   17,727	    -223
+
+	   3-years and under		2,028	     169
+
+	   Over three years		 5,636	     265
+
+	   Amount held under
+
+	   purchase/resale agreements
+
+	   Advances			     497	     219
+
+		     TOTAL:		  28,314	     284
+
+	    LIABILITIES
+
+	   Notes in circulation	  27,347	     293
+
+	   C$ deposits:
+
+	   Government of Canada		10		 1
+
+	   Chartered banks		    329	     129
+
+	   Other CPA members		   40		40
+
+		     TOTAL:		  28,314	     284
+
+Net completed securities transactions with the market: 0.
+
+Securities to be purchased under sale/repurchase agreements: 0.
+
+((Reuters Toronto bureau (416) 941-8100))
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240134" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. SEC clears muni board price transparency rule.</title>
+<headline>U.S. SEC clears muni board price transparency rule.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The U.S. SEC said Friday it approved a rule requiring muni bond firms to report prices and other data from trades with retail and institutional buyers to industry regulators beginning Jan. 1, 1998.</p>
+<p>The amendments to the Municipal Securities Rulemaking Board's rule G-14 are the start of a major new phase in the Securities and Exchange Commission's campaign to improve price transparency in the muni market.  </p>
+<p>The revisions, tentatively approved by the 15-member MSRB in August, will not take full effect until Jan. 1, 1998.</p>
+<p>But MSRB wants the rule enacted now so that firms are ready for mandatory testing of the program in summer 1997, Christopher Taylor, MSRB executive director, said in a recent telephone interview.</p>
+<p>Under the first phase of the board's price transparency program, dealers simply had to report data from interdealer trades, which they already report to the National Securities Clearing Corporation.  </p>
+<p>The new rule requires dealers to get executing broker symbols from the National Association of Securities Dealers within 30 days, or in early January 1997.</p>
+<p>By July 1, 1997, dealers must provide the board with the name and telephone number of someone responsible for testing the firm's ability to report customer transaction information.</p>
+<p>Dealers must test their reporting programs between July and December, 1997, on a schedule that the board will announce. They must begin reporting customer transactions on January 1, 1998.</p>
+<p>Regulators like the SEC want the new data to help them monitor whether dealers are fairly pricing the tax-exempt bonds they sell to investors.</p>
+<p>--Vicky Stamas, 202-898-8314</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

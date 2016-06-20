@@ -1,0 +1,84 @@
+First Call Earnings Surprises Dec 5.
+
+NEW YORK 1996-12-06
+
+The following are lists of positive and negative earnings surprises compiled by First Call. Earnings surprises and historical information are provided by First Call.
+
+				 First Call Earnings Surprises
+
+Positive Surprises
+
+------------------
+
+						   First Call
+
+						   Consensus  Actual
+
+Company Name			   Period     EPS	EPS  Surp
+
+National Semiconducto NSM	Q2Nov96    0.18     0.21  16.7%
+
+SMART Modular	   SMOD     Q4Oct96    0.32     0.34   6.3%
+
+Negative Surprises
+
+------------------
+
+						   First Call
+
+						   Consensus  Actual
+
+Company Name			   Period     EPS	EPS  Surp
+
+Rohr Inc.		 RHR	Q1Oct96    0.15     0.14  -6.7%
+
+Newcor Inc		NEWC     Q4Oct96    0.32     0.30  -6.3%
+
+Owosso Corp	     OWOS     Q4Oct96   -0.16    -0.20     N-
+
+T-NETIX, Inc.	   TNTX     Q1Oct96    0.01    -0.04    N/A
+
+				Other Companies Reporting Today
+
+Positive Reports
+
+----------------
+
+						   First Call
+
+						   Consensus  Actual
+
+Company Name			  Period     EPS	EPS  Diff
+
+Credence Systems Corp CMOS     Q4Oct96    0.20     0.20  0.0%
+
+Negative Reports
+
+----------------
+
+						   First Call
+
+						   Consensus  Actual
+
+Company Name		   Period     EPS	EPS  Diff
+
+None Reported.
+
+Legend:
+
+N/A	All or some data necessary for calculation is
+
+	   unavailable.
+
+N/C	Not Calculable, e.g. divisor (Mean estimate) = 0, and
+
+	   there is more than one estimate.
+
+N+	 Actual EPS is larger than Mean estimate. Mean
+
+	   estimate is negative or zero.
+
+N-	 Actual EPS is smaller than Mean estimate. Mean
+
+	   estimate is negative or zero.
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240748" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Kansas feedlot cattle roundup - USDA.</title>
+<headline>Kansas feedlot cattle roundup - USDA.</headline>
+<dateline>DODGE CITY 1996-12-06</dateline>
+<text>
+<p>Trade slow. Not enough slaughter steer or heifer sales confirmed for an adequate market test. - USDA</p>
+<p>Thursday	  600   week ago holiday    year ago 14,200</p>
+<p>week to date 89,300   week ago 71,000     year ago 47,200</p>
+<p>Inquiry good, demand light.  Sales confirmed on 500 slaughter  steers and 100 slaughter heifers Thursday. For the week to date 89,300 head confirmed including 30,600 head of contracted or formulated cattle.</p>
+<p>Steers: Select and Choice 2-3, 1200 lbs 67.00.</p>
+<p>Heifers: Select and Choice 2-3, 1150 lbs 67.00.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DODGE CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

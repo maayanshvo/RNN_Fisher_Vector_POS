@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241361" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Philippine govt securities secondary market rates.</title>
+<headline>Philippine govt securities secondary market rates.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>The following are secondary market rates quoted by banks on Friday for Philippine government securities. The rates are indicative as maturities are slightly varying.</p>
+<p>			     ---------------</p>
+<p>  BANK			  RATES BID/OFFER PCT</p>
+<p>			     3-mths	  6-mths	   1-year</p>
+<p>Bank of America	 11.50 /11.40  11.825/11.725  12.20 /12.10</p>
+<p>BPI			 11.60 /11.40  11.90 /11.70   12.30 /12.10</p>
+<p>Citibank		  11.50 /11.40  11.80 /11.70   12.25 /12.10</p>
+<p>Metrobank		 11.425/11.40  11.875/11.70   12.20 /12.10</p>
+<p>Multinational	   11.50 /11.375 11.80 /11.715  12.25 /12.10</p>
+<p>PNB			 11.50 /11.40  11.825/11.70   12.15 /12.00</p>
+<p>PCIBank		   11.60 /11.425 12.00 /11.80   12.375/12.20</p>
+<p>Solidbank		 11.50 /11.425 11.80 /11.75   12.30 /12.225</p>
+<p>StanChart		 11.50 /11.415 11.75 /11.675  12.25 /12.15</p>
+<p>			     ---------------</p>
+<p>* To contribute to this page, please fax your quotes to Reuters Manila newsroom on (632) 817 6267. For details, please phone on (632) 841 8934</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

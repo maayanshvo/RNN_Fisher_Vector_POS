@@ -1,0 +1,30 @@
+Web access planned for securities fraud cases.
+
+PALO ALTO, Calif. 1996-12-06
+
+The Securities and Exchange Commission said Friday it was joining Stanford Law School and federal judges in northern California in a bid to provide public access to securities lawsuits via the Internet.
+
+As part of the effort, Stanford Law School said it created a site on the Internet's World Wide Web that could serve as a clearinghouse for information on securities fraud cases. The site was to be unveiled at a San Francisco news conference on Friday.
+
+Institutional investors with more than $1 trillion in assets under management have already registered for automatic updates of the Stanford Law School site.
+
+The move follows the defeat last month of Proposition 211, a California ballot issue that would have made it easier to file class-action securities lawsuits in the state.
+
+"We would have done this without regard to 211," said Stanford Law School Professor Joseph Grundfest, adding that a new rule would be adopted to foster electronic filing.
+
+The SEC said judges of the U.S. District Court for the Northern District of California have proposed a rule that would require attorneys in securities fraud cases to post major litigation documents on the Internet.
+
+The proposed rule would not oblige attorneys to post the documents on any particular site, however, and the SEC said it would provide on its home page a list of qualified Internet sites for such data, of which Stanford would be the first.
+
+This would be similar to the way in which publicly traded corporations disclose financial information through the SEC's Edgar site, which was started as a university project.
+
+SEC Commissioner Steve Wallman said in a statement that, like the electronic access to financial disclosures, investors "will now start to have the same access to information about federal securities fraud class action litigation."
+
+Thelton Henderson, chief judge of the U.S. District Court for the Northern District of California, said the court was seeking comments from attorneys and others on the proposal.
+
+The Northern District of California is home to Silicon Valley, and the venue for more class action securities fraud litigation than any other federal court in the nation.
+
+Henderson said securities class-action lawsuits often require communication with thousands of people.
+
+"In a world of paper-based correspondence that process is often slow and expensive," Henderson said. "The Internet may help alleviate this problem by creating a cheap and efficient means of providing class members in securities cases with detailed and timely information about litigation."
+

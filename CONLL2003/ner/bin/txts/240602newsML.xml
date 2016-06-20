@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240602" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Enron, Phillips complete N.Sea J-Block gas tests.</title>
+<headline>Enron, Phillips complete N.Sea J-Block gas tests.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Enron Corp and Phillips Petroleum Co UK (Ltd) on Friday announced that they have completed gas commissioning and running tests from the North Sea's J-Block.</p>
+<p>Phillips, as operator of J-Block and owner of 36.5 percent of the equity with Agip (UK) Ltd (33 percent) and British Gas Exploration and Production (30.5 percent) has been producing gas from the Judy platform since November 18.</p>
+<p>Enron, the contractual buyer of all the field's gas, requested the gas as a test that Phillips was capable of producing at the rate of 300 million cubic feet a day (mmscfd) for three days, and that Enron was capable of processing these volumes.</p>
+<p>But neither side was able to confirm on Friday that the tests had been successful, saying only that they have now finished.</p>
+<p>Phillips and Enron are locked in a dispute over gas from the J-Block. Enron has nominated its requirements at zero at least until September 1998, and hopes to renegotiate the contract price.</p>
+<p>This would have prevented Phillips from producing oil as well, but the company has responded by building a gas reinjection module, allowing it to reinject gas back into the reservoir while extracting oil.</p>
+<p>The two sides are currently in litigation in London, although Enron says &quot;there are a number of issues currently at trial and we cannot comment on any of them individually&quot;.</p>
+<p>-- Sebastian Alison, London Newsroom +44 171 542 6412</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

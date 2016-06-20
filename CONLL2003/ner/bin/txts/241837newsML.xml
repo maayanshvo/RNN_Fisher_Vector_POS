@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241837" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: Rating agency dealt blow in Orange County suit.</title>
+<headline>Rating agency dealt blow in Orange County suit.</headline>
+<dateline>SANTA ANA, Calif. 1996-12-06</dateline>
+<text>
+<p>A federal judge dealt a blow to credit rating agency Standard &amp; Poor's Corp. in its heated legal battle with Orange County, Calif., challenging S&amp;P's claim to First Amendment protection.</p>
+<p>In an opinion released in Santa Ana on Friday, U.S. Bankruptcy Judge John Ryan concluded that S&amp;P's &quot;broad-based argument for dismissal of the complaint based on alleged First Amendment protections is without merit.&quot;</p>
+<p>An S&amp;P spokesman said the firm &quot;will be renewing our motion to dismiss the important First Amendment and related issues before the federal District Court in the near future.&quot;</p>
+<p>Orange County sued McGraw-Hill Cos Inc.'s S&amp;P in June in U.S. Bankruptcy Court for $500 million for its alleged involvement in the county's investment crisis. The suit has since been moved from bankruptcy to district court.</p>
+<p>The county sued the rating agency for breach of contract, professional negligence and aiding and abetting breach of fiduciary duty. According to the suit, S&amp;P's ratings assured the county and the public that former county Treasurer Robert Citron was &quot;conservatively and safely&quot; managing county funds.</p>
+<p>Had S&amp;P met its &quot;contractual obligations&quot; and &quot;exercised professional due care,&quot; the county claimed it would have taken steps to reduce its exposure to risk &quot;in time to avoid more than $500 million in losses that the county later suffered.&quot;</p>
+<p>Orange County filed for protection under Chapter 9 of the Federal Bankruptcy Code on Dec. 6, 1994, after sustaining investment losses of more than $1.6 billion. It was the largest municipal bankruptcy in U.S. history. The county emerged from bankruptcy in June.</p>
+<p>In its legal battle with the county, S&amp;P argued that it was entitled to certain First Amendment protections as a financial publisher. The rating agency said the county must plead that S&amp;P acted with &quot;actual malice&quot; -- that S&amp;P either knowingly published false information or published this information with reckless disregard for the truth.</p>
+<p>The county, in response, argued that the First Amendment does not protect publishers from liability for breach of contract. Under the terms of S&amp;P's contract with the county, the rating agency was required to issue bond ratings and investment services that were &quot;competent, honest and not deceptive,&quot; the county said.</p>
+<p>&quot;Clearly, the publication of security ratings provides a public service to the investment community and is a matter of public interest,&quot; Ryan wrote in his 37-page opinion. &quot;However, First Amendment protection is not without limits.&quot;</p>
+<p>Judge Ryan said he agreed with the county that &quot;S&amp;P's publisher status does not provide First Amendment protection as to all S&amp;P's activities. Under the circumstances here, the county does not have to plead actual malice in order to maintain its claims.&quot;</p>
+<p>He concluded that S&amp;P was not entitled to dismissal of the county's lawsuit based on the First Amendment. He also found that the county had &quot;successfully&quot; argued both breach of contract and professional negligence against S&amp;P and denied the rating agency's motion to dismiss the two claims.</p>
+<p>In S&amp;P's favor, Ryan said the county's claim for aiding and abetting breach of fiduciary duty must be dismissed because the rating agency does not have an independent fiduciary duty to the county.</p>
+<p>County attorneys said Ryan's opinion was a major victory for Orange County, and could make it easier for other municipilities that sue the rating agencies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA ANA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

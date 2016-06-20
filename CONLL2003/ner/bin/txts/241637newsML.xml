@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241637" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: SQUASH-JANSHER ASKED TO EXPLAIN ABSENCE.</title>
+<headline>SQUASH-JANSHER ASKED TO EXPLAIN ABSENCE.</headline>
+<dateline>BOMBAY 1996-12-09</dateline>
+<text>
+<p>World Open champion Jansher Khan has been asked to explain within 10 days his late withdrawal from the Mahindra International which finished here on Saturday.</p>
+<p>If Jansher is considered to have contravened Professional Squash Association regulations he is liable to a fine of 10,000 pounds sterling ($16,400) plus a ban of between one month and a year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-09"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

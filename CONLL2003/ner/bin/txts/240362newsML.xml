@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240362" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: India, Italy agree on need for joint ventures.</title>
+<headline>India, Italy agree on need for joint ventures.</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>India and Italy on Friday agreed on the need to set up joint ventures, including the transfer of technology, with special emphasis on strengthening ties between small and medium-sized firms.</p>
+<p>The Indian government said in a statement that Commerce Minister B.B. Ramaiah and Italian Trade Minister Augusto Fantozzi signed agreed minutes at the end of a two-day meeting of the Indo-Italian Joint Committee for Economic Cooperation.</p>
+<p>&quot;The agreed minutes stress the need for setting up joint ventures including transfer of technology between the two countries,&quot; the statement said.</p>
+<p>The two sides expressed keen interest in sectors like textiles and garments, food processing, chemicals and pharmaceuticals, ceramics, tiles, leather, automobile and transporation and gems and jewellery, it said.</p>
+<p>&quot;Italy agreed to train Indians in leather manufacturing, fashion garments and travelling goods,&quot; it said.</p>
+<p>The two countries agreed on the start of &quot;concrete industrial cooperation projects, particularly strengthening cooperation between small and medium-sized enterprises of the two countries&quot;, it said.</p>
+<p>It was agreed to set up a working group in the field of hide processing and shoes, as well as agro-processing, the statement said.</p>
+<p>-- New Delhi newsroom +91-11 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,34 @@
+Foreign currency rates against the Ecu.
+
+BRUSSELS 1996-12-06
+
+The European Commission on Friday gave the following official foreign currency rates for one European Currency Unit (Ecu):
+
+ Belgian Franc	39.8457  US Dollar	    1.26204
+
+ Danish Krone	 7.40248  Canadian Dollar    1.72066
+
+ Deutsche Mark	1.93306  Japanese Yen	 141.563
+
+ Greek Drachma	305.148  Swiss Franc	  1.63573
+
+ Spanish Peseta     162.828  Norwegian Krone    8.10165
+
+ French Franc	 6.53230  Icelandic Krona    84.4429
+
+ Irish Punt	  0.763529  Australian Dollar  1.58348
+
+ Italian Lira	 1917.22  New Zealand Dollar 1.79522
+
+ Dutch Guilder	2.16818  Maltese Lira	0.455116
+
+ Austrian Schilling 13.5997  Turkish Lira	 130503
+
+ Portuguese Escudo  195.338  Cyprus Pound	0.588692
+
+ Finnish Markka     5.77761  South African Rand 5.87794
+
+ Swedish Krona	8.51623  Hungarian Forint   205.005
+
+ Sterling	    0.767196  Slovenian Tolar    179.413
+

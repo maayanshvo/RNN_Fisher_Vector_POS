@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239474" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NTN cuts jobs, retires operating leases.</title>
+<headline>NTN cuts jobs, retires operating leases.</headline>
+<dateline>CARLSBAD, Calif. 1996-12-06</dateline>
+<text>
+<p>NTN Communications Inc on Friday said it reduced its workforce by 16 percent and plans to retire a majority of its operating leases in a move that will save the company $4.2 million annually.</p>
+<p>The firm said the work force reduction, which will save about $1.1 million, was implemented across all levels of management.</p>
+<p>The cut pares the firms staff to 184 persons from 218.</p>
+<p>NTN said it has reached an agreement in principle to repay approximately $3.6 million in high cost operating leases resulting in annual cash flow savings of about $3.1 million.</p>
+<p>&quot;The repayment of our operating leases substantially reduces our cost of capital and relieves the operations from an enormous financial burden,&quot; Gerald Sokol Jr, the company's chief financial officer said in a statement said.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSBAD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

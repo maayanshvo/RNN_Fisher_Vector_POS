@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240465" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: RESEARCH ALERT - TWA cut to neutral.</title>
+<headline>RESEARCH ALERT - TWA cut to neutral.</headline>
+<text>
+<p>-- Lehman Brothers said Friday it had cut its rating on Trans World Airlines Inc to neutral from outperform.</p>
+<p>-- &quot;Due to weak October traffic, international fare sales and the continuing high media visibility of the Flight 800 crash, we are lowering our earnings expectations for TWA. Given these reduced earnings expectations, we are reducing our rating ... from outperform to neutral,&quot; analyst Brian Harris said in a report.</p>
+<p>-- He gave no new earnings estimates.</p>
+<p>-- &quot;We think the weak link to TWA's stalled turnaround is the carrier's suboptimal schedule,&quot; he said. &quot;Until the schedule is fixed, the carrier will not receive the full benefits from its new revenue management systems, nor will its product quality improve markedly.&quot;</p>
+<p>-- Wall Street Desk (212) 859-1730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

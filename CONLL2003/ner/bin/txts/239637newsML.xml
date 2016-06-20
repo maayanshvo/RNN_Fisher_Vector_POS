@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239637" id="root" date="1996-12-06" xml:lang="en">
+<title>POLAND: Polish ex-communist president to visit Pope.</title>
+<headline>Polish ex-communist president to visit Pope.</headline>
+<dateline>WARSAW 1996-12-06</dateline>
+<text>
+<p>Poland's ex-communist President Aleksander Kwasniewski is likely to visit Polish-born Pope John Paul in early 1997 despite uneasy relations between the Vatican and Warsaw, the foreign minister said on Friday.</p>
+<p>&quot;President Kwasniewski plans to visit Italy on a invitation from President Oscar Scalfaro. A meeting with the Pope is also planned,&quot; Dariusz Rosati told a news conference.</p>
+<p>Rosati said that the atmosphere of the meeting, if it takes place, would largely depend on the progress in talks on ratification of a treaty between Warsaw and the Vatican. @</p>
+<p>The ratification of the treaty, which was signed in 1993 by the then right-centrist government, is being delayed by an ex-communist party, which won parliamentary elections in the same year and now dominates parliament.</p>
+<p>The party, the Democratic Left Alliance, says the agreement would give the Catholic Church too much influence over life in Poland and could infringe on rights of other religious groups and non-believers.</p>
+<p>The relations with the Vatican have also been soured by a recent relaxation of Poland's anti-abortion rules, which Kwasniewski signed into law last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="VCAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GREL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

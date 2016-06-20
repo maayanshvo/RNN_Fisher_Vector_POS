@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241212" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Hansom interim net loss HK$5.32 mln.</title>
+<headline>Hansom interim net loss HK$5.32 mln.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Six months ended September 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   2.5 loss  vs 3.1 loss</p>
+<p>    Dividend (H.K. cents)    nil	 vs nil</p>
+<p>    Exceptional items	  1.19 loss vs 1.74 loss</p>
+<p>    Net			    5.32 loss vs 6.70 loss</p>
+<p>    Turnover		     24.26     vs 41.75</p>
+<p>    Company name		 Hansom Holdings Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Hansom Holdings is a construction group.</p>
+<p>Net is after an exceptional gain on disposal of a subsidiary.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

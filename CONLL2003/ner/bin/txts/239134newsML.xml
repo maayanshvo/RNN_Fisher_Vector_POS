@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239134" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: SOUTH AFRICAN NOV GOLD/FOREX RESERVES 10.93 BLN RAND.</title>
+<headline>SOUTH AFRICAN NOV GOLD/FOREX RESERVES 10.93 BLN RAND.</headline>
+<dateline>PRETORIA 1996-12-06</dateline>
+<text>
+<p>South Africa's combined gold and</p>
+<p>foreign exchange reserves rose 650.8 million rand in November to</p>
+<p>10.93 billion rand from October's 10.28 billion rand, when they</p>
+<p>rose 241.5 million rand, Reserve Bank figures show.</p>
+<p>Economists polled by Reuters had forecast November reserves</p>
+<p>at 10.38 billion rand, with the range 10.0 to 11.0 billion rand.</p>
+<p>Details (rounded)    Nov '96	    Oct '96	Nov '95	</p>
+<p>Assets: (Rand mln)</p>
+<p>Gold		     5910.58	    6212.44	5433.29	</p>
+<p>Foreign		  5024.31	    4071.61	8002.65     </p>
+<p>Total		   10934.89	   10284.05     13435.94	</p>
+<p>Gold shr of total	54.1  pct	  60.0	   40.04</p>
+<p>Gold volume		 3.83 mln oz	3.84	   4.26</p>
+<p>Gold value	     1544.49 rand/oz  1616.29	1274.69</p>
+<p>Other liabilities    5786.89 bln rand    5.73	   4.71   </p>
+<p>Total liabilities	33.45 bln rand   33.13	  32.34</p>
+<p>-- Johannesburg newsroom (+27 11 482-1003)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E513">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRETORIA"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

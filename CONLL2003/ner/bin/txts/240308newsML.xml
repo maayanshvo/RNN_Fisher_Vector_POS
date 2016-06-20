@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240308" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: France steps up efforts to smooth Thomson flap.</title>
+<headline>France steps up efforts to smooth Thomson flap.</headline>
+<byline>Christopher Noble</byline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>The French Foreign Ministry on Friday issued an unusual statement aimed at soothing South Korean worries over its decision to halt the privatisation of electronics giant Thomson SA.</p>
+<p>Clearly concerned about broader trade implications of a decision seen in Korea as a slap at national honour and portrayed in the international press as an example of French parochialism, the government said France and South Korea enjoyed relations of &quot;respect, partnership and trust&quot;.</p>
+<p>On Wednesday, Paris suspended its sale of Thomson after an independent privatisation commission challenged Korean firm Daewoo's involvement.</p>
+<p>In an indirect admission that the government had erred by not informing South Korea in advance of its decision, the statement said Korean authorities and Daewoo officials would be informed as soon as new terms for the sale were decided.</p>
+<p>Under the plan, France was to have sold loss-making Thomson to electronics group Lagardere, which then planned to sell unit Thomson Multimedia to Daewoo Electronics Co Ltd.</p>
+<p>The privatisation commission said the Daewoo deal did not fully reflect the value of Thomson's technology in digital decoders and flat screens.</p>
+<p>The French government has said it plans to restart the privatisation process as soon as possible and that Daewoo is not excluded.</p>
+<p>Daewoo on Friday reiterated its interest in taking over Thomson Multimedia. &quot;Of course we haven't abandoned our plan,&quot; Daewoo Group  spokesman Lee Jung-seung said in Seoul.</p>
+<p>French Foreign Ministry spokesman Jacques Rummelhardt told reporters that ambassador to Seoul Dominique Perreau had met Vice Prime Minister Han Seung-soo on Friday.</p>
+<p>&quot;He was able to repeat, during a completely cordial meeting, just how much importance we attach to our relationship with Korea,&quot; Rummelhardt said.</p>
+<p>&quot;(Perreau) offered the desired explanation on the matter of the privatisation of Thomson and the opinion of the Commission,&quot; he added.</p>
+<p>South Korea told France on Friday that many people were worried by the decision to delay the Thomson sale, and it was closely monitoring developments.</p>
+<p>In Seoul, Han also hinted at a possible impact on trade.</p>
+<p>&quot;This decision has caused worries to many people who want to expand economic cooperation between Korea and France,&quot; Finance Ministry official Kim Seung-jin Kim quoted Han as telling the French envoy in a late afternoon meeting.</p>
+<p>&quot;I hope this incident will not affect cooperative economic relations between the two countries. We will watch the steps and procedures the privatisation committee will take in the future,&quot; Han said.</p>
+<p>Rummelhardt was also at pains to distance Paris from allegations the decision to stop the Thomson sale was motivated by racism and xenophobia.</p>
+<p>&quot;We are extremely saddened that some did not hesitate to accuse France, on this matter, of discrimination,&quot; Rummelhardt said. &quot;France is a country open to the world which wants to develop international exchanges adapted to the modern world.&quot;</p>
+<p>But the statement also defended the privatisation process and the decision to suspend Thomson's sale.</p>
+<p>&quot;The truth is we are in a democratic country and it is totally normal that there is a debate and consultation with an independent commission of the executive power,&quot; Rummelhardt said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

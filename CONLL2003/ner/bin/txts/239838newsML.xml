@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239838" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Mexico approves TMM Northeast Rail bid.</title>
+<headline>Mexico approves TMM Northeast Rail bid.</headline>
+<dateline>MEXICO CITY 1996-12-05</dateline>
+<text>
+<p>The government on Thursday approved an 11.07 billion peso bid for Northeast Railway by a group led by Transportacion Maritima Mexicana SA (TMM), making it the winner of the first Mexican railway to be privatized.</p>
+<p>The Communications and Transport Ministry said the partnership, in which Kansas City Southern Industries Inc has a minority 49 percent stake, acquired 80 percent of the railway, complying with all the necessary technical and economic requirements.  </p>
+<p>In addition to the price tag, Transportacion Ferroviaria Mexicana (TFM), as the winning consortium is called, will pay the government 0.5 percent of gross revenues for the first 15 years of the concession and 1.25 percent after. That is worth an estimated 234 million pesos, the ministry said.</p>
+<p>The group has also pledged some 4.82 billion pesos of investment over the next 10 years.</p>
+<p>The government estimated its income from the sale would be around 14 billion pesos, taking into account the other 20 percent of the rail shares that will be floated on the stock market. Those shares are guaranteed by TFM.</p>
+<p>The ministry said TFM's business plan projected rail traffic on its lines would grow at an average 15.6 percent per year between 1997-2006. It also plans to cut prices.</p>
+<p>-- Henry Tricks, Mexico City newsroom +525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

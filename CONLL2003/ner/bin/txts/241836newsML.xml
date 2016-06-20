@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241836" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S. shuttle crew prepares for landing.</title>
+<headline>U.S. shuttle crew prepares for landing.</headline>
+<byline>Steven Young</byline>
+<dateline>CAPE CANAVERAL, Florida 1996-12-07</dateline>
+<text>
+<p>For the third time in as many days, the crew of the space shuttle Columbia on Saturday closed their spaceship's cargo bay doors and prepared to return to earth.</p>
+<p>NASA officials said they were determined to land the $2 billion orbiter after bad weather thwarted the shuttle's homecoming for two consecutive days.</p>
+<p>&quot;The probabilities for landing at the Kennedy Space Centre this morning look a bit more favourable than they did initially,&quot; NASA mission commentator Eileen Hawley said. Ground fog was no longer being expected and only scattered clouds were forecast.</p>
+<p>Columbia had two landing opportunities at Florida's Kennedy Space Centre on Saturday, the first at 6:49 a.m. EST (1150 GMT) and another at 8:26 a.m. EST (1325 GMT). If the weather in Florida refused to cooperate, it cy Space Centre and high winds were gusting at the California landing strip. The day before cloudy skies at the Florida spaceport were the problem.</p>
+<p>It was only the third time that a shuttle's landing had been postponed for two consecutive days, NASA officials said.</p>
+<p>Mission control woke the astronauts on Saturday night with a recording of Sawyer Brown's &quot;Please Come Home For Christmas&quot;.</p>
+<p>&quot;Good morning, Columbia, and we really do want to have you home for Christmas,&quot; mission control's Marc Garneu radioed. &quot;We're all set up to try again today.&quot;</p>
+<p>The shuttle's extra day in space propelled the mission into the record books as the longest ever in the 15-year shuttle programme.</p>
+<p>Columbia's marathon 18-day mission, which began on Nov. 19, was marred by a jammed airlock hatch that forced NASA to cancel a pair of space walks. Astronauts Tammy Jernigan and Tom Jones had spent months training for the space walks, which had been intended to test construction tools for a planned permanent space station.</p>
+<p>During the mission, the astronauts released and later retrieved two science satellites. A U.S.-German telescope studied the life cycles of stars and a prototype computer chip factory manufactured ultra-pure semiconductors for the electronics industry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

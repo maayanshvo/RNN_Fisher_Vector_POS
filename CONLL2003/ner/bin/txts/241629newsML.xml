@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241629" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: RUGBY UNION-SOUTH AFRICA BEAT FRANCE 13-12.</title>
+<headline>RUGBY UNION-SOUTH AFRICA BEAT FRANCE 13-12.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>South Africa beat France 13-12 (half-time 10-3) in a rugby union international on Saturday.</p>
+<p>Scorers:</p>
+<p>France - Penalties: Richard Dourthe (4)</p>
+<p>South Africa - Try: James Dalton. Conversion: Henry Honiball. Penalties: Honiball (2)</p>
+<p>Attendance : 45,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239128" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: BASKETBALL-EUROLEAGUE RESULT.</title>
+<headline>BASKETBALL-EUROLEAGUE RESULT.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>Result of a EuroLeague basketball match on Thursday:</p>
+<p>Group B</p>
+<p>In Charleroi:</p>
+<p>Charleroi (Belgium) 75 Estudiantes Madrid (Spain) 82 (34-35)</p>
+<p>Leading scorers:</p>
+<p>Charleroi - Eric Cleymans 18, Ron Ellis 18, Jacques Stas 14</p>
+<p>Estudiantes - Harper Williams 20, Chadler Thompson 17, Juan Aisa 14  </p>
+<p>Group D</p>
+<p>In Belgrade:</p>
+<p>Partizan Belgrade (Yugoslavia) 78 Kinder Bologna (Italy) 70 (halftime 44-35)</p>
+<p>Leading scorers:</p>
+<p>Partizan - Dejan Koturovic 21</p>
+<p>Kinder - Zoran Savic 18</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

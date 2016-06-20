@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240888" id="root" date="1996-12-06" xml:lang="en">
+<title>NETHERLANDS: Dutch see offshore airport as Schiphol replacement.</title>
+<headline>Dutch see offshore airport as Schiphol replacement.</headline>
+<dateline>AMSTERDAM 1996-12-06</dateline>
+<text>
+<p>The Netherlands' national airport at Schiphol could be moved to a man-made island in the North Sea, a report by the Dutch national resources and demographics institute(RPD) said on Friday.</p>
+<p>It added that an artificial island is the most logical location for a new national airport.</p>
+<p>The report was prepared for the Dutch planning ministry.</p>
+<p>The RPD said moving Schiphol would avoid the need for a second national airport.</p>
+<p>The report is intended as an advisory document ahead of a review of airport capacity due in to start in March next year.</p>
+<p>The proposal is one way of achieving improved long term growth for the airport and of reducing environmental objections to further expansion of the existing airport, it added.</p>
+<p>The report also examined a number of other options including boosting current capacity at Schiphol, the construction of a satellite airport and a third option, of building a second national airport offshore. --Air Cargo Newsroom Tel+44 171 542 7706 Fax +44 171 542 5017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

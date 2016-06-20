@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239817" id="root" date="1996-12-06" xml:lang="en">
+<title>VENEZUELA: Venezuela Hotel Melia auction called off.</title>
+<headline>Venezuela Hotel Melia auction called off.</headline>
+<dateline>CARACAS 1996-12-05</dateline>
+<text>
+<p>The auction of Venezuela's unfinished luxury hotel and shopping complex, Hotel Melia, due to take place Friday was called off after the two interested bidders failed to meet the necessary requirements to take part, a government official said Friday.</p>
+<p>&quot;The guarantees which the bidders placed did not correspond to what was asked for,&quot; Roberto Piol, vice president of real estate at state-owned Banco Industrial which owns the hotel complex, told Reuters.</p>
+<p>It was the third time that the sale of the complex, valued at 15.409 billion bolivars ($32.6 million), has been called off.</p>
+<p>U.S. company  Entertainment Resorts Development International and Switzerland's  C.S.L. Credito Subalpino Di Lugano had shown interest in buying the complex.</p>
+<p>Construction of the complex started in 1987 but ground to a halt in 1994 when the then owner could no longer meet bank payments and the property was transferred to Banco Industrial.</p>
+<p>-- Ana Isabel Martinez, Caracas newsroom, 582 505 2600</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARACAS"/>
+<dc element="dc.creator.location.country.name" value="VENEZUELA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

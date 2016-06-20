@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240577" id="root" date="1996-12-06" xml:lang="en">
+<title>GREECE: FX FORWARDS DROP 35PIPS ON GREEK INFLATION FALL.</title>
+<headline>FX FORWARDS DROP 35PIPS ON GREEK INFLATION FALL.</headline>
+<dateline>ATHENS 1996-12-06</dateline>
+<text>
+<p>One-year forex forwards fell 35 forward points after Greek consumer price inflation fell to an unexpected 7.7 percent year-on-year in November from 8.3 percent in October, said dealers.</p>
+<p>&quot;One-year forex forwards dropped 35 forward points after the November CPI data,&quot; a senior foreign bank dealer told Reuters. &quot;They are trading at 1365/80 from 1400/1450 at open, a drop of 20 basis points in implied drachma rates.&quot;</p>
+<p>Traders said they expected the central bank to cut its overnight intervention rate by as much as 50 basis points today.</p>
+<p>The Bank of Greece's overnight intervention offer stands currently at 13.40 percent.</p>
+<p>About 100 million ecus were bought by banks at the fixing and ecu/drachma firmed to 303.95 on Friday from 303.750 on Thursday, dealers said. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

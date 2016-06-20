@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239808" id="root" date="1996-12-06" xml:lang="en">
+<title>BRAZIL: Brazil's CSN to build tin can plant.</title>
+<headline>Brazil's CSN to build tin can plant.</headline>
+<dateline>SAO PAULO 1996-12-06</dateline>
+<text>
+<p>Brazilian steel mill Companhia Siderurgica Nacional said it will invest $70 million to build a tin can plant in the northeastern state of Ceara next year.</p>
+<p>&quot;The factory will start operating in the second half 1997 with an output capacity of 700 million cans a year,&quot; a company spokesman said.</p>
+<p>The investment will allow CSN, Brazil's sole tin plate maker, to enter the country's promising can market. By year 2000 consumption is expected to jump to 12 billion cans a year from the current four billion.</p>
+<p>CSN tin plates production is expected to reach 1 million metric tonnes in 1996, or six percent of the world's total production.</p>
+<p>-- Romina Nicaretta, Sao Paulo newsroom, 5511 248 54 14.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

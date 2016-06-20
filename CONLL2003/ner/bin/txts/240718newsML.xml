@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240718" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: Turk students face 18 years in jail for protest.</title>
+<headline>Turk students face 18 years in jail for protest.</headline>
+<dateline>ANKARA 1996-12-06</dateline>
+<text>
+<p>A Turkish security court on Friday sentenced students who led demonstrations against higher education fees to up to 18 years in prison, lawyers and a human rights group said.</p>
+<p>The courtroom erupted in protest after four students received prison terms of 18 years, and four more received terms between three and 12 years, the Humans Rights Association said in a joint statement with the Contemporary Lawyers Association (CHD).</p>
+<p>Nine other students facing similar charges of membership in an illegal group, named by the court as the 'revolutionary youth organisation', were acquitted.</p>
+<p>Head of the CHD, Senal Sarihan, told Reuters the main reason for the verdicts was a demonstration in central Ankara in March. Students took over some university buildings during protests against a rise in student fees.</p>
+<p>&quot;There was an illegal demonstration on March 30 at which petrol bombs were thrown. The kids were alleged to have taken part. That's the only real evidence there was,&quot; she said.</p>
+<p>Family and friends of the students started shouting slogans after the verdict, Sarihan said. Police waded in with batons, hitting spectators.</p>
+<p>A leftist woman ex-MP, Fatma Feriha Ozturk, was beaten on the head and dragged down stairs outside the courtroom. She was taken to hospital with a broken leg, the rights group said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

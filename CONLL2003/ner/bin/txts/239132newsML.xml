@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239132" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: S.AFRICA JSE DETAILS CHANGES TO MARKET INDICES.</title>
+<headline>S.AFRICA JSE DETAILS CHANGES TO MARKET INDICES.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>The Johannesburg Stock Exchange on Friday announced the following amendments to its indices:</p>
+<p>It said A V I (AVI) and INVSTEC (INT) would be included in the ALSI40.</p>
+<p>NASPERS-N-(NPN) and NBSHOLD (NBS) would be included in the FINDI30 while NASPERS-N-(NPN) and ENGEN (EGN) would be included in the INDI25.</p>
+<p>ESTVAAL (ESV) would be included in the GOLDI10.</p>
+<p>Among the exclusions were PREM GRP (PML), IMPLATS (IMP), PEPKOR (PEP), PLATE GL (PGS), REUNERT (RLO), PLATE GL(PGS) and ELANDS (ELA).</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

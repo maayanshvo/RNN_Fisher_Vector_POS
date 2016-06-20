@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239541" id="root" date="1996-12-06" xml:lang="en">
+<title>NIGERIA: Nigerian panel investigates plane crash.</title>
+<headline>Nigerian panel investigates plane crash.</headline>
+<dateline>ABUJA 1996-12-06</dateline>
+<text>
+<p>A panel was set up in the Nigerian capital on Friday to investigate the crash of a Boeing 727 in a lagoon in November, killing all 142 people on board.</p>
+<p>The 14-member panel of aviation experts has two months to deliver a report on the causes.</p>
+<p>&quot;Detractors of this country can use the opportunity of the accident to call into question the safety of the Nigeria air space,&quot; said Fidelis Kaigama of the Aviation Ministry, who inaugurated the panel. &quot;Government is therefore very concerned about the rate at which this nation has witnessed three major air crashes this year alone.&quot;</p>
+<p>Africa's most populous nation has a poor air safety record and the crash has caused added anxiety among the travelling public.</p>
+<p>The military government last week lifted the ban on the Aviation Development Company airline which owned the plane, but it has yet to resume flights.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABUJA"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

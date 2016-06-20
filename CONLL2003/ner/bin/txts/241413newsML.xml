@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241413" id="root" date="1996-12-06" xml:lang="en">
+<title>ISRAEL: Israel plans to let insurers invest overseas.</title>
+<headline>Israel plans to let insurers invest overseas.</headline>
+<dateline>JERUSALEM 1996-12-06</dateline>
+<text>
+<p>Israel's Treasury plans to allow insurance companies to invest portfolio assets overseas for the first time, ministry sources said on Thursday.</p>
+<p>They said draft regulations were expected to be published by the Treasury's capital market division in the next few weeks that would allow insurers to hold up to two percent of their portfolios in foreign securities traded on approved exchanges.</p>
+<p>The terms would be identical to those already given to provident funds, long-term savings schemes that invest mainly in Treasury bonds.</p>
+<p>The provident funds have not made full use of their quota because they pay 35 percent income tax on capital gains, while gains on Israeli-traded securities are tax exempt.</p>
+<p>The Treasury's Brodet committee, as part of a package of capital market reforms it put forward in October, has proposed reducing the tax rate to 25 percent and raising the ceiling on foreign securities to five percent.</p>
+<p>Although the recommendations have not yet been adopted by the government, Bank of Israel sources have said they might unilaterally raise the foreign investment ceiling for provident funds to five percent.</p>
+<p>- Jerusalem newsroom, 972-2-537-0502</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

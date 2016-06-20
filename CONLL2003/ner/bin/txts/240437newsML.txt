@@ -1,0 +1,24 @@
+Petro-Canada raises heavy oil price.
+
+COMPANY	 EFF DATE   BOW RIVER   HARDISTY     MEDIUM,
+
+(CDLR/M3)			BLEND     MEDIUM**     CROMER
+
+IMPERIAL	12/05/96    177.00	  --	  183.00
+
+SHELL CANADA  12/05/96	--	  197.00	184.00
+
+SUNCOR	  12/05/96	--	    --	  184.00
+
+PETRO-CANADA  12/05/96	--	  177.00*	 --
+
+KOCH OIL	12/05/96    174.00	194.00	181.00
+
+Bow River Blend, Hardisty.....24.9 API, 2.1 pct sulphur
+
+Hardisty Medium...............29.3 API, 1.6 pct sulphur
+
+*Petro-Can Hardisty Medium....25.7 API, 2.1 pct sulphur
+
+Medium at Cromer, Man.........29.3 API, 2.0 pct sulphur
+

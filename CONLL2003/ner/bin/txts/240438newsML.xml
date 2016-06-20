@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240438" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Petro-Canada raises light oil prices.</title>
+<headline>Petro-Canada raises light oil prices.</headline>
+<text>
+<p>COMPANY	 EFF DATE	LT SWEET		LT SOUR</p>
+<p>				CDLR/BBL CDLR/M3   CDLR/BBL   CDLR/M3</p>
+<p>IMPERIAL OIL  12/05/96   34.34  216.00	33.23     209.00</p>
+<p>SHELL CANADA  12/05/96   34.18  215.00	33.07     208.00</p>
+<p>SUNCOR*	 12/05/96   34.34  216.00	33.23     209.00</p>
+<p>PETRO-CANADA  12/05/96   34.18  215.00	33.39     210.00</p>
+<p>KOCH OIL	12/05/96   34.02  214.00	32.75     206.00</p>
+<p>Light sweet marker crude</p>
+<p> at Edmonton/Swan Hills......40 API, 0.3 pct sulphur</p>
+<p>Light sour at Cromer, Man....33 API, 1.1 pct sulphur</p>
+<p>*Suncor light sour...........35 API, 1.2 pct sulphur</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

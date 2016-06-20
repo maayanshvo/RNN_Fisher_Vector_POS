@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241365" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: NTT says may list long-distance unit.</title>
+<headline>NTT says may list long-distance unit.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Nippon Telegraph and Telephone Corp (NTT) president Junichiro Miyazu said on Friday that its new long-distance phone unit may list its shares after NTT is split up into three firms under a holding company.  </p>
+<p>Earlier, the government announced that NTT will be broken up into three divisions under a single holding company. One of the divisions will be a long-distance phone unit and the other two will operate local call services.</p>
+<p>&quot;The long-distance unit will initially be fully owned by the holding company, but we may procure funds by listing the company on the stock market in the future as the unit expands its business,&quot; Miyazu told a news conference.</p>
+<p>NTT managing director Shuichi Kizuka, meanwhile, told the news conference that NTT expects the cost of realigning the company into its new structure to total about 450 billion yen.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

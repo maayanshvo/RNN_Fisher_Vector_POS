@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240344" id="root" date="1996-12-06" xml:lang="en">
+<title>SRI LANKA: Sri Lanka key economic indicators December 6.</title>
+<headline>Sri Lanka key economic indicators December 6.</headline>
+<text>
+<p>...........DAILY INDICATORS...</p>
+<p>					  THURSDAY		 PREVIOUS</p>
+<p>					  ---------		--------</p>
+<p>Rupee/US				 56.68		     56.68</p>
+<p>Rupee/Stg				93.26		     93.31</p>
+<p>All Share Price Index	     600.0		     601.8</p>
+<p>Sensitive Index		     899.1		     901.1</p>
+<p>Daily Turnover (Rs.Mln)	    74.46		     18.16</p>
+<p>WEEKLY				   NOV 29		  WEEK AGO</p>
+<p>Prime lending rate%		   20.9			19.5</p>
+<p>Treasury Bill (1 yr yield)	  17.9			17.9</p>
+<p>Call money rate   %		   25.2			22.9</p>
+<p>Central Bank REPO %		   13.3			13.1</p>
+<p> MONTHLY				    CURRENT	    YEAR-AGO</p>
+<p>Growth in:</p>
+<p>Consumer price index</p>
+<p> (1952=100)(CCPI)	 OCT	    1,982.7	   1,974.2</p>
+<p>Annual Average Change   OCT		 15.3%	     14.8%</p>
+<p>M1 Rs. Bln.	    END-SEPT	    76.63		76.18</p>
+<p>M2 Rs. Bln.	    END-SEPT	   241.70	     240.09</p>
+<p>External Debt	  END-AUG	  $6.6 bln	  $6.5 bln</p>
+<p>Total reserves	 END-SEPT     $2,473 million	$2,532 million</p>
+<p>Official reserves    END-SEPT     $1,941 million	$1,999 million</p>
+<p>Trade balance	  END-SEPT	-$986 million     -$1,179 million</p>
+<p>Exports		  END-SEP	$2,922 million	$2,731 million</p>
+<p>Imports		  END-SEP	$3,909 million	$3,910 million</p>
+<p>Manufacturing ExportsEND-SEP	$2,121 million	$2,047 million</p>
+<p>    ANNUAL		  1995	1994	 1993	  1992</p>
+<p>				----	----	 ----	  ----</p>
+<p>GDP growth rate %	 5.5	  5.6	  6.9	  4.3</p>
+<p>Inflation %		 7.7	  8.4	 11.7	 11.4</p>
+<p>Budget deficit as</p>
+<p>% of GDP		   -8.4	-10.0	 -8.4	 -7.3</p>
+<p>Per capita GDP US$	713	 656	   588	  557</p>
+<p>Debt service ratio %   13.8	 13.3	 13.8	 17.1</p>
+<p>Trade balance US$     -1.4 bln   -1.6 bln   -1.1 bln   -0.9bln</p>
+<p>Foreign Reserves US$   2.6 bln    2.6 bln    2.0 bln    1.4bln</p>
+<p>Population (million)   18.1	 17.9	 17.6	 17.4</p>
+<p>Source: Central Bank, Finance &amp; Planning Ministry</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E71">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

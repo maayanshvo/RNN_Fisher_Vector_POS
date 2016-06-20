@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241552" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: SKIING-CHINESE MAKE PROMISING FREESTYLE SKIING DEBUT.</title>
+<headline>SKIING-CHINESE MAKE PROMISING FREESTYLE SKIING DEBUT.</headline>
+<dateline>TIGNES, France 1996-12-07</dateline>
+<text>
+<p>China made a promising debut on the freestyle skiing world cup circuit in an aerials event in the French resort of Tignes on Saturday.</p>
+<p>While the Chinese failed to gain a place in the men's final, they had two in the top 10 of the women's competition, Cuo Dan finishing a respectable seventh and Xu Nannan ninth.</p>
+<p>But overall, it was France and Canada who dominated the day.</p>
+<p>Alexis Blanc and Sebastien Foucras gave France a one-two finish in the first aerials competition of the season.</p>
+<p>Blanc collected his seventh career World Cup win with a two jump combined score of 238.36 points, easily beating Foucras, the overall World Cup aerials champion, who was a distant second with 223.60.</p>
+<p>Canada's Jeff Bean, who had never finished higher than ninth in a World Cup event, made his first trip to the podium taking third place with a mark of 209.96.</p>
+<p>Veronica Brenner of Canada, who picked up her first career victory at Tignes last year, made it two wins in a row at the French resort taking first in the women's competition with a score of 170.42.</p>
+<p>Swiss skiers occupied the other two places on the podium, Karin Kuster taking second with 160.55 narrowly ahead of Evelyne Leu with 160.36.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIGNES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240346" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian Sept steel output rises to 1.16 mln tonnes.</title>
+<headline>Indian Sept steel output rises to 1.16 mln tonnes.</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>Indian steel output rose to 1.16 million tonnes in September from 1.15 million in the same month in 1995, the government said on Friday.</p>
+<p>    STEEL OUTPUT    Sept    Sept    Apr-Sept   Apr-Sept</p>
+<p>			  1996    1995	1996	  1995</p>
+<p>			1,162.1  1,155.9  6,898.8	6,630</p>
+<p>Note - Figures are in thousands of tonnes and preliminary. They cover India's main plants.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

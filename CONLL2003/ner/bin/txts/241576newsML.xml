@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241576" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: SOCCER-VIEIRA SAVES ARSENAL WITH LAST-MINUTE EQUALISER.</title>
+<headline>SOCCER-VIEIRA SAVES ARSENAL WITH LAST-MINUTE EQUALISER.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>Frenchman Patrick Vieira blasted a last-minute goal to salvage a 2-2 draw for English premier league leaders Arsenal at home to Derby on Saturday.</p>
+<p>The London club had been rocked by a two-goal burst from forwards Dean Sturridge and Darryl Powell in the 62nd and 71st minutes which overturned Arsenal's 1-0 lead from a diving header by captain Tony Adams on the stroke of halftime.</p>
+<p>Liverpool suffered an upset first home league defeat of the season, beaten 1-0 by a Guy Whittingham goal for Sheffield Wednesday.</p>
+<p>Wimbledon leap-frogged over Liverpool into second place by winning 3-1 at Sunderland to extend their unbeaten league and cup run to 18 games.</p>
+<p>Two strikes by Efan Ekoku in the first half and a late goal from fellow forward Dean Holdsworth secured victory for Wimbledon, who trail pacemakers Arsenal by four points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

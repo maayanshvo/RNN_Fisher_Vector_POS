@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240112" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CBOT grain/oilseed receipts and shipments.</title>
+<headline>CBOT grain/oilseed receipts and shipments.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Grain and soybean receipts and shipments, in bushels, at delivery locations for the previous trading day, according to the Chicago Board of Trade -</p>
+<p>		     Receipts	  Shipments</p>
+<p>Wheat</p>
+<p>Chicago		    0		   0</p>
+<p>St. Louis	   21,346		   0</p>
+<p>Toledo		61,514		   0</p>
+<p>Corn</p>
+<p>Chicago	     78,056		   0</p>
+<p>St. Louis	  217,092	    75,810</p>
+<p>Toledo	     285,505	   561,287</p>
+<p>Oats</p>
+<p>Chicago		    0		   0</p>
+<p>Minneapolis	306,364	   153,231</p>
+<p>Soybeans</p>
+<p>Chicago		8,674	   484,018</p>
+<p>St. Louis	  253,821	   223,172</p>
+<p>Toledo		64,334	   160,476</p>
+<p>((Chicago Newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

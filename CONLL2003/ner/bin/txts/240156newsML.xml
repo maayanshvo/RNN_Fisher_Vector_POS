@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240156" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Nebraska fed cattle market inactive, no sales-USDA.</title>
+<headline>Nebraska fed cattle market inactive, no sales-USDA.</headline>
+<dateline>OMAHA 1996-12-06</dateline>
+<text>
+<p>Steers and heifers were not tested on a dressed basis delivered (paid on hot carcass weights), USDA said.</p>
+<p>Dressed Basis Steers -  No confirmed sales.</p>
+<p>Dressed Basis Heifers - No confirmed sales.</p>
+<p>Slaughter steers and heifers were not tested. Demand and seller interest very light.</p>
+<p>Weekly movement 83,700, including 16,800 previously contracted or formula cattle.</p>
+<p>Slaughter Steers -  No confirmed sales.</p>
+<p>Slaughter Heifers - No confirmed sales. Sales confirmed - None   For the week - None.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OMAHA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

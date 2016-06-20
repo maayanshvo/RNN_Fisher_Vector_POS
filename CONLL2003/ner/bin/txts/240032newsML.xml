@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240032" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: US spot jet edges lower with NYMEX in slim trade.</title>
+<headline>US spot jet edges lower with NYMEX in slim trade.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S. spot jet fuel prices edged moderately lower Friday tracking NYMEX heating oil, players said, with differentials little changed in lackluster trade.</p>
+<p>New York Harbor aviation-quality 54-grade fuel was talked between 2.85 and 3.10 cents over the January print, with front-34th cycle Gulf Coast material exchanging hands for 0.90 cent below the print.</p>
+<p>&quot;It's Sleepyland down here,&quot; one Gulf Coast player said, adding deals were few and far between ahead of the weekend.</p>
+<p>He said jet supplies did not seem greatly affected by several reported refinery problems on the Gulf Coast.</p>
+<p>They included a downed coker at Shell Oil's Deer Park, Texas, refinery, and a downed H-oil unit at Star Enterprise's refinery in Convent, Louisiana.</p>
+<p>-- Ransdell Pierson, New York Energy Desk +1 212 859 1626</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

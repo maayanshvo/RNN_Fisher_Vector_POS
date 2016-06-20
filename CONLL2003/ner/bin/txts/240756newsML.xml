@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240756" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Factory orders rise sharply in October.</title>
+<headline>Factory orders rise sharply in October.</headline>
+<byline>Glenn Somerville</byline>
+<dateline>WASHINGTON</dateline>
+<text>
+<p>Factory orders rose more sharply than had been expected in October, the Commerce Department said Friday, overcoming the impact of a slowdown in the automotive industry.</p>
+<p>Total new orders rose 0.9 percent to a seasonally adjusted $321.3 billion following a a revised 2.6 percent jump in September orders. Wall Street economists had forecast only a 0.2 percent gain in October orders.  </p>
+<p>Shipments of finished goods kept rising, and order backlogs and inventories grew, suggesting an expanding manufacturing sector and optimism about future sales.</p>
+<p>Labour disputes at General Motors Corp. plants in Canada caused parts shortages that rippled through the industry during October and led to U.S. plant shutdowns. The disputes have since been settled.</p>
+<p>Commerce said that, excluding transportation, factory orders surged 2.3 percent in October -- the biggest rise in six months since a 2.6 percent increase in April -- after a 0.3 percent gain in September.</p>
+<p>Overall orders for costly durable goods, items intended to last three years or more, were up a revised 0.3 percent to $174.4 billion in October after a 4.5 percent rise in September.</p>
+<p>Previously, the department said durables orders had risen a smaller 0.1 percent in October.</p>
+<p>Orders for quickly used nondurables -- including petroleum and coal products, chemicals and food -- shot up 1.5 percent to $146.9 billion following a 0.3 percent September rise. It was the strongest pickup in nondurables orders since a 1.9 percent rise in July.</p>
+<p>The October factory orders report showed orders for transportation equipment dropped 7.7 percent to $41.2 billion after a 19 percent increase in September.</p>
+<p>Shipments of motor vehicles and parts fell 3.5 percent in October after a 1.8 percent September rise. In the automobile industry, shipments correspond to orders.</p>
+<p>Shipments of manufactured goods, which reflect more immediate demand than orders, increased 0.1 percent in October after a 0.7 percent pickup in September -- a fourth straight monthly rise.</p>
+<p>Unfilled orders climbed strongly by 1.2 percent to $511.1 billion after a 0.7 percent September rise. Backlogs have increased in five of the past six months, pointing to a steady pace of production ahead.</p>
+<p>Inventories were up for a fourth consecutive month, rising 0.3 percent to $437.9 billion following a 0.2 percent September increase. Some of the inventory-building may have been stocking up for holiday sales, but analysts said petroleum stocks also were being built up in October.</p>
+<p>The department previously said September factory orders had risen by 2.7 percent but it revised that down fractionally to a 2.6 percent gain.</p>
+<p>Defence contractors' orders, which are subject to wide monthly swings, fell 8.6 percent to $4.8 billion in October after a 7.1 percent September rise.</p>
+<p>Orders for non-defence capital goods, a measure of business' expansion plans, were flat after a 15.4 percent surge in September. But excluding aircraft and parts, non-defence capital goods were up solidly by 2.2 percent in each of September and October.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

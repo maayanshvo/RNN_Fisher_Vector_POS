@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239896" id="root" date="1996-12-06" xml:lang="en">
+<title>SINGAPORE: Econ Intl 1st-half profit up 35 percent.</title>
+<headline>Econ Intl 1st-half profit up 35 percent.</headline>
+<dateline>SINGAPORE 1996-12-06</dateline>
+<text>
+<p>Six months to September 30, 1996</p>
+<p>(in millions of Singapore dollars unless stated)</p>
+<p>    Net profit			     4.24    vs	3.14</p>
+<p>    Group share (cents)		  2.50    vs	1.80</p>
+<p>    Turnover			     133.68    vs    118.93</p>
+<p>    Other income			   0.20    vs	0.24</p>
+<p>    Depreciation/amortisation	  6.03    vs	3.52</p>
+<p>    Pretax profit			  4.83    vs	4.61</p>
+<p>    Income from associates	     1.30    vs	0.16 (loss)</p>
+<p>    Tax					2.15    vs	1.54</p>
+<p>    Minorities			    (0.25)   vs     (0.23)(loss)</p>
+<p>NOTE - Full name is Econ International Ltd.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

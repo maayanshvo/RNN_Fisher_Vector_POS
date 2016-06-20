@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241834" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: Industrial accident closes Philadelphia bridge.</title>
+<headline>Industrial accident closes Philadelphia bridge.</headline>
+<dateline>PHILADELPHIA 1996-12-07</dateline>
+<text>
+<p>The Walt Whitman Bridge was closed for two hours on Saturday morning while a hazardous materials team from the city fire department dealt with a chemical leak at a nearby factory.</p>
+<p>Four tolltakers at the bridge, one of four spanning the Delaware River in the city, were taken to a hospital for observation after complaining of headaches and difficulty breathing. No other injuries were reported.</p>
+<p>The incident began at 7 a.m. EST when fumes were released by a chemical reaction in a mixing vat at Ashland Chemical Co., a subsidiary of the Ashland oil company.</p>
+<p>Firefighters brought the reaction under control by cooling the vat, according to fire chief George DelRossi, who described the fumes as non-toxic.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

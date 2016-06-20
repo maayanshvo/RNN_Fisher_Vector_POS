@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240294" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Bruton sees &quot;98 pct&quot; agreement on EMU issues.</title>
+<headline>Bruton sees &quot;98 pct&quot; agreement on EMU issues.</headline>
+<dateline>BONN 1996-12-06</dateline>
+<text>
+<p>Irish Prime Minister John Bruton said on Friday the European Union was 98 percent agreed on preparations for a single currency and he hoped next week's EU summit in Dublin would bring full consensus.</p>
+<p>Bruton, whose country currently holds the EU presidency, said after meeting German Chancellor Helmut Kohl that the major outstanding issue holding up Bonn's proposed stability pact was how to define an exceptional deficit.</p>
+<p>The proposed pact would impose sanctions against governments which allowed their budget deficits and debt to exceed the Maastricht targets after economic and monetary union (EMU) beings in 1999.</p>
+<p>&quot;The positions are not very far apart,&quot; he told journalists in Bonn, adding that all EU members agreed on the goal of making the euro a strong and stable currency.</p>
+<p>He said he hoped the summit would agree to the stability pact, including a link between currencies outside EMU and the euro and annual budget reviews for all member countries.</p>
+<p>&quot;I believe this whole range of issues, on which 98 percent agreement has already been reached by the economic and finance ministers, is essential to our common objective of a strong European currency,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

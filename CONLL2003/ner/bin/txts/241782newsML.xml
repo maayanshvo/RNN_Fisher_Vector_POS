@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241782" id="root" date="1996-12-07" xml:lang="en">
+<title>IRAQ: U.N. experts arrive in Iraq to check oil exports.</title>
+<headline>U.N. experts arrive in Iraq to check oil exports.</headline>
+<byline>Leon Barkho</byline>
+<dateline>BAGHDAD 1996-12-07</dateline>
+<text>
+<p>A team of U.N. experts arrived in Baghdad on Saturday to supervise Iraqi oil exports that are expected to begin within days under an oil-for-food deal.</p>
+<p>The 10 experts led by Briton Paul Edward declined comment but a U.N. source said they were to supervise outlets of Iraqi crude and make sure exports were in line with U.N. terms.</p>
+<p>The source said four would head on either Sunday or Monday to northern Iraq to take up position at the metering station of Zakho on the Iraqi-Turkish twin pipeline close to the border with Turkey.</p>
+<p>The other six, he said, would be stationed at Iraq's southern terminal of Mina al-Bakr to ensure the loading of tankers meets specifications under the oil deal.</p>
+<p>Oil Minister Amir Muhammad Rasheed said on Friday he expected Iraqi oil exports under a U.N. oil-for-food deal to resume early next Tuesday for the first time in more than six years.</p>
+<p>&quot;We expect the (U.N.) secretary-general to present his final report, maximum next Monday. This means we have the right to start (exports) on the first minute after Monday midnight New York time (0500 GMT Tuesday),&quot; Rasheed said in an interview on Iraqi state television.</p>
+<p>The ministry of culture and information has invited foreign reporters to a celebration on Tuesday at Iraq's northern oil centre of Kirkuk to mark the start of Iraqi exports via the pipeline through Turkey on Tuesday.</p>
+<p>The ministry said another celebration would be held at Rumeilah oilfield to mark the start of exports via Iraqi terminals on the Gulf.</p>
+<p>Iraq last month accepted U.N. conditions for oil exports worth $2 billion every six months to enable it to buy food and medicine for its sanctions-hit civilian population. The deal is renewable.</p>
+<p>The limited exports, tightly supervised by the United Nations, will be Iraq's first since a ban on Iraqi oil exports was imposed following Iraq's invasion of Kuwait in 1990.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241441" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Skanska wins joint 500 mln order with JM.</title>
+<headline>Skanska wins joint 500 mln order with JM.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish construction company Skanska AB on Friday said it had won a joint order with fellow Swedish building group JM Byggnads &amp; Fastighets AB worth 500 million crowns.  </p>
+<p>The order from the Royal Institute of Technology and University of Stockholm is to build a new research and education centre in Stockholm.</p>
+<p>Skanska said in a statement it will account for 65 percent of the contract and will also arrange the financing of the project.</p>
+<p>The centre will be built close to the Roslagstull Hospital and is a combined relocation of large portions of the physics educational and research departments of both educational institutes.</p>
+<p>Construction work will start immediately and be completed by the autumn of 1999.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240991" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Ericsson wins 200 mln SKR S.Korea order.</title>
+<headline>Ericsson wins 200 mln SKR S.Korea order.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish telecommunications group LM Ericsson AB said on Friday it won AXE switching orders worth 200 million crowns from Korea Telecom and ONSE Telecom in South Korea.</p>
+<p>Ericsson will deliver AXE switches and Intelligent Network (IN) solutions to most fixed networks, the company said.</p>
+<p>For Korea Telecom, Ericsson will install AXE equipment in the city of Taejon.</p>
+<p>For ONSE Telecom, Ericsson will deliver international AXE switching equipment with IN solutions, an access switch and an operational and supervising system.</p>
+<p>-- Stockholm newsroom +46-8-7001006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

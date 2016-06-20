@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239800" id="root" date="1996-12-06" xml:lang="en">
+<title>PARAGUAY: Canadian firm to spend $300 mln on Paraguay pulp.</title>
+<headline>Canadian firm to spend $300 mln on Paraguay pulp.</headline>
+<dateline>ASUNCION 1996-12-06</dateline>
+<text>
+<p>Canadian-owned firm  Parana River Mill Development will spend $300 million building a paper pulp processing plant in Paraguay, the Industry and Commerce Minister Ubaldo Scavone said Friday.</p>
+<p>The plant will be built in Itapua department, 400 km south of the capital Asuncion and will include a 5,000 hectare-a-year reforestation plan in the area.</p>
+<p>But, while the plant's own forests are growing, it will import wood from the Argentine province of Misiones when it begins operation in 1997, Scavone said.</p>
+<p>The plant will also export woodchips to Japan.</p>
+<p>-- Daniela Desantis, Asuncion Newsroom +59521 444527</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PARA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASUNCION"/>
+<dc element="dc.creator.location.country.name" value="PARAGUAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

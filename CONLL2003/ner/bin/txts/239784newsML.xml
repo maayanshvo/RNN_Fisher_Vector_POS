@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239784" id="root" date="1996-12-06" xml:lang="en">
+<title>COLOMBIA: Colombian peso ends 0.20 lower at 996.75.</title>
+<headline>Colombian peso ends 0.20 lower at 996.75.</headline>
+<dateline>BOGOTA 1996-12-06</dateline>
+<text>
+<p>Colombia's peso ended 0.20 centavos lower at 996.75 in a market that saw steady demand for dollars from the corporate sector, interbank dealers said.</p>
+<p>It was the fifth consecutive session in which the peso, which has gained sharply since June, ended lower.</p>
+<p>&quot;There was demand from clients making wire transfers to pay letters of credit abroad,&quot; one dealer said in a telephone interview.</p>
+<p>Traders said the peso's losses were limited by export revenues from the oil and coffee sector, however.</p>
+<p>Dealers reported 174 trades for a total of $104 million and said the peso held in a 996.60 to 997.25 range.</p>
+<p>-- Juan Guillermo Londono, Bogota newsroom, 571 610 7944</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

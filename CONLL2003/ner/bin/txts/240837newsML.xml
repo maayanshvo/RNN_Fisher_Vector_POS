@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240837" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: Bel-20 shares end down but off lows.</title>
+<headline>Bel-20 shares end down but off lows.</headline>
+<text>
+<p>1540 GMT - Brussels bourse closes down after Federal Reserve Chairman Alan Greenspan comments sparked global equity sell-off.</p>
+<p>* Bel-20 share index  .BFX down 1.04 percent or 19.66 points to 1,871.46 after touching intraday low of 1,839.46. Trade heavy with over 3.8 billion worth of Belgian shares changing hands.</p>
+<p>* Insurer Fortis AG fell 0.5 percent to 4,930 francs. Petrofina fell 3.04 percent to 10,375 francs with one dealer putting it down to its sensitivity toward the falling dollar.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

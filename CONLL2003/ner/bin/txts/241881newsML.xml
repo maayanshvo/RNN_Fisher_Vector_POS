@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241881" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: Algerian food firm makes $4.5 million profit.</title>
+<headline>Algerian food firm makes $4.5 million profit.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>The Algerian food and cereals company ERIAD made a profit of 247.5 million dinars ($4.5 million) in 1995, the official Algerian news agency APS said on Saturday.</p>
+<p>It said 40 million dinars would be distributed to workers of the Entreprise Des Industries Alimentaires Cerealieres et Derives (ERIAD) of Tiaret, some 225 km (140 miles) southwest of Algiers.</p>
+<p>Two similar firms in the towns of Setif and Constantine, ERIAD-Setif and ERIAD-Constantine, made profits respectively of 288.6 million dinars and 292.9 million in 1995, the agency said. It gave no other details.</p>
+<p>($1 = 55 dinars)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240077" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: MGE spring wheat ends higher in commercial buying.</title>
+<headline>MGE spring wheat ends higher in commercial buying.</headline>
+<dateline>MINNEAPOLIS 1996-12-06</dateline>
+<text>
+<p>MGE spring wheat futures ended higher amid commercial buying and a lack of hedge-related selling, traders said.</p>
+<p>&quot;We saw good commercial buying, with Cargill the featured buyer in all three (U.S. wheat markets),&quot; an MGE trader said. &quot;Atwood-Peavey (bought) the Dec contract late.&quot;</p>
+<p>Cargill's purchases raised talk of fresh export business in the works, but some traders were skeptical.</p>
+<p>&quot;Cargill's a big cash short and is still short the futures, and they really just needed to cover those positions. That's my opinion,&quot; one trader said.</p>
+<p>MGE spring wheat closed one to 9-3/4 cents per bushel higher, with Dec up 9-3/4 cents at $4.30, just off the intraday high of $4.31. March gained 3-3/4 cents to close at $3.81-1/2.</p>
+<p>Traders said CIS bought at least two million March bushels and Benson-Quinn bought one million March.</p>
+<p>MGE barley closed two to three cents per cwt higher, with March up three cents at $6.53. Dec did not trade.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

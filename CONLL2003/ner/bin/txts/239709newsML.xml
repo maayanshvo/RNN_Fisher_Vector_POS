@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239709" id="root" date="1996-12-06" xml:lang="en">
+<title>HUNGARY: Bongrain acquires 51pct in Hungary dairy.</title>
+<headline>Bongrain acquires 51pct in Hungary dairy.</headline>
+<dateline>BUDAPEST 1996-12-06</dateline>
+<text>
+<p>France's Bongrain acquired a 51 percent stake in Hungarian dairy firm Zalatej Rt's 483 million forint ($3 million) share capital, Hungarian news agency MTI said on Friday.</p>
+<p>Further details of the transaction were not disclosed and Zalatej officials were not immediately available for comment.</p>
+<p>However, MTI's report said that the company had been owned by the state and a consortium of local milk producers, local municipalities and employees.</p>
+<p>Zalatej, located in Zalaegerszeg, southwest Hungary, posted a loss of 209 million forints last year on net sales of 4.42 billion forints.</p>
+<p>Bongrain is majority owner in another Hungarian dairy company, Veszpremtej, which had a pre-tax profit of 184 million forints in 1995 on net sales of 5.031 billion.</p>
+<p>The French company recently bought a majority stake in the Czech dairy group, Povltavske Mlekarny, which had an after-tax profit of 20.1 million Czech crowns on total revenues of 579.4 million last year.</p>
+<p>Bongrain is in fierce competition in Hungary with Dutch dairy company Nutricia NV, which is the majority owner of Hajdutej, France's Danone and Italy's Parmalat.</p>
+<p>-- Sandor Peto, Budapest newsroom (36 1) 327 4040 ($ = 159.3 Hungarian Forints)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

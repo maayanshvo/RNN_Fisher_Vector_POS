@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240906" id="root" date="1996-12-06" xml:lang="en">
+<title>ITALY: Italian President urges separatists to turn back.</title>
+<headline>Italian President urges separatists to turn back.</headline>
+<dateline>MANTUA, Italy 1996-12-06</dateline>
+<text>
+<p>Italian President Oscar Luigi Scalfaro visited the symbolic heartland of the separatist Northern League on Friday and appealed to its supporters to drop their campaign for a breakaway state.</p>
+<p>Addressing a convention on Italian unity in Mantua, where the party has set up its own &quot;parliament of the north&quot;, Scalfaro made a direct appeal to what he called &quot;my friends from the League&quot; to work instead for federal reform.</p>
+<p>&quot;It is an invitation, a commitment, a promise. Let's march together,&quot; Scalfaro, a northerner himself, said.</p>
+<p>&quot;Help Italy to teach, to propose a capacity for strong local autonomy, for the federalism which can give new vigour to our blood. But turn back from the line you are taking now,&quot; he said.</p>
+<p>Scalfaro was in Mantua to attend a ceremony commemorating the executions there by Austrian rulers in 1852 and 1853 of a group of Italians who had campaigned for national unity.</p>
+<p>He was jeered and whistled at by a small group of League supporters when he arrived for a visit marked by heavy security.</p>
+<p>Witnesses said the protesters were outnumbered by other Italians who waved tricolour flags in the national red, white and green or shouted &quot;Viva Italia&quot;.</p>
+<p>The League won more than eight percent of votes at the last general election in April on a federalist platform but its leader Umberto Bossi later switched to a separatist agenda.</p>
+<p>A three-day &quot;independence&quot; march along the Po River in September, culminating in a declaration in Venice of a self-styled &quot;Republic of Padania&quot;, flopped badly.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANTUA, Italy"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

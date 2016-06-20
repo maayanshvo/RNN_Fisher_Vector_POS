@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241244" id="root" date="1996-12-06" xml:lang="en">
+<title>THAILAND: Thai rice vessels loading and movements at Dec 06.</title>
+<headline>Thai rice vessels loading and movements at Dec 06.</headline>
+<dateline>BANGKOK 1996-11-29</dateline>
+<text>
+<p>The Thai Commerce Ministry detailed rice loading at Thai ports as follows (in tonnes):</p>
+<p>Vessel		Date of Arrival   Quantity     Destination</p>
+<p>Iran Sabr	   19/11/96		9,000	  Iran</p>
+<p>Princess of Loine 19/11/96	     10,000	  Philippines</p>
+<p>Deligst	     20/11/96		5,500	  Indonesia</p>
+<p>Seagramd ace	20/11/96		5,000	  Japan</p>
+<p>Lucky Emdldm	20/11/96		5,000	  Japan</p>
+<p>Algoa Day	   21/11/96		6,000	  Africa</p>
+<p>Sangthai Glory    22/11/96		3,000	  Singapore</p>
+<p>Myos Yang 5	 22/11/96		4,000	  Indonesia</p>
+<p>Budisuryana	 22/11/96		3,800	  Malaysia</p>
+<p>King Ace	    22/11/96		5,000	  Japan</p>
+<p>Tong Shun	   25/11/96		3,000	  Vietnam</p>
+<p>But 2		 27/11/96		5,000	  Burma</p>
+<p>-- Bangkok newsroom (662) 652-0642</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-11-29"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

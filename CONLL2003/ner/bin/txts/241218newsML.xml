@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241218" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: USTR Barshefsky to hold briefing in Tokyo on Dec 7.</title>
+<headline>USTR Barshefsky to hold briefing in Tokyo on Dec 7.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Acting U.S. Trade Representative Charlene Barshefsky will hold a news conference in Tokyo on December 7 from 2 p.m. (0500 GMT), a U.S. embassy statement said on Friday.</p>
+<p>Barshefsky and Japanese Finance Minister Hiroshi Mitsuzuka are scheduled to start ministerial talks later on Friday in an effort to resolve by a December 15 deadline a bilateral dispute over how to deregulate Japan's insurance market.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

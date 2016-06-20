@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240974" id="root" date="1996-12-06" xml:lang="en">
+<title>DENMARK: Denmark's Hypotekbanken raises four-pct bond.</title>
+<headline>Denmark's Hypotekbanken raises four-pct bond.</headline>
+<dateline>COPENHAGEN 1996-12-05</dateline>
+<text>
+<p>Denmark's Hypotekbanken on Friday raised an existing 1.4 billion crown, four-percent, six-year bond offer to 1.5 billion crowns, lead manager Gudme Raaschou Bankaktieselskab said in a statement distributed by the Copenhagen Stock Exchange.</p>
+<p>The statement said the new bonds, due to mature in 2002, were sold.</p>
+<p>--Chris Follett, Copenhagen newsroom +45 33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

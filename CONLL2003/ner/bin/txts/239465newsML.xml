@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239465" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Shaw sees $35 mln Q4 UK restructure charge.</title>
+<headline>Shaw sees $35 mln Q4 UK restructure charge.</headline>
+<dateline>DALTON, Ga. 1996-12-06</dateline>
+<text>
+<p>Shaw Industries Inc said Friday it planned to restructure its operations in Britain, which will result in a $35 million pre-tax charge in the fourth quarter.</p>
+<p>Before the charge, it expects operating earnings for the quarter to be about $0.15 per share, slightly below analysts' consensus estimates, the company said.  </p>
+<p>The First Call mean earnings estimate for the quarter is $0.19 per share.</p>
+<p>Company officials were not available to comment further on the UK restructuring plans and if the plans involved layoffs.</p>
+<p>&quot;We are putting these operations in a position that should allow them to be profitable on a going-forward basis,&quot; Robert Shaw, chairman and chief executive officer, said.</p>
+<p>Shaw makes and sells carpeting and rugs in the United States, Britain, Australia and Mexico and exports to Canada and other countries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALTON, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

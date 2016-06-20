@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239854" id="root" date="1996-12-06" xml:lang="en">
+<title>MALAYSIA: Malaysia physical palm oil prices - Dec 6.</title>
+<headline>Malaysia physical palm oil prices - Dec 6.</headline>
+<text>
+<p>(Prices in Ringgit/tonne local delivery/Crude, Bulk)</p>
+<p>	    BID/ASK	   TRADES</p>
+<p>Dec	 1205/1210	 1212.50/1207.50 (south)</p>
+<p>				  1195 (central)</p>
+<p>Jan	 1210/1215	 1212.50 (south)</p>
+<p>				  1205 (central)</p>
+<p>(Prices in US dollars/Tonne local for Malaysian ports,Bulk)</p>
+<p>			  RBD PALM OIL</p>
+<p>Dec		     517.50	slr traded 516/517.50</p>
+<p>Jan/Feb/Mch	   515	   slr</p>
+<p>			  RBD PALM OLEIN</p>
+<p>Dec		     555	   slr traded 555</p>
+<p>Jan		     550	   slr</p>
+<p>Feb/Mch		 547.50	slr</p>
+<p>			  RBD PALM STEARIN</p>
+<p>Dec		     370	   slr</p>
+<p>Jan		     375	   slr</p>
+<p>Feb/Mar		 380	   slr</p>
+<p>		     PALM FATTY ACID DISTILLATE</p>
+<p>Dec/Jan		 295	   slr</p>
+<p>PALMOIL CRUDE SUMATRAN/MALAYSIAN SLRS OPTIONS</p>
+<p>CIF ROTTERDAM DLRS A  TONNE -1100 GMT Dec		     585	   slr</p>
+<p>Jan		     555	   slr</p>
+<p>--Kuala Lumpur newsroom (603 -230-7510)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

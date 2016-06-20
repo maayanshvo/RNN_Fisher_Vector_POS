@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239147" id="root" date="1996-12-06" xml:lang="en">
+<title>HUNGARY: HUNGARY RADIO NOON HEADLINES - DEC 6.</title>
+<headline>HUNGARY RADIO NOON HEADLINES - DEC 6.</headline>
+<dateline>BUDAPEST 1996-12-06</dateline>
+<text>
+<p>These are the main headlines on Hungary's Kossuth Radio midday news. Reuters cannot vouch for their accuracy:</p>
+<p>- Budapest's electricity distributor Elmu posted one billion forint loss, due to the delay in energy price increases.</p>
+<p>- A 310-strong Hungarian contingent will travel to Bosnia on December 18.</p>
+<p>- The police will start a series of action to catch criminals robbing passengers on international express trains.</p>
+<p>- RMDSZ, the party of ethnic Hungarians in Romania hesitates to enter the ruling coalition.</p>
+<p>- Electric energy industry trade unions plan protests in Brussels and Essen because they said Germany's RWE, an investor in the Hungarian energy sector, had not fulfilled its wage increase promise.</p>
+<p>-- Budapest newsroom +36 1 327-4040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BUDAPEST"/>
+<dc element="dc.creator.location.country.name" value="HUNGARY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

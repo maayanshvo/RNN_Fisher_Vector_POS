@@ -1,0 +1,44 @@
+Weekly U.S. forward contract slaughter cattle.
+
+Forward Contract Slaughter Cattle Summary week ending December 5, 1996
+
+Volume includes both contract and formula priced cattle committed for delivery in a specified month.  Prices shown are for contracted cattle based on current or next Chicago Mercantile Exchange delivery month. Price levels for other cattle are determined later by various formulas or arrangements.  Note: first number is weekly volume; second number is monthly volume. Source: USDA. s=steers. h=heifers
+
+========================================================================
+
+     Texas/Okla     Kansas     Nebraska/Wy    Colorado     Totals
+
+========================================================================
+
+Dec  None/79,800  None/91,100    None/40,000  None/25,800  None/236,700
+
+------------------------------------------------------------------------
+
+Jan  None/85,800  None/94,500    None/28,000  None/12,900  None/221,200
+
+------------------------------------------------------------------------
+
+Feb  None/42,800  None/40,600    None/22,500  None/6,600   None/112,500
+
+------------------------------------------------------------------------
+
+Mar  None/800     None/4,700     None/None     None/100    None/5,600
+
+------------------------------------------------------------------------
+
+Apr   200/1,900   None/5,200     None/None     None/100    200/7,200
+
+Holsteins - 7.00 und CME April
+
+May   100/100	100/1,000     None/None     None/None   200/1,100
+
+h = even CME June
+
+Jun  None/1,600    100/100	 None/None     None/None    100/1,700
+
+Jul  None/4,000   None/None     None/None	None/None   None/4,000
+
+========================================================================
+
+(Chicago newsdesk 312 408 8720)
+

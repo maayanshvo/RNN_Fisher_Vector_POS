@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240563" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fed's Broaddus says risks in U.S. economy balanced.</title>
+<headline>Fed's Broaddus says risks in U.S. economy balanced.</headline>
+<dateline>WASHINGTON 1996-12-05</dateline>
+<text>
+<p>Alfred Broaddus, President of the Federal Reserve Bank of Richmond, said the economic risks in the U.S. were &quot;reasonably well balanced.&quot;</p>
+<p>In an interview on the Public Broadcasting Service's &quot;Nightly Business Report,&quot; Broaddus was asked whether he agreed with concerns expressed earlier Thursday by Fed Governor Laurence Lindsey about high levels of consumer debt.</p>
+<p>Broaddus said the debt levels were a &quot;significant risk&quot; but added that overall the risks appeared balanced.  </p>
+<p>On the upside, Broaddus pointed out that Americans' incomes were growing, jobs were growing, mortgage rates had fallen and that consumer confidence was up.</p>
+<p>Asked whether the low unemployment rate of 5.2 percent posed a risk of wage inflation, the Richmond Fed chief said, &quot;We are seeing signs of very tight labor markets. We have some isolated instances of increased wages.&quot;</p>
+<p>However, he said the wage rises were &quot;not very general yet,&quot; and he added that such increases would not necessarily lead to inflation so long as productivity was growing at a healthy rate.  </p>
+<p>The Fed official was also questioned about his definition of price stability. He reiterated a definition often given by Fed Chairman Alan Greenspan -- it was a condition in which inflation was no longer a factor in day-to-day economic decisions.</p>
+<p>Asked whether the current 3 percent inflation rate constituted stable prices, Broaddus said it would be if people were confident that it could be sustained but he added that when people see a 3 percent inflation rate they may suspect that it could go higher.</p>
+<p>&quot;That's why it's important to bring (inflation) down to something we can refer to concretely as price stability,&quot; he said.</p>
+<p>Concerning the pace at which the goal should be achieved, Broaddus said, &quot;It is a condition we want to get to gradually and maintain.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239109" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: MOTOR RACING-TYRE AND BRAKE CHANGES AHEAD FOR F1 CARS.</title>
+<headline>MOTOR RACING-TYRE AND BRAKE CHANGES AHEAD FOR F1 CARS.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>Formula One cars will have modifications to tyres and brakes in the 1998 world championship.</p>
+<p>Out go the &quot;slick&quot; treadless dry weather tyres, to be replaced by grooved compounds, the International Automobile Federation (FIA) World Council decided on Friday.</p>
+<p>New rules on brakes will be introduced, aimed at increasing stopping distances. This means that drivers will have to brake earlier on approaching corners, theoretically giving a more skilful driver the chance to overtake.</p>
+<p>The FIA also decided to reduce the maximum overall width of the cars to 180 cm from the present 200 cm to reduce cornering speeds and assist overtaking.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

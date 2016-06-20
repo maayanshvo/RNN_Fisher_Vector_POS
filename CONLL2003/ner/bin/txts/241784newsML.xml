@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241784" id="root" date="1996-12-07" xml:lang="en">
+<title>QATAR: Gulf Arab leaders start summit, Bahrain boycotts.</title>
+<headline>Gulf Arab leaders start summit, Bahrain boycotts.</headline>
+<dateline>DOHA 1996-12-07</dateline>
+<text>
+<p>Gulf Arab leaders on Saturday started their annual summit with Bahrain carrying out a threat to boycott the December 7-9 meeting due to a border dispute and spy row with Qatar.</p>
+<p>The Gulf Cooperation Council (GCC) was formed in 1981 by Saudi Arabia, Kuwait, United Arab Emirates, Oman, Bahrain and Qatar as a political and economic alliance which controls almost half of the world's proven oil reserves.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DOHA"/>
+<dc element="dc.creator.location.country.name" value="QATAR"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

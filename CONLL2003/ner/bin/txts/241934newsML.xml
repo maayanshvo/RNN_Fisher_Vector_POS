@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241934" id="root" date="1996-12-07" xml:lang="en">
+<title>BANGLADESH: Dhaka stocks close 1.83 pct down in low volume.</title>
+<headline>Dhaka stocks close 1.83 pct down in low volume.</headline>
+<dateline>DHAKA 1996-12-07</dateline>
+<text>
+<p>Panic selling by small investors forced Dhaka stocks to extend losses in a low-volume session on Saturday, brokers said.</p>
+<p>The benchmark index of the Dhaka Stock Exchange (DSE) closed 48.8 points or 1.83 percent down at 2,618.3. Only 51, out of 210 listed issues, was traded. Of those, 44 lost and seven gained. Turnover slumped to 6.4 million taka from Thursday's 10.4 million.</p>
+<p>&quot;Press reports forecasting an impending market crash are really damaging,&quot; said one broker. Monno Fabrics shed 11.61 taka to 220.59 and Beximco Pharama lost 16.87 to 320.58.</p>
+<p>--Dhaka Newsroom +880-2-506363.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BANDH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DHAKA"/>
+<dc element="dc.creator.location.country.name" value="BANGLADESH"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

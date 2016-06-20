@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239957" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: Istanbul gold volume falls amid price volatility.</title>
+<headline>Istanbul gold volume falls amid price volatility.</headline>
+<dateline>ISTANBUL 1996-12-06</dateline>
+<text>
+<p>Volume on the Istanbul gold exchange shrank on Friday as traders took to the sidelines because of volatility in international gold markets, dealers said.</p>
+<p>Total turnover of 205 kilos was in lira terms, with 195 kilos traded in the afternoon.</p>
+<p>Volume was 360 kilos on Thursday.</p>
+<p>Gold closed at 1,236,000 lira per gram, up from Thursday's 1,231,800 lira, reflecting the trend in Europe.</p>
+<p>-- Istanbul newsroom +90-212-275 08 75</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240000" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - New York State.</title>
+<headline>PRESALE - New York State.</headline>
+<text>
+<p>AMT: 106,045,000    DATE: 12/10/96	NYC Time: 1100     CUSIP: 649810</p>
+<p>ISSUER: New York State						 ST: NY</p>
+<p>ISSUE: Certificates of participation			     TAX STAT: Exempt-REV</p>
+<p>M/SP/F: NA/NA/A							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None						     BANK QUAL: N</p>
+<p>DTD: 12/01/96							    SURE BID: Y</p>
+<p>DUE: see note						 SR MGR:</p>
+<p>1ST CPN: 02/01/97</p>
+<p>CALL: Non-Callable					  NIC</p>
+<p>DELIVERY: 12/19/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: Manufacturers &amp; Traders Trust Co., Buffalo</p>
+<p>L.O.: Hawkins, Delafield &amp; Wood, New York</p>
+<p>F.A.: O'Brien Partners Inc., New York</p>
+<p>LAST SALE: $46,690,000 11/21/95 @ 5.0602% TIC; 3yrs 1mos Avg; BBI- 5.65%</p>
+<p>NOTES: 8/1/97; 2/1 &amp; 8/1/98-04</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>08/01/97	    5,280,000</p>
+<p>02/01/98	    9,335,000</p>
+<p>08/01/98	   11,550,000</p>
+<p>02/01/99	   12,790,000</p>
+<p>08/01/99	   13,550,000</p>
+<p>02/01/00	   13,980,000</p>
+<p>08/01/00	    9,955,000</p>
+<p>02/01/01	    7,965,000</p>
+<p>08/01/01	    7,275,000</p>
+<p>02/01/02	    6,120,000</p>
+<p>08/01/02	    4,070,000</p>
+<p>02/01/03	    2,380,000</p>
+<p>08/01/03		925,000</p>
+<p>02/01/04		555,000</p>
+<p>08/01/04		315,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

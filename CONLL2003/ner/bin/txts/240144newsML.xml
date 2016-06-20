@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240144" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CIA chief punishes Guatemala whistle blower.</title>
+<headline>CIA chief punishes Guatemala whistle blower.</headline>
+<byline>Jim Wolf</byline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>CIA Director John Deutch has upheld a decision to punish a top State Department official who disclosed that a paid CIA informant may have been involved in murders in Guatemala, a U.S. official said on Friday.</p>
+<p>Deutch, whose replacement President Bill Clinton announced on Thursday, let stand a three-member review panel's recommendation that the official, Richard Nuccio, be stripped of his access to data classified as &quot;sensitive-compartmented information,&quot; the official said.</p>
+<p>But Deutch ruled that Nuccio, a former special adviser to Clinton on Cuba and a one-time special envoy to Guatemala, could reapply for his clearance in a year.</p>
+<p>Nuccio has acknowledged publicly that he told a member of the House of Representatives Intelligence Committee that a Guatemalan officer on the CIA payroll, Julio Roberto Alpirez, was implicated in the murder of a U.S. citizen and in the death of a local guerrilla leader married to an American.</p>
+<p>The disclosures led Clinton in March, 1995, to order a review of Central Intelligence Agency activities in Guatemala. Deutch later fired two CIA officers in the directorate of operations for failing to keep Congress &quot;fully and currently informed&quot; of covert operations, as required by a 1980 law.</p>
+<p>Nuccio, a senior adviser to the assistant secretary of state for inter-American affairs, claimed in an unusual airing of his story on the CBS programme &quot;60 Minutes&quot; that he was being &quot;hounded out of government service&quot; by the CIA.</p>
+<p>He said he blew the whistle in a crisis of conscience because the CIA had failed to brief Congress on the Alpirez matter, as required by law, and he himself had unknowingly given Congress false information based on this stonewalling.</p>
+<p>He did not return a phone call seeking comment on the action by Deutch, who made his decision the same day that Clinton announced his proposed replacement as CIA director by outgoing National Security Adviser Anthony Lake.</p>
+<p>Lake would rule on the matter again in a year.</p>
+<p>The CIA declined to discuss Deutch's action, citing privacy rights of Nuccio, who has said that losing his clearance would amount to making it impossible for him to do his State Department job.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240870" id="root" date="1996-12-06" xml:lang="en">
+<title>NORWAY: Norsk Hydro sells Egyptian oil assets to Repsol.</title>
+<headline>Norsk Hydro sells Egyptian oil assets to Repsol.</headline>
+<dateline>OSLO 1996-12-06</dateline>
+<text>
+<p>Norsk Hydro ASA said on Friday Repsol of Spain had acquire Hydro's 63.64 percent participating interest and operatorships in the Ras Kanayes and Ras El Hekma concession areas in the Western Desert in Egypt.</p>
+<p>The deal is subject to consent of Kuwait Foreign Petroleum and Exploration Co (Kufpec), which holds the remaining 36.36 percent participating interest, a statement from Hydro said.</p>
+<p>Kufpec is a wholly-owned subsidiary of state Kuwait Petroleum Corp.</p>
+<p>The companies also must get the approval of Egyptian General Petroleum Corp and the Egyptian government.</p>
+<p>-- Oslo newsroom +47 22 42 50 41</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OSLO"/>
+<dc element="dc.creator.location.country.name" value="NORWAY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

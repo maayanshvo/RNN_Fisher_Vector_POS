@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241098" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Finnish study links abortion to suicide risk.</title>
+<headline>Finnish study links abortion to suicide risk.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Women who have had abortions are more likely to commit suicide, Finnish researchers reported on Friday.</p>
+<p>Mika Gissler and colleagues at Finland's National Research and Development Centre for Welfare and Health said their findings, published in the British Medical Journal, were important to officials who want to prevent suicides.</p>
+<p>They used national records to check the rate of suicides up to one year after the end of a pregnancy, whether it ended in birth, miscarriage or abortion.</p>
+<p>&quot;The suicide rate after an abortion was three times the general suicide rate and six times that associated with birth,&quot; they wrote.</p>
+<p>They noted that women are frequently depressed after having a baby, but this rarely translated into suicide.</p>
+<p>&quot;Short-term postnatal 'blues' are experienced by 45 to 70 percent of women,&quot; they said. &quot;The initial stress effect of having a child, however, is transitional, and overall having a child has positive effects on women's health.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

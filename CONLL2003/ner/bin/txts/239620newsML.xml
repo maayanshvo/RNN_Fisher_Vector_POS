@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239620" id="root" date="1996-12-06" xml:lang="en">
+<title>LATVIA: Latvian Nov inflation 0.8 pct, yr/yr 14.4 pct.</title>
+<headline>Latvian Nov inflation 0.8 pct, yr/yr 14.4 pct.</headline>
+<dateline>RIGA 1996-12-06</dateline>
+<text>
+<p>Latvian inflation was at 0.8 percent on a year-on-year basis in November, giving a year-on-year rise in prices of 14.4 percent, the statistics committee said on Friday.</p>
+<p> LATVIAN CONSUMER PRICES    Nov '96    Oct '96   Nov '95</p>
+<p> Month-on-month change	+0.8	 +1.2	+2.0</p>
+<p> Year-on-year change	  +14.4	+15.7     +24 pct</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

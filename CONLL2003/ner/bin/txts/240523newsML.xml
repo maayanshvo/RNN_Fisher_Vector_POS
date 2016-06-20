@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240523" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Cytrx unit, Zynaxis to merge.</title>
+<headline>Cytrx unit, Zynaxis to merge.</headline>
+<dateline>ATLANTA 1996-12-06</dateline>
+<text>
+<p>CytRx Corp and Zynaxis Inc said Friday they had agreed to merge Zynaxis with CytRx's Vaxcel Inc subsidiary to create a new public company.</p>
+<p>Paul Wilson, Vaxcel president and chief executive offier, will head the new company, which will be headquartered in Atlanta, they said.</p>
+<p>The deal is expected to close by the end of the first quarter of 1997, they said.</p>
+<p>The new Vaxcel shares are expected to trade on the Nasdaq SmallCap market. CytRx will own about 87 percent of the outstanding shares of the new company.  </p>
+<p>As part of the agreement, Zynaxis is seeking a buyer for its Cauldron Process Chemistry division, expected to be sold in 1997, they said.</p>
+<p>Cauldron, located in Malvern, Pa., provides process research and development and production of bulk pharmaceutical chemicals.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATLANTA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

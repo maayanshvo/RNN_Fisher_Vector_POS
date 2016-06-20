@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241833" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: New York subway stabbing leaves teen-ager dead.</title>
+<headline>New York subway stabbing leaves teen-ager dead.</headline>
+<dateline>NEW YORK 1996-12-07</dateline>
+<text>
+<p>A 17-year-old boy was stabbed to death and his girlfriend was seriously injured in an attack at a New York subway station, police said on Saturday.</p>
+<p>The victims were attacked at about 8 p.m. EST on Friday as they were about to board a Manhattan-bound train from their home in the borough of Queens, police said.</p>
+<p>Hang Chen, 17, was pronounced dead at the scene, and his 16-year-old girlfriend was in serious condition at a local hospital. Police did not released her name.</p>
+<p>Two suspects were caught as they attempted to flee the station, and one of them had a knife which they believe was used in the attack, police said.</p>
+<p>Police have charged Jian Ting Gao, 18, and Sheng Liang Lin, 16, with second-degree murder and attempted murder.</p>
+<p>According to police, Chen had a previous argument with the suspects earlier in the day. &quot;We believe the argument involved a lover's triangle,&quot; a police spokeswoman said.</p>
+<p>Police said that the two suspects confronted Chen on the subway platform and stabbed him repeatedly. &quot;During the confrontation, Chen's girlfriend went to his aide and was stabbed,&quot; the spokeswoman said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

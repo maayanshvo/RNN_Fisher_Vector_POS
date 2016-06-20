@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240791" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: High Plains Wheat - Basis bids steady to higher.</title>
+<headline>High Plains Wheat - Basis bids steady to higher.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-06</dateline>
+<text>
+<p>Basis bids for hard red winter wheat were steady to higher Friday as some locations raised their bids to keep up with one domestic miller, grain merchandisers in the U.S. High Plains said.</p>
+<p>Thursday, dealers said Cargill raised its Kansas mill basis bids to 70 cents over the KCBT March contract.</p>
+<p>&quot;Last I heard, the bid was good for only a limited time, so we've decided not to chase the business,&quot; said one dealer in central Kansas.</p>
+<p>But one Oklahoma dealer said that bids had been raised because of firmness in the cash market.  </p>
+<p>Basis values in cents/bu against KCBT wheat, cash=dollars/bu.</p>
+<p>			  Basis	    Prev	     Cash price</p>
+<p>KANSAS</p>
+<p> Colby	     +14  +  H     +14  +  H	     4.1000</p>
+<p> Dodge City	+18  +  H     +18  +  H	     4.1400</p>
+<p> Hutchinson	+45  +  H     +45  +  H	     4.4100</p>
+<p> Newton	    +70  +  H     +70  +  H	     4.6600</p>
+<p> Salina	    +48  +  H     +45  +  H	     4.4400</p>
+<p> Topeka	    +70  +  H     +70  +  H	     4.6600</p>
+<p> Wichita	   +70  +  H     +70  +  H	     4.6600</p>
+<p> Kansas City     +60  +  H     +55  +  H	     4.5600</p>
+<p>			 Basis	    Prev		Cash price</p>
+<p>TEXAS</p>
+<p> Fort Worth	+55  +  H     +50  +  H	     4.5100</p>
+<p> Galveston	 +85  +  H     +80  +  H	     4.8100</p>
+<p> Houston	   +80  +  H     +80  +  H	     4.7600</p>
+<p>OKLAHOMA</p>
+<p> Catoosa	   +62  +  H     +58  +  H	     4.5800</p>
+<p> Enid		+50  +  H     +45  +  H	     4.4600</p>
+<p> Guymon	    +23  +  H     +23  +  H	     4.1900</p>
+<p>(Note: Z=KCBT December wheat futures. H=KCBT March wheat futures. unq- unquoted, na - not applicable)</p>
+<p>--Kansas City bureau, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

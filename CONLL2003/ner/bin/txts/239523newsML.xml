@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239523" id="root" date="1996-12-06" xml:lang="en">
+<title>MALAWI: Southern Africans pledge new drive to fight AIDS.</title>
+<headline>Southern Africans pledge new drive to fight AIDS.</headline>
+<dateline>LILONGWE 1996-12-06</dateline>
+<text>
+<p>Southern African countries resolved on Friday to renew a fight against AIDS and the HIV virus that plague their people.</p>
+<p>The Southern Africa Development Community (SADC), winding up a three-day conference on AIDS in Malawi, said it would emphasise anti-discriminatory labour laws, procurement of cheap but high-quality drugs and a better flow of information.</p>
+<p>Southern African states in the regional grouping, which stretches from South Africa to Tanzania and Angola, have some of the highest HIV infection rates in the world.</p>
+<p>Nearly 65 percent of the world's sufferers from AIDS (Acquired Immunity Deficiency Syndrome) live in Africa, believed to be the original home of the disease that has contributed to the deaths of six million people around the globe.</p>
+<p>According to some estimates, AIDS could cut life expectancy in South Africa to 40 years from 63 in less than 15 years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AFRICA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MALAW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LILONGWE"/>
+<dc element="dc.creator.location.country.name" value="MALAWI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

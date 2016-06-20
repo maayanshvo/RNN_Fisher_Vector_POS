@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241651" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: UK customs seize heroin on Dutch coach.</title>
+<headline>UK customs seize heroin on Dutch coach.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>British customs officers said on Saturday they had found a suitcase containing 20 kg (44 lb) of heroin on a coach carrying day-trippers from the Netherlands to London.</p>
+<p>A spokesman said the driver, tour organiser and courier had been arrested following the early morning seizure at the port of Dover.</p>
+<p>&quot;Some 20 kilos of heroin with a street value of more than two million pounds ($3.3 million) were found in a suitcase lying on the seat in the coach,&quot; the spokesman said.</p>
+<p>The party of day-trippers had crossed to Dover on a night ferry and were bound for London where they were to visit a mosque, the spokesman said. None of the passengers, who were mostly of Asian origin, were implicated in the seizure. ($1=.6082 Pound)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

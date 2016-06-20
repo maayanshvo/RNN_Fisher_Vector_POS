@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240187" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Putable bond issue trend grows, same seen for '97.</title>
+<headline>Putable bond issue trend grows, same seen for '97.</headline>
+<byline>Al Yoon</byline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>A flat yield curve and a push for positive convexity has piqued interest in putable bonds this year, and more of the same could be seen in 1997, analysts said.</p>
+<p>Putable issues -- which give the investor an option to put the bond back to the issuer at a set date, or hold the bond through to its full maturity -- have comprised about seven percent of total issuance this year to the tune of $10 billion. They have outpaced issuance of callable bonds more than three to one, analysts said.  </p>
+<p>Some of the hottest offerings of the past month have been putables, they said. The bonds are in vogue to big institutional investors concerned about portfolios skewed with negative convexity.</p>
+<p>Convexity measures the sensitivity of the market price of an interest-bearing bond to changes in interest rate levels.</p>
+<p>&quot;Negative convexity is always bad in a falling interest rate environment because it doesn't allow you to take advantage of the capital appreciation of the bond,&quot; said Panos Nikoulis, money market stategist at Merrill Lynch &amp; Co Inc.  </p>
+<p>John Massad, head of J.P. Morgan's debt syndicate, said issuers seeking savings have combined with investors seeking convexity to increase use of the structure for the past year.</p>
+<p>As the market for puts grows, Massad added, so too has overall investor interest. He noted that industrial use of puts has been growing, whereas, in the past, the structure has been a tool primarily for the banking and finance sector.</p>
+<p>&quot;The sophistication and education of investors is really the thing that's made them a more liquid instrument,&quot; Massad said. &quot;Everyone now uses similar models to analyze, trade and value them.&quot;  </p>
+<p>Insurance companies have used the structure in their drive to maximize ratings, said Jack Malvey, global chief fixed-income strategist at Lehman Brothers. A portfolio with more positive convexity, he said, keeps the holder more insulated against changes in interest rates over a period of time.</p>
+<p>Putable bonds also meet the issuer's desire to save money, Malvey said, because a 30-year offering with a 10-year put structure is priced more tightly than a 10-year bullet.</p>
+<p>Issuer savings have grown as the yield curve flattened in the latter half of this year, leading to still more issuance, said Leland Crabbe, corporate bond strategist at Merrill Lynch.  </p>
+<p>Prospective issuer savings for putables over bullets are currently around 20 to 30 basis points for a 30-year maturity bond with a put option in 10 years, Crabbe said, versus single-digit savings with steeper curves.</p>
+<p>But with rates solidly within the six percent range, analysts concede the chances the bond will be put back to the issuer in 10-years are greater than if rates were higher. An excercised put would likely result in refinancing at higher rates, they added.</p>
+<p>The structure's popularity with issuers is somewhat odd for that reason, but underscores a widespread near-term investment philosophy that puts lower rates above all else.  </p>
+<p>Crabbe, speaking at a recent Fixed-Income Analysts Society-sponsored panel, called issuers' near-term outlook &quot;The CFO effect.&quot;</p>
+<p>&quot;The tenure of a CFO is typically shorter than the first put date,&quot; Crabbe said. &quot;He's not going to be around in 10 years when someone asks why he sold volatility at eight percent.&quot;</p>
+<p>J.P. Morgan's Massad said the structure won't &quot;revolutionize&quot; the market, but the level of issuance should retain at least its current pace through 1997.</p>
+<p>--212-859-1672</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

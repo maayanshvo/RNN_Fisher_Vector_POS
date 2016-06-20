@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239116" id="root" date="1996-12-06" xml:lang="en">
+<title>REPUBLIC OF IRELAND: RUGBY UNION-FORMER IRELAND CAPTAIN TERRY KINGSTON RETIRES.</title>
+<headline>RUGBY UNION-FORMER IRELAND CAPTAIN TERRY KINGSTON RETIRES.</headline>
+<dateline>DUBLIN 1996-12-06</dateline>
+<text>
+<p>Former Ireland hooker and captain Terry Kingston has announced his retirement from representative rugby union.</p>
+<p>&quot;I had a most enjoyable career but the time has come for me to step aside from the representative scene. I want to devote more time to my job,&quot; Kingston said.</p>
+<p>Kingston, 33, is a director of a computer accessories and systems company in his native Cork in southern Ireland.</p>
+<p>He won 29 caps and had the distinction of playing in all three World Cup tournaments, captaining Ireland in South Africa last year.</p>
+<p>Kingston played his last match for Irish provincial side Munster against Australia last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

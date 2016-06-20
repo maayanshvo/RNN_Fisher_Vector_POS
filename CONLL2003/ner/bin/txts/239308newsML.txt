@@ -1,0 +1,20 @@
+CONSENSUS: U.S. corporate earnings surprise data.
+
+Earnings surprise for December 6, provided by Zacks Investment Research. The following companies reported the greatest deviations, above or below analysts' mean estimates, as compiled by Zacks.
+
+COMPANY		   ESTIMATE  ACTUAL  PCT SURPRISE
+
+COMMNET CELLULAR	 0.07     0.34     385.71%
+
+NOKIA CP -ADR A	  0.43     0.61*     41.86%
+
+MID OCEAN LTD	    1.42     1.45*	2.11%
+
+TRAVEL PORTS AMER	0.14     0.10     -28.57%
+
+(*) NOTE ADJUSTMENTS:
+
+- Mid Ocean reported EPS adjusted to exclude $0.09 after-tax realized investment gain.
+
+- Nokia Corp US$ 1 ADR = 1 share, X-rate= 0.2217294. 11/14/96
+

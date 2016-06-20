@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240889" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: French stocks slide on Wall Street drop.</title>
+<headline>French stocks slide on Wall Street drop.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French shares started a fresh slide after a deep Wall Street opening loss but traded aboved the day's lows, dealers said</p>
+<p>The blue-chip CAC-40 index was down 78.06 points or 3.41 percent at 2,214.44 at 1447 GMT while the CAC-40 futures contract was down at 2,216 from 2,294 on Thursday's close.</p>
+<p>The index had been as low as 2,180.44 in a sell-off prompted by remarks by U.S. Federal Reserve Chairman Alan Greenspan and exacerbated by statements by Bundesbank member Jochimsen. There is market talk Greenspan will make a statement today</p>
+<p>* Volume was eight billion francs.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

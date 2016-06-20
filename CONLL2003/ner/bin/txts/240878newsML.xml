@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240878" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: French economy grows faster than German - Lamassoure.</title>
+<headline>French economy grows faster than German - Lamassoure.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>Budget minister Alain Lamassoure said on Friday the rate of economic growth in France was greater than in Germany and reiterated the official government line that the franc was not overvalued versus the mark.</p>
+<p>&quot;The French rate (of growth) is greater than in Germany,&quot; Lamassoure during a magazine prize-giving ceremony.</p>
+<p>&quot;If our communications policy on the economy were well done, all those who commentate on the currency should be asking themselves if it is not in fact the mark which is overvalued versus the mark,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

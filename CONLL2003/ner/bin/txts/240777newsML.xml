@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240777" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. spot MTBE prices blown upward by Texas blast.</title>
+<headline>U.S. spot MTBE prices blown upward by Texas blast.</headline>
+<dateline>NEW YORK 1996-12-05</dateline>
+<text>
+<p>Cts/Gallon  Prompt(Nov)	Any (Dec)	 11/27/96(PptNov)</p>
+<p>Houston     86.00/87.00	86.50/87.50     85.00/85.50</p>
+<p>New York    90.50/91.50	91.00/92.00     88.75/89.75</p>
+<p>-------------------------------------------------------------</p>
+<p>U.S. spot MTBE prices gained about a cent a gallon after a methanol plant near Houston exploded earlier this week, leaving many traders with more questons than answers regarding the duration of the outage.</p>
+<p>Prices for methanol, a key feedstock used to make MTBE, have moved up about four cents since Tuesday's blast at the Hoechst Celanese plant to about 49.75 cents a gallon.  </p>
+<p>A 50,000 barrel MTBE deal in Houston was heard done on Wednesday at 86.50 a gallon, though that could not be immediately confirmed.</p>
+<p>But a 50,000 deal done Thursday in New York Harbor was confirmed at 91.00 cents a gallon -- about in line with the Houston-New York spread, which was assessed at between 4.25 and 4.50 cents.</p>
+<p>Traders said that while MTBE markets have been far from tight recently, the Hoechst fire and outage could bring a measure of bullishness to the market. Hoechst said the plant will be down for &quot;weeks.&quot; Some traders are saying &quot;months.&quot;</p>
+<p>-- Oliver Ludwig New York Energy Desk +1 212 859 1633</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

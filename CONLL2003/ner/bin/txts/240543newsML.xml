@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240543" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Reno Air November load factor rises.</title>
+<headline>Reno Air November load factor rises.</headline>
+<dateline>RENO, Nev. 1996-12-06</dateline>
+<text>
+<p>RENO AIR NOVEMBER TRAFFIC RESULTS</p>
+<p>				 1996	 1995		  % CHANGE</p>
+<p>    RPMs (000)	     251,736    167,018		  50.7%</p>
+<p>    ASMs (000)	     376,139    265,260		  41.8%</p>
+<p>    Load Factor (%)	66.9	 63.0		3.9 points</p>
+<p>    Passengers	     449,175    316,639		  41.9%</p>
+<p>				   YEAR-TO-DATE</p>
+<p>			   11 Months Ended November 30,</p>
+<p>			     1996	 1995		    % CHANGE</p>
+<p>    RPMs (000)	   2,776,786  1,906,965		  45.6%</p>
+<p>    ASMs (000)	   4,117,024  3,035,469		  35.6%</p>
+<p>    Load Factor (%)    67.5	 62.8		  4.7 points</p>
+<p>    Passengers	   4,711,724  3,626,792		  29.9%</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RENO, Nev."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241246" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Melbourne Ent year net down 0.18 percent.</title>
+<headline>Melbourne Ent year net down 0.18 percent.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Year ended September 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   414.0  vs 415.0</p>
+<p>    Dividend (H.K. cents)    200.0  vs 180.0</p>
+<p>    Exceptional items	  nil    vs nil</p>
+<p>    Net			    103.53 vs 103.72</p>
+<p>    Turnover		     152.64 vs 156.62</p>
+<p>    Company name		 Melbourne Enterprises Ltd</p>
+<p>    Books close		  January 15-20, 1997</p>
+<p>    Dividend payable	   January 23, 1997</p>
+<p>NOTE - Melbourne Enterprises is an investment and property investment holding company.</p>
+<p>Total dividend for year is HK$3.80 (including interim dividend of HK$1.80) vs HK$3.60.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

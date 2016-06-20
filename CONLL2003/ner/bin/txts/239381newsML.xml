@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239381" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Cole Taylor bank spinoff delayed.</title>
+<headline>Cole Taylor bank spinoff delayed.</headline>
+<dateline>WHEELING, Ill. 1996-12-06</dateline>
+<text>
+<p>Cole Taylor Financial Group Inc said Friday the proposed spinoff of its Cole Taylor Bank unit is now targeted for January rather than the end of the year.</p>
+<p>Cole Taylor president Bruce Taylor said due to year-end schedules, it did not appear feasible that the deal would be completed by the end of the year.  </p>
+<p>Cole Taylor said earlier this year it would spin the bank off to a group of shareholders headed by the Taylor family.</p>
+<p>The remaining company would be renamed Reliance Acceptance Corp, which will be publicly traded and focus on auto financing.</p>
+<p>Cole Taylor shares were down 1/4 at 27-3/4 Friday.</p>
+<p>((--Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WHEELING, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

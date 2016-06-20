@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239058" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: SOCCER-GULLIT TO CASH IN ON &quot;RUUD&quot; CLOTHING.</title>
+<headline>SOCCER-GULLIT TO CASH IN ON &quot;RUUD&quot; CLOTHING.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Ruud Gullit, one of  the most popular and successful players in world soccer over the past decade, is to have a range of casual clothing named after him under a five-year deal with a British sports and leisurewear firm.</p>
+<p>The dreadlocked former Dutch international, now player-manager of English premier league side Chelsea, is expected to play a role in styling the clothes which will carry his name.</p>
+<p>&quot;He's stylish, a great role model and very eloquent,&quot; said a company spokesman on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

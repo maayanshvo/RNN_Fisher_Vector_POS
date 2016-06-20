@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240507" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Tenet says FTC seeks more information.</title>
+<headline>Tenet says FTC seeks more information.</headline>
+<dateline>SANTA BARBARA, Calif. 1996-12-06</dateline>
+<text>
+<p>The U.S. Federal Trade Commission has asked for more information about Tenet Healthcare Corp operations in three California counties in connection with Tenet's planned acquisition of OrNda HealthCorp, Tenet said Friday.</p>
+<p>The FTC request, which came on Thursday, concerned Tenet operations in San Luis Obispo, Santa Barbara and Monterey counties, it said.</p>
+<p>It gave no other details.</p>
+<p>Tenet and its units own and operate 76 acute care hospitals and many other health care businesses in 13 states. Tenet's acquisition of OrNda, announced in October, would create an $8.5 billion company with operations in 22 states.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTA BARBARA, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

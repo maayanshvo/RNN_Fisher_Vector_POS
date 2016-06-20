@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239260" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Cricket-Play restarts in Australia-West Indies match.</title>
+<headline>RTRS-Cricket-Play restarts in Australia-West Indies match.</headline>
+<dateline>MELBOURNE 1996-12-06</dateline>
+<text>
+<p>Play restarted in the first World Series limited overs match between West Indies and Australia after a rain delay of 50 minutes on Friday.</p>
+<p>West Indies resumed their innings on 53 for two with opener Sherwin Campbell on 25 and Shivnarine Chanderpaul 10.</p>
+<p>Rain earlier delayed the start of play by 30 minutes.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="WEIND">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239160" id="root" date="1996-12-06" xml:lang="en">
+<title>POLAND: POLAND SAYS ALBRIGHT APPOINTMENT GOOD FOR NATO BID.</title>
+<headline>POLAND SAYS ALBRIGHT APPOINTMENT GOOD FOR NATO BID.</headline>
+<dateline>WARSAW 1996-12-06</dateline>
+<text>
+<p>Poland's foreign minister on Thursday welcomed Madeleine Albright's appointment as the United States' Secretary of State, saying the choice will help Poland's aspirations to join NATO.</p>
+<p>&quot;From our point of view it is a good candidacy. Ms Albright has been devoted to the idea of expansion of NATO,&quot; Dariusz Rosati told a news conference.</p>
+<p>On Thursday Clinton named Albright, the U.S. ambassador to the United Nations, as his choice for secretary of state.</p>
+<p>Poland, along with the Czech Republic and Hungary, is seen as one of the first former Soviet bloc's countries to enter the Western military alliance.</p>
+<p>The government hopes the pact will give a final go ahead next year to its enlargement, despite strong opposition from Russia, which says this would pose a threat to its security.</p>
+<p>Albright visited Poland in early 1994, when she advanced President Bill Clinton's plan to create the so-called Partnership for Peace (PfP), which provided for joint military training between NATO members and their former Warsaw Pact foes.</p>
+<p>Poland joined the PfP shortly afterwards and became one of its most active members.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241429" id="root" date="1996-12-06" xml:lang="en">
+<title>ISRAEL: Israel lifts ban on Israelis entering Bethlehem.</title>
+<headline>Israel lifts ban on Israelis entering Bethlehem.</headline>
+<dateline>JERUSALEM 1996-12-06</dateline>
+<text>
+<p>Israeli citizens can visit Bethlehem again after the army said on Friday it was lifting a ban on entering the Palestinian self-rule enclave imposed after fierce clashes in September.</p>
+<p>&quot;The closed military zone on Bethlehem has been lifted and the city is open to Israelis,&quot; an army spokesman said.</p>
+<p>On Thursday, Israeli and PLO forces resumed joint military patrols in the West Bank enclave, the traditional birthplace of Jesus, for the first time since the unprecedented gunbattles between PLO police and Israeli soldiers in the West Bank and Gaza in which 60 Palestinians and 15 Israelis were killed.</p>
+<p>Under an interim peace deal, Israeli and Palestine Liberation Organisation (PLO) forces patrol main roads through the six West Bank cities Israel handed to the PLO last year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

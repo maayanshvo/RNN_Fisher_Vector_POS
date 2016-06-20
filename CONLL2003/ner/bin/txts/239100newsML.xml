@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239100" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION RESULTS/STANDINGS.</headline>
+<dateline>BONN 1996-12-06</dateline>
+<text>
+<p>Results of German first division</p>
+<p>soccer matches played on Friday:</p>
+<p> Bochum		  2   Bayer Leverkusen	    2</p>
+<p> Werder Bremen	 1   1860 Munich		   1</p>
+<p> Karlsruhe	     3   Freiburg			0</p>
+<p> Schalke		 2   Hansa Rostock		 0</p>
+<p>Standings (tabulated under played, won, drawn, lost, goals</p>
+<p>for goals against points):</p>
+<p>Bayer Leverkusen	    17    10   4   3    38  22    34</p>
+<p>Bayern Munich		 16     9   6   1    26  14    33</p>
+<p>VfB Stuttgart		 16     9   4   3    39  17    31</p>
+<p>Borussia Dortmund	   16     9   4   3    33  17    31</p>
+<p>Karlsruhe		     17     8   4   5    30  20    28</p>
+<p>VfL Bochum		    16     7   6   3    23  21    27</p>
+<p>1. FC Cologne		 16     8   2   6    31  27    26</p>
+<p>Schalke 04		    17     7   4   6    25  26    25</p>
+<p>Werder Bremen		 17     6   4   7    29  28    22</p>
+<p>MSV Duisburg		  16     5   4   7    16  22    19</p>
+<p>SV 1860 Munich		17     4   6   7    25  31    18</p>
+<p>FC St. Pauli		  15     5   3   7    21  28    18</p>
+<p>Fortuna Dusseldorf	  16     5   3   8    13  24    18</p>
+<p>Hamburger SV		  16     4   5   7    20  25    17</p>
+<p>Arminia Bielefeld	   16     4   4   8    18  28    16</p>
+<p>FC Hansa Rostock	    17     4   3  10    19  26    15</p>
+<p>Borussia Monchengladbach  16     4   3   9    12  22    15</p>
+<p>SC Freiburg		   17     4   1  12    20  40    13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

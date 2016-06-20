@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241868" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: Chirac, Peres worried about Mideast peace.</title>
+<headline>Chirac, Peres worried about Mideast peace.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>French President Jacques Chirac and former Israeli prime minister Shimon Peres expressed pessimism about prospects for Middle East peace when they met met in Paris on Saturday, French officials said.</p>
+<p>&quot;They are both worried about the situation,&quot; Chirac's spokeswoman Catherine Colonnna told reporters afterwards.</p>
+<p>Peres told reporters they had talked about possible European participation with the United States in peace talks, an idea launched by Chirac but resisted by Israel's hardline Prime Minister Benjamin Netanyahu.</p>
+<p>&quot;There must be ongoing coordination between the American position and the European position,&quot; Peres said.</p>
+<p>&quot;Economically, Europe is playing a role and America is playing a role and there is also a group of donors coordinating efforts quite sucessfully.</p>
+<p>&quot;I think what was done in the field of economics should be done in the field of diplomacy. There should be coordination and a common policy because it is unthinkable that in the morning someone from Europe arrives and suggests compromises and in the afternoon, somebody from the United States arrives,&quot; he said.</p>
+<p>Later on Saturday, Peres was due to meet his backers in France's large Jewish community which is increasingly divided between supporters of the peace process and those of hardline Prime Minister Benjamin Netanyahu.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

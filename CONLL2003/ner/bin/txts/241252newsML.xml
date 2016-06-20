@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241252" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Toyota to form customised car units.</title>
+<headline>Toyota to form customised car units.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Toyota Motor Corp said on Friday it would set up three companies next year offering customised cars and car parts.</p>
+<p>Toyota will form Toyota Modellista International Corp in Tokyo with its subsidiary Toyota Technocraft Co Ltd.</p>
+<p>Toyota Modellista Fukuoka Corp will be set up in Fukuoka, western Japan, and Toyota Modellista Kobe Corp in Kobe with local Toyota dealers.</p>
+<p>The market for customised cars has grown since laws dealing with such cars were deregulated in November 1995.</p>
+<p>The new ventures will develop and procure parts and materials at home and overseas and will sell customised items to individual customers.</p>
+<p>Toyota hopes to achieve first-year sales of 2.1 billion yen at Modellista International, 1.5 billion yen at the Kobe firm and 900 million yen at the Fukuoka firm in the first year.</p>
+<p>It plans to set up 20 similar companies over the next five or six years.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

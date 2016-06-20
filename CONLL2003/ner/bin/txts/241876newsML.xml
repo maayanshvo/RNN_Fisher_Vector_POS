@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241876" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: Friedrich painting stolen from Berlin castle.</title>
+<headline>Friedrich painting stolen from Berlin castle.</headline>
+<dateline>BERLIN 1996-12-07</dateline>
+<text>
+<p>Thieves broke into Charlottenhof castle near Berlin on Friday night and stole a painting by Romanticist Caspar David Friedrich worth millions of dollars, police said on Saturday.</p>
+<p>The thieves broke into the castle through a window and stole the picture, called &quot;View on a harbour&quot;, together with its gilded frame.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERLIN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241281" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: HK Jan stock index contract fall as trade resumes.</title>
+<headline>HK Jan stock index contract fall as trade resumes.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Hang Seng Index futures for forward months dipped after trading resumed on Friday afternoon following a brief suspension in late morning, but then began retracing some ground, traders said.</p>
+<p>January futures slid 640 points to 12,970 at the start of the afternoon session, but later recovered to 13,130. March fell 630 to 13,045 at the start of the session.</p>
+<p>They were last traded in the morning down 450 and 420 points respectively before being suspended.</p>
+<p>&quot;There was still some stop-loss selling in the market in early afternoon but now we see slight rebound,&quot; Gary Wong of Peregrine Derivatives said.</p>
+<p>Activity was focused on the spot month, December, as hedge funds rushed to sell earlier in reaction to U.S. Federal Reserve Chairman Alan Greenspan's speech overnight.</p>
+<p>Greenspan said Fed need not be concerned with collapsing financial asset bubble if it does not threaten real economy.</p>
+<p>&quot;The market has been overreacted (to the news) and I bet the Hang Seng Index should manage to close above the 13,000 level,&quot; Wong said.</p>
+<p>December stood at 13,070, down 475 points against the low of 12,915. Turnover teached 24,039 contracts in late afternoon.</p>
+<p>-- Hong Kong Newsroom (852) 2943 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

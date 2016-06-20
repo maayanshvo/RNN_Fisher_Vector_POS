@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241259" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Shenzhen company bond issue plunge in 1996.</title>
+<headline>Shenzhen company bond issue plunge in 1996.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Corporate bond issues in Shenzhen this year have plunged due to stricter scrutiny of issuers following inadequate repayments last year, the Shenzhen-based Securities Times said on Friday.</p>
+<p>Shenzhen had a quota to issue 100 million yuan in corporate bonds this year but only 15 million has been issued so far because of the stricter requirements, the newspaper said.</p>
+<p>Shenzhen-based firms issued a total of 140 million yuan in bonds last year, it said.</p>
+<p>Many firms have delayed redeeming their debts on maturity due to a lack of detailed rules to protect investors and punish those who default, the newspaper said.</p>
+<p>Repayment of 35 million out of more than 100 million yuan in corporate bonds that matured at the end of 1995 was delayed, it said.</p>
+<p>Of four Shenzhen-based firms whose bonds matured earlier this year, one postponed repayment and the debt of another was repaid by its guarantor because it was unable to pay, it said. Following these cases, the Shenzhen government has paid more attention to the credibility of bond issuers and built up a corporate bond credit rating system, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

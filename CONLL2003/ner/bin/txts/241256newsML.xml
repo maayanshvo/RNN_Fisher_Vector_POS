@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241256" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Iran raises Jan light crude, rolls over heavy.</title>
+<headline>Iran raises Jan light crude, rolls over heavy.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>State-owned National Iranian Oil Co (NIOC) has raised its crude pricing formula for Iranian Light crude by five cents a barrel for January loading for Asian customers, traders in Tokyo said on Friday.  </p>
+<p>Following the rise, Iranian Light for January loading will be priced at Oman's MPM plus eight cents, with an automatic adjustment factor added to that.</p>
+<p>Iran kept the formula for Iranian Heavy unchanged at Dubai quotations minus three cents per barrel, with an automatic adjustment factor then subtracted.</p>
+<p>Iranian crude prices are set on a quarterly basis. However, under a contract agreement, NIOC and customers can review prices whenever the market moves substantially.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

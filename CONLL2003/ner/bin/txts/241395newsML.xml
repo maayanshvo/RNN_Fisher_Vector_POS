@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241395" id="root" date="1996-12-06" xml:lang="en">
+<title>MALAYSIA: Malaysian Hai-O debuts at 10 rgt.</title>
+<headline>Malaysian Hai-O debuts at 10 rgt.</headline>
+<dateline>KUALA LUMPUR 1996-12-06</dateline>
+<text>
+<p>Malaysian pharmaceuticals manufacturer Hai-O Enterpirse Bhd debuted on the Kuala Lumpur Stock Exchange at 10.00 ringgit against an offer price of 3.00 ringgit per share.</p>
+<p>The company is listed on the Second Baord.  </p>
+<p>The company offered 4.07 million shares to the public.</p>
+<p>Jupiter Securities said in a morning report the fair trading range for the stock was between 9.50 and 10.60 ringgit.</p>
+<p>Hai-O is a vendor and distributor of medicinal products and also manufactures traditional medicines and healthcare products.The company also has a chain of 29 retail outlets for its products.</p>
+<p>-- Kuala Lumpur newsroom (603-230 8911)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I61000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

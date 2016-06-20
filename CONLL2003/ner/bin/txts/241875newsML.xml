@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241875" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: German left wants to outlaw smacking of children.</title>
+<headline>German left wants to outlaw smacking of children.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>Germany's Social Democrats want to propose a bill in parliament to ban parents from hitting or slapping their children, deputy Dorle Marx wrote in a column for Sunday's Bild am Sonntag newspaper.</p>
+<p>Parents should educate their children with arguments and by setting a good example, writes Marx who is chairman of the parliamentary commission on children.</p>
+<p>&quot;Violence is no means of education,&quot; he adds.</p>
+<p>The Social Democrats, Greens and members of the centrist Free Democrats want every kind of corporal punishment banned, Marx said. At present only parents who seriously abuse their children are punished.</p>
+<p>The argument over smacking children has been loud in Britain where a 12-year-old boy touched off fierce debate in September by winning clearance from the European Court of Human Rights to challenge his parents' right to smack him.</p>
+<p>In Austria, Denmark, Cyprus, Finland, Norway and Sweden physical punishment by parents and other carers is banned.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

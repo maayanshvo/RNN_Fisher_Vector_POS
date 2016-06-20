@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241791" id="root" date="1996-12-07" xml:lang="en">
+<title>EGYPT: Polish prime minister arrives in Cairo.</title>
+<headline>Polish prime minister arrives in Cairo.</headline>
+<dateline>CAIRO 1996-12-07</dateline>
+<text>
+<p>Poland's Prime Minister Wlodzimierz Cimoszewicz arrived in Cairo on Saturday for a visit to include talks with Egypt's President Hosni Mubarak.</p>
+<p>Airport sources reported Cimoszewicz's arrival. Egyptian newspapers said on Saturday he would meet Mubarak and Egypt's Prime Minister Kamal Ganzouri for talks on issues including ways to increase economic cooperation.</p>
+<p>Al-Ahram newspaper reported Poland and Egypt would sign an agreement ending double taxation, and explore ways to increase increasing trade of $66 million.</p>
+<p>The two countries signed a security accord in October aimed at coordinating their efforts on fighting organised crime, guerrill attacks, drug smuggling and forgery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EGYPT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAIRO"/>
+<dc element="dc.creator.location.country.name" value="EGYPT"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

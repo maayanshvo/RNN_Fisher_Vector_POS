@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239356" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: United Airlines November load factor down.</title>
+<headline>United Airlines November load factor down.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>UAL Corp's United Airlines said Friday its total passenger load factor in November fell to 66.4 percent from 68.6 percent a year ago.  </p>
+<p>Available seat miles rose to 13.23 billion in November from 12.66 billion a year ago. Revenue passenger miles were 8.78 billion, up from 8.68 billion a year ago.</p>
+<p>&quot;Domestically, our November domestic traffic was negatively impacted this year because of the late date of Thanksgiving,&quot; president and chief operating officer John Edwardson said in a statement.</p>
+<p>He added that the late Thanksgiving date should boost traffic in December. &quot;Thanksgiving traffic for the period, however, was strong,&quot; he said. &quot;United set a single-day boarding record on Sunday, December 1, carrying 282,024 passengers.&quot;</p>
+<p>For the year through November, load factor was 71.9 percent, up from 70.8 percent a year ago.</p>
+<p>Available seat miles were 148.90 billion, up from 144.96 billion a year ago. Revenue passenger miles were 107.06 billion, up from 102.58 billion a year ago, the airline said.</p>
+<p>UAL shares fell 2-1/8 Friday to 57-7/8.</p>
+<p>((--Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

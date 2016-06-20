@@ -1,0 +1,64 @@
+UBS leads 795 million stg four-tranche bond.
+
+LONDON 1996-12-06
+
+Leek Finance No 1 Plc has issued a 794.6 million sterling four-tranche floating-rate bond, lead manager UBS said.
+
+The bonds are backed by a pool of UK residential mortgages.  
+
+TRANCHE A1
+
+ AMT    262.9 MLN STG BASE	*3M-LIBOR  LEG MAT     19.DEC.37
+
+ FEES	 10 BP     MARGIN     +7 BP     AVG LIFE    1.26 YRS
+
+ S&P	  AAA	 ISS PRICE  PAR	 PAY DATE    19.DEC.96
+
+ NOTES     *TO DECEMBER 2002 THEN 3M-LIBOR +20 BP THERE AFTER.
+
+* * * * *
+
+TRANCHE A2
+
+ AMT    428.6 MLN STG BASE	*3M-LIBOR  LEG MAT     19.DEC.37
+
+ FEES	 20 BP     MARGIN     +14 BP    AVG LIFE    4.97 YRS
+
+ S&P	  AAA	 ISS PRICE  PAR	 PAY DATE    19.DEC.96
+
+ NOTES     *TO DECEMBER 2002 THEN 3M-LIBOR +35 BP THERE AFTER.
+
+* * * * *
+
+TRANCHE M
+
+ AMT     74.8 MLN STG BASE	*3M-LIBOR  LEG MAT     19.DEC.37
+
+ FEES	 45 BP     MARGIN     +33 BP    AVG LIFE    6.00 YRS
+
+ S&P	  A	   ISS PRICE  PAR	 PAY DATE    19.DEC.96
+
+ NOTES     *TO DECEMBER 2002 THEN 3M-LIBOR +65 BP THERE AFTER.
+
+* * * * *
+
+TRANCHE B
+
+ AMT     28.3 MLN STG BASE	*3M-LIBOR  LEG MAT     19.DEC.37
+
+ FEES	 57.5 BP   MARGIN     +60 BP    AVG LIFE    6.00 YRS
+
+ S&P	  BBB	 ISS PRICE  PAR	 PAY DATE    19.DEC.96
+
+ NOTES     *TO DECEMBER 2002 THEN 3M-LIBOR +110 BP THERE AFTER.
+
+* * * * *
+
+ LISTING    LONDON    DENOMS (K) 100	 SALE LIMITS US/UK
+
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA 2
+
+ NOTES	PAR CALL FROM 19.DEC.02.
+
+-- London Newsroom +44 171 542 8863
+

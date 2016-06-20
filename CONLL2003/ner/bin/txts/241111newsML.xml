@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241111" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-BHP admits misled market on report.</title>
+<headline>RTRS-BHP admits misled market on report.</headline>
+<dateline>MELBOURNE 1996-12-06</dateline>
+<text>
+<p>The Broken Hill Proprietary Co Ltd (BHP) said on Friday said a drilling report it released on the Buffalo One exploration well in the Timor Sea on October 10 had the potential to mislead the sharemarket.</p>
+<p>&quot;BHP now recognises that the report of 10 October 1996, in the form in which it was made, had a potental to mislead,&quot; BHP said. The Australian Stock Exchange (ASX) revealed on October 17 that it was in dispute with BHP about the company's weekly drilling reports, traditionally issued each Thursday.  </p>
+<p>At the time, the ASX queried the amount of information provided about Buffalo One. BHP said at the start of October that the well was to be plugged and abandoned but on October 14 it announced the well had flowed 11,790 barrels of oil per day.</p>
+<p>&quot;The company very much regrets this and any misunderstanding which have resulted. This was not the intention,&quot; BHP said.</p>
+<p>In late October, the ASX granted a six-month wavier to BHP from providing weekly drilling reports on the progress of wells which are outside Australian jurisdiction and in the Timor Sea zone of cooperation with Indonesia.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

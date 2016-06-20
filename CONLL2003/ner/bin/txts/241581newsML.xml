@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241581" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: RUGBY UNION-AUSTRALIA BEAT BARBARIANS 39-12.</title>
+<headline>RUGBY UNION-AUSTRALIA BEAT BARBARIANS 39-12.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>Australia beat the Barbarians 39-12 (halftime 27-0) in the final match of their European tour on Saturday:</p>
+<p>Scorers:</p>
+<p>Australia - Tries: Matthew Burke (2), Joe Roff, David Campese, Tim Horan. Penalties: Burke (2). Conversions: Burke (4).</p>
+<p>Barbarians - Tries: Alan Bateman, Scott Quinnell. Conversion: Rob Andrew.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

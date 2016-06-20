@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240952" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Swedish Nov jobless up to 7.9 pct vs Oct's 7.6 pct.</title>
+<headline>Swedish Nov jobless up to 7.9 pct vs Oct's 7.6 pct.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Unemployment in Sweden rose to 7.9 percent in November from 7.6 percent in October, Statistics Sweden said on Friday.</p>
+<p>  SWEDISH UNEMPLOYMENT	 Nov 96	Oct 96     Nov 95</p>
+<p>  Percent of workforce	 7.9	   7.6	  7.2</p>
+<p>  Number of unemployed	 336,000     326,000    309,000</p>
+<p>Note - A Reuter poll of economists showed the market had expected an unemployment rate of 7.4 percent in November.</p>
+<p>-- Stockholm newsroom +46-8-700-1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

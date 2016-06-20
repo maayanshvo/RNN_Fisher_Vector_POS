@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241257" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Philippine firm General Milling buys 23,500T wheat.</title>
+<headline>Philippine firm General Milling buys 23,500T wheat.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Philippine firm General Milling Corp bought 23,500 tonnes U.S. wheat, traders said on Friday.</p>
+<p>Three traders based in Manila said General Milling bought 15,000 tonnes dark northern spring wheat and 8,500 tonnes western white wheat late on Thursday.</p>
+<p>The price at which the commodity was bought through a Japanese trading firm was not immediately available.</p>
+<p>Shipment of the wheat was scheduled in the second half of the month, traders said.</p>
+<p>--Manila newsroom (632) 841-89-36, fax 817-62-67</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

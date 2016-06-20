@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241787" id="root" date="1996-12-07" xml:lang="en">
+<title>BAHRAIN: Bahrain denies Qatar's torture report.</title>
+<headline>Bahrain denies Qatar's torture report.</headline>
+<dateline>MANAMA 1996-12-07</dateline>
+<text>
+<p>Bahrain on Saturday denied that two Qataris arrested on spy charges had been tortured and said they were being well treated.</p>
+<p>&quot;Both defendants are well treated and have reiterated that before the court when they were asked in the first session,&quot; an official source at the office of Bahrain's prosecutor general was quoted by the official Gulf News Agency as saying.</p>
+<p>The official said the two defendants -- Fahad Hamad Abdullah al-Baker and Salwa Jassim Mohammed Fakhri -- had chosen their two lawyers to defend them.</p>
+<p>Qatar on Friday accused Bahrain of torturing al-Baker and said the trial of the Qatari suspects &quot;set a dangerous precedent in Gulf ties.&quot; It said any verdicts by the court would be considered void.</p>
+<p>Bahrain's State Security Court on Wednesday adjourned the trial of the Qataris to December 14.</p>
+<p>The charges have raised tensions between Bahrain and Qatar, already at loggerheads over small islands in the Gulf controlled by Bahrain since the 1930's.</p>
+<p>Bahrain boycotted a Gulf Arab summit due to open in the Qatari capital Doha on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BAHRN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="QATAR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAMA"/>
+<dc element="dc.creator.location.country.name" value="BAHRAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

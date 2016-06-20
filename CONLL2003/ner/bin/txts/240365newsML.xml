@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240365" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Yield at Indian 91-day t-bill falls to 8.06 pct.</title>
+<headline>Yield at Indian 91-day t-bill falls to 8.06 pct.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>The Reserve Bank of India (RBI) said it set a cut-off price of 98.03 rupees at its weekly auction of 91-day treasury bills auction on Friday.</p>
+<p>Dealers said the yield worked out to 8.06 percent, down from 8.19 percent at the last auction.  </p>
+<p>--</p>
+<p>India 91-day treasury bills auction results - December 6</p>
+<p>.</p>
+<p>				  Bids received	Amount (Rs. million)</p>
+<p>-------------------------------------------------------------</p>
+<p>Competitive			   68		    11,960.00</p>
+<p>Non-competitive			1		     2,000.00</p>
+<p>					  ---		    -------</p>
+<p>Total				   69		    13,960.00</p>
+<p>					  ---		    -------</p>
+<p>				   Bids allotted     Amount (Rs. million)</p>
+<p>-------------------------------------------------------------</p>
+<p>Competitive			   36  (11 partial)   4,082.05</p>
+<p>Non-competitive			1  (partial)	  917.95</p>
+<p>					  ---		    -------</p>
+<p>Total				   37		     5,000.00</p>
+<p>					  ---		    -------</p>
+<p>Devolvement : Reserve Bank of India		     Nil</p>
+<p>		  Primary dealers			     Nil</p>
+<p>Cut off price	    - 98.03</p>
+<p>Weighted average price - 98.05 rupees.</p>
+<p>----------------------------------------------------------</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

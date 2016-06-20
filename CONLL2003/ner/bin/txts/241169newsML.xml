@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241169" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-National Foods plans A$57 mln plant.</title>
+<headline>RTRS-National Foods plans A$57 mln plant.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Food manufacturer National Foods Ltd said on Friday it would invest A$57 million in a new dairy plant in the state of Victoria.  </p>
+<p>The greenfields fresh dairy plant would be located at Morwell in Victoria, the company said.</p>
+<p>The plant would begin to supply fresh dairy products nationally from 1997.</p>
+<p>The facility would bring significant efficiencies into the processing and distribution of these products, it said.</p>
+<p>National Foods said it would also gain from increased production capacity and greater flexibility to supply new products to consumers.</p>
+<p>A trading halt applied earlier today had been lifted, it added.  </p>
+<p>Managing director Max Ould said in a statement the plant would restructure one of National Food's core businesses, with a view to ensuring long-term competitiveness.</p>
+<p>National Foods markets its dairy products under the Yoplait, Fruche, YoGo and Farmers Union brands.</p>
+<p>Ould said the new plant would fully replace the fresh dairy processing currently undertaken at Murray Bridge in South Australia and Taree in New South Wales.</p>
+<p>Murray Bridge would continue to make quality cheeses and Taree would continue to receive milk for Sydney distribution.</p>
+<p>-- Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

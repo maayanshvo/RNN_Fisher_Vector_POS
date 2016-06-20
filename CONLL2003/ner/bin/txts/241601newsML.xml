@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241601" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: NHL ICE HOCKEY-STANDINGS AFTER FRIDAY'S GAMES.</title>
+<headline>NHL ICE HOCKEY-STANDINGS AFTER FRIDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-12-07</dateline>
+<text>
+<p>Standings of National Hockey</p>
+<p>League teams after games played on Friday (tabulate under won,</p>
+<p>lost, tied, goals for, goals against, points):</p>
+<p>		  EASTERN CONFERENCE</p>
+<p>		  NORTHEAST DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> HARTFORD	12   7   6   77   76   30</p>
+<p> BUFFALO	 13  12   2   78   77   28</p>
+<p> MONTREAL	11  14   4   99  104   26</p>
+<p> BOSTON	  10  11   4   74   84   24</p>
+<p> PITTSBURGH    10  13   3   86   94   23</p>
+<p> OTTAWA	   7  12   6   64   77   20</p>
+<p>		  ATLANTIC DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> FLORIDA	 17   4   6   83   53   40</p>
+<p> PHILADELPHIA  15  12   2   81   78   32</p>
+<p> NEW JERSEY    14  10   1   61   61   29</p>
+<p> WASHINGTON    13  13   1   72   71   27</p>
+<p> NY RANGERS    11  13   5   97   86   27</p>
+<p> NY ISLANDERS   7  11   8   65   72   22</p>
+<p> TAMPA BAY	8  15   2   69   81   18</p>
+<p>		  WESTERN CONFERENCE</p>
+<p>		  CENTRAL DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> DETROIT	 15   9   4   81   53   34</p>
+<p> DALLAS	  16  10   1   77   66   33</p>
+<p> ST LOUIS	14  14   0   82   84   28</p>
+<p> CHICAGO	 12  13   3   72   70   27</p>
+<p> TORONTO	 11  16   0   81   95   22</p>
+<p> PHOENIX	  9  13   4   61   74   22</p>
+<p>		  PACIFIC DIVISION</p>
+<p>		    W   L   T   GF   GA   PTS</p>
+<p> COLORADO	17   7   4  100   60   38</p>
+<p> VANCOUVER     14  11   1   84   83   29</p>
+<p> EDMONTON	14  14   1   99   90   29</p>
+<p> LOS ANGELES   11  13   3   72   83   25</p>
+<p> SAN JOSE	10  13   4   69   87   24</p>
+<p> ANAHEIM	  9  14   5   74   87   23</p>
+<p> CALGARY	 10  16   2   65   77   22</p>
+<p>SATURDAY, DECEMBER 7 SCHEDULE</p>
+<p>PHOENIX AT NEW JERSEY</p>
+<p> CALGARY AT BOSTON    </p>
+<p>BUFFALO AT HARTFORD  </p>
+<p>WASHINGTON AT NY ISLANDERS </p>
+<p> CHICAGO AT MONTREAL	  </p>
+<p> NY RANGERS AT TORONTO	</p>
+<p> ANAHEIM AT PITTSBURGH	</p>
+<p> COLORADO AT LOS ANGELES    </p>
+<p> TAMPA BAY AT SAN JOSE	</p>
+<p> OTTAWA AT VANCOUVER</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

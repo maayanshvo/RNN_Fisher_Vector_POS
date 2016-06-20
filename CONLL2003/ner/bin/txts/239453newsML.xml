@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239453" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Possis rises after FDA approves device.</title>
+<headline>Possis rises after FDA approves device.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Shares of Possis Medical Inc were up one point at 20-3/4 in afternoon trading on Friday following news that the U.S. Food &amp; Drug Administration had approved marketing of the company's Angiojet blood clot removal system.</p>
+<p>Possis reached a peak of 22 this morning.</p>
+<p>The FDA approval was anticipated but came slightly sooner than expected, said Dain Bosworth analyst Parice Halbert. She said she was keeping the rating for Possis at hold and leaving earnings estimates unchanged.</p>
+<p>She still forecast fiscal 1997 revenues for the company, which is on a July fiscal year, of $7.8 million from medical products, compared to $1.2 million in the prior year.</p>
+<p>-- Chicago Newsdesk (312) 408-8787</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

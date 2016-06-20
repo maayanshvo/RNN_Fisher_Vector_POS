@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240117" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Duke SC nuke to stay off line thru weekend.</title>
+<headline>Duke SC nuke to stay off line thru weekend.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Duke Power Co said Friday the 1,129 megawatt (MW) Catawba 1 nuclear power unit in Clover, S.C., will remain off line through at least this weekend.</p>
+<p>The unit was taken off line late Thursday due to a leak in a small reactor coolant pump, company spokesman Rick Zuercher said, adding the company could not yet comment on when the unit would resume generating electricity.</p>
+<p>Duke Power is the operator of the plant with a 25 percent share.</p>
+<p>Duke's two McGuire nuclear units in North Carolina, with generating capacities of 1,129 MW, are both operating at full power.</p>
+<p>However, Duke's three Oconee nuclear units, each generating 846 megawatts, are shut and are not expected to restart until January, the company has reported.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

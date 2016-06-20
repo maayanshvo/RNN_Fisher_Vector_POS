@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240109" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CME hogs and pork bellies end lower.</title>
+<headline>CME hogs and pork bellies end lower.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>CME hogs and pork belly futures closed lower, but late trading was light and featureless in both markets.</p>
+<p>Hogs partially recovered from early lows, but were still unable to shake the bearish influence from the lower stock markets. February's ability to hold support above Thursday's low of 76.42 cents per lb was seen supportive longer term, but was not enough to entirely erase Friday's losses.</p>
+<p>Cash hogs were expected to trade steady Monday, but that sentiment had little influence on the futures. Traders said lower pork prices this week and expected light Saturday slaughter were bearish influences.</p>
+<p>After the close USDA estimated Friday's hog slaughter at 359,000 head and Saturday's at 18,000, putting week-to-date slaughter at 1.81 million head vs 1.914 million a year ago.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

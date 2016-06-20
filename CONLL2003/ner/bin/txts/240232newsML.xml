@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240232" id="root" date="1996-12-06" xml:lang="en">
+<title>UNITED NATIONS: Saybolt inspectors clear Iraqi oil meters.</title>
+<headline>Saybolt inspectors clear Iraqi oil meters.</headline>
+<dateline>UNITED NATIONS 1996-12-06</dateline>
+<text>
+<p>Inspectors have cleared the last technical hurdle for Iraqi oil exports under the U.N. oil-for-food scheme, telling the United Nations that Iraqi oil metering systems are operational, a U.N. official said Friday.</p>
+<p>Dutch-firm Saybolt told the United Nations that it found key oil metering equipment in &quot;functional&quot; order at the Zakho facility along the Turkey-Iraq border, the official said.</p>
+<p>&quot;They have indicated the metering equipment is functional,&quot; said the official.</p>
+<p>A written confirmation of the Saybolt report was expected to be delivered to the United Nations later Friday.  </p>
+<p>U.N. Secretary-General Boutros Boutros-Ghali was awaiting the Saybolt report before making a determination on when he would give clearance for the start of Iraqi oil sales.</p>
+<p>Under terms of the May 20 oil accord, Boutros-Ghali must submit a &quot;final report&quot; to the Security Council, triggering the deal at one minute past midnight (0501 GMT), New York time, the following day.</p>
+<p>Saybolt inspectors had previously inspected the Zakho metering system, but found equipment faulty or missing. Saybolt personnel returned this week to ensure that the Iraqis made necessary repairs, allowing inspection agents to monitor oil flows once the plan is operational.</p>
+<p>The U.N. official said Saybolt found no other problems with the pipeline system during this week's tour.</p>
+<p>Under the oil deal, Iraq is allowed to sell $2 billion worth of oil over a six-month period to buy food and aid for civilians, suffering from sanctions imposed in August 1990 after Baghdad invaded Kuwait.</p>
+<p>-Patrick Connole, United Nations, +1 212 355 6053</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNITED NATIONS"/>
+<dc element="dc.creator.location.country.name" value="UNITED NATIONS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

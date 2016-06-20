@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239294" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: DBRS confirms Placer Dome debt, paper.</title>
+<headline>DBRS confirms Placer Dome debt, paper.</headline>
+<dateline>TORONTO 1996-12-06</dateline>
+<text>
+<p>Dominion Bond Rating Service Ltd said on Friday that it confirmed its ratings on Placer Dome Inc's senior debentures at A (low) and Placer's commercial paper at  R-1 (low).</p>
+<p>Both ratings have stable trends, the rating agency said in a statement.</p>
+<p>DBRS said it confirmed the ratings following Placer Dome's offer to acquire Highlands Gold Ltd and the minority interest of Placer Pacific Ltd and its plans to sell three small Canadian mining properties.  </p>
+<p>&quot;The balance sheet impact of the acquisitions should be slightly positive, as the proposed funding would be largely through equity,&quot; DBRS said in a statement.</p>
+<p>&quot;Any loss of mine income from divestitures is not expected to materially impact the company's operating results,&quot; the rating agency said.</p>
+<p>((Reuters Toronto Bureau 416 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

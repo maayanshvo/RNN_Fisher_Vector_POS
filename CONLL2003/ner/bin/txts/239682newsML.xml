@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239682" id="root" date="1996-12-06" xml:lang="en">
+<title>CROATIA: Croatian stocks down, Kras chocolate sole gainer.</title>
+<headline>Croatian stocks down, Kras chocolate sole gainer.</headline>
+<dateline>ZAGREB 1996-12-06</dateline>
+<text>
+<p>Croatian stocks closed lower on Friday on small volume, with chocolate-maker Kras resisting the downward trend.</p>
+<p>* Of eight active issues, seven were down and one up.</p>
+<p>* Volume almost halved at 2,393 shares, turnover also lower at 1.4 million kuna.</p>
+<p>* The only gainer Kras rose 20 kuna to close at 430, selling 724 shares.</p>
+<p>* Top decliner hotelier Riviera Porec lost 44 kuna to 106, with 255 shares changing hands.</p>
+<p>* Most active was Zagrebacka Banka with 815 shares traded. It fell 10 kuna to 990. -- Zagreb Newsroom, 385-1-4557075</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZAGREB"/>
+<dc element="dc.creator.location.country.name" value="CROATIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

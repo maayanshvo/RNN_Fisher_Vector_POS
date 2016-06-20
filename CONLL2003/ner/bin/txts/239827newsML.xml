@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239827" id="root" date="1996-12-06" xml:lang="en">
+<title>PERU: Brazil's Paranapanema buys Peru's Yauliyacu.</title>
+<headline>Brazil's Paranapanema buys Peru's Yauliyacu.</headline>
+<dateline>LIMA 1996-12-06</dateline>
+<text>
+<p>Peru's state mining company Centromin sold Friday its polymetallic unit Empresa Minera Yauliyacu at an auction to Brazil's Paranapanema for $12.7 million, privatization officials said.</p>
+<p>The Brazilian mining company also offered to invest $100 million over five years.  </p>
+<p>Paranapanema beat out bids from Pan American Silver Corp from Canada, Sunshine Mining and Refining Company, from the United States, Glencore International AG, from Switzerland and Compaa Minera Casapalca, from Peru.</p>
+<p>Centromin had set a minimum bid price for the unit of $8 million and a minimum investment of $15 million over five years.  </p>
+<p>Under the terms of the auction, Paranapanema will also have to assume an additional cost of $4.05 million over two years to treat abandoned deposits.</p>
+<p>According to Centromin, the unit has proven and probable reserves of silver, zinc, lead and copper totalling 7.3 million tonnes. The unit's potential reserves total 14.7 million tonnes.</p>
+<p>In 1995, 746,000 tonnes of mineral were extracted from the site.</p>
+<p>The sale is part of Centromin's ongoing privatization process.</p>
+<p>-- Saul Hudson, Lima newsroom, 511 221-2134</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

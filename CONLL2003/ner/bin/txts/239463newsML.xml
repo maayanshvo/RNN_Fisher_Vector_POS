@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239463" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Winland Electronics wins $5.5-mln contract.</title>
+<headline>Winland Electronics wins $5.5-mln contract.</headline>
+<dateline>MANKATO, Minn. 1996-12-06</dateline>
+<text>
+<p>Winland Electronics Inc announced Friday it received a contract to supply mobile communications equipment to PeopleNet Communications Corp.</p>
+<p>The multi-year agreement is worth $5.5 million in the first year, Winland said.</p>
+<p>Winland will make base units that link long-haul trucks to trucking company fleet managers using satellites, cellular and paging systems. The first shipments are expected to be delivered in early 1997, the company said.</p>
+<p>Winland Electronics designs and markets electronic and electro-mechanical products and assemblies.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANKATO, Minn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

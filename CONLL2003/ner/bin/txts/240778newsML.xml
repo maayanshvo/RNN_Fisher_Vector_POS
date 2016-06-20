@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240778" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Space station hit by Russian funding problems.</title>
+<headline>Space station hit by Russian funding problems.</headline>
+<byline>Steven Young</byline>
+<dateline>CAPE CANAVERAL, Fla 1996-12-05</dateline>
+<text>
+<p>The United States-led international space station will remain uninhabited until 1999 because a crucial Russian module will not be launched on time, a top NASA official said on Thursday.</p>
+<p>Construction of the Service Module, part of Russia's contribution to the space station, is running eight months late, said Randy Brinkley the space station program manager. The module was to provide temporary living quarters for visiting astronauts.</p>
+<p>A team of senior NASA space station managers who visited Moscow in late November learned the launch of the 46,300-pound (20,577 kg) module had slipped from April 20, 1998 to Dec. 31, 1998.</p>
+<p>Russian government funding for the space station has failed to materialize and if it is not forthcoming by the end of the year the module may be further delayed.</p>
+<p>In addition, Energia, the prime contractor for the module, owes &quot;close to $100 million&quot; to its subcontrators for previous work, according to an internal NASA document obtained by Reuters. Many of the companies were unwilling to accept contracts for the Service Module until previous debts had been paid.</p>
+<p>&quot;The financial problems with Energia are bigger than we thought,&quot; the report stated.</p>
+<p>Brinkley said it was his understanding that Energia's debts would be paid off soon.</p>
+<p>The funding problems may not be resolved until U.S. Vice President Al Gore and Russian Prime Minister Viktor Chernomyrdin meet in February.</p>
+<p>&quot;There have been discussions at the various levels of the government up to and including the White House,&quot; Brinkley said.</p>
+<p>The Service Module, the nerve center of the space station, was supposed to be the third major component of the sprawling outpost to be launched.</p>
+<p>The module was to periodically boost the station's orbit and serve as a control post and living quarters for the first station crew, who were due to arrive in May 1998 to oversee the construction effort. The module's delay will push the manning of the station into 1999.</p>
+<p>Construction of the $40 billion station was due to begin in less than a year's time with the launch of a Russian-built, U.S.-financed, propulsion and power module in November 1997. The building of that spacecraft has so far remained more or less on track.</p>
+<p>NASA hopes to juggle its assembly schedule to accommodate the late arrival of the Service Module and still complete construction of the station by 2002, Brinkley said.</p>
+<p>&quot;We believe that we would be able ... to incorporate the Service Module into the assembly sequence at a later date than was originally planned ... without any major perturbations,&quot; he said.</p>
+<p>The space agency was, however, dusting off contingency plans in case the Russian module was further delayed or Russian participation in the project was cancelled. These included adapting the upper stage of a Peacekeeper nuclear missile to serve as a propulsion module and equipping the U.S. laboratory with living accommodations.</p>
+<p>Brinkley refused to discuss the contingency plans in detail or when they might have to be implemented.</p>
+<p>It will take 27 shuttle flights and 44 Russian launches between 1997 and 2002 to assemble and operate the station. Once completed the complex will stretch 356 feet (119 meters) from end-to-end, weigh 940,000 pounds (417,777 kg) and offer 43,000 cubic feet (1,220 cubic metres) of living and working space.</p>
+<p>European and Japan plan to provide laboratory modules for the station and a Canadian robotic arm will assist with the construction and maintenance of the complex.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Fla"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

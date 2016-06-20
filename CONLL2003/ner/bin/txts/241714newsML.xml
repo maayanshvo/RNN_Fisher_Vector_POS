@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241714" id="root" date="1996-12-07" xml:lang="en">
+<title>NEW ZEALAND: NZ minister pulls out of WTO as coalition looms.</title>
+<headline>NZ minister pulls out of WTO as coalition looms.</headline>
+<dateline>WELLINGTON 1996-12-07</dateline>
+<text>
+<p>New Zealand's caretaker foreign minister on Saturday pulled out of a world trade conference in Singapore as two months of coalition talks neared their climax.</p>
+<p>Don McKinnon, whose conservative National Party and centre-left Labour are both trying to form a government with nationalist New Zealand First, said he would not attend the World Trade Organisation (WTO) conference starting on Monday.</p>
+<p>&quot;Commitments in Wellington as a member of the coalition talks team and the lead-up to the opening of parliament next week necessitate my staying in New Zealand,&quot; McKinnon said. Caretaker farm minister Lockwood Smith would go instead.</p>
+<p>Labour members of parliament gathered in Wellington for a rare Saturday meeting to consider a coalition proposal negotiated by leader Helen Clark with New Zealand First.</p>
+<p>Pressure is mounting on NZ First and its charismatic Maori leader Winston Peters to name its coalition partner and resolve the stalemate created by an inconclusive general election on October 12.</p>
+<p>NZ First is seen as closer to Labour on social policy and Maori issues, but newspapers speculate that National, in power since 1990, may be willing to offer major concessions to remain in office.</p>
+<p>Caretaker Prime Minister Jim Bolger will not confirm reports he is willing to give up planned tax cuts, a major plank of his election campaign, to address NZ First's spending priorities.</p>
+<p>Bolger was due to meet Peters on Sunday, with NZ First MPs gathering the same day to consider the choice between National and Labour. All parties say they want a deal before parliament gathers next Thursday for the first time since the election.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

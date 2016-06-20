@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240502" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. BLS chief says contacted about CPI hearings.</title>
+<headline>U.S. BLS chief says contacted about CPI hearings.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The Labor Department's Bureau of Labor Statistics has been contacted by the Senate Finance Committee regarding possible hearings in January on the consumer price index, a senior official said Friday.</p>
+<p>Katharine Abraham, commissioner for the bureau, told reporters nothing firm had been set.</p>
+<p>A panel appointed by the Senate Finance Committee on Wednesday issued a report concluding that the CPI overstates inflation by 1.1 percentage points per year, a controversial finding that could have significant implications for the federal budget.</p>
+<p>--Caren Bohan, 202-898-8309</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240044" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: FOB Gulf Grain - FOB values remain unchanged.</title>
+<headline>FOB Gulf Grain - FOB values remain unchanged.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>U.S. Gulf FOB basis values were unchanged on Friday in very quiet trading, exporters said.</p>
+<p>&quot;There is absolutely nothing going on in the cash markets,&quot; a trader said.</p>
+<p>U.S. wheat is still overvalued relative to that of other major exporters, so the U.S. wheat export market remained lackluster, dealers said.</p>
+<p>Some exporters were cheered by news that the U.S. and Turkey has ironed out recent differences over phytosanitary concerns, they said.</p>
+<p>However, the U.S. attache in Argentina raised that country's wheat forecast by one million tonnes to 15.5 million tonnes. Argentina is expected to be an aggressive exporter when the crop becomes available in late December.  </p>
+<p>CORN (No. 3 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Dec20/Jan10 36    +  H   unc	+39    +  H    unc</p>
+<p>January     36    +  H   unc	+38    +  H    unc</p>
+<p>February    36    +  H   unc	+38    +  H    unc</p>
+<p>March	 33    +  H   unc	+36    +  H    unc</p>
+<p>--------</p>
+<p>--------</p>
+<p>--------</p>
+<p>--------</p>
+<p>Note: Z=CBOT December, H=CBOT March, nc=no comparison.  </p>
+<p>SOYBEANS (No. 2 yellow, FOB, U.S. Gulf, basis CBOT, cts/bu)</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Dec	   unq	    nc	 +38    +  F    unc</p>
+<p>Jan	   unq	    nc	 +38    +  F    unc</p>
+<p>Feb	   unq	    nc	 +41    +  H    unc</p>
+<p>March	 unq	    unc	+39    +  H    unc</p>
+<p>Note: F=CBOT January. H=CBOT March  </p>
+<p>SRW WHEAT (FOB, U.S. Gulf, basis CBOT, cts/bu) -</p>
+<p>    --	 Bid	    Chng     Offer	     Chng</p>
+<p>Dec	   unq	     nc	+40    +  H    unc</p>
+<p>Jan	   unq	     nc	+35    +  H    unc</p>
+<p>Feb	   unq	     nc	+35    +  H    unc</p>
+<p>HRW WHEAT (FOB, U.S. Gulf, basis KCBT, cts/bu) -</p>
+<p>Dec	   unq	     nc	+86    +  H    unc</p>
+<p>Jan	   unq	     nc	+74    +  H    unc</p>
+<p>Feb	   unq	     nc	+66    +  H    unc</p>
+<p>Note:  H=March futures. nc=no comparison.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

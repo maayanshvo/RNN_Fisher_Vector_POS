@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241215" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: S.Korean deputy PM says Thomson delay worrisome.</title>
+<headline>S.Korean deputy PM says Thomson delay worrisome.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>Deputy Prime Minister Han Seung-soo told French Ambassador Dominique Perreau on Friday that France's decision to delay the privatisation of Thomson SA has &quot;caused worries to many people,&quot; in South Korea, the domestic Yonhap news agency said.  </p>
+<p>&quot;It is true that this decision has caused worries to many people who want to expand economic cooperation between Korea and France,&quot; Han was quoted by Yonhap as saying during a late afternoon meeting.</p>
+<p>&quot;I hope this incident will not affect cooperative economic relations between the two countries. We will watch the steps and procedures the privatisation committee will take in the future,&quot; he added.</p>
+<p>Yonhap said Ambassador Perreau told Han that France will keep the South Korean government informed of the steps it will take for Thomson's privatisation.</p>
+<p>The privatisation will be carried out in a transparent fashion, Perreau was quoted as saying.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

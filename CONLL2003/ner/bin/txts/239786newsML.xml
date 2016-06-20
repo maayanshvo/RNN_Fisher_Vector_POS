@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239786" id="root" date="1996-12-06" xml:lang="en">
+<title>BRAZIL: Sabesp to debut on the Sao Paulo Stock Exchange.</title>
+<headline>Sabesp to debut on the Sao Paulo Stock Exchange.</headline>
+<dateline>SAO PAULO 1996-12-06</dateline>
+<text>
+<p>Sao Paulo state's sewage company Sabesp will be listed on the Sao Paulo Stock Exchange (Bovespa), the bourse said.</p>
+<p>The announcement was made by the firm's president Ariovaldo Carmignani after a meeting with Bovespa president Alfredo Rizkallah, the bourse said in a statement.</p>
+<p>Sabesp, which operates concessions granted by Sao Paulo's municipalities, provides water and sewage services to 22 million people, nearly 60 percent of Sao Paulo state's population, in 329 municipalities.</p>
+<p>In the first half of 1996, the company's posted a net profit of $231 million on revenues of $1.1 billion.</p>
+<p>-- Fatima Cristina, Sao Paulo Newsroom, 55-11-2485412</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I17000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

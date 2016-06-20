@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241595" id="root" date="1996-12-07" xml:lang="en">
+<title>ABU DHABI: SOCCER-ASIAN CUP RESULTS.</title>
+<headline>SOCCER-ASIAN CUP RESULTS.</headline>
+<dateline>ABU DHABI 1996-12-07</dateline>
+<text>
+<p>Results of Asian Cup group A matches on Saturday:</p>
+<p>United Arab Emirates 3 Kuwait 2 (halftime 0-2)</p>
+<p>Scorers:</p>
+<p>UAE - Hassan Ahmed 53, Adnan Al Talyani 55, Bakhit Saad 80</p>
+<p>Kuwait - Jassem Al-Huwaidi 9, 44</p>
+<p>Attendance: 15,000  </p>
+<p>South Korea 4 Indonesia 2 (3-0)</p>
+<p>Scorers:</p>
+<p>South Korea - Kim Do Hoon 5, Hwang Sun Hong 7 and 15, Koo</p>
+<p>Jeon Woon 55</p>
+<p>Indonesia - Ronny Wabia 58, Widodo Putra 65</p>
+<p>Attendance: 2,000</p>
+<p>Group A standings (tabulate under: played, won, drawn, lost,</p>
+<p>goals for, against, points):</p>
+<p>South Korea  2   1   1   0   5   3   4</p>
+<p>UAE	    2   1   1   0   4   3   4</p>
+<p>Kuwait	 2   0   1   1   4   5   1</p>
+<p>Indonesia    2   0   1   1   4   6   1</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ABDBI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABU DHABI"/>
+<dc element="dc.creator.location.country.name" value="ABU DHABI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

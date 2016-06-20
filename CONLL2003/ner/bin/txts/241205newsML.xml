@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241205" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Argentina Oct-Dec GDP to grow nearly 10%--minister.</title>
+<headline>Argentina Oct-Dec GDP to grow nearly 10%--minister.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Argentina's Economy Minister Roque Fernandez said on Friday that the country's gross domestic product (GDP) for the fourth quarter of the current year is expected to show growth of close to 10 percent.  </p>
+<p>&quot;That's going to be a very important number, maybe a double-digit number, because we are comparing with a very low number we achieved during the recession in 1995,&quot; Fernandez told Reuters Financial Television.</p>
+<p>He added: &quot;I can't give you an exact forecast, but we may be close to 10 percent (compared with the same quarter of last year).&quot;</p>
+<p>Argentina's GDP grew 6.6 percent in the third quarter of this year from the same period last year, the Economy Ministry said in November.  </p>
+<p>Earlier, Fernandez told a news conference that the Argentine government's budget contained a forecast five percent GDP growth in 1997.</p>
+<p>Fernandez was in Japan to oversee Argentina's first issue of samurai bonds. Argentina announced on Thursday it was issuing 50 billion yen worth of 5.0 percent samurai bonds which will mature in December 2002.</p>
+<p>Fernandez said on Friday that his country is considering issuing bonds in the Euroyen market and in other currencies in 1997, given the right conditions.</p>
+<p>&quot;We will keep watching closely the conditions in the capital markets in Europe as well as in Japan and the United States. Based on the liquidity conditions of these markets, we are going to find the right conditions and the right opportunity,&quot; he told a news conference.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

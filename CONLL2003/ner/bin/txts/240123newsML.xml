@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240123" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fleet Financial sets $250 mln in debt.</title>
+<headline>Fleet Financial sets $250 mln in debt.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The following debt issue from Fleet Financial Group Inc was priced on Friday, according to lead manager Merrill Lynch &amp; Co.</p>
+<p>BORROWER FLEET FINANCIAL GROUP</p>
+<p>AMT $250 MLN	 COUPON  7.92	MATURITY 12/01/26</p>
+<p>TYPE CAPITAL SEC   ISS PRICE 99.896  FIRST PAY DATE</p>
+<p>LAST MOODY'S A2    YIELD   7.929     PAY FREQ SEMI</p>
+<p>LAST S&amp;P   BBB     SPREAD  133 BPS   CALLABLE 10</p>
+<p>U.S. corporate bond unit, 212 859-1675</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

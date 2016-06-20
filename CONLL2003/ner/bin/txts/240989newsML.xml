@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240989" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: German cocoa imports sharply higher in August.</title>
+<headline>German cocoa imports sharply higher in August.</headline>
+<dateline>WIESBADEN, Germany 1996-12-06</dateline>
+<text>
+<p>German January-August 1996 cocoa bean imports from third countries at 202,116 tonnes exceeded the year-earlier level of 174,338 after August imports were sharply higher, official data showed on Friday.</p>
+<p>Imports in August were 44,379 tonnes after 12,688 a year earlier and compared with July imports of 22,701 tonnes.</p>
+<p>August import value was 98.76 million marks against 29.21 million a year earlier.</p>
+<p>Leading suppliers in the eight months were Ivory Coast with 118,284 tonnes, Ghana with 32,276, Indonesia with 19,783 and Nigeria with 11,322, excluding beans for toll grinding.</p>
+<p>--Hamburg newsroom, +49-40-41903275</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100144">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

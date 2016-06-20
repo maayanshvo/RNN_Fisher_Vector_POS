@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239064" id="root" date="1996-12-06" xml:lang="en">
+<title>ZIMBABWE: GOLF-ZIMBABWE OPEN SECOND ROUND SCORES.</title>
+<headline>GOLF-ZIMBABWE OPEN SECOND ROUND SCORES.</headline>
+<dateline>HARARE 1996-12-06</dateline>
+<text>
+<p>Leading second round scores in the Zimbabwe Open at the par-72 Chapman Golf Club on Friday (South African unless stated): 132 Des Terblanche 65 67 133 Mark McNulty (Zimbabwe) 72 61 134 Steve van Vuuren 65 69 136 Nick Price (Zimbabwe) 68 68, Justin Hobday 71 65,</p>
+<p>Andrew Pitts (U.S.) 69 67 138 Mark Cayeux (Zimbabwe) 69 69, Mark Murless 71 67 139 Hennie Swart 75 64, Andrew Park 72 67 140 Schalk van der Merwe (Namibia) 67 73, Desvonde</p>
+<p>Botes 72 68, Greg Reid 72 68, Clinton Whitelaw 70</p>
+<p>70, Brett Liddle 75 65, Hugh Baiocchi 73 67 141 Adilson da Silva (Brazil) 72 69, Sammy Daniels 73</p>
+<p>68, Trevor Dodds (Namibia) 72 69 142 Don Robertson (U.S.) 73 69, Dion Fourie 69 73,</p>
+<p>Steve Waltman 72 70, Ian Dougan 73 69</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NAMIB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

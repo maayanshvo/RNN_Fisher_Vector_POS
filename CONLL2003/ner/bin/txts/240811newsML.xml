@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240811" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. astronauts to try landing later Friday morning.</title>
+<headline>U.S. astronauts to try landing later Friday morning.</headline>
+<dateline>CAPE CANAVERAL, Florida 1996-12-06</dateline>
+<text>
+<p>NASA ordered the astronauts aboard the space shuttle Columbia to skip their first possible landing attempt on Friday morning because of bad weather at the Florida landing site.</p>
+<p>Eileen Hawley, a spokeswoman for the U.S. space agency, said a combination of patches of fog at the landing strip and scattered clouds made the planned 8:01 a.m. EST (1301 GMT) touchdown unsafe.  If the weather clears in time, the astronauts will have a second landing opportunity on Friday at 9:38 a.m. EST (1438 EST).  </p>
+<p>The shuttle's back-up landing strip at Edwards Air Force Base in California was ruled out for Friday because of gusty winds.</p>
+<p>Cloudy skies thwarted the shuttle's planned landing on Thursday. The crew was minutes away from firing Columbia's braking rockets to begin their descent when flight controllers called off the planned 8:10 a.m. EST (1310 GMT) landing.</p>
+<p>The weather in Florida had been expected to improve on Friday, contrary to a forecast earlier in the week that had caused NASA to order the shuttle home one day earlier than planned. But the extra day in space made Columbia's voyage the second-longest shuttle flight ever.</p>
+<p>The mission, which began Nov. 19, was marred by a jammed airlock hatch that forced NASA to cancel a pair of spacewalks. Astronauts Tammy Jernigan and Tom Jones spent months training for the spacewalks, which had been intended to test construction tools for a planned permanent space station.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CAPE CANAVERAL, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

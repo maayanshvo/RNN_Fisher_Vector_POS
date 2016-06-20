@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239988" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: USDA daily cattle and hog slaughter - Dec 6.</title>
+<headline>USDA daily cattle and hog slaughter - Dec 6.</headline>
+<text>
+<p>Est daily livestock slaughter under Fed inspection - USDA</p>
+<p>					  CATTLE	CALVES     HOGS</p>
+<p>Friday     12/06/96  (est)	132,000	7,000     359,000</p>
+<p>Week ago (est)			130,000	6,000     346,000</p>
+<p>Year ago (act)			132,000	6,000     336,000</p>
+<p>Saturday   12/07/96  (est)	 38,000	    0	18,000</p>
+<p>Week to date (est)		  688,000     31,000   1,810,000</p>
+<p>Same Period Last Week (est)     601,000     26,000   1,547,000</p>
+<p>Same Period Last Year* (act)    685,000     31,000   1,914,000</p>
+<p>1996 Year to date		33,549,000  1,589,000  84,894,000</p>
+<p>1995 Year to date*	     32,970,000  1,305,000  88,800,000</p>
+<p>Percent change			   1.8%	21.8%	 -4.4%</p>
+<p>*1995 totals adjusted to reflect NASS revisions 1996 Totals are subject to revision Yearly totals may not add due to rounding.</p>
+<p>Previous day estimated	 Steer and Heifer     Cow and Bull</p>
+<p>Thursday				100,000		     33,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

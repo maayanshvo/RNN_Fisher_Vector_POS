@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241859" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: Zeroual talks to Mauritanian leader over telephone.</title>
+<headline>Zeroual talks to Mauritanian leader over telephone.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>The leaders of Algeria and Mauritania discussed cooperation between the two North African neieghbours during a telephone conversation on Saturday, the official Algerian news agency APS said.</p>
+<p>&quot;President (Liamine) Zeroual discussed bilateral relations and issues of common interest with President Maaouya Ould Sid'Ahmed Taya of Mauritania over the telephone,&quot; APS said.</p>
+<p>They &quot;reaffirmed their will to promote cooperation between the two countries&quot;, it added without giving other details.</p>
+<p>Algeria and Mauritania are members of the Arab Maghreb Union along with Morocco, Tunisia and Libya.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MAURTN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

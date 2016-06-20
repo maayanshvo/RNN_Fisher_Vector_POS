@@ -1,0 +1,32 @@
+Citibank sets warrants on 6.75 pct 2026 T-Bond.
+
+LONDON 1996-12-06
+
+Citibank N.A.in New York has issued 120 million American-style call and put warrants, in six equal tranches, on the 6.75 percent U.S. T-Bond due August 15, 2026 lead manager Citibank S.A. said.
+
+COMMON TERMS:
+
+ EXERCISE PERIOD 18.NOV.96-18.DEC.97   PAYDATE	18.NOV.96
+
+ LISTING	   PARIS		     MIN EXER LOT 5000
+
+SPOT REFERENCE  103.09 PCT
+
+ * * * * * *
+
+ TYPE	STRIKE	PRICE	PREMIUM     GEARING
+
+ CALL	107 PCT     1.79 FFR   7.18 PCT    5.8 X
+
+ CALL	103 PCT     2.64 FFR   4.91 PCT    3.9 X
+
+ CALL	97  PCT     4.44 FFR   2.50 PCT    2.3 X
+
+ PUT	 103 PCT     3.29 FFR  -6.32 PCT    3.1 X
+
+ PUT	 97  PCT     1.81 FFR  -9.34 PCT    5.7 X
+
+ PUT	 91 PCT	0.87 FFR  -13.38 PCT   11.8 X
+
+ --Reuter London Newsroom +44 171 542 7658
+

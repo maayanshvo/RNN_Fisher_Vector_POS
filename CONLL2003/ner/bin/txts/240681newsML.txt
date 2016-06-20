@@ -1,0 +1,28 @@
+BGB Finance sets 500 mln French franc 10-year bond. [CORRECTED 12:25 GMT]
+
+LONDON 1996-12-06
+
+- The following bond was announced
+
+by lead manager J.P Morgan.
+
+ BORROWER   BGB FINANCE PLC IRELAND
+
+ AMT    500 MLN FFR   COUPON    *5.20	MATURITY  **15.JAN.07
+
+ TYPE	 STEP-UP   ISS PRICE  100.375   PAY DATE    15.JAN.97
+
+ FULL FEES  37.5 BP   REOFFER    100.375   SPREAD	 =
+
+(Corrects ISS PRICE and REOFFER price from par to 100.375)
+
+ LISTING    PARIS     DENOMS (K) 100	 SALE LIMITS =
+
+ NOTES	*FOR FIRST FIVE YEARS, AND STEPS-UP TO 7.0 PCT
+
+		 THEREAFTER.
+
+	     **CALLABLE AT PAR ON 15.JAN.02 (corrects from 02.JAN.02).
+
+-- London Newsroom +44 171 542 7658
+

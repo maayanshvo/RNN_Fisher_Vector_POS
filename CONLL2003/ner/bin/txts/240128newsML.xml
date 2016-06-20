@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240128" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Ill. county head blames past for Fitch downgrade.</title>
+<headline>Ill. county head blames past for Fitch downgrade.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Cook County, Ill. Board President John Stroger said Friday that Fitch Investor Service's downgrade of the county's forest preserve district's rating was due to past administration's handling of district funds.</p>
+<p>In a statement, Stroger said he was disappointed that reforms his administration have undertaken to restore financial stability still resulted in the downgrade of the district's general obligation bond rating to A from AA with a negative outlook.</p>
+<p>Fitch said the downgrade was due to deterioration of the district's financial position that has included operational deficits and negative ending balances. The rating agency however, noted the county efforts to improve the situation.</p>
+<p>Bill Morris, a senior vice president at Dougherty Dawkins, the county's financial adviser, added in the county's statement that adding to the forest preserve district's problems was a state of Illinois-imposed cap on property taxes that has &quot;handcuffed the district's ability to get funds necessary to right the deficit.&quot;</p>
+<p>--Karen Pierog, 312-408-8647</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

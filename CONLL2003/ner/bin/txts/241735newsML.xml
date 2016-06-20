@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241735" id="root" date="1996-12-07" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's Kim optimistic about 1997 recovery.</title>
+<headline>S.Korea's Kim optimistic about 1997 recovery.</headline>
+<dateline>SEOUL 1996-12-07</dateline>
+<text>
+<p>President Kim Young-sam said on Saturday he was optimistic there would be an economic recovery in South Korea by the end of 1997.</p>
+<p>&quot;The economy has its own ups and downs, and the analysis of the country's economy by domestic businesses and international institutions predict an economic upswing by the end of next year,&quot; Kim said in an interview with the Christian Broadcasting System.</p>
+<p>Kim said the major causes of a current economic slowdown, which has sent the stock market slumping to a 38-month low, was &quot;high wages and expenses.&quot;</p>
+<p>South Korea's current account deficit snowballed to $19.5 billion during the first 10 months of this year, against a $8.42 billion shortfall for the same period a year ago.</p>
+<p>The Bank of Korea targets this year's current account deficit at $21.5 billion compared with a $8.95 billion deficit a year before.</p>
+<p>It also expects the country's gross domestic product (GDP) to grow a real 6.4 percent in 1997 against this year's estimated growth of 6.9 percent. --Seoul Newsroom (822) 727 5643</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

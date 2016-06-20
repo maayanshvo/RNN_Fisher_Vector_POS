@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240536" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: TCSI ends talks with regional bell co.</title>
+<headline>TCSI ends talks with regional bell co.</headline>
+<dateline>BERKELEY, Calif. 1996-12-06</dateline>
+<text>
+<p>TCSI Corp, which provides software to the telecommunications industry, said on Friday that talks with a regional bell operating company for an anticipated contract have been terminated.</p>
+<p>TCSI did not disclose the name of regional bell company.</p>
+<p>TCSI said the deal would have generated significant on-going revenues.</p>
+<p>It also it is in talks with the regional bell company for payment for work already performed.</p>
+<p>TCSI said it continues to work with the company on another deal, without giving any details.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BERKELEY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240790" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. attache revs up Argentina wheat crop forecast.</title>
+<headline>U.S. attache revs up Argentina wheat crop forecast.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>An agricultural attache posted at the U.S. embassy in Buenos Aires raised his forecast for Argentina wheat production to 15.5 million tonnes from 14.5 million tonnes citing harvest results.</p>
+<p>In a report dated Nov 27 released in Washington this week, the attache also revised up his forecast for Argentina wheat exports to 10.7 million tonnes from 9.7 million tonnes.</p>
+<p>In the World Supply and Demand Report issued Nov. 12, USDA pegged Argentina 1996/97 wheat output at 14.5 million tonnes and exports at 10 million tonnes.  </p>
+<p>The attache said he upped his estimate of harvested area to 6.75 million hectares due to a recent report on crop harvest progress which showed wheat area lost due to dry weather was lower than previously expected.</p>
+<p>&quot;Using an average yield of 2.3 mt/ha. based on good conditions during critical development phases and increased use of fertilizer and other inputs, post increases its production estimate to 15.5 million (tonnes),&quot; the attache wrote.</p>
+<p>He also said the outlook for this year's corn crop looks bright, with planting proceeding on pace and soil moisture conditions reported as favorable. Analysts report more fertilizer being used which should improve yield prospects, the attache added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

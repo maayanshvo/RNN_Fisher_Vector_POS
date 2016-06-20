@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240016" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - $1.605 mln Huron, Wis..</title>
+<headline>PRESALE - $1.605 mln Huron, Wis..</headline>
+<text>
+<p>AMT: 1,605,000	DATE: 12/10/96	NYC Time: 1100	CUSIP: 447510</p>
+<p>ISSUER: Huron							     ST: WI</p>
+<p>ISSUE: G.O. bad axe wtr sup &amp; swr disp sys, Series B	  TAX STAT: Exempt-LT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: FSA Aaa/NA/NA					   BANK QUAL: Y</p>
+<p>DTD: 12/01/96							     SURE BID: Y</p>
+<p>DUE: 12/1/97-07					     SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: Non-Callable					  NIC</p>
+<p>DELIVERY: 45 days					   ORDERS:</p>
+<p>PAYING AGENT: NBD Bank, Detroit</p>
+<p>L.O.: John R. Axe &amp; Associates; Dickinson, Wright, Moon, Van Dusen &amp; Freeman</p>
+<p>F.A.: Municipal Financial Consultants Inc., Grosse Pte Fms, Michigan</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1997		    105,000</p>
+<p>1998		    125,000</p>
+<p>1999		    125,000</p>
+<p>2000		    125,000</p>
+<p>2001		    125,000</p>
+<p>2002		    150,000</p>
+<p>2003		    150,000</p>
+<p>2004		    150,000</p>
+<p>2005		    175,000</p>
+<p>2006		    175,000</p>
+<p>2007		    200,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

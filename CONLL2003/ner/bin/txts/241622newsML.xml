@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241622" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: SOCCER-KLINSMANN SCORES 100TH BUNDESLIGA GOAL.</title>
+<headline>SOCCER-KLINSMANN SCORES 100TH BUNDESLIGA GOAL.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>Juergen Klinsmann scored his 100th Bundesliga goal on Saturday to propel Bayern Munich to a 1-0 win over Borussia Moenchengladbach.</p>
+<p>The German international striker, who has endured a lean season, scored in the 51st minute before a home crowd of 63,000.</p>
+<p>Bayern now enter the winter break at the top of the table for the 10th time since they entered the Bundesliga in 1965, ending the autumn season with 36 points, two more than champions Borussia Dortmund.</p>
+<p>Borussia Dortmund, who have struggled with injuries this season and were fourth before the weekend, beat Cologne 3-1 and lie second in the table ahead of Bayer Leverkusen on goal difference.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

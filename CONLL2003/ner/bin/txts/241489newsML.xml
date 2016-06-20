@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241489" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Veba sees 15 pct rise in 96 pre-tax net.</title>
+<headline>Veba sees 15 pct rise in 96 pre-tax net.</headline>
+<dateline>ESSEN, Germany 1996-12-06</dateline>
+<text>
+<p>Diversified industrial group Veba AG said it expected full-year 1996 pre-tax profit to rise 15 percent while net profit is expected to climb by 25 percent.</p>
+<p>&quot;We expect we can repeat the nine-month results for the whole year,&quot; Veba chief executive Ulrich Hartmann said.</p>
+<p>Hartmann added the group's tax rate would be slightly lower this year than in 1995 due to a shift of profits abroad.</p>
+<p>Last year Veba posted a net profit of 1.9 billion marks.</p>
+<p>In the first nine months of 1996 the group posted a 25.2 percent rise in group pre-tax profits to 1.227 billion marks. Group net profit, including minorities, rose 22 percent to 1.407 billion marks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ESSEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

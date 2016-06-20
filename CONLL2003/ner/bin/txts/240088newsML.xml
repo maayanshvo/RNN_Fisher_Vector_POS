@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240088" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Boeing says will extend flying range of 777.</title>
+<headline>Boeing says will extend flying range of 777.</headline>
+<dateline>RENTON, Wash. 1996-12-06</dateline>
+<text>
+<p>The Boeing Co is extending the flying range of its new 777 airliner to allow it to fly farther than any other commercial jet, a company executive said Friday.</p>
+<p>Beginning with deliveries of the so-called increased gross weight version of the 777-200 to Air France in May 1998, the twin-engine jet will have a range of 7,500 nautical miles, up from 7,200, said Joseph Ozimek, director of product marketing for Boeing.  </p>
+<p>He told reporters at a briefing the plane clearly would surpass versions of McDonnell Douglas Corp's MD-11 and Airbus Industrie's A340 that now vie for the title of long-range champion.</p>
+<p>And Ozimek said Boeing plans to boost the range of the 777-200 to 8,500 nautical miles sometime in the year 2000 or beyond for flight segments lasting up to 19 hours.  </p>
+<p>Such a range would allow carriers to fly nonstop from Los Angeles to Singapore or Dallas to Hong Kong, avoiding increasingly crowded Pacific Rim hub airports in Tokyo and other cities and helping to fuel a &quot;fragmentation&quot; much like what has occurred in the trans-Atlantic market, he said.</p>
+<p>Fragmentation is the trend of airlines to fly direct from mid-sized cities using smaller capacity planes, rather than using larger capacity planes to fly between larger cities.  </p>
+<p>Ozimek also said Boeing has plans to extend the range of its 777-300 jet, now under development with a projected range of 5,700 nautical miles. The plane is being positioned to replace older Boeing 747-200 models.</p>
+<p>And Ozimek said Boeing is in &quot;intense talks&quot; with several potential customers for a proposed stretch version of the wide-body 767 jet dubbed the 767-400ERX. The plane would carry about 250 passengers in three classes, up from 218 for the 767-300ER, and would feature an extended fuselage and wings.</p>
+<p>Ozimek said the &quot;next quantum leap in aviation&quot; would be production of a new supersonic jet, which he said was technologically feasible within the next 10 to 15 years.</p>
+<p>&quot;The real issue is what are you going to pay for it,&quot; he said.</p>
+<p>Current technology means a supersonic flight would cost from 50 to 80 percent more than a comparable subsonic flight, but Boeing studies indicate most passengers would pay no more than 10 to 20 percent more for airfare, Ozimek said.</p>
+<p>-- Martin Wolk, Reuters Seattle bureau, 206 386-4848</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RENTON, Wash."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

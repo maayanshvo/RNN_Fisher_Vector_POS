@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241898" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: U.S. spot resid fuel prices mostly hold steady.</title>
+<headline>U.S. spot resid fuel prices mostly hold steady.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S. spot residual fuel prices held relatively steady Friday in lackluster trade, helped by stable crude and prospects for colder East Coast weather early next week, industry sources said.</p>
+<p>&quot;There has been a little demand and we are getting some incremental load because of high gas prices, but there's still nervousness on the buy side with all the refinery problems,&quot; a trader said, referring to a damaged H-oil unit at Star's refinery in Louisiana and a Shell coker problem in Texas.</p>
+<p>In New York Harbor, physical one percent was unchanged at $22.25-50 a barrel, traders said.  </p>
+<p>NYH 0.3 percent high pour notionally was steady to up slightly at $23.00-25, with some talking the grade even higher.</p>
+<p>High sulphurs in NYH were steady to down slightly, with three percent now quoted on either side of $19, traders said.</p>
+<p>U.S. Gulf Coast prices were stable, with one percent still at $19.75 and three percent at $16.75. Traders said USG December three percent paper was talked in the mid-$16s.</p>
+<p>A deal was reported for two 60,000-barrel barges of prompt USG 1.5 percent at about $18 but it could not be confirmed.</p>
+<p>No NYH deals were reported.</p>
+<p>New York city gate weekend gas prices slipped 15 cents Friday to the mid-$4.40s/mmBtu, still well-above NYH one percent resid at a $3.59/mmBtu equivalent.</p>
+<p>--J Silha, New York Power Desk 212-859-1624</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

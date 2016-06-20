@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241415" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: Turkish Airlines 9-mth profits triple.</title>
+<headline>Turkish Airlines 9-mth profits triple.</headline>
+<dateline>ISTANBUL 1996-12-06</dateline>
+<text>
+<p>Jan-Sept provisional</p>
+<p>(billion lira unless stated)</p>
+<p>    Per share profit (lira)	  304.13  vs    188.21</p>
+<p>    Net profit			 3,041.34  vs  1,035.14</p>
+<p>    Net sales			 72,324.20  vs 37,382.76</p>
+<p>    Operating profits		2,429.55  vs  1,911.11</p>
+<p>    Exceptional income	     6,553.84  vs  1,825.90</p>
+<p>    Exceptional expense	    2,425.28  vs  1,201.21</p>
+<p>    Interest paid		    1,931.36  vs  1,553.00</p>
+<p>    Extraordinary income	   3,101.27  vs    926.96</p>
+<p>    Extraordinary expense	  1,610.97  vs    874.62</p>
+<p>    Total debts		     30,218.62  vs 17,765.99</p>
+<p>    Equity			    30,206.05  vs 16,570.58</p>
+<p>    Capital			   10,000.00  vs  5,500.00</p>
+<p>NOTE - National carrier Turkish Airlines (THY) has been included in Turkey's privatisation scheme since 1990, with 98.17 percent of its capital currently held by the privatisation agency OIB.</p>
+<p>The figures above do not take into consideration Turkey's 79.3 percent year-on-year consumer price inflation in September.</p>
+<p>--Istanbul newsroom +90-212-2750875</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ISTANBUL"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

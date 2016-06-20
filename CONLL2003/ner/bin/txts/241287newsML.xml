@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241287" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: EPA says economic assessment unchanged by GDP data.</title>
+<headline>EPA says economic assessment unchanged by GDP data.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Japan's Economic Planning Agency has not changed its view that the economy is gradually recovering, despite relatively weak gross domestic product figures released on Tuesday, EPA Vice Minister Shimpei Nukaya told reporters on Friday.</p>
+<p>He said the GDP growth was weak but that this reflected the economy between July and September and did not take into account more recent data.</p>
+<p>When asked about the outlook for the fiscal year beginning in April, Nukaya said the economy may slow down in the early part of the fiscal year due to a planned consumption tax hike, but that would be only temporary.</p>
+<p>The consumption tax will be raised to five percent from three percent from April 1.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

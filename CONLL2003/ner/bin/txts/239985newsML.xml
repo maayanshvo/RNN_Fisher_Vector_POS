@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239985" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. High Court to decide Internet indecency case.</title>
+<headline>U.S. High Court to decide Internet indecency case.</headline>
+<byline>James Vicini</byline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The Supreme Court agreed Friday to decide a landmark case on free-speech rights in cyberspace arising from a federal law that effectively bans indecent material on the Internet global computer network.</p>
+<p>The U.S. high court said it would hear a Justice Department appeal seeking to reinstate the law's prohibition on the dissemination of sexually explicit material to those under 18 years old.</p>
+<p>Backed by President Bill Clinton, the Justice Department asked the Supreme Court to overturn a precedent-setting ruling in June by three federal judges in Philadelphia declaring unconstitutional key parts of the Communications Decency Act.</p>
+<p>The nine high court members will hear oral arguments in the case early next year, with a decision due by July.</p>
+<p>The law, signed by Clinton in February as part of a telecommunications overhaul, bars the distribution to minors of indecent or &quot;patently offensive&quot; materials on the Internet, which is used by an estimated 40 million people.</p>
+<p>The law defined indecent as anything that &quot;depicts or describes in terms patently offensive, as measured by contemporary community standards, sexual or excretory activities or organs.&quot; The law does not target obscenity or child pornography, which already are illegal.</p>
+<p>Violators face criminal punishment of as much as two years in prison and a $250,000 fine. The ruling barred the Justice Department from enforcing the law.</p>
+<p>The law had been challenged on free-speech grounds by the American Civil Liberties Union and groups representing libraries, publishers and the computer on-line industry.</p>
+<p>They charged the law essentially bans indecent material, limiting the adult on-line population to &quot;only what is fit for children&quot; and transforming the Internet into the most heavily censored form of communication.</p>
+<p>Acting Solicitor General Walter Dellinger of the Justice Department warned in the appeal that the ruling by the three judges would have far-reaching consequences.</p>
+<p>&quot;The decision ... imperils the government's ability to protect children from exposure to sexually explicit material that is now widely disseminated on the Internet,&quot; he said.</p>
+<p>&quot;Equally significant, the decision leaves many parents who do not want to expose their children to sexually explicit material with little choice but to severely limit or altogether deny their children's access to the Internet,&quot; Dellinger said.</p>
+<p>He defended the restrictions as necessary. &quot;Patently offensive material is widely disseminated on the Internet, and computer-literate children -- of whom there are many -- can easily find and retrieve it.&quot;</p>
+<p>If the high court upholds the law, rapid technological changes may result in new ways to restrict access to children of sexually explicit material, Dellinger said.</p>
+<p>Many commercial sites on the World Wide Web that display sexually explicit content already use credit cards and other adult verification devices to screen for age. Chat-room users can set up rules limiting participation to adults, he said.</p>
+<p>American Civil Liberties Union attorney Christopher Hansen urged the justices to affirm the June decision.</p>
+<p>He said the judges correctly found it economically and technologically infeasible to comply with the law. The restrictions infringe on constitutionally protected speech on topics such as safe sex and gay rights, he added.</p>
+<p>Lawyer Bruce Ennis, representing the other parties who challenged the law, agreed the lower-court ruling was correct.</p>
+<p>But he did not oppose the government's request for Supreme Court review because the case involved the first application of constitutional free-speech principles to an important new communication medium.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241156" id="root" date="1996-12-06" xml:lang="en">
+<title>NEW ZEALAND: Big Telecom trade a dividend wash -source.</title>
+<headline>Big Telecom trade a dividend wash -source.</headline>
+<dateline>WELLINGTON 1996-12-06</dateline>
+<text>
+<p>A transaction of 31.3 million Telecom Corp shares at $7.48 reported on Friday was a &quot;dividend wash&quot;, an industry source said.</p>
+<p>It was not someone attempting to make a play for Telecom, which has 1.89 billion shares on issue.</p>
+<p>The transaction was conducted by County NatWest. The brokerage declined to comment.</p>
+<p>Dividend washes are a technique used to lower tax payable by the regular holder or holders, most likely a group of foreign institutions.  </p>
+<p>The group get together and lend stock to a third party which has to pay less tax on dividends. The arrangement nearly always has a buyback arrangement built in where a fee is paid for lending the stock.</p>
+<p>Telecom goes ex a 9.5 cent dividend on Monday.</p>
+<p>Telecom shares were down five cents to $7.45 in late Friday trade. -- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241631" id="root" date="1996-12-07" xml:lang="en">
+<title>SWITZERLAND: SKIING-MYLLYLA CLAIMS FIRST WORLD CUP WIN.</title>
+<headline>SKIING-MYLLYLA CLAIMS FIRST WORLD CUP WIN.</headline>
+<dateline>DAVOS, Switzerland 1996-12-07</dateline>
+<text>
+<p>Finland's Mika Myllyla posted his first career nordic World Cup win on Saturday with a victory in the 10-km classic style cross-country race.</p>
+<p>A bronze and silver medallist at the Lillehammer Olympics and a bronze medallist at the 1995 world championships, the 27-year-old Finn stepped to the top of the podium for the first time after racing round the sun-drenched layout in 26 minutes two seconds.</p>
+<p>Norway's Erling Jevne was a distant second, more than 13 seconds adrift with 26:15.4. Italy's Fulvio Valbusa was third in 26:16.9.</p>
+<p>Bjoern Daehlie of Norway, who won the season-opening freestyle cross-country race two weeks ago and in the process eclipsed Swede Gunde Svan's record of 30 World Cup wins, finished a disappointing 18th, one minute behind the winner.</p>
+<p>&quot;This victory gives me great confidence ahead of the world championships,&quot; said Myllyla, who had previously reached the podium eight times in World Cup competition. &quot;Bjoern Daehlie is still the king but now I and others know the king can be beaten.&quot;</p>
+<p>In the women's 10-km classic, Italy's Stefania Belmondo collected her 10th career World Cup win when she crossed first, ahead of a pack of four Russians, in a time of 29:06.0</p>
+<p>Elena Vaelbe, who registered her 38th World Cup win two weeks ago, settled for second in 29:12.8 followed by compatriot Nina Gavriliuk in third with 29:21.0.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DAVOS, Switzerland"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

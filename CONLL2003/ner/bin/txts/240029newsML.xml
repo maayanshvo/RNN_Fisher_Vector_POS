@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240029" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Student admits to Florida bomb threat.</title>
+<headline>Student admits to Florida bomb threat.</headline>
+<dateline>TAMPA, Fla. 1996-12-06</dateline>
+<text>
+<p>A former University of South Florida student faced the possibility of up to five years in prison after he pleaded guilty Friday to a charge of sending a letter threatening to kill a professor.</p>
+<p>Damian Hospital, 19, a former history major, sent the threat in April saying he would blow up a building at the university, which is in Tampa.</p>
+<p>University officials closed the campus that day but no bomb was found. Hospital was arrested when FBI agents examined his electronic mail and found similar writings.</p>
+<p>He pleaded guilty to threatening to kill a professor in a federal court in Tampa. He also released a letter saying he felt extreme remorse and was undergoing psychiatric care.</p>
+<p>Sentencing is set for Feb. 28, 1997, Assistant U.S. Attorney Robert O'Neill said.</p>
+<p>&quot;I expect we will see his attorney offer some mitigating information, perhaps his receiving psychiatric treatment,&quot; O'Neill told Reuters. &quot;He could get as much as five years, or the judge could give him probation.&quot;</p>
+<p>As part of Hospital's plea agreement he also agreed to reimburse the university for $41,050 in expenses related to the campus closing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAMPA, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

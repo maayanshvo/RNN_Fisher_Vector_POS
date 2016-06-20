@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239227" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Upland cotton prices surge on demand in Europe.</title>
+<headline>Upland cotton prices surge on demand in Europe.</headline>
+<dateline>LIVERPOOL 1996-12-06</dateline>
+<text>
+<p>Central Asian origins led cotton prices up on Friday as sellers turned coy and fresh demand came from German and North African spinners, industry sources said.</p>
+<p>Uncertainty over supply quality encouraged sellers of Central Asian descriptions to hold back. Trade sources also noted increased demand from Belgium and France for this origin, currently the most sought-after in Europe.</p>
+<p>Other upland prices were pulled higher as spinners' fears over availability spread with Australian and U.S. descriptions gaining 0.75 cents a lb. Central Asian types saw increases of up to 0.50 cents and the &quot;A' Index ended up 0.30.</p>
+<p>Some spinners expressed concern that if the bullish trend continues, profit margins would suffer significantly unless the consumer market supports a commensurate increase in yarn prices.</p>
+<p>-London Newsroom, +44 171 542 8071</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIVERPOOL"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

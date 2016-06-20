@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239152" id="root" date="1996-12-06" xml:lang="en">
+<title>MACEDONIA: NATIONAL BANK OF MACEDONIA FIX FOR MONDAY.</title>
+<headline>NATIONAL BANK OF MACEDONIA FIX FOR MONDAY.</headline>
+<dateline>SKOPJE 1996-12-06</dateline>
+<text>
+<p>The National Bank of Macedonia</p>
+<p>(NBM) fix for Monday:</p>
+<p>    DEM 100 - 2,663.7071	USD   1 -  40.8559</p>
+<p>    CHF 100 - 3,150.6328	ATS 100 - 378.6193</p>
+<p>The NBM calculates the denar's rate against the German mark</p>
+<p>on the basis of the information submitted by banks during the</p>
+<p>morning. Denar rates against other currencies are worked out</p>
+<p>from the Frankfurt fixing rates, issued around 1500 local time.</p>
+<p>-- Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MCDNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SKOPJE"/>
+<dc element="dc.creator.location.country.name" value="MACEDONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

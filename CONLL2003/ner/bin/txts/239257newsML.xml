@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239257" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: UK's Labour plans no vote of confidence.</title>
+<headline>UK's Labour plans no vote of confidence.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>The opposition Labour Party does not plan to force a vote of confidence against the British government after the ruling Conservative Party lost its parliamentary majority, said a spokesman on Friday.</p>
+<p>&quot;There won't be a vote of confidence because we're not sure of winning one,&quot; said the Labour Party spokesman. &quot;We won't call one because it only unites the government.&quot;  </p>
+<p>Labour Party leader Tony Blair said the government was &quot;disintegrating&quot; after Conservative MP John Gorst announced he was leaving the party, wiping out the government's majority of one.</p>
+<p>&quot;The Government is disintegrating before our eyes. It lurches from one crisis to the next. It is bereft of leadership and direction. It is divided and incompetent and incapable of governing the country,&quot; he said.</p>
+<p>&quot;This shambles cannot go on any longer and the sooner we get the chance to put them out of their misery, the better.&quot;</p>
+<p>Gorst, member of parliament for London's Hendon North area, earlier told deputies Health Secretary Stephen Dorrell had broken a promise to keep open Edgware hospital's casualty unit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

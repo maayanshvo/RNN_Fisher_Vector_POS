@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240982" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: French police search suspected separatist houses.</title>
+<headline>French police search suspected separatist houses.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French police searched suspected Basque separatist houses and flats in a southwestern village on Friday under orders from an anti-terrorism magistrate, police sources said.</p>
+<p>Police targeted two houses and three flats in the village of Sare in the Pyrenees Atlantiques, believed linked to ETA (Basque Homeland and Freedom). The group has killed some 800 people in the 28 years it has been struggling for Basque independence.</p>
+<p>The searches came three days after police found 36 anti-tank rockets in Pau, in the same area.</p>
+<p>The sources gave no details of the results of the searches.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

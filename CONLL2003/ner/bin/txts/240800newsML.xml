@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240800" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Wall St stocks seen sliding on Greenspan comments.</title>
+<headline>Wall St stocks seen sliding on Greenspan comments.</headline>
+<byline>Richard Melville</byline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>U.S. stocks were expected to tumble at the open after a warning by Federal Reserve Chairman Alan Greenspan against &quot;irrational exuberance&quot; in stocks and other assets staggered financial markets around the globe.</p>
+<p>Greenspan, who made the comment during a lecture in Washington Thursday night, stopped short of directly referring to the recent sharp rally in stocks but analysts expressed little doubt about the impact of his message.</p>
+<p>&quot;It doesn't look good,&quot; said Hildegard Zagorski, market analyst at Prudential Securities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

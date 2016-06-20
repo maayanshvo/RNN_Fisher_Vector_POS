@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241328" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Mikuni assigns preliminary bond credit ratings.</title>
+<headline>Mikuni assigns preliminary bond credit ratings.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Mikuni and Co Ltd said on Friday it had assigned the following preliminary ratings to planned bond issues:</p>
+<p>-AA-</p>
+<p>Hokkaido Electric Power Co Inc, 10 billion yen mortgaged due 1999; 300 million marks mortgaged due 2001.</p>
+<p>The Kansai Electric Power Co Inc, 30 billion yen mortgaged due 2000.</p>
+<p>Kyushu Electric Power Co Inc, 20 billion yen mortgaged due 1999.  </p>
+<p>-BBB-</p>
+<p>Nisshin Steel Co Ltd, 10 billion yen unsecured due 2002.</p>
+<p>Tokai Rika Co Ltd, 20 billion yen unsecured convertible due 2006.</p>
+<p>-BB-</p>
+<p>Hankyu Realty Co Ltd, 5 billion yen unsecured due 2003; 5 billion yen unsecured due 2006.  </p>
+<p>-B-</p>
+<p>Kayaba Industry Co Ltd, 8 billion yen unsecured due 2001.</p>
+<p>Nippon Paper Industries Co Ltd, 30 billion yen unsecured due 2003.</p>
+<p>NOF Corp, 8 billion yen unsecured convertible due 2006; 7 billion Euroyen unsecured convertible due 2000, private placement.</p>
+<p>Toyobo Co Ltd, 5 billion yen unsecured due 2002.  </p>
+<p>-CCC-</p>
+<p>Akebono Brake Industry Co Ltd, 0.4 billion yen unsecured with warrants due 2000.</p>
+<p>Nippon Yusoki Co Ltd, 3.2 billion yen unsecured convertible due 2000, private placement.</p>
+<p>Toyo Tire &amp; Rubber Co Ltd, 5 billion yen unsecured due 2001; 5 billion yen unsecured due 2003.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I32550">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I43000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I48100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

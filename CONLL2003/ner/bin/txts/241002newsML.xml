@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241002" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Thomson stakeholders approve capital rise.</title>
+<headline>Thomson stakeholders approve capital rise.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French state-controlled electronics company Thomson SA said in a statement on Friday that its shareholders meeting had approved a planned increase in the share capital of 11 billion francs ($2.1 billion) -- essentially a state cash injection to the indebted group.</p>
+<p>The shareholders, representatives for the state, France Telecom and the CDR holding which manages former Credit Lyonnais, said the state would be the only investor for the capital increase.</p>
+<p>It said the subscription period for the rise, initially set at December 31, had been extended to April 30, 1997.</p>
+<p>There are also a few banks represented by the state-owned Caisse des Depots et de Consignations.</p>
+<p>A company source said that the meeting had not decided a split of the capital increase over 100-percent owned consumer electronics group Thomson Multimedia (TMM) and 58-percent owned Thomson-CSF.</p>
+<p>At end-1995, Thomson SA had debts of 25.3 billion francs of which 13.8 billion were at TMM and 2.3 billion at Thomson-CSF. ($ = 5.192 French Francs)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

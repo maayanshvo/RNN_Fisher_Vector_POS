@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240585" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: British manufacturing recovery picks up pace.</title>
+<headline>British manufacturing recovery picks up pace.</headline>
+<dateline>LONDON</dateline>
+<text>
+<p>British manufacturing output shifted up a gear in October, official figures showed Friday, keeping up pressure on the government to raise interest rates again before the general election.</p>
+<p>But economists said the troubled sector was not out of the woods yet and the recent rise in the pound sterling may jeopardise the fragile recovery.</p>
+<p>The Office for National Statistics said output rose 0.5 percent in October after a 0.3 percent rise in September. The wider measure of industrial production, which includes utilities' and manufacturers' output, was unchanged in October.</p>
+<p>But economists said the strength of the pound could prove a severe setback for the sector, which relies heavily on export markets.</p>
+<p>Firms only recently have seen tentative signs of recovery and the sector lags the lively activity seen in other areas of the economy.</p>
+<p>&quot;If the surveys are to be believed, manufacturing output should stage a further recovery in the coming months,&quot; said HSBC economist Jonathan Loynes.</p>
+<p>&quot;But the pick-up is still only fragile and a further rise in interest rates, renewing the pound's appreciation, could threaten to tip manufacuturing back towards recession.&quot;</p>
+<p>The pound rose by around 12 percent on a trade weighted basis between August and the end of November, threatening to choke off demand for British exports by making them more expensive.</p>
+<p>It sharply declined this week but is still 9.4 percent higher than in the summer.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

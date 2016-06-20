@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239467" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Complete Management completes public offer.</title>
+<headline>Complete Management completes public offer.</headline>
+<dateline>NEW YORK 1996-12-05</dateline>
+<text>
+<p>Complete Mangement Inc said on Friday a public offering of two million common shares at $13.75 per share and $25 million of eight percent subordinated debentures convertible into common stock had become effective.</p>
+<p>The debentures were convertible into common stock at $16 per share, the company said.</p>
+<p>Interest would be payable on the debentures May 15 and December 15, starting on May 15, the company said.</p>
+<p>A non-management shareholder was also selling 500,000 shares of common stock as part of the offering, Complete Management said.</p>
+<p>The deal was co-managed by National Securities Corp and Commonwealth Associates, the company said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I95100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239920" id="root" date="1996-12-06" xml:lang="en">
+<title>SINGAPORE: SIMEX silent about CME's rejection.</title>
+<headline>SIMEX silent about CME's rejection.</headline>
+<dateline>SINGAPORE 1996-12-06</dateline>
+<text>
+<p>The Singapore International Monetary Exchange (SIMEX) declined comment on Friday after the Chicago Mercantile Exchange (CME) rejected SIMEX as a &quot;logical location&quot; to trade a Taiwan stock futures contract.</p>
+<p>CME has plans to offer Taiwan stock market futures and options on the Chicago exchange from January 9 after reaching a licensing agreement to use the Dow Jones Taiwan Stock Index.</p>
+<p>SIMEX said on Wednesday it would launch its own Taiwan contract in January using the SIMEX Morgan Stanley Capital International (MSCI) Taiwan Index. No date was given for the launch.</p>
+<p>Paul Shang, senior director of Asian develoment at the CME, said in an interview with Reuters in Sydney he disagreed with SIMEX's view that it was the logical place for trading such contracts because it is in Asia.</p>
+<p>&quot;Clearly this is a case where there will be a fight for market share in Asian trading,&quot; Shang said. &quot;If SIMEX cannot get started fast enough ... we're going to have the market to ourselves, at least in the beginning.&quot;</p>
+<p>A SIMEX public affairs officer declined to comment on the issue.  </p>
+<p>A Hong Kong-based public affairs officer at Morgan Stanley also declined to comment on reports that Taiwan had threatened to withdraw a data-sharing pact with Morgan Stanley, on which the index derivatives it will be based.</p>
+<p>&quot;I cannot comment on that issue. You would have to speak to SIMEX about that,&quot; the Morgan Stanley official said.</p>
+<p>Taiwan is scrambling to open its own futures exchange and launch products by next July.</p>
+<p>-- Singapore newsroom (65 8703083)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

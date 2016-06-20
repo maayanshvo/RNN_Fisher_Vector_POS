@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239941" id="root" date="1996-12-06" xml:lang="en">
+<title>JORDAN: Jordan PM meets Iraqi foreign minister.</title>
+<headline>Jordan PM meets Iraqi foreign minister.</headline>
+<dateline>AMMAN 1996-12-06</dateline>
+<text>
+<p>Jordan's Prime Minister Abdul Karim al-Kabariti on Friday held talks with Iraqi Foreign Minister Mohammed Saeed al-Sahaf as the kingdom seeks reconciliation with its estranged neighbour, officials said.</p>
+<p>Sahaf, who arrived on Friday en route to an undisclosed destination, declined to comment to reporters on his arrival at the prime minister's Amman residence.</p>
+<p>King Hussein, in a surprise move, later showed up to join their meeting in one of the first publicised high-level political encounters between the monarch and a senior Iraqi cabinet minister since turning against Iraqi President Saddam Hussein last year.</p>
+<p>The king sheltered leading Iraqi defectors and has allowed Iraqi opposition groups calling for Saddam's overthrow to set up offices in Jordan.</p>
+<p>But Jordan has been stepping up efforts to mend strained ties since Baghdad reached agreement last month with the United Nations for implementation of its long-delayed oil-for-food deal.</p>
+<p>Iraqi Trade Minister Mohammed Mehdi Saleh passed through Amman this week on the way to Vietnam and is due to return for talks on Sunday with Kabariti. A Jordanian ministerial delegation is due to visit Baghdad soon.</p>
+<p>Jordan, keen to capitalise on the slight easing of crippling six-year sanctions on its neighbour and trading partner, is trying to secure contracts to supply Baghdad with more medicine, vegetable oil and detergents exempt from the U.N. blockade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

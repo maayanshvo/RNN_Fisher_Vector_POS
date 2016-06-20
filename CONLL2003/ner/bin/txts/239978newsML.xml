@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239978" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BALANCE - East Bridgewater, Mass. at $4.8 mln.</title>
+<headline>BALANCE - East Bridgewater, Mass. at $4.8 mln.</headline>
+<text>
+<p>TOWN OF EAST BRIDGEWATER, MASACHUSETTS</p>
+<p>RE: $14,405,000</p>
+<p>GENERAL OBLIGATION BONDS</p>
+<p>    MOODY'S: Aaa / A	     S&amp;P: NR</p>
+<p>Delivery Date: 12/17/1996</p>
+<p>MBIA INSURED</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>12/15/2000	     575M    6.10	  4.20</p>
+<p>12/15/2001	     505M    6.10	  4.30</p>
+<p>12/15/2008	     270M    4.95	  5.00</p>
+<p>12/15/2009	     195M    5.05	  5.10</p>
+<p>12/15/2010	     770M    5.10	  5.20</p>
+<p>12/15/2011	     505M    5.15	  5.25</p>
+<p>12/15/2012		 5M    5.20	  5.30</p>
+<p>12/15/2013	     935M    5.25	  5.35</p>
+<p>12/15/2014	     840M    5.30	  5.40</p>
+<p>12/15/2016	     155M    5.30	  5.45</p>
+<p>     Total:	     4,755M</p>
+<p>State Street Bank and Trust Company</p>
+<p>Prudential Securities Incorporated</p>
+<p>Fidelity Capital Markets</p>
+<p>PaineWebber Incorporated</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>Fleet Securities</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

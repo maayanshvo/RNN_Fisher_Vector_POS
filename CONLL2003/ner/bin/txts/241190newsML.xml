@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241190" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: PRESS DIGEST - Top Japan business news - Dec 6.</title>
+<headline>PRESS DIGEST - Top Japan business news - Dec 6.</headline>
+<text>
+<p>NIHON KEIZAI SHIMBUN:</p>
+<p>A government panel listed 51 specific reform measures in the 13 sectors for deregulation, including those for the finance industry, eduction system, airlines, and railways.</p>
+<p>-------</p>
+<p>The Ministry of Home Affairs has decided to lower property taxes by over 10 percent from fiscal 1997. The cuts will apply to more than half of the buildings throughout Japan.</p>
+<p>-------  </p>
+<p>The government will reach agreement on a 4.5 trillion yen supplementary budget for fiscal 1996-97. Some one trillion yen will be earmarked for emergency disaster prevention projects, including bridges, ports and roads.</p>
+<p>-------</p>
+<p>Nippon Telegraph and Telephone Corp (NTT) and Posts and Telecommunications Ministry agree to divide into long-distance and regional sections under the wing of a holding company.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

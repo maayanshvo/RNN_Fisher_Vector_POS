@@ -1,0 +1,22 @@
+Korea Merchant Banking sets $75 mln three-year FRN.
+
+LONDON 1996-12-06
+
+The following floating-rate issue was announced by lead manager Westdeutsche Landesbank GZ.
+
+ BORROWER   KOREA MERCHANT BANKING CORP
+
+ AMT    $75 MLN	 BASE	 6M-LIBOR  MATURITY    27.DEC.99
+
+ TYPE	 FRN	 MARGIN     +50 PB    PAY DATE    27.DEC.96
+
+ LAST MOODY =	   ISS PRICE  PAR	 FULL FEES   39 BP
+
+ LISTING    LUX	 DENOMS (K) 10  SALE LIMS US/UK/DE/HK/KR/JP
+
+ NEG PLG    =	   CRS DEFLT  =	   FORCE MAJ   IPMA 2
+
+ GOV LAW    GERMAN    MGT/UND    14 BP     SELL CONC  25 BP
+
+-- London Newsroom +44 171 542 8863
+

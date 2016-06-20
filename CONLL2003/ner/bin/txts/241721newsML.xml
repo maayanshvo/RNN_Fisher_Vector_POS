@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241721" id="root" date="1996-12-07" xml:lang="en">
+<title>INDONESIA: Fifteen people die in Indonesian air crash.</title>
+<headline>Fifteen people die in Indonesian air crash.</headline>
+<dateline>JAKARTA 1996-12-07</dateline>
+<text>
+<p>Fifteen people died on Saturday when a twin-engined plane crashed shortly after take-off into a gas factory in Indonesia's South Kalimantan province, the official Antara news agency reported.</p>
+<p>It said 13 people aboard the Casa light aicraft, including the pilot and co-pilot, died when the left engine of the plane caught fire about three km (two miles) from the airport at Banjarmasin and it plunged through the roof of the factory.</p>
+<p>A 12-year-old girl aboard the plane died on her way to hospital, while one other passenger was in critical condition in hospital. One factory worker was also killed and three other workers injured, Antara said.</p>
+<p>The plane had taken off from Banjarmasin's Syamsuddin Noor airport at 3:23 p.m. (1123 GMT) for Sampit in Central Kalimantan on Borneo island. The cause of the engine fire was not immediately known.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

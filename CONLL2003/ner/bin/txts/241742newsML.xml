@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241742" id="root" date="1996-12-07" xml:lang="en">
+<title>TAIWAN: Taiwan delays opening futures exchange to Oct 1997.</title>
+<headline>Taiwan delays opening futures exchange to Oct 1997.</headline>
+<dateline>TAIPEI 1996-12-07</dateline>
+<text>
+<p>Taiwan's Securities and Exchange Commission (SEC) said on Saturday it would set up the island's first futures trading exchange in October next year, delayed from the originally scheduled July 1997.</p>
+<p>&quot;Due to failure to complete all preparatory works, we now set a new timing for the opening of our futures exchange in October 1997,&quot; a commission spokeswoman said by telephone.</p>
+<p>&quot;But even this new timing is based on a premise that parliament will complete the legislation for the Futures Trading Law by the end of this month,&quot; she said.</p>
+<p>A draft of the law is under consideration by parliament.</p>
+<p>The commission, which oversees development of Taiwan's own futures exchange, has faced heavy pressure to accelerate the exchange's establishment after the Chicago Mercantile Exchange (CME) and Singapore International Monetary Exchange (SIMEX) said recently they would launch Taiwan stock index-linked futures.</p>
+<p>SIMEX and CME, eyeing a gap opened by Taiwan's financial liberalisation but not yet filled by the long-awaited Taiwan futures exchange, have announced plans to launch Taiwan stock-index futures and options in January.</p>
+<p>Local newspapers said on Saturday the commission would consider asking the Taiwan Stock Exchange, the main domestic stock exchange, to launch the island's own Taiwan stock index-linked options and derivatives within three to six months.</p>
+<p>But the commission spokeswoman said the reports were speculation.</p>
+<p>Another commission executive on Friday said the commission would wait until CME and SIMEX launch their Taiwan stock-index futures in January before deciding whether to cooperate with -- or seek to block -- the projects.</p>
+<p>Without cooperation, the SIMEX and CME would lack direct access to real-time price movement and index data that would help make their stock index contracts viable.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TAIWAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TAIPEI"/>
+<dc element="dc.creator.location.country.name" value="TAIWAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

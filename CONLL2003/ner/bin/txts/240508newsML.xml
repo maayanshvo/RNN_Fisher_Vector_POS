@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240508" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Travel Ports Q2 net drops.</title>
+<headline>Travel Ports Q2 net drops.</headline>
+<dateline>ROCHESTER, N.Y. 1996-12-06</dateline>
+<text>
+<p>For the quarter ended October 31,</p>
+<p>					    1996	     1995</p>
+<p>    Revenue			  $52,698,998     $39,619,638</p>
+<p>    Net Income		     $ 536,748	 $ 601,363</p>
+<p>Net Income Per Share</p>
+<p>    Primary			  $.10		$.11</p>
+<p>    Fully Diluted		  $.09		$.09</p>
+<p>Average Number of Common and</p>
+<p>Common Equivalent Shares</p>
+<p>    Primary			   5,397,397	 5,439,066</p>
+<p>    Fully diluted		   6,947,397	 6,991,823</p>
+<p>			  For the six months ended October 31,</p>
+<p>					   1996	     1995</p>
+<p>    Revenue			 $99,187,934     $77,746,306</p>
+<p>    Net Income		    $ 1,227,149     $ 1,221,630</p>
+<p>Net Income Per Share</p>
+<p>    Primary			 $.23		$.23</p>
+<p>    Fully Diluted		 $.19		$.19</p>
+<p>Average Number of Common and</p>
+<p>Common Equivalent Shares</p>
+<p>    Primary			 5,397,473	 5,399,919</p>
+<p>    Fully Diluted		 6,964,347	 6,962,915</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ROCHESTER, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

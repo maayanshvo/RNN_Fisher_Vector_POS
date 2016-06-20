@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240193" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: KCBT wheat climbs higher on short covering.</title>
+<headline>KCBT wheat climbs higher on short covering.</headline>
+<dateline>KANSAS CITY, Mo. 1996-12-06</dateline>
+<text>
+<p>KCBT wheat climbed higher at the midsession on commercial buying in the March contract, traders said.</p>
+<p>&quot;The board's up on commercial buying and is disregarding the chaos in other financial markets,&quot; a KCBT trader said.</p>
+<p>Traders said Cargill Investor Services was the featured buyer in KCBT wheat, picking up at least 500,000 March bushels. Cargill was also said to be a major player in Minneapolis and Chicago wheat markets.</p>
+<p>At 1053 CST, KCBT wheat was one cent per bushel lower to 10-1/2 cents higher, with Dec up 10-1/2 cents at $4.53-1/2. March was up seven cents at $4.02-1/2.</p>
+<p>--Greg Frost, 816 561-8671</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KANSAS CITY, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

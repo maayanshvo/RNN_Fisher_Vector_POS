@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240987" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRIA: Austria govt transfers Bank Austria stake - paper.</title>
+<headline>Austria govt transfers Bank Austria stake - paper.</headline>
+<dateline>VIENNA 1996-12-06</dateline>
+<text>
+<p>The Austrian government will transfer its 17 percent stake in Bank Austria to the state-owned postal holding company in return for up to five billion schillings in cash, daily Der Standard said on Friday.</p>
+<p>According to the report, the postal holding company has committed itself to selling the stake to private investors sometime next year. Any extra profit from that sale would go to the government, the paper said.</p>
+<p>The move is aimed at securing the government's targetted 8.5 billion schillings in overall privatisation revenues this year after it became clear that planned revenues from the sale of Creditanstalt would not be realised before 1997.</p>
+<p>The parliament's finance committee was to vote on the finance ministry's proposal on Friday, the paper said. Nobody at the ministry was available for comment.</p>
+<p>The news came a week after Finance Minister Viktor Klima said he was confident he would sell privatisation candidate Creditanstalt this year, but that it was unlikely some 10 billion schillings in expected revenues from the sale would arrive in his account in time to qualify as 1996 income.</p>
+<p>At the time, he hinted he would sell another bank instead to make up for the possible shortfall.</p>
+<p>The latest tender for the state's 70 percent voting stake in Creditanstalt, which has been on the government's sell-off list for more than six years, closes on December 16.</p>
+<p>The postal holding also owns 100 percent of postal savings bank PSK, which is to be turned into a joint stock company in January in preparation for its sell-off sometime next year. -- Vienna newsroom +431 53112 274</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I81403">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VIENNA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

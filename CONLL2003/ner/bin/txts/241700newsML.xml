@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241700" id="root" date="1996-12-07" xml:lang="en">
+<title>PERU: Peru says captured Shining Path number two.</title>
+<headline>Peru says captured Shining Path number two.</headline>
+<dateline>LIMA, Peru 1996-12-07</dateline>
+<text>
+<p>Peru's anti-terrorism police said on Saturday they had captured the second highest-ranking leader of the Maoist Shining Path guerrilla movement.</p>
+<p>Police sources told Reuters that Elizabeth Cardenas Huayta, alias &quot;Comrade Sunrise,&quot; was arrested earlier this week in the highland city of Ayacucho after a secret surveillance operation spanning more than two months.</p>
+<p>&quot;This is a resounding blow against Shining Path's military aparatus given that she is a crucial element of the party who has been a leader since the beginning of the conflict,&quot; said one anti-terrorism source, who asked not to be named.</p>
+<p>Police were holding Cardenas Saturday in Ayacucho, the birthplace of Shining Path's 16-year uprising, but planned to bring her to the capital Lima later in the day.</p>
+<p>The sources said she would be presented to the public at the anti-terrorism police's headquarters on Monday prior to her trial for treason, a charge which carries a life sentence.</p>
+<p>Although greatly weakened since its heyday in the late 1980s and early 1990s, Shining Path has been increasingly active this year with a series of car-bombs, assassinations and clashes with security forces.</p>
+<p>The group's current leader, Oscar Ramirez Durand, alias &quot;Comrade Feliciano,&quot; is believed to be hiding in the eastern jungle regions.</p>
+<p>Wars unleashed by Shining Path and the smaller Tupac Amaru Revolutionary Movement (MRTA) have cost at least 30,000 lives and $25 billion in infrastructure damage since 1980.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PERU">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LIMA, Peru"/>
+<dc element="dc.creator.location.country.name" value="PERU"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

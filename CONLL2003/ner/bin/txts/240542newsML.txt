@@ -1,0 +1,110 @@
+U.S. Nov non-farm payrolls rose 118,000.
+
+WASHINGTON 1996-12-06
+
+U.S. Labor Department seasonally adjusted jobs data.
+
+ In 1,000s--Change	Nov    Oct--(Prev)  Sept-(Prev)  Nov95
+
+  in Nonfarm Payrolls   118    224    210     -2   -35     150
+
+ Jobless Rate (Pct)     5.4    5.2    5.2    5.2   5.2     5.6
+
+Earnings, Hours of Private, Non-Farm Production workers:
+
+    -			 Nov    Oct-(Prev)   Sept-(Prev)  Nov95
+
+Earnings/Hour(dollars)  11.99  11.90  11.91  11.91  11.91  11.59
+
+ Avg Weekly Hours	34.5   34.3   34.3   34.7   34.7   34.4
+
+ Manufacturing Hours   41.7   41.7   41.6   41.7   41.8   41.5
+
+ -Overtime Hours	  4.5    4.4    4.5    4.5    4.5    4.3
+
+Non-Farm Month-On-Month Payroll Changes by Industry:
+
+    In 1,000s --	  Nov    Oct--(Prev)  Sept-(Prev)  Nov95
+
+ Goods-Producing	   22     20     17    -41   -53     -18
+
+ -Construction	     14     12     10     12     8	11
+
+ -Manufacturing	     9	9	6    -50   -59     -25
+
+ Service-Producing	 96    204    193     39    18     168
+
+ -Retail		     17     93     62     30    27	37
+
+ -Services		   70     88    119     75    56	86
+
+ -Government		-22     -8    -40    -87   -67	-1
+
+Aggregate Weekly Hours Indexes, Seasonally Adj. (1982=100)
+
+    -			  Nov	Oct----(Prev)    Nov95
+
+ Total Private	    137.6    137.0    136.8    134.3
+
+ -Goods-Producing	 110.6    110.5    110.2    109.3
+
+ --Manufacturing	  106.0    105.9    105.7    106.1
+
+ -Service-Producing     149.7    148.9    148.7    145.6
+
+Note--The indexes show total aggregate hours of production or nonsupervisory workers on private nonfarm payrolls by industry.  
+
+Number of Workers by Industry, Seasonally Adj. (1,000s):
+
+    -			  Nov	Oct----(Prev)    Nov95
+
+ Total Non-Farm	 120,392  120,274  120,227  117,899
+
+ Goods-Producing	 24,299   24,277   24,262   24,133
+
+ -Construction	    5,475    5,461    5,455    5,211
+
+ -Manufacturing	  18,259   18,250   18,238   18,353
+
+ --Durable Goods	 10,692   10,682   10,674   10,628
+
+ --Non-Durable Goods    7,567    7,568    7,564    7,725
+
+Number of Workers by Industry, Seasonally Adj. (1,000s):
+
+    -			  Nov	Oct----(Prev)    Nov95
+
+ Service-Producing     96,093   95,997   95,965   93,766
+
+ -Transp./Utilities     6,349    6,337    6,337    6,233
+
+ -Wholesale Trade	 6,637    6,634    6,632    6,478
+
+ -Retail Trade	   21,812   21,795   21,761   21,300
+
+-Finance, Insurance,
+
+  and Real Estate	 7,041    7,025    7,029    6,871
+
+ --Services		34,765   34,695   34,707   33,546
+
+ --Help Supply	    2,357    2,389    2,391    2,226
+
+ -Government	     19,489   19,511   19,499   19,338
+
+The non-farm payroll data are based on a survey of employers and the jobless rate is based on a survey of households.
+
+Wall Street economists expected a November rise in non-farm payrolls of 179,000 and a jobless rate of 5.2 percent. They also had forecast a 0.4 percent rise in November average hourly earnings and an average work week of 34.4 hours.
+
+The household survey also indicated that November employment fell 30,000, that the labor force grew by 244,000, and the number of unemployed rose 273,000.  
+
+Katharine Abraham, commissioner of the Labor Department's Bureau of Labor Statistics, in a statement played down the nine-cent jump in average hourly earnings during November, noting they are often volatile.
+
+"As I mentioned in June when we had a similarly large jump, the monthly movements in earnings can be quite erratic," she said.
+
+Concerning the series of declines in government employment, she repeated that these are mainly a reflection of changing "seasonal patterns in local education."
+
+She said the declines have contributed to slower overall employment growth.
+
+Also, the Labor official said auto plant shutdowns have depressed jobs growth during the past three months.
+

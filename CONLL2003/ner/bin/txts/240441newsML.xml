@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240441" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: CanWest ups stake in Australian TV network.</title>
+<headline>CanWest ups stake in Australian TV network.</headline>
+<dateline>WINNIPEG 1996-12-06</dateline>
+<text>
+<p>CanWest Global Communications Corp said on Friday it entered a financing agreement with an Australian company to allow that company to acquire shares in Ten Group Ltd, increasing CanWest's economic interest in the network to about 66 percent.</p>
+<p>CanWest said it lent the unidentified Australian company about A$105 million, which was used directly and indirectly to acquire about 17 percent of the issued and outstanding ordinary shares of Network Ten.</p>
+<p>CanWest owns 15 percent of Network Ten's ordinary shares and certain participating and convertible debentures of Network Ten, together representing a 57.5 percent interest in the Australian television network.</p>
+<p>((Reuters Toronto Bureau  (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WINNIPEG"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

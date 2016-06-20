@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240604" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: MGT adds 250 bln lire to zero coupon 30-year bond.</title>
+<headline>MGT adds 250 bln lire to zero coupon 30-year bond.</headline>
+<dateline>LONDON 1996-12-05</dateline>
+<text>
+<p>The following bond has been increased by a further 250 million lire and there is a new issue price of 12.80, joint lead managers J.P. Morgan and Cariplo said.</p>
+<p> BORROWER   MORGAN GUARANTY TRUST CO NEW YORK</p>
+<p> AMT   1.25 TRLN LIRE  COUPON     ZERO	MATURITY   21.JAN.27</p>
+<p> TYPE	 STRAIGHT  ISS PRICE  12.80     PAY DATE    21.JAN.97</p>
+<p> FULL FEES  2.00	REOFFER    =	   SPREAD	 =</p>
+<p> MOODY	AAA	 LISTING    LUX	 PAY FREQ    ANNUAL</p>
+<p> S&amp;P	  AAA	 DENOMS (M) 5-50	SALE LIMITS US/UK/IT</p>
+<p> NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA 1</p>
+<p> GOV LAW    NEW YORK  MGT/UND    0.35	SELL CONC  1.65</p>
+<p>-- London Newsroom +44 171 542 7658</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

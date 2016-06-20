@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241712" id="root" date="1996-12-07" xml:lang="en">
+<title>NICARAGUA: U.S Carter Center discards fraud in Nicaraguan vote.</title>
+<headline>U.S Carter Center discards fraud in Nicaraguan vote.</headline>
+<dateline>MANAGUA 1996-12-06</dateline>
+<text>
+<p>The U.S.-based Carter Centre on Friday said Nicaragua's Oct. 20 elections contained flaws, but fraud charges were unsubstantiated and called on political leaders to accept the vote's results.</p>
+<p>President-elect Arnoldo Aleman of the right-wing Liberal Alliance easily beat former Sandinista President Daniel Ortega by 51 to 38 percent in the vote, but Ortega charged fraud and has refused to recognise the legitimacy of Aleman's win.</p>
+<p>A final statement on the election by former U.S. President Jimmy Carter, former U.S. Secretary of State James Baker, former Costa Rican President Oscar Arias, as well as ex-presidents of Ecuador and Uruguay, issued by the Carter Centre, declared Aleman the first-round winner of the vote.</p>
+<p>&quot;The elections contained flaws, but the results announced by the Supreme Election Council on November 22, by and large, reflected the preferences of the Nicaraguan people. Allegations of fraud are unsubstantiated,&quot; the Carter Centre said in a release.</p>
+<p>Delays in the ballot counting process and allegations of fraud and irregularities had led to a post-vote crisis that had threatened to undermine the credibility of Nicaragua's electoral process.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NICG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANAGUA"/>
+<dc element="dc.creator.location.country.name" value="NICARAGUA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

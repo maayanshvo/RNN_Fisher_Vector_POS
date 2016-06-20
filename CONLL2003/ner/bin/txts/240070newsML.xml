@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240070" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. Southeast power rises on cold, plant outages.</title>
+<headline>U.S. Southeast power rises on cold, plant outages.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Spot bulk electricity prices in the southeastern U.S. were mostly higher Friday due to the impending colder weather and unscheduled nuclear plant outages, sources said.</p>
+<p>Firm, peak power in the northern part of the Tennessee Valley Authority (TVA) territory for weekend delivery traded in the $16.00-17.00 per megawatt hour (MWh) range, while Monday prices were around $25.00.</p>
+<p>These prices compare with Thursday's $21.00-22.00 trading range.</p>
+<p>TVA was not offering any peak power for Monday delivery, traders said, due to the outage at its 1,148 megawatt (MW) Sequoyah 2 nuclear unit in Soddy-Daisy, Tenn.</p>
+<p>The Nuclear Regulatory Commission said an electrical problem resulted in the loss of two reactor coolant pumps, causing the shutdown.</p>
+<p>Firm, off-peak electricity in northern TVA was assessed in the $13.50-15.00 range, mostly unchanged from Thursday.</p>
+<p>At the Georgia/Florida border, prices for firm, peak electricity in 16 hour blocks for Monday delivery were quoted mostly steady around $25.00 per MWh.</p>
+<p>Firm, off-peak power for Monday at the Ga./Fla. border was still notionally assessed arround $16.00-17.00.</p>
+<p>Temperatures in the Southeast are expected to begin dropping late Saturday, with temperatures about three to 10 degrees Fahrenheit below-normal anticipated through next week.</p>
+<p>Separately, Duke Power said the 1,129 MW Catawba nuclear power unit in Clover, S.C., will remain off line through the weekend due to a small leak in a reactor coolant pump.</p>
+<p>-- H McCulloch, New Yorkk Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

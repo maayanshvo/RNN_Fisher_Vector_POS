@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240055" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: FCC grants MCI satellite TV license.</title>
+<headline>FCC grants MCI satellite TV license.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Dismissing calls for a delay from cable-television operators, regulators Friday granted MCI Communications Corp. a coveted satellite-TV license it bought for $683 million at a federal auction in January.</p>
+<p>The license is the last available allowing a provider of direct broadcast satellite (DBS) service to beam TV programmes coast to coast that are received over a pizza-sized dish.</p>
+<p>Time Warner Inc. and other cable operators had wanted the Federal Communications Commission to delay granting the permit until the FCC determined whether British Telecommunications Plc, which is buying MCI, was qualified to hold the license.</p>
+<p>FCC rules prevent foreign companies from owning more than 25 percent of an FCC license holder, although the rule can be waived if the deal is considered to be in the public interest.</p>
+<p>The FCC said the foreign ownership rule did not apply to DBS providers such as No. 2 long-distance carrier MCI.</p>
+<p>The FCC did say, however, it would study the DBS license swap next year when it considers MCI's request to transfer to British Telecom about 1,700 communications licenses, including the DBS permit plus microwave and business radio licenses, among others.</p>
+<p>Don Gips, head of the FCC's international bureau, said Friday's decision &quot;does not in any way prejudge&quot; whether the FCC will approve the various transfers.</p>
+<p>Gipps added that the public and the Clinton administration would have the opportunity to comment on the proposed swaps.</p>
+<p>The U.S. Trade Representative's office, the Commerce Department and the State Department have asked the FCC to &quot;preserve&quot; the aministration's right to comment on &quot;trade and investment policy, foreign policy or national security&quot; in the event MCI seeks to transfer or assign the DBS license.</p>
+<p>Time Warner also intends to weigh in on the matter.</p>
+<p>&quot;The foreign-ownership issues surrounding the MCI-DBS license have raised serious questions from the administration, members of Congress and several other interested and knowledgeable parties,&quot; it said in a statement.</p>
+<p>&quot;We share their concerns and intend to pursue these issues with the FCC during the BT transfer-of-control proceedings.&quot;</p>
+<p>MCI plans to launch its DBS service late next year and is set to offer subscribers at least 150 channels. The service is a 50-50 venture with Rupert Murdoch's News Corp. and is called ASkyB.</p>
+<p>There are about 4 million households receiving DBS currently vs. about 65 million receiving traditional cable TV.</p>
+<p>Analyst Jimmy Schaeffler of The Carmel Group in California said that while the current DBS audience is &quot;still small,&quot; he expected the number of subscribers to reach 28 million by the year 2005.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

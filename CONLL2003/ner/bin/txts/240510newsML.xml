@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240510" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Greenspan Dec 5 speech excerpt on stocks, assets.</title>
+<headline>Greenspan Dec 5 speech excerpt on stocks, assets.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The following is a portion of the prepared text of Federal Reserve Chairman Alan Greenspan's speech to the American Enterprise Institute Thursday evening.</p>
+<p>This excerpt contains Greenspan remarks on the prices of stocks and other assets:</p>
+<p>&quot;Certainly prices of goods and services now being produced -- our basic measure of inflation -- matter.  But what about futures prices or more importantly prices of claims on future goods and services, like equities, real estate or other earning assets? Are stability of these prices essential to the stability of the economy?  </p>
+<p>&quot;Clearly, sustained low inflation implies less uncertainty about the future, and lower risk premiums imply higher prices of stocks and other earning assets.  We can see that in the inverse relationship exhibited by price/earnings ratios and the rate of inflation in the past. But how do we know when irrational exuberance has unduly escalated asset values, which then become subject to unexpected and prolonged contractions as they have in Japan over the past decade? And how do we factor that assessment into monetary policy? We as central bankers need not be concerned if a collapsing financial asset bubble does not threaten to impair the real economy, its production, jobs, and price stability. Indeed, the sharp stock market break of 1987 had few negative consequences for the economy. But we should not underestimate or become complacent about the complexity of the interactions of asset markets and the economy. Thus, evaluating shifts in balance sheets generally, and in asset prices particularly, must be an integral part of the development of monetary policy.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,68 @@
+PRESALE - Michigan.
+
+AMT: 22,760,000     DATE: 12/12/96	NYC Time: 1100	CUSIP: 594636
+
+ISSUER: Michigan							  ST: MI
+
+ISSUE: Comprehensive trans refunding, Series 1996 A	 TAX STAT: Exempt-ULT
+
+M/SP/F:								     BOOK ENTRY: Y
+
+ENHANCEMENTS: None							BANK QUAL: N
+
+DTD: 12/15/96							     SURE BID: Y
+
+DUE: 8/1/98-14						SR MGR:
+
+1ST CPN: 08/01/97
+
+CALL: 8/1/06 at 101, dtp 8/1/08			 TIC
+
+DELIVERY: 12/19/96 approx				 ORDERS:
+
+PAYING AGENT: State Treasurer's Office, Lansing
+
+L.O.: Dickinson, Wright, Moon, Van Dusen & Freeman
+
+F.A.: Public Financial Mgt., Atlanta
+
+LAST SALE: None
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		     95,000
+
+1999		     95,000
+
+2000		    100,000
+
+2001		    105,000
+
+2002		    110,000
+
+2003		  1,030,000
+
+2004		  1,075,000
+
+2005		  1,130,000
+
+2006		  1,185,000
+
+2007		  1,245,000
+
+2008		     95,000
+
+2009		    100,000
+
+2010		    105,000
+
+2011		    110,000
+
+2012		  5,140,000
+
+2013		  5,385,000
+
+2014		  5,655,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

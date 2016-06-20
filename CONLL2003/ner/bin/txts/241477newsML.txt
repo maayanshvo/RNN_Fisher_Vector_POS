@@ -1,0 +1,24 @@
+INSIGHT- Main Greek stock technical indicators.
+
+ATHENS 1996-12-06
+
+The following are some main technical indicators for Greek shares based on closing price data on Dec 5.
+
+  5-day Moving Average					  914.68
+
+  14-day Moving Average					 911.76
+
+  30-day Moving Average					 916.22
+
+  200-day Moving Average					933.55
+
+  Exponential Moving Average (smoothing factor=0.2)   912.94
+
+  Exponential Moving Average (smoothing factor=0.4)   913.97
+
+  RSI (14)							   46.78
+
+  30-day Momentum						  -8.65
+
+--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4
+

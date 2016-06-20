@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240858" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: MATIF says to open London office in February.</title>
+<headline>MATIF says to open London office in February.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French futures and options exchange MATIF said on Friday it would open a representative office in London on February 1, 1997.</p>
+<p>MATIF said in a statment, &quot;This new marketing office will bolster MATIF's strategy for the move to a single currency.&quot;</p>
+<p>MATIF said the office would be run by Jean-Francois Conil-Lacoste, who will be joining the exchange as director of marketing, a new position. He will be responsible for MATIF marketing as a whole and will be based in London.</p>
+<p>Conil-Lacoste is currently head of capital markets at French brokerage Ferri SA in Paris.</p>
+<p>-- Paris Newsroom +331 4221 5542</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

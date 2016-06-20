@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239794" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Foreign investment in Mexican securities up in Nov.</title>
+<headline>Foreign investment in Mexican securities up in Nov.</headline>
+<dateline>MEXICO CITY 1996-12-06</dateline>
+<text>
+<p>Foreign investment in Mexican securities rose 0.27 percent in November to $32.51 billion from $32.43 billion in October, the Mexican Stock Exchange (BMV) said on Friday.</p>
+<p>There was a 19.02 percent increase in investment in the money market over the month to $2.75 billion, while total foreign investment in stocks was off 1.16 percent to $29.77 billion, it said.  </p>
+<p>				  Nov	Oct     Monthly   Yearly</p>
+<p>				   29	 31	Change   Change</p>
+<p>				  ($bln)  ($bln)    (pct)     (pct)</p>
+<p>Open Subscription (1)     10.992   10.511    4.58     86.81</p>
+<p>Neutral Fund (2)	     3.416    3.306    3.31     30.36</p>
+<p>ADRs (3)			14.421   15.389   -6.29     -5.27</p>
+<p>Mexico Fund (4)		0.909    0.862    5.49     21.15</p>
+<p>Intermediate Market	  0.028    0.048  -42.27    -11.68</p>
+<p>Warrants			 0.0009   0.0009   0.53    -84.17</p>
+<p>Total Equities		29.767   30.117   -1.16     21.42</p>
+<p>Money market (5)	     2.747    2.308   19.02    -17.70</p>
+<p>Total Foreign Investment  32.514   32.425    0.27     16.73</p>
+<p>(1) - Includes accounts of third parties of Citibank and Mutual Funds</p>
+<p>(2) - Does not include CPOs that back ADRs</p>
+<p>(3) - Includes Global Depository Receipts</p>
+<p>(4) - Total to Nov 29, 1996</p>
+<p>(5) - Figure to Nov 22, 1996</p>
+<p>-- Mexico City newsroom 525 728-9560</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

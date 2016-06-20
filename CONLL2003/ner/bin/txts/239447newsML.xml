@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239447" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Greenspan-no comment on markets reaction to speech.</title>
+<headline>Greenspan-no comment on markets reaction to speech.</headline>
+<dateline>PHILADELPHIA 1996-12-06</dateline>
+<text>
+<p>Federal Reserve Chairman Alan Greenspan on Friday declined to comment on world markets' reaction to a speech he made Thursday night in which he warned against &quot;irrational exuberance&quot; infecting financial markets.</p>
+<p>&quot;I'm not going to say anything, thank you,&quot; he told reporters after receiving an award when asked if he was surprised by the reaction to his speech in Washington.</p>
+<p>He rarely responds to reporters' questions.</p>
+<p>His remarks roiled stock and bond markets worldwide.</p>
+<p>The Dow Jones Industrial index was off 36 points at 6401 at 2.05 p.m. EST (1905 GMT) after a morning fall to 6291.75.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

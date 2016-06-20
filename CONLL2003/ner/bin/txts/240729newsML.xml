@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240729" id="root" date="1996-12-06" xml:lang="en">
+<title>ISRAEL: Netanyahu, Arafat welcome Clinton nominees.</title>
+<headline>Netanyahu, Arafat welcome Clinton nominees.</headline>
+<dateline>JERUSALEM 1996-12-06</dateline>
+<text>
+<p>Israeli Prime Minister Benjamin Netanyahu on Friday welcomed U.S. President Bill Clinton's shake-up of his national security team as a sign American friendship with the Jewish state would continue.</p>
+<p>&quot;Prime Minister Benjamin Netanyahu welcomes the latest appointments in the leadership of the American administration,&quot; a statement issued by Netanyahu's office said.</p>
+<p>&quot;The prime minister is convinced that these appointments reflect continuity in the friendly policy of the United States towards Israel and will enable cooperative and fruitful work between the countries on advancing the peace process between Israel and the Arabs.&quot;</p>
+<p>In self-ruled Gaza, Palestinian President Yasser Arafat told reporters he had &quot;no objections&quot; to the nomination of United Nations representative Madeleine Albright to succeed Warren Christopher as Secretary of State.</p>
+<p>&quot;This is the choice of President Clinton and there is no objection to all that President Clinton chooses,&quot; Arafat said.</p>
+<p>Clinton on Thursday nominated four officials to key national security posts, including Albright and veteran Republican Senator William Cohen to replace Defence Secretary William Perry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERUSALEM"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241416" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: U.S., Turkey reach accord on wheat trade dispute.</title>
+<headline>U.S., Turkey reach accord on wheat trade dispute.</headline>
+<dateline>ANKARA 1996-12-06</dateline>
+<text>
+<p>Turkish and American officials have reached an agreement resolving issues which have blocked U.S. exports of wheat to Turkey in the past several weeks, the U.S. Information Service said in Ankara on Friday.</p>
+<p>&quot;As a result the U.S. Department of Agriculture has resumed issuing the necessary phytosanitary certificates for shipments of wheat, corn, sorghum and soybeans destined for Turkey,&quot; a statement from the U.S. embassy said.  </p>
+<p>The U.S. stopped issuing phytosanitary certificates to grains exports to Turkey in October, after Ankara held up several cargoes of U.S. wheat to inspect for ergot fungus under zero-tolerance quarantine laws.</p>
+<p>Zero-tolerance was seen as too stringent by U.S. officials and local millers and Turkey raised the tolerance to 0.05 percent -- which is the internationally accepted level -- after local wheat prices had shot up 30 percent.</p>
+<p>The U.S. statement said that under the agreement the Turkish government plans to conduct an overall review of its phytosanitary regulations, a process which is expected to take several months.</p>
+<p>As part of the agreement, Turkish officials also agreed to provide a 60-day notice prior to implementing changes in phytosanitary regulations in order to avoid future disruptions to trade.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

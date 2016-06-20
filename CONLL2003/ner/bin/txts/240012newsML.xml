@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240012" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Columbia Sch Dist, Mo..</title>
+<headline>PRESALE - Columbia Sch Dist, Mo..</headline>
+<text>
+<p>AMT: 7,750,000	DATE: 12/09/96	NYC Time: 1500	CUSIP: 198036</p>
+<p>ISSUER: Columbia Sch Dist					     ST: MO</p>
+<p>ISSUE: G.O. school building Series 1997 A		    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/AA/NA							  BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 01/01/97							     SURE BID: N</p>
+<p>DUE: 3/1/99-08						SR MGR:</p>
+<p>1ST CPN: 09/01/97</p>
+<p>CALL: 3/1/04 @ par					  NIC</p>
+<p>DELIVERY: 30 days					   ORDERS:</p>
+<p>PAYING AGENT: UMB Bank of St. Louis</p>
+<p>L.O.: Gilmore &amp; Bell, Kansas City</p>
+<p>F.A.:</p>
+<p>LAST SALE: $5,000,000 5/22/96 @ 5.0670% NIC; 9yrs 11mos avg;BBI 5.96%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1999		    200,000</p>
+<p>2000		    300,000</p>
+<p>2001		    500,000</p>
+<p>2002		    500,000</p>
+<p>2003		    750,000</p>
+<p>2004		    750,000</p>
+<p>2005		  1,000,000</p>
+<p>2006		  1,000,000</p>
+<p>2007		  1,250,000</p>
+<p>2008		  1,500,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

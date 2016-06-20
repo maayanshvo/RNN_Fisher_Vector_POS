@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241577" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: SOCCER-SCOTTISH LEAGUE AND CUP RESULTS.</title>
+<headline>SOCCER-SCOTTISH LEAGUE AND CUP RESULTS.</headline>
+<dateline>GLASGOW 1996-12-07</dateline>
+<text>
+<p>Results of Scottish league and cup</p>
+<p>matches played on Saturday:</p>
+<p>Premier division</p>
+<p> Dunfermline     2   Aberdeen	  3</p>
+<p> Hearts	    0   Raith	     0</p>
+<p> Kilmarnock	0   Dundee United   2</p>
+<p> Motherwell	2   Celtic	    1</p>
+<p> Rangers	   4   Hibernian	 3</p>
+<p>Division one</p>
+<p> Dundee	    2   Falkirk	   0</p>
+<p> Greenock Morton 0   St Johnstone    2</p>
+<p>Postponed: Airdrieonians v Clydebank (to Wednesday), East</p>
+<p>Fife v Partick, Stirling v St Mirren (to Tuesday)</p>
+<p>Division two</p>
+<p> Livingston	2   Stenhousemuir   1</p>
+<p> Stranraer	 0   Brechin	   1</p>
+<p>Division three</p>
+<p>Ross County	4  Montrose	   4</p>
+<p>Postponed: Forfar v Alloa, Inverness Thistle v Queen's Park</p>
+<p>Scottish Cup first round</p>
+<p> Alloa	     3   Hawick	    1</p>
+<p> Elgin City	0   Whitehill	 3</p>
+<p>Postponed: Albion v Forfar, Huntly v Clyde (both now play on</p>
+<p>December 14)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GLASGOW"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

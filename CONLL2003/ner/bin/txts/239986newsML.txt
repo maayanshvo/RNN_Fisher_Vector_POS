@@ -1,0 +1,84 @@
+PRESALE - Florida.
+
+AMT: 44,455,000     DATE: 12/10/96	NYC Time: 1100     CUSIP: see note
+
+ISSUER: Florida							  ST: FL
+
+ISSUE: DOT refunding, Series 1996				  TAX STAT: Exempt-FFC
+
+M/SP/F:								    BOOK ENTRY: N
+
+ENHANCEMENTS: None						     BANK QUAL: N
+
+DTD: 12/01/96							    SURE BID: Y
+
+DUE: 7/1/98-21						SR MGR:
+
+1ST CPN: 07/01/97
+
+CALL: 7/1/06 at 101, dtp 7/1/07			 TIC
+
+DELIVERY: 4 weeks approx				  ORDERS:
+
+PAYING AGENT: State Street Bank and Trust Co. NA, New York
+
+L.O.: Greenberg, Traurig, Hoffman, Lipoff, Rosen & Quentel, PA, Miami
+
+F.A.:
+
+LAST SALE: $150,000,000 P/MBIA 4/11/95@5.8004%TIC; 18yrs 10mos Avg; BBI-6.03%
+
+NOTES: cusip 341148 (98-10), 341149 (11-21)
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		    175,000
+
+1999		    180,000
+
+2000		    190,000
+
+2001		    200,000
+
+2002		  1,290,000
+
+2003		  1,350,000
+
+2004		  1,415,000
+
+2005		  1,480,000
+
+2006		  1,550,000
+
+2007		  1,635,000
+
+2008		  1,720,000
+
+2009		  1,805,000
+
+2010		  1,905,000
+
+2011		  2,005,000
+
+2012		  2,120,000
+
+2013		  2,240,000
+
+2014		  2,370,000
+
+2015		  2,505,000
+
+2016		  2,645,000
+
+2017		  2,800,000
+
+2018		  2,955,000
+
+2019		  3,125,000
+
+2020		  3,305,000
+
+2021		  3,490,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

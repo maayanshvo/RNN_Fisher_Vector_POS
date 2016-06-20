@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239553" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa, Mozambique road upgrade to start 1997.</title>
+<headline>S.Africa, Mozambique road upgrade to start 1997.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>Construction on a 3.5 billion rand upgrade to the road linking South Africa to Mozambique's capital Maputo will begin in the first half of 1997, officials said on Friday.</p>
+<p>Mozambican and South African transport authorities said in a joint statement a 25-member consortium, Trans African Concessionaires (TRAC), was the preferred bidder for the project.</p>
+<p>Negotiations aimed at concluding the contract will soon start, the statement added.</p>
+<p>TRAC includes France's Bouygues SA, South Africa's Basil Read Holdings Ltd and Stock and Stocks Holdings Ltd.</p>
+<p>The constuction project is the largest ever such development to be undertaken in the southern African region.</p>
+<p>&quot;It is anticipated that construction work on the project will commence in the first half of 1997.</p>
+<p>&quot;Initial construction will have a duration of approximately three years after which the road will be periodically upgraded over the 30 year concession period to comply with pavement and level of service requirements,&quot; the statement said.</p>
+<p>The road project is one of the cornerstones of the Maputo Corridor Development Project.</p>
+<p>The corridor stretches between Witbank near the industrial heartland around Johannesburg to Maputo.</p>
+<p>The aim is to upgrade and develop road and rail links in the corridor, promote the development of adjacent industries in mining, agriculture, manufacturing and tourism and dredge and improve Maputo harbour.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MOZAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I5020041">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

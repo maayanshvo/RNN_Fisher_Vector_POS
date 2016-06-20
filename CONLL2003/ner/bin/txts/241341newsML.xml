@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241341" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Islanders find 3 bodies, believed Korean fishermen.</title>
+<headline>Islanders find 3 bodies, believed Korean fishermen.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Residents of an island between Japan and South Korea recovered three bodies on Friday believed to be from a South Korean trawler that has been missing since late last month, the Japanese coastguard said.</p>
+<p>The bodies of the three, wearing red life jackets inscribed with Korean script, were washed ashore on the west coast of Tsushima, an island in the Korea Straits, a coastguard spokesman said. Their identities were not known.</p>
+<p>South Korea's maritime police notified the Japanese coastguard that the No. 908 Mok Hwa Ho, a 43-tonne trawler with a crew of 10, went missing in the area on November 30.</p>
+<p>Its last known position was some 150 km (95 miles) west of Tsushima. The boat's home port was not available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

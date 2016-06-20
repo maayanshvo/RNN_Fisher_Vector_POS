@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239295" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Canadian Airlines union vote may be Tuesday.</title>
+<headline>Canadian Airlines union vote may be Tuesday.</headline>
+<dateline>OTTAWA 1996-12-06</dateline>
+<text>
+<p>The government-ordered union vote on Canadian Airlines' restructuring package might be held on Tuesday, Canadian Transport Minister David Anderson said on Friday.</p>
+<p>&quot;We could hold it Tuesday of next week,&quot; Anderson told the Canadian Broadcasting Corporation.</p>
+<p>He said the government's Canadian Labor Relations Board was working hard at arranging the vote. It will ask the airline's employees who are in the Canadian Auto Workers union if they approve the package, which would include pay cuts.  </p>
+<p>The government decided to organize a vote on its own in the face of refusal to do so by the leadership of the Canadian Auto Workers -- the only one of six Canadian Airlines unions that did not agree to a vote.</p>
+<p>The package involves wage cuts, lower fees from minority shareholder AMR Corp, the parent of American airlines, and contributions from the governments of Canada, British Columbia and Alberta.</p>
+<p>((Randall Palmer, Reuters Ottawa Bureau 613-235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239906" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: China, Britain approve Hong Kong contracts.</title>
+<headline>China, Britain approve Hong Kong contracts.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>China and Britain put the stamp of approval on Friday on several large commercial contracts straddling Hong Kong's mid-1997 handover to Chinese rule, a Chinese official said at the end of three days of negotiations.</p>
+<p>The contracts included three franchises related to the new airport, under construction at Chek Lap Kok and due to open in 1998, and they signed agreed minutes to extend a bus franchise on Lantau island, China's team leader Zhao Jihua said.</p>
+<p>The airport franchises were for the Tsing Ma control area management, aviation fuel supply and ground support, Zhao told a news conference after the Joint Liaison Group (JLG) talks.</p>
+<p>Hong Kong, a British colony of over a century and a half, reverts to Chinese rule on July 1, 1997. All major commercial contracts on infrastructure projects straddling the 1997 handover have to be approved by the JLG.</p>
+<p>-- Hong Kong New Room (852) 2843 6441</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

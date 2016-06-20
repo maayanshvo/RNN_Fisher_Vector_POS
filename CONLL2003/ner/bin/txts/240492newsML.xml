@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240492" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: ECRI monthly future U.S. inflation gauge 105.2 Nov.</title>
+<headline>ECRI monthly future U.S. inflation gauge 105.2 Nov.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The Economic Cycle Research Institute (ECRI) monthly future inflation gauge (FIG) was unchanged at 105.2 in November from the revised October figure, ECRI said.</p>
+<p>It's smoothed annualized growth rate rose to -3.5 percent from -4.5 percent, ECRI said.</p>
+<p>Slower growth in employment and industrial materials prices neutralized upward pressure from purchasing managers' reported delivery times and a narrower spread between the yields of 10-year and three-month Treasuries, it said.</p>
+<p>&quot;The level of the FIG has changed very little since this summer after declining for well over a year,&quot; ECRI's report said. &quot;Disinflationary pressures have virtually disappeared, while underlying inflation pressures have yet to gain a decisive foothold.&quot;</p>
+<p>-- N.A. Treasury Desk 212-859-1660</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240251" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: EU signs new trade deal with Faroe Islands.</title>
+<headline>EU signs new trade deal with Faroe Islands.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>The European Union signed a new trade deal on Friday with the Faroe Islands, which have home rule under the Danish crown but decided not to join the bloc together with Denmark in 1973.</p>
+<p>The deal, signed on the sidelines of a meeting of EU foreign ministers in Brussels, will replace the accord in force since 1992.</p>
+<p>Like its predecessor, the new agreement is based on free trade, taking into account the enlargement of the EU to bring in Finland, Sweden and Austria last year.</p>
+<p>However, a limited number of sensitive fish and agricultural products coming from the Faroe Islands would continue to face EU tariff quotas and/or monitoring measures, the European Commission said in a statement.</p>
+<p>The windswept islands in the North Atlantic are almost entirely dependent on fisheries.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="FAEROE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

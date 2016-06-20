@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241374" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: S.Korea's agricultural imports rise Jan to Oct. [CORRECTED 04:25 GMT]</title>
+<headline>S.Korea's agricultural imports rise Jan to Oct. [CORRECTED 04:25 GMT]</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>South Korea's agricultural product imports from January to October rose 20.8 percent in value terms to $5.64 billion from $4.67 billion a year earlier, the agriculture ministry said on Friday (corrects from Wednesday).</p>
+<p>Livestock product imports gained 0.3 percent to $1.036 billion from $1.033 billion a year ago.</p>
+<p>The rise was mainly due to higher prices on the international market, the ministry statement said.  </p>
+<p>In volume terms, corn imports for the first 10 months fell 5.4 percent to 7,045,000 tonnes from 7,445,000 tonnes a year ago and soybean imports rose 0.1 percent to 1,130,000 tonnes from 1,129,000 tonnes, while wheat imports surged 32.1 percent to 2,590,000 tonnes from 1,961,000 tonnes.</p>
+<p>Beef imports fell 4.7 percent to 139,900 tonnes from 146,800 tonnes a year earlier and pork imports fell 11.1 percent to 44,100 tonnes from 49,600 tonnes.</p>
+<p>Pork exports surged 174.3 percent to 32,604 tonnes from 11,887 tonnes a year earlier. -- Seoul Newsroom (828) 727 5651</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

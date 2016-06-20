@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241333" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: SPI, Andersen sign millennium project pact.</title>
+<headline>SPI, Andersen sign millennium project pact.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>SPI Technologies Inc said on Friday it signed an agreement to be a subcontractor to consulting firm Andersen Consulting Inc for a project to progamme computers for the millennium.</p>
+<p>SPI, which was formerly Saztec Philippines Inc, will provide programming manpower and infrastructure to work on the requirements for Andersen Consulting clients for Year 2000 software conversions.</p>
+<p>Computers will be programmed to take in the year 2000 when the clock strikes midnight on December 31, 1999.</p>
+<p>&quot;This agreement is expected to contribute not less than ten percent growth in revenues and net income for SPI above current annual projections,&quot; Alan Fraser, chairman of SPI Technologies said.</p>
+<p>The contract is for one year but could be extended until 2000, SPI said.</p>
+<p>- Manila newsroom 63 2 841-8937 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

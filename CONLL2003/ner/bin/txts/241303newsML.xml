@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241303" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Asian group seen winning Manila power deal.</title>
+<headline>Asian group seen winning Manila power deal.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Three Asian groups were the strongest contenders for a contract to put up a 1,200-megawatt Philippine power plant as their bids were among the lowest of six bidders, the National Power Corp (Napocor) said on Friday.</p>
+<p>&quot;Its a close fight between the consortium of Marubeni Corp, Alsons and Korea Electric,&quot; a top Napocor official who did not want to be named told Reuters.</p>
+<p>The power firm opened on Friday the financial bids of six bidders namely Marubeni Corp with Sithe Energy; Korea Electric Power Corp; Ilijan Power Corp led by Enron Corp; PowerGen Plc with Siemens AG; Consolidated Electric Power Asia with Mitsubishi Corp; and the consortium of Alsons Power Holdings-Tomen Corp -Singapore Power Inc.</p>
+<p>The bids had two components, the capacity fee or actual cost of power to be paid by Napocor and the operation and maintenance fee.</p>
+<p>Napocor said it could not immediately say who is the lowest bidder as it has to conduct its own evaluation.</p>
+<p>Awarding of the contract is set in March next year.</p>
+<p>- Manila newsroom 8418939 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I63000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

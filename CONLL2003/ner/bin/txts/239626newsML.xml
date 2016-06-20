@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239626" id="root" date="1996-12-06" xml:lang="en">
+<title>ALBANIA: Two Canadian firms search for minerals in Albania.</title>
+<headline>Two Canadian firms search for minerals in Albania.</headline>
+<dateline>TIRANA 1996-12-06</dateline>
+<text>
+<p>Albania has granted licenses to Canadian firms Royal Rod and Karma Mining Ltd to search for minerals in northern Albania, the mining and energy ministry said on Friday.</p>
+<p>Ministry spokesman Astrit Karadaku told Reuters that the two companies had signed four-year contracts and would invest a total of $16 million.</p>
+<p>&quot;The object of their exploration is copper, gold, silver and chrome in the Tropoje region,&quot; Karadaku told Reuters.</p>
+<p>Canadia's Nebex has been active in the same area for almost two years.</p>
+<p>Karadaku said the companies planned to drill next spring and would hire a large number of local workers.</p>
+<p>Albania's mineral industry is hungry for investment but so far only the chrome sector has stirred interest among foreign investors.</p>
+<p>Germany's Preussag AG has officially made the Albania government an offer to buy 80 percent of its chrome industry for 80 million dollars.</p>
+<p>Albania will respond after the deal, which has met opposition from the unions, has been scrutinised by an independent foreign advisor.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I22400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I23000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

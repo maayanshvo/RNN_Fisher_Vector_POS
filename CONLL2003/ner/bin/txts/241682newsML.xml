@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241682" id="root" date="1996-12-07" xml:lang="en">
+<title>YUGOSLAVIA: Serbian court rejects first opposition complaints. [CORRECTED 09:50 GMT 8/12]</title>
+<headline>Serbian court rejects first opposition complaints. [CORRECTED 09:50 GMT 8/12]</headline>
+<dateline>BELGRADE 1996-12-07</dateline>
+<text>
+<p>The Serbian Supreme Court started handing down its verdicts on disputed local elections on Saturday and early rulings appeared to go against the opposition Zajedno (Together) coalition.</p>
+<p>&quot;The court has ruled on five out of 46 electoral districts and dismissed the opposition's complaints,&quot; an official of the Democratic Party, a member of Zajedno, told Reuters late on Saturday.  </p>
+<p>&quot;Having in view the fact that our complaints to the Court are identical for all 46 electoral districts, we have no reason to believe the court will rule in any different way for the remaining 41 districts,&quot; he said. The official confirmed an earlier report by independent Belgrade radio B-92 that the Court has started turning down the appeals.</p>
+<p>(Corrects number of electoral districts from 50 to 46)</p>
+<p>The radio quoted Milica Nedeljkovic, Zajedno's representative in the City Election Commission, as saying: &quot;The Commission has received rulings by the Court endorsing an earlier decision by a lower court to annul elections results in five districts.&quot;</p>
+<p>Zajedno claimed victory in Belgrade and 14 other Serbian towns in local elections on November 17 but the ruling Socialist Party said there had been voting irregularities and a Belgrade municipal court annulled election results in the capital.</p>
+<p>Tens of thousands of people have protested for the past 18 days in Belgrade against the annulment of the opposition victories which has drawn sharp criticism from the West.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

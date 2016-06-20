@@ -1,0 +1,84 @@
+INDIA-Primary dealers quotes on securities-Dec 6.
+
+BOMBAY 1996-12-06
+
+Primary dealers made the following two-way quotes on Friday for dated government securities and treasury bills
+
+.
+
+Government securities
+
+---------------------
+
+		    DFHI		STCI	     I-Sec
+
+					 (Bid/offer)	   (in rupees)
+
+13.50% 97    ------/------   ------/------   ------/------
+
+.
+
+		    SBI Gilts	 GSTC	    PNB Gilts
+
+					 (Bid/offer)	   (in rupees)
+
+13.25% 97    ------/------   ------/------   102.70/103.00
+
+13.50% 97    102.70/102.85   ------/------   102.70/103.00
+
+13.50% 98    ------/------   102.55/102.65   ------/------
+
+13.62% 98    ------/------   103.55/103.65   ------/------
+
+13.65% 99    ------/------   ------/------   102.65/102.90
+
+00.00% 99    ------/------   ------/------    76.80/77.05
+
+00.00% 00     62.40/62.60    ------/------    62.35/62.60
+
+11.64% 00    ------/------    95.15/94.40    ------/------
+
+11.75% 01    ------/------    94.10/94.30    ------/------
+
+13.55% 01    ------/------   100.25/100.35   ------/------
+
+13.85% 01    ------/------   101.85/101.95   ------/------
+
+13.85% 06    ------/------   ------/------   101.70/101.95
+
+14.00% 06    ------/------   101.95/102.00   ------/------
+
+.
+
+Treasury bills
+
+---------------------
+
+Maturing	  DFHI	   STCI	     I-Sec
+
+on				    (Bid/offer)	(in percent)
+
+--/--/--     ------/------   ------/------   ------/------
+
+.
+
+Maturing	  SBI Gilts    GSTC	     PNB Gilts
+
+on				     (Bid/offer)	(in percent)
+
+01/03/97	 7.75/7.50     ------/------   ------/------
+
+05/12/97	10.50/10.15    ------/------   ------/------
+
+.
+
+Note : DFHI - Discount and Finance House of India Ltd.
+
+	 STCI - Securities Trading Corporation of India Ltd.
+
+	 I-Sec- ICICI Securities and Finance Company Ltd.
+
+	 GSTC - Gilts Securities Trading Corporation Ltd.
+
+	   + Bombay Newsroom +91-22-265 9000
+

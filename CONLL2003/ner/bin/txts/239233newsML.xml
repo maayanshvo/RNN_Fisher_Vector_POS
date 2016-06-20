@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239233" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Late bond market prices.</title>
+<headline>Late bond market prices.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>This is how major world bond markets were trading in late European business on Friday.</p>
+<p>GERMANY - German Bunds and futures reeled from heavy losses inflicted on Thursday and Friday, with dealers saying bullish sentiment had taken a hammering and the market would not necessarily resume its upward path. The March Bund future on the London International Financial Futures and Options Exchange (LIFFE) was trading at 100.27, 0.43 down from Thursday's settlement price.</p>
+<p>BRITAIN - Gilts closed sharply lower as domestic political turmoil adds to fall-out from plunging Treasuries. Gilt/Bund spread at 193 bps after bulging to 199 bps, dealers see buyers at these levels. The March long gilt future on LIFFE was trading at 108-28/32, down 28/32 from Thursday's settlement price.</p>
+<p>FRANCE - French bond futures were sent on a roller coaster ride during the busiest session for French bond futures since March 1995 and settled down more than a point, unable to resist the weight of the declines in U.S. bond prices. The December notional bond future on the MATIF in Paris settled at 128.14, down 1.08 from Thursday's settlement price.</p>
+<p>ITALY - Italian debt markets ending around one point down but not completely out after rough day of increased volatility, bonds and futures at varying levels -- always down -- throughout day, hit by waves of news from U.S. and Germany, Lira firming up late after weakening beyond ERM central parity of 990, before Bank of Italy sold marks and gave it a leg up. The March bond future on LIFFE was trading at 127.63, down 0.98 from Thursday's settlement price.</p>
+<p>UNITED STATES - U.S. Treasury prices were lower in the late morning after falling precipitously overnight and cutting about two-thirds of those losses after the government released a weaker than expected November employment report. The March Treasury bond future on the Chicago Board of Trade was trading at 113-28/32, down 07/32 from Thursday's settlement price. The long bond was quoted to yield 6.52 percent.</p>
+<p>JAPAN - Japanese government bond (JGB) cash and futures were battered by late Tokyo trade after large-lot selling by powerful institutional investors, including pension funds and public funds. In after hours trading the March future on LIFFE was trading at 125.67, down 0.37 from Thursday's settlement price on the Tokyo Stock Exchange.</p>
+<p>EUROBONDS - A mixed bag of issued surfaced with mainstream activity subdued in anticipation of U.S. payroll figures. The U.S. Treasury market fell sharply overnight following words of caution from Federal Reserve chairman Alan Greenspan, and this led to lower prices in European debt markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

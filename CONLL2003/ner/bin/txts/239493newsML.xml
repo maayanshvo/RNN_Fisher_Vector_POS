@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239493" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Raytheon E-Systems wins contract.</title>
+<headline>Raytheon E-Systems wins contract.</headline>
+<dateline>DALLAS 1996-12-06</dateline>
+<text>
+<p>Raytheon Co's E-Systems unit said it will participate in a Reconnaissance/Intelligence Ground Systems Products and Services contract, awarded by Electonic Systems Center, Hanscom Air Force base, that carries a total program value of $450 million.  </p>
+<p>The company said that when completed, the new generation of systems will provide strategic and tactical commanders with battlefield, theater and strategic reconnaissance information.</p>
+<p>Raytheon said it will also allow the Department of Defense to achieve more interoperability between intelligence assets at less cost and deploy new systems quickly.</p>
+<p>The company said the contract is an indefitine delivery/ indefinite quantity contract over a five year period. Funds will be obligated as individual delivery orders are issued.</p>
+<p>&quot;Raytheon E-Systems has a long heritage in this market,&quot; said Lowell Lawson, Raytheon E-Systems chairman and chief executive. &quot;This program is very important to us. Our team is committed to continuing its leadership in the application of commercial technology in the defense and intelligence community and in the use of standards-based approaches for intelligence applications and infrastructure.&quot;</p>
+<p>--New York Newsdesk 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34430">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C331">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DALLAS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

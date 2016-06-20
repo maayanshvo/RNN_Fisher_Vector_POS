@@ -1,0 +1,74 @@
+PRESALE - Sunnyvale, Texas.
+
+AMT: 2,200,000	DATE: 12/09/96	NYC Time: 1400	CUSIP: 867629
+
+ISSUER: Sunnyvale							 ST: TX
+
+ISSUE: Combined tax & rev cert. of oblig Ser 96		 TAX STAT: Exempt-LT
+
+M/SP/F:								     BOOK ENTRY: Y
+
+ENHANCEMENTS: None							BANK QUAL: Y
+
+DTD: 12/01/96							     SURE BID: N
+
+DUE: 2/15/98-17					     SR MGR:
+
+1ST CPN: 08/15/97
+
+CALL: 2/15/06 @ par					 NIC
+
+DELIVERY: 1/14/97 approx				  ORDERS:
+
+PAYING AGENT: U.S. Trust Co. of Texas, Dallas
+
+L.O.: Fulbright & Jaworski, Dallas
+
+F.A.: First Southwest Co., Dallas
+
+LAST SALE: None
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		     60,000
+
+1999		     60,000
+
+2000		     65,000
+
+2001		     70,000
+
+2002		     75,000
+
+2003		     80,000
+
+2004		     85,000
+
+2005		     90,000
+
+2006		     95,000
+
+2007		    100,000
+
+2008		    105,000
+
+2009		    115,000
+
+2010		    120,000
+
+2011		    130,000
+
+2012		    135,000
+
+2013		    145,000
+
+2014		    155,000
+
+2015		    160,000
+
+2016		    170,000
+
+2017		    185,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

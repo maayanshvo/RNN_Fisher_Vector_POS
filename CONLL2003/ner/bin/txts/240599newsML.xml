@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240599" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: UK Conservative MP leaves party, ends majority.</title>
+<headline>UK Conservative MP leaves party, ends majority.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>A lawmaker from Britain's ruling Conservatives on Friday said he was leaving the parliamentary party, a move which wiped out the goverment's majority of one, over a row involving a hospital in his constituency.</p>
+<p>&quot;I am today withdrawing my cooperation from the government,&quot; Sir John Gorst said in a statement.  </p>
+<p>In parliamentary terminology, Gorst has resigned the whip. This means that he is assumed to oppose the government, although in practice he will decide his position on individual issues.</p>
+<p>Before Gorst's statement, Prime Minister John Major had a one-seat majority in the 651-seat House of Commons lower house of parliament.</p>
+<p>After the annoucement, Major is considered to be in a minority of one and dependent on the support of minority parties, such as the Ulster Unionists, to pass legislation.</p>
+<p>Gorst, member of parliament for London's Hendon North area, earlier told deputies that Health Secretary Stephen Dorrell had broken a June promise to keep open Edgeware hospital's casualty unit.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

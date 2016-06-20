@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239276" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Guatemala seeks Canadian help to implement peace.</title>
+<headline>Guatemala seeks Canadian help to implement peace.</headline>
+<dateline>OTTAWA 1996-12-06</dateline>
+<text>
+<p>Canada is ready to help Guatemala implement its peace agreement, with troops or police if necessary, Foreign Minister Lloyd Axworthy said on Friday.</p>
+<p>Guatemalan Foreign Minister Eduardo Stein asked Axworthy for help during a meeting in Ottawa.</p>
+<p>Canadian help could include arranging the turning in of arms and, in the longer term, in setting up such things as land registries, Stein told reporters.</p>
+<p>A final peace accord ending Guatemala's civil war is scheduled to be signed on Dec. 29 in Guatemala City.</p>
+<p>Axworthy said Canada was ready to help the country &quot;show some quick results&quot; after the agreement and to contribute troops or police if necessary.</p>
+<p>Stein said it was important to move quickly from demobilization of armed groups to reintegrating former combatants into the economy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GUAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

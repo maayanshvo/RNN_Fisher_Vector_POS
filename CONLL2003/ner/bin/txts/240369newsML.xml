@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240369" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian Shipping -- Mangalore cargoes - Dec 6.</title>
+<headline>Indian Shipping -- Mangalore cargoes - Dec 6.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Mangalore port on December 6:</p>
+<p>  Commodity	     Tons		   Ship	    Berthing</p>
+<p>		    (LDD/ULD) (Balance)</p>
+<p>----------------------------------------------------------------</p>
+<p> Timber		  415 (ULD)    615    Myomaywa	  28/11</p>
+<p> Liquid Ammonia    2,334 (ULD)    ---    L.Excel	   06/12</p>
+<p> Timber		  694 (ULD)  2,099    Magway	    05/12</p>
+<p> LPG		   4,200 (ULD)    900    Gaz Far East    05/12</p>
+<p>Natural</p>
+<p> Gas Liquid	    --- (ULD)    ---    Jag Palak	 05/12</p>
+<p>----------------------------------------------------------------</p>
+<p>Note:</p>
+<p>ULD-Discharge</p>
+<p>LDD-Loading</p>
+<p>(Source: J.M.Baxi &amp; Co, Mangalore)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

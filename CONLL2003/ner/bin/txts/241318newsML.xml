@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241318" id="root" date="1996-12-06" xml:lang="en">
+<title>VIETNAM: China, Vietnam discuss security cooperation - VNA.</title>
+<headline>China, Vietnam discuss security cooperation - VNA.</headline>
+<dateline>HANOI 1996-12-06</dateline>
+<text>
+<p>China's State Security Minister Jia Chunwang and his Vietnamese counterpart Le Minh Huong have discussed measures this week to increase security cooperation, the official Vietnam News Agency (VNA) said on Friday.</p>
+<p>The VNA report gave few details of the talks, but quoted Jia as telling Prime Minister Vo Van Kiet in a subsequent meeting that his ministry &quot;would continue to expect cooperation and share experience with Vietnam in security work...&quot;</p>
+<p>Ties between China and Vietnam have improved since the two socialist neighbours normalised relations in 1992.</p>
+<p>Rail links were restored earlier this year after a 17-year hiatus and Chinese Premier Li Peng made history in late June by attending the opening session of Vietnam's Communist Party Congress.</p>
+<p>However diplomats and analysts say that despite public images of solidarity, the relationship still lacks depth.</p>
+<p>Naval forces from the two countries clashed in 1988 about sovereignty over island chains in the South China Sea and border differences are still unresolved.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241538" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: ALPINE SKIING-GLADISHIVA WINS WORLD CUP SUPER G.</title>
+<headline>ALPINE SKIING-GLADISHIVA WINS WORLD CUP SUPER G.</headline>
+<dateline>VAIL, Colorado 1996-12-07</dateline>
+<text>
+<p>Svetlana Gladishiva of Russia won the women's World Cup Super G race on Saturday.  </p>
+<p>Pernilla Wiberg of Sweden finished second and Carole Montillet of France came in third, according to provisional results.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="VAIL, Colorado"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

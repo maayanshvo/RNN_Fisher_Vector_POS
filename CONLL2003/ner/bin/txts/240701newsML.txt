@@ -1,0 +1,40 @@
+Fonds Communs de Creances sets two Ffr bonds.
+
+LONDON 1996-12-06
+
+Fonds Communs de Creances has issued two 2.0 billion French franc securitised bonds, joint lead managers Morgan Stanley, Societe Generale and UBS said.
+
+TRANCHE ONE
+
+ AMT    2.0 BLN FFR   COUPON     4.50	MATURITY    27.DEC.00
+
+ TYPE	 STRAIGHT  ISS PRICE  99.67     PAY DATE    27.DEC.96
+
+ FULL FEES  22.5 BP   REOFFER    99.67     SPREAD	+26 BP
+
+ MOODY	=	   LISTING    PARIS     PAY FREQ    =
+
+ S&P	  =	   DENOMS (K) 100	 SALE LIMITS =
+
+ GOV LAW    FRENCH    HOME CTRY  FRANCE    TAX PROVS   =
+
+UNDERLYING GOVT BOND INTERPOLATED OCT 200 AND MAR 2001 BTANS
+
+TRANCHE TWO
+
+ AMT    2.0 BLN FFR   COUPON     4.80	MATURITY    27.DEC.01
+
+ TYPE	 STRAIGHT  ISS PRICE  99.40     PAY DATE    27.DEC.96
+
+ FULL FEES  25 BP     REOFFER    99.40     SPREAD	+27 BP
+
+ MOODY	=	   LISTING    PARIS     PAY FREQ    SEMI-ANN
+
+ S&P	  =	   DENOMS (K) 100	 SALE LIMITS =
+
+ GOV LAW    FRENCH    HOME CTRY  FRANCE    TAX PROVS   =
+
+UNDERLYING GOVT BOND INTERPOLATED OCT 2001 BTAN, NOV 2002 OAT
+
+-- London Newsroom +44 171 542 7658
+

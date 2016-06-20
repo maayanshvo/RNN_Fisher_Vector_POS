@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241807" id="root" date="1996-12-07" xml:lang="en">
+<title>IRAQ: PRESS DIGEST - Iraq - Dec 7.</title>
+<headline>PRESS DIGEST - Iraq - Dec 7.</headline>
+<dateline>BAGHDAD 1996-12-07</dateline>
+<text>
+<p>These are some of the leading stories in the official Iraqi press on Saturday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>QADISSIYA</p>
+<p>- Iraq to resume exports early on Tuesday.</p>
+<p>- Oil overseers complete their inspection of metering gear of Iraq's pipeline via Turkey.</p>
+<p>- Oil contracts are ready and preference will be given to firms whose countries took positive stand on sanctions.</p>
+<p>- Iraq protests against violation by allied warplanes of its airspace.</p>
+<p>- Russian official arrives in Baghdad.</p>
+<p>- Turkish ports are ready to receive Iraq-bound goods.</p>
+<p>(The above were also carried by AL-IRAQ and JUMHOURIYA).</p>
+<p>- Scores of foreign firms flock to Iraq.</p>
+<p>- National Assembly appoints an international official to pursue issue of Iraqi prisoners of war still held by Iran.</p>
+<p>- Libya sends food to Iraq.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BAGHDAD"/>
+<dc element="dc.creator.location.country.name" value="IRAQ"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

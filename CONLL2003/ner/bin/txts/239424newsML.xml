@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239424" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Regional Bell venture TeleTV to continue.</title>
+<headline>Regional Bell venture TeleTV to continue.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Pacific Telesis Group (PacTel) said on Friday that its TeleTV venture with Bell Atlantic Corp and NYNEX Corp would continue, with funding unchanged at $100 million from each partner over three years.</p>
+<p>A PacTel spokesman denied reports in the Wall Street Journal and New York Times that the venture would either be shut down or folded into Bell Atlantic.</p>
+<p>He said separate statements from TeleTV and the three shareholder companies were expected shortly. TeleTV is a joint venture aimed at producing entertainment and other programming for video networks that the Bells planned to build.  </p>
+<p>TeleTV's scope and total funding was earlier this year trimmed from $480 million a year to $390 million then $300 million, but is being maintained at this level PacTel said.</p>
+<p>Speculation of TeleTV's demise has been linked with a review by Bell Atlantic and NYNEX, confirmed on Friday, of their commitment to using wireless cable as a method of beaming TV signals to homes in the north east of the U.S.</p>
+<p>The news hit the stock of wireless cable firm CAI Wireless Systems Inc in which Bell Atlantic and NYNEX have a $100 million investment. The regional Bells have said nothing yet about their plans for their investment.</p>
+<p>Initial data from trials of CAI's multi-channel multi-point distribution (MMDS) in Virginia Beach, Va and in Boston have confirmed that MMDS works less well in the cities of the east coast than in the flat, low-rise suburbs of California where systems are already in service.</p>
+<p>In a separate statement CAI, defending its system, said it expects to be able to improve the system's coverage in time to meet the 75 percent coverage requirements of Bell Atlantic and NYNEX.</p>
+<p>-- Nick Louth, New York newsroom 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

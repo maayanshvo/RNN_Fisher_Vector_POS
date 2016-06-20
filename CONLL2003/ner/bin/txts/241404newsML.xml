@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241404" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Pacific Plywood says plans share split.</title>
+<headline>Pacific Plywood says plans share split.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Hong Kong's Pacific Plywood Holdings Ltd said on Friday it planned to split each of its shares into four to increase the stock's liquidity.</p>
+<p>Shareholders will be asked to approve the proposal at a special general meeting to be held on January 2, the company said in a statement.</p>
+<p>Pacific Plywood said 968 million shares were currently in issue. The number would rise to 3.87 billion after the split.</p>
+<p>The stock closed at HK$5.90 on Thursday.</p>
+<p>-- Hong Kong newsroom (852) 2843 6345</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I46000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

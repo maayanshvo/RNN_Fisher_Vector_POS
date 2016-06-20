@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240324" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Cyclone hits India's southeast coast.</title>
+<headline>Cyclone hits India's southeast coast.</headline>
+<byline>Giri Venkatesan</byline>
+<dateline>HYDERABAD, India 1996-12-06</dateline>
+<text>
+<p>A powerful cyclone, whipping up winds of 80-100 kph (50-65 mph), began crossing India's southeast coast and could inflict heavy damage, officials said.</p>
+<p>&quot;The cyclone has begun crossing land and will completely cross the coast by midnight tonight,&quot; said J.V.M. Naidu, director of the cyclone warning centre at the port town of Visakhapatnam in Andhra Pradesh.</p>
+<p>Naidu told Reuters by telephone that the storm, located around 70 km (44 miles) north off Madras, could reach wind speeds of up to 120 kmph (75 mph) over land.</p>
+<p>He said India's rocket launching centre at Sriharikota, near Nellore, could fall within the cyclone's path.</p>
+<p>Meteorologists in Madras said the cyclone covered a stretch of 200 km (125 miles) between Nellore town in Andhra Pradesh state and Madras city in neighbouring Tamil Nadu state.</p>
+<p>Authorities at Madras port hoisted &quot;Signal 8&quot;, indicating a severe cyclone warning.</p>
+<p>Officials said the potential for the cyclone to cause damage continued to be high despite the fact the storm had weakened since Thursday morning.</p>
+<p>&quot;There is no problem so far,&quot; said a civic official in Madras. &quot;But we are ready to meet any eventuality.&quot;</p>
+<p>He said 100 shelters had been set up across the city able to accommodate thousands of people from low-lying areas if they hav to be evacuted.</p>
+<p>&quot;Heavy to very heavy rains with flooding are expected all along the coast up to Pondicherry (adjoining Tamil Nadu) in the next 24 hours,&quot; reported a weather forecast issued in Madras.</p>
+<p>Airport authorities in Madras said that most evening flights to and from the city had been cancelled.</p>
+<p>The cyclone, which threatened to hit Andhra Pradesh near its port town of Machilipatnam on Wednesday, weakened as it moved south towards Tamil Nadu, its wind speed falling to 90-120 kmph (56-75 mph) from 150-180 (94-113 mph).</p>
+<p>&quot;Even at a reduced speed, the cyclone has tremendous destructive potential,&quot; Naidu had said on Thursday evening. &quot;Winds of 100 kph (65 mph) are more than enough to bring down cables, trees and thatched houses.&quot;</p>
+<p>Last month at least 2,000 people were killed and are missing after a storm swept through the East and West Godavari districts of the fertile state.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HYDERABAD, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

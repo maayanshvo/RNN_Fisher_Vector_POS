@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240908" id="root" date="1996-12-06" xml:lang="en">
+<title>ITALY: FORECAST - Italy o/n money to fall more this month.</title>
+<headline>FORECAST - Italy o/n money to fall more this month.</headline>
+<dateline>MILAN 1996-12-06</dateline>
+<text>
+<p>Italy's money market continues to expect lower interest rates over the next month with the implicit overnight rate falling below the 7.5 percent discount rate, a study by Bocconi University research arm Igier showed on Friday.</p>
+<p>The implicit overnight rate is seen falling on a one-month timeframe to 7.43, just under the actual 7.50 percent official discount rate, and an actual market close of 7.88 percent on Thursday, the day on which Igier based its study.</p>
+<p>One week ago the implicit overnight rate was seen at 7.56 percent a month out, while one month ago it was seen at 7.68.</p>
+<p>On a three month timeframe the implicit overnight rate is seen at 6.75 percent, from 6.89 percent seen a week ago and 7.27 percent forecast one month ago.</p>
+<p>One year out, the implicit overnight rate is seen at 5.86 percent, from 6.05 forecast last week and 6.58 a month ago.</p>
+<p>Two years out the implicit overnight rate is seen standing at 6.52 percent, from 6.76 percent forecast last week and 6.97 percent one month ago.</p>
+<p>The spread between the two-year implicit Italian overnight rate and the implicit German overnight rate, considered a good indicator of market confidence in Europe's economic and monetary union, narrowed to 180 basis points from 202 a week ago and 213 a month ago.</p>
+<p>	  ************************* ITALY ************************</p>
+<p>			  --- IMPLICIT FORWARD RATES ---</p>
+<p>					1 Mo     3 Mo     1 Yr     2 Yr</p>
+<p>    Thursday December 5	 7.43     6.75     5.86     6.52</p>
+<p>    One week ago		  7.56     6.89     6.05     6.76</p>
+<p>    One month ago		 7.68     7.27     6.58     6.97</p>
+<p>    Three months ago	    8.54     8.42     8.31     8.78</p>
+<p>			   --- ACTUAL MARKET RATES ---</p>
+<p>					O/N	3-Mo     1-Yr     10-Yr</p>
+<p>    Thursday December 5	 7.88     7.06     6.52     7.46</p>
+<p>    One week ago		  8.00     7.20     6.67     7.69</p>
+<p>    One month ago		 7.94     7.53     7.00     7.98</p>
+<p>    Three months ago	    8.63     8.58     8.33     9.47</p>
+<p>************************** GERMANY *************************</p>
+<p>			 --- IMPLICIT FORWARD RATES ---</p>
+<p>					1 Mo     3 Mo     1 Yr     2 Yr</p>
+<p>    Thursday December 5	 3.03     3.07     3.63     4.72</p>
+<p>    One week ago		  3.17     3.16     3.63     4.74</p>
+<p>    One month ago		 3.04     3.10     3.71     4.84</p>
+<p>    Three months ago	    3.02     3.05     3.88     5.93</p>
+<p>			   --- ACTUAL MARKET RATES ---</p>
+<p>					O/N	3-Mo     1-Yr     10-Yr</p>
+<p>    Thursday December 5	 3.03     3.17     3.13     6.17</p>
+<p>    One week ago		  3.20     3.13     3.34     6.08</p>
+<p>    One month ago		 3.03     3.08     3.25     6.19</p>
+<p>    Three months ago	    3.05     3.13     3.25     6.63</p>
+<p>-- Milan newsroom ++392 66129654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

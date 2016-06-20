@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241568" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: SOCCER-NORTHERN IRELAND PREMIER DIVISION RESULTS/STANDINGS.</title>
+<headline>SOCCER-NORTHERN IRELAND PREMIER DIVISION RESULTS/STANDINGS.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>Results of Northern Ireland premier</p>
+<p>division matches on Saturday:</p>
+<p> Ards	     0  Crusaders	    0</p>
+<p> Cliftonville   1  Portadown	    1</p>
+<p> Glenavon	 2  Linfield	     1</p>
+<p> Glentoran	1  Coleraine	    0</p>
+<p>Standings (tabulated - played, won, drawn, lost, goals for,</p>
+<p>goals against, points):</p>
+<p> Coleraine    10   7   1   2   18  11   22</p>
+<p> Linfield     10   4   3   3   13  10   15</p>
+<p> Crusaders    10   3   4   3   11   9   13</p>
+<p> Glenavon     10   3   4   3   15  14   13</p>
+<p> Glentoran    10   3   3   4   18  18   12</p>
+<p> Portadown     9   3   3   3   11  12   12</p>
+<p> Ards	   10   3   2   5   12  17   11</p>
+<p> Cliftonville  9   1   4   4    5  12    7</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

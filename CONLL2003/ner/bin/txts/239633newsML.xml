@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239633" id="root" date="1996-12-06" xml:lang="en">
+<title>POLAND: Polish builders join forces against competition.</title>
+<headline>Polish builders join forces against competition.</headline>
+<dateline>WARSAW 1996-12-06</dateline>
+<text>
+<p>Thursday's deal between two construction firms, Exbud SA and Mostostal Warszawa SA, is aimed at protecting Poland's construction sector against foreign competition, Mostostal said.</p>
+<p>&quot;The agreement aims at consolidating Polish construction firms to make them more competitive againt large foreign companies,&quot; Mostostal spokesman Henryk Kacprzak told Reuters on Friday.</p>
+<p>Under the agreement, Mostostal and Exbud would jointly offer their services in tenders for large project.</p>
+<p>Kacprzak also said the companies might establish mutual capital ties, but that this was unlikely. @</p>
+<p>-- Warsaw Newsroom +48 22 653 9700</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WARSAW"/>
+<dc element="dc.creator.location.country.name" value="POLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

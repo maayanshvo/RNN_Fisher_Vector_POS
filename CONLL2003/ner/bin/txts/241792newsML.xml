@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241792" id="root" date="1996-12-07" xml:lang="en">
+<title>TUNISIA: Tunis bourse trade almost doubled in a week.</title>
+<headline>Tunis bourse trade almost doubled in a week.</headline>
+<dateline>TUNIS 1996-12-07</dateline>
+<text>
+<p>The Tunis Stock Exchange index ended the week down 6.18 points in much more active trade with volume up by 92 percent, bourse sources said.</p>
+<p>The market's 28-share index closed the week at 593.11 from 599.29 a week earlier.</p>
+<p>Volume traded was 15.12 million dinars against 7.85 million dinars.</p>
+<p>&quot;We might think that confidence in the bourse which inaugurated its new computerised dealing system this week was back but trade was still selective,&quot; a broker said.</p>
+<p>&quot;The index was down because some investors are also selling to get cash to buy new public offers expected on the market for the next weeks in a speed-up of the privatisation programme,&quot; he added.</p>
+<p>Most on the trade was focused on banks listed. Trade on Banque Nationale Agricole amounted to five million dinars with 168,000 shares changing hands at an unchanged price of 30.98 dinars.</p>
+<p>BIAT bank was also liquid with 21,000 shares traded for 1.261 million dinars at a stable price of 58.96 dinars.</p>
+<p>($=one dinar)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

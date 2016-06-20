@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239846" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: TMM bid for Mexico railway meets minimum - gov't.</title>
+<headline>TMM bid for Mexico railway meets minimum - gov't.</headline>
+<dateline>MEXICO CITY 1996-12-05</dateline>
+<text>
+<p>A bid led by Mexican transport firm Transportacion Maritima Mexicana SA (TMM) for the concession to Mexico's Northeast Railway was above the minimum requirement set by an independent commission, officials said on Thursday.</p>
+<p>&quot;The value of the bid was superior to the reference tecnical value,&quot; the government-run Mexican National Railroads said in a statement.</p>
+<p>TMM and Kansas City Southern Industries Inc, its partner in the venture, turned in a bid of 11.07 billion pesos for the concession, the highest of three bids.  </p>
+<p>The statement did not say what the minimum value of the railway concession was, however.</p>
+<p>It added that final approval of the concession would come before December 12 by officials at the Communications and Transport Ministry.</p>
+<p>Two other bidders turned in lower bids than TMM. Mining firm Grupo Mexico offered 4.272 billion pesos and a third consortium, led by builder ICA SA and Union Pacific Corp, offered 4.16 billion pesos.</p>
+<p>-- Timna Tanners, Mexico City newsroom, +525 728-9565</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

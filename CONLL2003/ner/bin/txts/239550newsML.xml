@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239550" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: S.Africa Reserve Bank appoints new deputy governor.</title>
+<headline>S.Africa Reserve Bank appoints new deputy governor.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>The South African government announced on Friday that James Cross had been appointed as a deputy governor of the Reserve Bank.</p>
+<p>Cross would replace Jaap Meijer who retired at the end of April this year.</p>
+<p>Cross served as general manager of the central bank's gold and foreign exchange department from April 1987 until July 1995. For the past eighteen months he has been working in a private research and consulting business in London.</p>
+<p>&quot;Together with Chris Stals, Governor, and Chris de Swardt and Tim Thahane, the other two deputy governors, the Reserve Bank will now have a strong and well experienced management team that is well equipped to meet the many challenges of the changing financial environment, both in the South African and in the global financial system,&quot; the statement read.</p>
+<p>-- Johannesburg newsroom, +27 11 482-1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81401">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

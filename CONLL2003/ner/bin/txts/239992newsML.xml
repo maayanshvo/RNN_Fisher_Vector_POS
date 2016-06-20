@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239992" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Hallsville ISD, Txas.</title>
+<headline>PRESALE - Hallsville ISD, Txas.</headline>
+<text>
+<p>AMT: 15,000,000     DATE: 12/10/96	NYC Time: 1500	CUSIP: 406360</p>
+<p>ISSUER: Hallsville ISD						  ST: TX</p>
+<p>ISSUE: Various school building, Series 1996, See Notes    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: PSF AAA/NA/NA					   BANK QUAL: N</p>
+<p>DTD: 12/1/96; TIC from 1/14/97					SURE BID: N</p>
+<p>DUE: see note						 SR MGR:</p>
+<p>1ST CPN: 02/15/98</p>
+<p>CALL: 2/15/07 at par					TIC</p>
+<p>DELIVERY: 1/14/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: Texas Commerce Bank NA, Dallas</p>
+<p>L.O.: Fisher &amp; Newsom, Austin</p>
+<p>F.A.: Principal Financial Sec., Dallas</p>
+<p>LAST SALE: None</p>
+<p>NOTES: $3.460 million CABs: 2/15/02-07; &amp; $11.540 million CIBs: 2/15/08-17</p>
+<p>NOTES: Amounts below represent original principal amount   </p>
+<p>ear		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>2002		    660,000</p>
+<p>2003		    625,000</p>
+<p>2004		    590,000</p>
+<p>2005		    560,000</p>
+<p>2006		    530,000</p>
+<p>2007		    495,000</p>
+<p>2008		    900,000</p>
+<p>2009		    945,000</p>
+<p>2010		    995,000</p>
+<p>2011		  1,050,000</p>
+<p>2012		  1,110,000</p>
+<p>2013		  1,170,000</p>
+<p>2014		  1,235,000</p>
+<p>2015		  1,305,000</p>
+<p>2016		  1,375,000</p>
+<p>2017		  1,455,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

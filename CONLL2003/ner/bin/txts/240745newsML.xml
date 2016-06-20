@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240745" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Des Moines Area Comm Coll, Ia.</title>
+<headline>PRESALE - Des Moines Area Comm Coll, Ia.</headline>
+<text>
+<p>AMT: 1,200	    DATE: 12/09/96	NYC Time: 1200	CUSIP: 250097</p>
+<p>ISSUER: Des Moines Area Comm Coll				   ST: IA</p>
+<p>ISSUE: New jobs training certificates (AMT)		    TAX STAT: Exempt-ULT</p>
+<p>M/SP/F: NA/NA/NA							  BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 12/01/96							     SURE BID: Y</p>
+<p>DUE: 6/1/98-06						SR MGR:</p>
+<p>1ST CPN: 06/01/97</p>
+<p>CALL: 6/1/04 @ par					  NIC</p>
+<p>DELIVERY: 30 days					   ORDERS:</p>
+<p>PAYING AGENT: Norwest Bank Iowa, Des Moines</p>
+<p>L.O.: Davis, Brown, Koehn, Shors &amp; Roberts, Des Moines</p>
+<p>F.A.: Evensen Dodge, Inc., Minneapolis</p>
+<p>LAST SALE: $2,065,000 (AMT) 2/12/96 @ 4.4783% NIC; 6yrs 4mos Avg; BBI-5.37%</p>
+<p>NOTES: Merged Area XI</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    105,000</p>
+<p>1999		    235,000</p>
+<p>2000		    270,000</p>
+<p>2001		    300,000</p>
+<p>2002		    340,000</p>
+<p>2003		    400,000</p>
+<p>2004		    430,000</p>
+<p>2005		    455,000</p>
+<p>2006		    455,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

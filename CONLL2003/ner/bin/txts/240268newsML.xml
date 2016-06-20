@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240268" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: Belgian cen.bank more pessimistic on state finance.</title>
+<headline>Belgian cen.bank more pessimistic on state finance.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>The Belgian central bank on Friday revised its forecast for the Belgian state's 1996 deficit to 3.3 percent of Gross Domestic Product (GDP), from 3.1 percent in August.</p>
+<p>The forecast, made in the bank's weekly economic indicators statement, is in line with the government's forecast.</p>
+<p>At the presentation of the 1997 budget in October, the government said it estimated the 1996 deficit at 3.3 percent, although the 1996 budget was drafted with a 3.0 percent target.</p>
+<p>It blamed the shortfall on an unexpected economic slowdown.</p>
+<p>The 1995 deficit was 4.1 percent of GDP. The 1997 target is 2.9 percent.</p>
+<p>-- Brussels Newsroom +32 2 287 6810, Fax +32 2 230 7710</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

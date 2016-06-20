@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240170" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Agency sees Northeast unit nuclear faults.</title>
+<headline>Agency sees Northeast unit nuclear faults.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Northeast Utilities subsidiary Connecticut Light and Power Co (CL&amp;P) lacked leadership and planning in its administration of its four nuclear power plants, the Department of Public Utility Control (DPUC) said Friday.</p>
+<p>An independent report commissioned by the DPUC found that CL&amp;P needed to improve employee relations and internal control at the nuclear plants and improve management of financial resources and cost assessment.</p>
+<p>CL&amp;P has the largest ownership interest in each of Connecticut's nuclear plants, including a 33 percent interest in Connecticut Yankee, 81 percent in Millstone 1 and 2 and nearly 53 percent of Millstone 3, the DPUC said.</p>
+<p>All four of the plants are now closed.</p>
+<p>The DPUC said its report, prepared by the Barrington-Wellesley Group, found that Northeast Utilities did not have a properly staffed organization to execute the operation of the plants in a safe, reliable and cost effective manner.</p>
+<p>The report also said Northeast Utilities did not yet have a pragmatic, realistic plan for returning its Millstone units to service.</p>
+<p>The DPUC said its report is the first of two by the economic regulatory agency on the Northeast nuclear plants.</p>
+<p>--New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

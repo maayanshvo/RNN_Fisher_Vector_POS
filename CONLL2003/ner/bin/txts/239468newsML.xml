@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239468" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Universal Seismic unit signs credit line.</title>
+<headline>Universal Seismic unit signs credit line.</headline>
+<dateline>HOUSTON 1996-12-06</dateline>
+<text>
+<p>Universal Seismic Associates Inc said on Friday its energy unit UNEXCO Inc executed a commitment letter for a $3 million general obligation credit facility to finance exploration and production activities.</p>
+<p>The facility, provided by Resource Investors Mangament Co, has a three year-maturity and would function as a revolving credit line with monthly interest payments, the company said.</p>
+<p>Any proceeds from the sale of oil and gas prospects, properties and production would be used to pay down the credit facility and create more borrowing capacity. The facility was expected to close in January 1997, it said. It was contingent on appropriate documentation, the company said.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

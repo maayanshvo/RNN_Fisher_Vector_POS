@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239734" id="root" date="1996-12-06" xml:lang="en">
+<title>RUSSIA: Strike, malfunctions hit three Russia nuclear plants.</title>
+<headline>Strike, malfunctions hit three Russia nuclear plants.</headline>
+<dateline>MOSCOW 1996-12-06</dateline>
+<text>
+<p>Malfunctions have stopped reactors at two Russian nuclear power plants and another was on the brink of shut-down because of a strike, but an industry source said on Friday none of the cases was dangerous.</p>
+<p>Anatoly Zemskov, head of public relations at Russia's nuclear power plant Rosenergoatom, told Reuters neither of the two malfunctions involved radiation leakage, and said work continued on Friday at strike-hit St Petersburg's plant.</p>
+<p>Problems with the controls system shut down one of three reactors at Smolensk's nuclear power plant late on Thursday. Zemskov said the plant would resume normal work on Friday.</p>
+<p>One of the reactors of Novovoronezh' nuclear power plant closed automatically on Wednesday due to a minor leakage from temperature control piping. Repair was underway and the reactor would operate soon, Zemskov said.</p>
+<p>&quot;Both minor accidents just showed that automatic control systems work fine, preventing bigger accidents,&quot; Zemskov said, adding: &quot;If there had been a smallest danger we would have already stopped all of the plant's reactors.&quot;</p>
+<p>He said that there was no equipment run-down and the accidents were coincidental.</p>
+<p>Zemskov said St Petersburg's nuclear plant, where several employees downed tools on Thursday to demand wage arrears be paid, also worked normally on Friday.</p>
+<p>Russia's nuclear watchdog Gosatomnadzor said on Thursday the plant would be stopped if the strike was not suspended, Itar-Tass news agency said.</p>
+<p>&quot;They have not formally suspended the strike yet, but all employees necessary for the process are working,&quot; Zemskov said.</p>
+<p>Tass said the plant's workers had agreed to suspend the strike earlier on Friday after a cash promise.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I1610109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

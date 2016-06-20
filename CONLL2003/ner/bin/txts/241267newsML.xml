@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241267" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: South Korean won closes down on import settlements.</title>
+<headline>South Korean won closes down on import settlements.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>The won slid against the U.S. unit on Friday as players prepared for Monday's import settlement needs, traders said.</p>
+<p>The won ended at 831.00, slightly down from an opening of 830.60. It ranged between 830.20 and 831.40.</p>
+<p>&quot;A sale of about $60 million by Hyundai Heavy pushed the dollar down earlier in the day, but Monday's import needs helped it recover,&quot; said a Koram Bank dealer.</p>
+<p>Dealers said the dollar/yen's movement on the world market would continue to set the trend for the dollar/won next week.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

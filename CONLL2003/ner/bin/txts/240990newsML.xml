@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240990" id="root" date="1996-12-06" xml:lang="en">
+<title>GREECE: Greek industrial output up 3.8pct yr/yr in Sept.</title>
+<headline>Greek industrial output up 3.8pct yr/yr in Sept.</headline>
+<dateline>ATHENS 1996-12-06</dateline>
+<text>
+<p>Greece's industrial production rose provisionally 3.8 percent year-on-year in September after a 1.0-percent drop in August, and manufacturing output rose 3.4 percent year-on-year, the National Statistics Service (NSS) said.  </p>
+<p>    INDUSTRIAL OUTPUT	   SEP 96*  AUG 96** SEP 95</p>
+<p>    Percent change(yr/yr)	3.8%    -1.0%     1.1%</p>
+<p>    Index (1980=100)	   122.4    103.3    117.9</p>
+<p>    MANUFACTURING OUTPUT	SEP 96*  AUG 96** SEP 95</p>
+<p>    Percent change(yr/yr)	3.4%    -2.4%     1.1%</p>
+<p>    Index (1980=100)	   115.2     93.0    111.4</p>
+<p>* indicates provisional data</p>
+<p>** indicates revised data --George Georgiopoulos, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

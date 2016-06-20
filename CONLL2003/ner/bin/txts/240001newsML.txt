@@ -1,0 +1,64 @@
+PRESALE - Perham, Minn..
+
+AMT: 1,450,000	DATE: 12/09/96	NYC Time: 1200	CUSIP: 713788
+
+ISSUER: Perham							    ST: MN
+
+ISSUE: General obligation Series 1996			   TAX STAT: Exempt-ULT
+
+M/SP/F:								     BOOK ENTRY: Y
+
+ENHANCEMENTS: None							BANK QUAL: Y
+
+DTD: 12/01/96							     SURE BID: Y
+
+DUE: 2/1/98-12						SR MGR:
+
+1ST CPN: 08/01/97
+
+CALL: 2/1/04 @ par					  TIC
+
+DELIVERY: 12/30/96 approx				 ORDERS:
+
+PAYING AGENT: Firstar Bank Minnesota, St. Paul
+
+L.O.: Dorsey & Whitney, Minneapolis
+
+F.A.: Ehlers & Associates, Minneapolis
+
+LAST SALE: None
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		     90,000
+
+1999		     90,000
+
+2000		     90,000
+
+2001		     90,000
+
+2002		    100,000
+
+2003		    100,000
+
+2004		    100,000
+
+2005		    105,000
+
+2006		    105,000
+
+2007		    110,000
+
+2008		     85,000
+
+2009		     85,000
+
+2010		     95,000
+
+2011		    100,000
+
+2012		    105,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

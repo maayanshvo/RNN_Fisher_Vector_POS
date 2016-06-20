@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239462" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: EZ to exchange stations with Evergreen.</title>
+<headline>EZ to exchange stations with Evergreen.</headline>
+<text>
+<p>FAIRFAX, Va., Dec. 6 /PRNewswire/ -- EZ Communications, Inc, parent company of WSOC-FM and WSSS-FM in Charlotte, N.C. said it has signed a definitive agreement with Evergreen Media Corp, exchanging its two Philadelphia radio stations for Evergreen's six Charlotte radio stations.</p>
+<p>Under the terms of the agreement, EZ will exchange its Philadelphia stations, WIOQ-FM and WUSL-FM, plus $10 million for Evergreen's four FM and two AM stations in Charlotte: WPEG-FM; WBAV AM/FM; WNKS-FM; WRFX-FM and WFNZ-AM.</p>
+<p>EZ said it will place WRFX-FM in a trust with the intention of either selling or exchanging the station at a later date.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

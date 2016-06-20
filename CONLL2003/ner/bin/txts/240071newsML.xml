@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240071" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CBOT rice closes lower on Mexico rice news.</title>
+<headline>CBOT rice closes lower on Mexico rice news.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>CBOT rice futures closed lower on concern about the future of U.S. rice exports to Mexico, traders said.</p>
+<p>&quot;Word out of Mexico about them importing rice from other than the U.S. has injected some uncertainty in the market,&quot; a trader said.</p>
+<p>Mexico City sources said Mexico published new rules this week governing rice imports that still favor U.S. grown grains but also pave the way for disease-free Asian varieties to reenter the country.</p>
+<p>Rice also met technical resistance levels and sagged.</p>
+<p>&quot;Resistance at the $10.70 level checked the market Thursday and today,&quot; the trader said.</p>
+<p>Rice futures volume was estimated at 500 contracts, below the 588 traded Thursday, according to the CBOT.</p>
+<p>Rice futures closed four to five cents per cwt lower, with January down four at $10.65 per cwt.</p>
+<p>((Sam Nelson 312-408-8721))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

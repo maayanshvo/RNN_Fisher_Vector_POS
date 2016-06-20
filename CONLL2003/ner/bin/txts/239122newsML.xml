@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239122" id="root" date="1996-12-06" xml:lang="en">
+<title>SPAIN: SOCCER-SPAIN PICK UNCAPPED ARMANDO FOR WORLD CUP CLASH.</title>
+<headline>SOCCER-SPAIN PICK UNCAPPED ARMANDO FOR WORLD CUP CLASH.</headline>
+<dateline>MADRID 1996-12-06</dateline>
+<text>
+<p>Spain coach Javier Clemente has added uncapped Deportivo Coruna midfielder Armando Alvarez to his squad for the World Cup qualifier against Yugoslavia on December 14.</p>
+<p>&quot;I don't believe it...I thought it was a joke,&quot; said Armando who replaces injured Atletico Madrid playmaker Jose Luis Caminero.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

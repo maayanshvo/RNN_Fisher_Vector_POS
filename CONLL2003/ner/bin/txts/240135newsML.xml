@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240135" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: OPTIONS - US debt volatilities steady after data.</title>
+<headline>OPTIONS - US debt volatilities steady after data.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Implied volatilities for U.S. debt options were mostly steady, despite gyrations in bond and stock markets after overnight remarks by Federal Reserve Chairman Alan Greenspan, dealers said.</p>
+<p>Late Thursday, Greenspan said the Fed must be wary when &quot;irrational exuberance&quot; infected U.S. asset markets, sending stock and bond markets into a tailspin.</p>
+<p>But debt implied volatilities were tempered, after some initial gains, by a weaker than expected November U.S. employment report, with weekend time-decay concerns also eating into premiums, traders said.  </p>
+<p>&quot;Had those payrolls numbers come out higher, we'd still be rocking and rolling right now,&quot; said a Eurodollar options trader at a brokerage firm. &quot;(But) as soon as the payrolls numbers came out, the market quieted down considerably.&quot;</p>
+<p>November non-farm payrolls grew by 118,000, compared with economists' average forecast af a 179,000 rise and October's revised 224,000 gain.</p>
+<p>March Eurodollar futures were off 0.01 point on the day after dipping as low as 94.36 in GLOBEX after-hours trade. March Treasury bond futures, which had fallen to 112-8/32 overnight, returned toward Thursday's settlement of 114-3/32.  </p>
+<p>Greenspan spoke again in Philadelphia Friday but declined to comment on market reaction to his Thursday night speech.</p>
+<p>A Treasury bond trader at a brokerage firm said damage to the market was considerable from a technical point of view, and that the near-term direction was &quot;up in the air&quot;.</p>
+<p>Implied volatility for March T-bond futures options was virtually unchanged at 10.0 percent. One firm was said to have bought 5,000 lots of March 112 puts covered against futures.</p>
+<p>Volatility for March 10-year note futures options stood at 6.4 percent, buoyed slightly early by a 10,000 contract purchase of March 110 straddles by a Japanese house.  </p>
+<p>&quot;What we're not seeing is a big sell-off in volatility that has followed most of the employment numbers for the last few months,&quot; he noted. &quot;Maybe we're seeing a break in pattern.&quot;</p>
+<p>((Chicago Derivatives Desk 312-408-8750))</p>
+<p>((E-mail: derivatives@reuters.com))  </p>
+<p>The shorter end of the curve was mixed, with implied volatilities for March and June Eurodollar futures options rising 0.1 and 0.2 point respectively to around 10.3 and 14.3 percent, while most of the back months were flat to off 0.1 point.</p>
+<p>&quot;The front end, which has been the cheapest on a volatility basis for the last two to three weeks, is catching a little bit of a bid,&quot; the brokerage Eurodollar trader said.</p>
+<p>He said he could not tell if that implied the futures market was looking for further corrective slides in the near term.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

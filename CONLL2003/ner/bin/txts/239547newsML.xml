@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239547" id="root" date="1996-12-06" xml:lang="en">
+<title>COMOROS: Ruling party dominates parliament in Comoros.</title>
+<headline>Ruling party dominates parliament in Comoros.</headline>
+<dateline>MORONI, Comoro Islands 1996-12-06</dateline>
+<text>
+<p>The ruling National Rally for Development in the Comoro Islands took 32 of 37 seats in a federal assembly in last Sunday's election, officials said on Friday.</p>
+<p>The remaining six seats in the 43-member assembly will be decided in a second round of voting on Sunday.</p>
+<p>The Constitutional Commission said the National Rally for Development took 32 seats, independent candidates took three seats and the Islamist National Front for Justice won two seats.</p>
+<p>The main opposition alliance, the Forum for National Recovery, boycotted the vote in the former French colony, saying it wanted elections for a constituent assembly, a revision of electoral registers and a new independent electoral commission.</p>
+<p>The second round on Sunday in this Indian Ocean archipelago will be a contest between the top two candidates in cases where no candidate won an absolute majority in the first round last Sunday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COMOR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MORONI, Comoro Islands"/>
+<dc element="dc.creator.location.country.name" value="COMOROS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

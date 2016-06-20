@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240448" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Cott Corp Q3 net turns to profit.</title>
+<headline>Cott Corp Q3 net turns to profit.</headline>
+<dateline>TORONTO 1996-12-06</dateline>
+<text>
+<p>1996			    1995</p>
+<p> Shr	 Profit	C$0.13     Loss	C$0.16</p>
+<p> Net	 Profit	 7,950     Loss	 9,774</p>
+<p> Revs		     333,832		  326,597</p>
+<p>	    9 MONTHS</p>
+<p> Shr	 Profit	C$0.52   Profit	C$0.25</p>
+<p> Net	 Profit	32,120   Profit	15,215</p>
+<p> Revs		   1,059,170		  995,429</p>
+<p>(All data above 000s except per share numbers)  </p>
+<p>Note: Results for period ended October 26.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42800">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

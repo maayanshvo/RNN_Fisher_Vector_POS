@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241711" id="root" date="1996-12-07" xml:lang="en">
+<title>BRAZIL: Brazil telecoms seen sold off in two years - paper.</title>
+<headline>Brazil telecoms seen sold off in two years - paper.</headline>
+<dateline>SAO PAULO 1996-12-07</dateline>
+<text>
+<p>Communications Minister Sergio Motta said Brazil hopes to privatize the entire federal Telebras telecoms system, including long-distance unit Embratel, by the end of 1998, local newspapers said.</p>
+<p>The giant Telebras system includes a holding company, 27 local operators and Embratel.</p>
+<p>The newspapers said Motta, who spoke at a Brazilian Eletric and Electronic Industry Association lunch, also said he expects Monday to send to Congress a bill containing Brazil's new General Telecommunications Law.</p>
+<p>The ministry also expected to begin publishing next week bid specifications for the first lot of 120 radio and television concessions the government plans to grant, he was quoted as saying.</p>
+<p>The government plans to grant 600 AM, FM and TV concessions in all, he was quoted as saying.</p>
+<p>Motta said the government has revised its forecast for investments in the sector to $100 billion by 2003, up from the ministry's earlier estimate of $75 billion, the papers said.</p>
+<p>-- James Craig, Sao Paulo newsroom 5511 248 5413</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

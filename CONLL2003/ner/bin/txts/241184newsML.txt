@@ -1,0 +1,414 @@
+Indonesia shipping - Belawan Port - Dec 6.
+
+Vessels at Belawan Port, North Sumatra
+
+Summary:
+
+Vessels unloading : 28  Vessels loading : 17
+
+---------------------------------------------------------------
+
+Name	    Arrival	 Scheduled    P/Origin   Unloading
+
+Grt	     Date/Time     departure    P/Dest     Loading
+
+Agent
+
+---------------------------------------------------------------
+
+MV		05-12-96	07-12-96     S'pore     container
+
+Thana Bhum    1200	    0600	   S'pore     101 teus
+
+4,593							     container
+
+PT Bintika Bangunusa					  210 teus
+
+---------------------------------------------------------------
+
+MV		06-12-96	07-12-96     S'pore     container
+
+MCC.Vantage   0100	    0300	   S'pore     126 teus
+
+5,400							     container
+
+PT Djakarta Lloyd					     195 teus
+
+---------------------------------------------------------------
+
+MT		06-12-96	07-12-96     Dumai	    -
+
+Pan Oil-7     1800	    2400	   Surabaya   crude palm
+
+2,822							     oil
+
+PT Bahtera Twadika Mandiri				  2,700 tns
+
+---------------------------------------------------------------
+
+KM		05-12-96	10-12-96     Surabaya   g.cargo
+
+Tanto Raya-II 2000	    1800	   Prawang    5,768 tns
+
+3,823								   -
+
+PT Tanto Intim Line
+
+---------------------------------------------------------------
+
+KM		06-12-96	10-12-96     Labuhan-   palm kernal
+
+Dewi Indah    0700	    1800	   Bilik	expeller
+
+174						  Tanjung-   200 tns
+
+PT Dewi Indah Raya			     Pinang     g.cargo
+
+								    200 tns
+
+---------------------------------------------------------------
+
+KP		06-12-96	07-12-96     T.Priok    ammunition
+
+Adri XXXII    0800	    1000	   T.Priok    2,944 tns
+
+0									 -
+
+Angkatan Laut Republik Indonesia
+
+---------------------------------------------------------------
+
+TB		27-11-96	05-12-96     Lhokseu-	 -
+
+Bujihuw/TK    1800	    0700	   mawe	 diesel fuel
+
+7,300						Lhokseu-   560 tns
+
+PT Burung Laut				   mawe
+
+---------------------------------------------------------------
+
+TB		06-12-96	12-12-96     Sei-	 logs
+
+Rapido/TK     1100	    1800	   Guntung    2,500 tns
+
+S Lion					     Singkil	  -
+
+1,362
+
+PT Citra Antar Buana
+
+---------------------------------------------------------------
+
+MV		06-12-96	07-12-96     Lhoknga    cement
+
+Floria	  0900	    1000	   Lhoknga    8,000 tns
+
+6,023								   -
+
+PT Burung Laut
+
+---------------------------------------------------------------
+
+KM		05-12-96	11-12-96     T.Priok    g.cargo
+
+Mahkutai	1200	    2400	   T.Priok    2,105 tns
+
+1,978							     g.cargo
+
+PT Abadi Inti Line					    3,000 tns
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+MV		05-12-96	07-12-96     S'pore     g.cargo
+
+Everest	 0700	    2300	   S'pore     300 tns
+
+1,599							     g.cargo
+
+PT Deli Madju						   1,200 tns
+
+---------------------------------------------------------------
+
+MT		05-12-96	06-12-96     Batterwoot     -
+
+Kisogawa	0300	    1800	   Suez	 crude palm
+
+10,804							    stearin
+
+PT Djakarta Lloyd					     530 tns
+
+								    fatty acid
+
+								    distillate
+
+								    2,000 tns
+
+---------------------------------------------------------------
+
+MT		05-12-96	07-12-96     S'pore	   -
+
+Jurong	  0800	    0800	   Honduras   crude palm
+
+4,304							     oil
+
+PT Djakarta Lloyd					     5,800 tns
+
+---------------------------------------------------------------
+
+MV		05-12-96	07-12-96     Turki	steels
+
+Kocali	  1200	    0500	   S'pore     5,037 tns
+
+1,960								   -
+
+PT Admiral Line
+
+---------------------------------------------------------------
+
+MV		04-12-96	07-12-96     China	fertiliser
+
+Xin Ning	1400	    1800	   Pekanbaru  3,900 tns
+
+6,700								   -
+
+PT Admiral Line
+
+---------------------------------------------------------------
+
+KM		04-12-96	08-12-96     Surabaya   fertiliser
+
+Sulut-1	 2000	    0800	   Dumai	5,000 tns
+
+4,135								   -
+
+PT Samudera Mas Nugraha
+
+---------------------------------------------------------------
+
+KM		05-12-96	08-12-96     Surabaya   palm kernal
+
+Madu	    0500	    0800	   Surabaya   expeller
+
+497								 1,400 tns
+
+PT Salam Pacoific Indonesia Line				-
+
+---------------------------------------------------------------
+
+MT		01-12-96	08-12-96     Semarang	 -
+
+Pamuradan     0800	    0800	   Semarang   palm olein
+
+691								 1,000 tns
+
+PT Comexindo Maritim
+
+---------------------------------------------------------------
+
+MT		29-11-96	07-12-96     Dumai	fuel
+
+Paluh-	  1900	    0700	   Dumai	14,700 tns
+
+Tabuhan/P							     -
+
+10,520
+
+PT Pertamina
+
+---------------------------------------------------------------
+
+MV		05-12-96	11-12-96     Kalianget  salt
+
+Roda-	   1700	    1800	   Surabaya   5,500 tns
+
+Perkasa								 -
+
+3,979
+
+PT Garam
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+MV		28-11-96	18-12-96     Port Said  fertiliser
+
+Yick Fat	2300	    1800	   Panjang    18,700 tns
+
+24,552								  -
+
+PT Trikora Lloyd
+
+---------------------------------------------------------------
+
+MV		03-12-96	06-12-96     S'pore     g.cargo
+
+Sun Flora     1600	    1800	   S'pore     800 tns
+
+1,388							     g.cargo
+
+PT Mega Gema Nusantara					800 tns
+
+---------------------------------------------------------------
+
+Caraka Jaya-  04-12-96	06-12-96     T.Priok    container
+
+N.III-27	1200	    2000	   T.Priok    121 teus
+
+3,256							     g.cargo
+
+PT Bahari Haluan Samudera				   869 tns
+
+								    container
+
+								    70 teus
+
+								    g.cargo
+
+								    1,000 tns
+
+---------------------------------------------------------------
+
+MV		04-12-96	10-12-96     T.Bayur    cement
+
+Rimba Tiga    1300	    0800	   T.Bayur    5,800 tns
+
+3,024								   -
+
+PT Rimba Segara Line
+
+---------------------------------------------------------------
+
+KM		04-12-96	07-12-96     T.Bayur    cement
+
+Rimba Lima    1500	    1800	   T.Bayur    8,089 tns
+
+5,237								   -
+
+PT Rimba Segara Line
+
+---------------------------------------------------------------
+
+KM		04-12-96	07-12-96     Blinyu     powder
+
+Pluto	   0900	    2400	   Jambi	200 tns
+
+460								 fertiliser
+
+PT Lohot Bahtera						350 tns
+
+---------------------------------------------------------------
+
+MV		29-11-96	06-12-96     India	soya bean
+
+Kwang Mong    1500	    2400	   Panjang    meal
+
+6,558							     4,072 tns
+
+PT Djakarta Lloyd						   -
+
+---------------------------------------------------------------
+
+KM		03-12-96	06-12-96     Penang	  -
+
+Cipta Karya   1200	    1700	   Penang     vegetables
+
+171								 160 tns
+
+PT Cakrawala Kirana Rintis Nusantara
+
+---------------------------------------------------------------
+
+TB		03-12-96	06-12-96     Tanjung-   crude palm
+
+Buhilla/TK    1600	    1800	   Sarang-    oil
+
+C JYI						Elang	821 tns
+
+75						   Labuhan-	-
+
+PT Aseatic Sejati Shipping		   Bilik
+
+---------------------------------------------------------------
+
+KM		01-12-96	06-12-96     Surabaya   g.cargo
+
+Armada-	 1400	    1800	   Surabaya   6,950 tns
+
+Nusantara							 g.cargo
+
+3,507							     5,000 tns
+
+PT Salam Pacific Indonesia Line
+
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+
+TB		30-11-96	09-12-96     Meulaboh   logs
+
+CJ II/TK.CJX  2400	    1800	   Sei Gaung  1,900 tns
+
+846								     -
+
+PT Cipta Rimba Raya
+
+---------------------------------------------------------------
+
+TB.CB-	  02-12-96	09-12-96     Sigli	logs
+
+108/TK	  0600	    0800	   Sei-	 1,963 tns
+
+111						  Guntung	  -
+
+PT Cipta Rimba Jaya
+
+---------------------------------------------------------------
+
+KM		02-12-96	07-12-96     T.Priok    g.cargo
+
+Ganisatari    0800	    2400	   T.Priok    2,600 tns
+
+2,050							     g.cargo
+
+PT Nagah Berlian						2,100 tns
+
+---------------------------------------------------------------
+
+KM		30-11-96	06-12-96     T.Priok    g.cargo
+
+Mahaja	  1400	    2400	   T.Priok    2,448 tns
+
+1,965							     g.cargo
+
+PT Abadi Intim Line					   2,500 tns
+
+---------------------------------------------------------------
+
+MV		27-11-96	14-12-96     Port Said  iron scrap
+
+Sincare-	0500	    1600	   Panjang    30,524 tns
+
+Oceanus								 -
+
+22,792
+
+PT Trikora Lloyd
+
+---------------------------------------------------------------
+
+Caraka Jaya-  27-11-96	11-12-96     T.Priok    g.cargo
+
+N.III-3	 2100	    1800	   Lhokseu-   2,800 tns
+
+3,158						mawe	 g.cargo
+
+PT Tanjung							1,000 tns
+
+----------------------------------------------------------------
+
+-- Jakarta Newsroom +6221 384-6364
+

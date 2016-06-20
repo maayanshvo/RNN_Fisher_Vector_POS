@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240033" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: GM reaches tentative labor pact with electrical union.</title>
+<headline>GM reaches tentative labor pact with electrical union.</headline>
+<dateline>DETROIT 1996-12-06</dateline>
+<text>
+<p>General Motors Corp., wrapping up its final national labor agreement, said Friday it has reached a tentative pact on a new three-year contract with the International Union of Electronic Workers (IUE).</p>
+<p>Details of the contract were not released. But a union spokesman said the new pact includes wage increases for each of the three years and additional job security provisions.</p>
+<p>&quot;There are a lot of goodies in there,&quot; said IUE spokesman Danny Groff.</p>
+<p>GM and the IUE said in a joint statement they reached a new deal about 3 a.m. EST Friday. In addition to the wage and benefit improvements, they said the contract allows GM flexibility to improve its competitiveness.</p>
+<p>&quot;We believe it is a balanced agreement that addresses the needs of emplloyees, the IUE and GM,&quot; said a joint statement issued by GM Vice President of Personnel Gerald Knechtel and Ron Gilvin, chairman of the IUE-GM Conference Board.</p>
+<p>The IUE represents about 21,000 U.S. hourly workers at the automaker. Most of them work at parts plants under GM's Delphi Automotive Systems unit.</p>
+<p>Ratification by members is expected to begin next week and be completed by Dec. 15.</p>
+<p>Previous IUE contracts have generally followed what GM and the United Auto Workers union decide. Last month, GM and the UAW tentatively agreed to a three-year deal that gives workers a $2,000 lump sum payment in the first year and wage hikes of 3 percent in the second and third years.</p>
+<p>Knechtel and UAW Vice President Richard Shoemaker, who heads the union's GM Department, will sign the new national agreement at a ceremony Monday.</p>
+<p>In a sign that GM's relations with the UAW remain strained, neither GM Chairman Jack Smith or UAW President Stephen Yokich are scheduled to be at the GM event.</p>
+<p>Both Chrysler Corp. Chairman Robert Eaton and Yokich participated in a joint signing ceremony at the UAW's Solidarity House headquarters for the Chrysler contract.</p>
+<p>In addition, GM has only reached tentative agreements with about 25 percent to 30 percent of its 110 UAW local union organizations. The UAW represents about 215,000 workers at GM.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

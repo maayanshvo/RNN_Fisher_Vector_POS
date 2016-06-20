@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241164" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Hardie eyes Europe fibre cement.</title>
+<headline>RTRS-Hardie eyes Europe fibre cement.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Australian building materials group James Hardie Industries Ltd said on Friday it was conducting a study of the European fibre cement market, but had made no decison to enter any European countries yet.</p>
+<p>&quot;We are going to have a look, it is a large market,&quot; managing director Keith Barton told reporters after the company's half year results briefing. &quot;It is early days, we are just having a look to see if we can understand the market.&quot;</p>
+<p>James Hardie is currently expanding its fibre cement operations in the United States, and has recently announced a fibre cement joint venture in Asia.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I24000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

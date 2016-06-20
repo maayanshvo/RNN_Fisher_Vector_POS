@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241599" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: NBA BASKETBALL-STANDINGS AFTER FRIDAY'S GAMES.</title>
+<headline>NBA BASKETBALL-STANDINGS AFTER FRIDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-12-07</dateline>
+<text>
+<p>Standings of National</p>
+<p>Basketball Association teams after games played on Friday</p>
+<p>(tabulate under won, lost, percentage, games behind):</p>
+<p>		 EASTERN CONFERENCE</p>
+<p>		 ATLANTIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> MIAMI	     14    5   .737   -</p>
+<p> NEW YORK	  11    6   .647   2</p>
+<p> ORLANDO	    8    7   .533   4</p>
+<p> WASHINGTON	 7    9   .438   5 1/2</p>
+<p> PHILADELPHIA     7   10   .412   6</p>
+<p> NEW JERSEY	 4   10   .286   7 1/2</p>
+<p> BOSTON	     4   13   .235   9</p>
+<p>		 CENTRAL DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> CHICAGO	   17    1   .944   -</p>
+<p> DETROIT	   14    3   .824   2 1/2</p>
+<p> CLEVELAND	 11    6   .647   5 1/2</p>
+<p> ATLANTA	   10    8   .556   7</p>
+<p> MILWAUKEE	  8    8   .500   8</p>
+<p> INDIANA	    8    8   .500   8</p>
+<p> CHARLOTTE	  8    9   .471   8 1/2</p>
+<p> TORONTO	    6   11   .353  10 1/2</p>
+<p>		 WESTERN CONFERENCE</p>
+<p>		 MIDWEST DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> HOUSTON	   16    2   .889   -</p>
+<p> UTAH		15    2   .882     1/2</p>
+<p> MINNESOTA	  7   11   .389   9</p>
+<p> DALLAS	     6   11   .353   9 1/2</p>
+<p> DENVER	     5   14   .263  11 1/2</p>
+<p> SAN ANTONIO	3   14   .176  12 1/2</p>
+<p> VANCOUVER	  3   16   .158  13 1/2</p>
+<p>		 PACIFIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> SEATTLE	   15    5   .750   -</p>
+<p> LA LAKERS	 14    7   .667   1 1/2</p>
+<p> PORTLAND	  12    8   .600   3</p>
+<p> LA CLIPPERS	7   11   .389   7</p>
+<p> GOLDEN STATE     6   13   .316   8 1/2</p>
+<p> SACRAMENTO	 6   13   .316   8 1/2</p>
+<p> PHOENIX	    3   14   .176  10 1/2</p>
+<p>SATURDAY, DECEMBER 7 SCHEDULE</p>
+<p>TORONTO AT ATLANTA  </p>
+<p>LA CLIPPERS AT NEW YORK</p>
+<p>MILWAUKEE AT WASHINGTON</p>
+<p>DETROIT AT NEW JERSEY  </p>
+<p> MIAMI AT CHICAGO	 </p>
+<p> VANCOUVER AT DALLAS    </p>
+<p>PHILADELPHIA AT HOUSTON</p>
+<p> UTAH AT DENVER	   </p>
+<p>CHARLOTTE AT SEATTLE</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

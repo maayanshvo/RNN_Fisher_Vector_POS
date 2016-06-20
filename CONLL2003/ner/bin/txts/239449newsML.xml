@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239449" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: TRO year-end audit delays results.</title>
+<headline>TRO year-end audit delays results.</headline>
+<dateline>HOFFMAN ESTATES, Ill. 1996-12-06</dateline>
+<text>
+<p>TRO Learning Inc said Friday that due to the continuation of audit procedures beyond original target dates by its auditors, financial results for fiscal year ending October 31, 1996 are expected to be released by the end of December.  </p>
+<p>The company said there were no irregularities in the audit and that the delay could be volume related.</p>
+<p>&quot;The normal process is taking a little longer this year,&quot; Sharon Fierro, chief financial officer, said in a brief telephone interview.</p>
+<p>Results for the training and education company had been expected about December 15.</p>
+<p>TRO shares were down 2-3/8 at 19-1/2 Friday.</p>
+<p>((--Chicago newsdesk 312 408 8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83940">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOFFMAN ESTATES, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

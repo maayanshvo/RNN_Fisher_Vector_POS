@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241364" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: South Korea to sell 6.92 mln Korea Telecom shares.</title>
+<headline>South Korea to sell 6.92 mln Korea Telecom shares.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>The South Korean government plans to sell 6.92 million Korea Telecom shares valued at about 260 billion won in an auction on December 12 and 13, a Finance Ministry official said on Friday.  </p>
+<p>The official said the auction represents 2.4 percent of the state-run telephone service provider's outstanding shares. The minimum bid was set at 37,600 won per share.</p>
+<p>Institutions and corporations would be eligible to bid for the shares, but individual investors would be excluded to minimise the impact on the stock market, he said.</p>
+<p>Outcome of the auction will be released on December 17.</p>
+<p>The ministry has said Korea Telecom would be listed in the first half of next year. Korea Telecom has a monopoly on the local telephone service, and has the lion's share of the country's long-distance and data communications markets.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

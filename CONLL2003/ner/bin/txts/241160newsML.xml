@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241160" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australia to tender A$300 mln 2000 TAB bond.</title>
+<headline>RTRS-Australia to tender A$300 mln 2000 TAB bond.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>The Treasury will offer A$300 million of October 2000 Treasury adjustable rate bonds (TABs) at a tender on Monday, the Reserve Bank of Australia said.  </p>
+<p>The RBA said bids would be received until 12.45 pm. (0145 GMT) on Monday and results will be announced at 2.00 p.m. (0300 GMT). Settlement date is December 11.</p>
+<p>-- Sydney newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,30 @@
+UBS adds 1.0 trln lire to 30-yr zero-coupon bond.
+
+LONDON 1996-12-06
+
+The following bond, originally launched on December 4, has been increased to 2.5 trillion lire from 1.5 trillion lire, joint lead managers UBS and Credit Italiano said.
+
+ BORROWER   UBS FINANCE NV
+
+ GUARANTOR  UBS
+
+ AMT    2.5 TRLN LIRE COUPON     ZERO	MATURITY    29.JAN.27
+
+ TYPE   ZERO-COUPON   ISS PRICE  12.20     PAY DATE    29.JAN.97
+
+ FULL FEES  1.00	REOFFER    11.30     YIELD	 7.54  PCT
+
+ MOODY     *AAA	 LISTING    LUX	 PAY FREQ    =
+
+ S&P	 *AAA	 DENOMS (K) 5-50-500M SALE LIMITS US/UK/IT
+
+ NEG PLG    YES	 CRS DEFLT  YES	 FORCE MAJ   IPMA 2
+
+ GOV LAW    ENGLISH   HOME CTRY  SWITZ     TAX PROVS   STANDARD
+
+ MGT/UND    10 BP     SELL CONC  90 BP     PRAECIPUUM  =
+
+ NOTES     *OF GUARANTOR
+
+-- London Newsroom +44 171 542 7658
+

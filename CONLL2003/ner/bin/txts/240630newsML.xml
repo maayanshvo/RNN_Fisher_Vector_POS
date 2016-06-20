@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240630" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: NWE gas oil barge premiums slide, cargoes steady.</title>
+<headline>NWE gas oil barge premiums slide, cargoes steady.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>NWE gas oil barge premiums slid below the screen on Friday, pulled down by meagre demand and selling by companies unwinding their positions ahead of the IPE contract expiry, traders said.</p>
+<p>A nine-day-old strike by Elf refinery workers remained a major focus with estimates of the resultant gas oil shortfall at up to 200,000 tonnes so far.</p>
+<p>Benchmark Dec IPE futures fell $2.75 a tonne on remarks by Oil Minister Amir Muhammad Rasheed that Iraq hopes to resume oil exports early next week.</p>
+<p>Barges were well supplied and traded up to $1 softer at Dec IPE -$1 fob Rotterdam. Volume was thin, with most attention focussed on swaps. Low sulphur diesel barges were estimated notionally around Dec +$11 fob ARA in thin trade.</p>
+<p>One trader said he expected French refineries that had sold to Elf to go on what he called a buying spree next week to cover their own shortfall.</p>
+<p>Cargo premiums for heating oil were steady at around Dec IPE +$6/8 with low sulphur diesel at Dec IPE +$17/18. Traders said the arbitrage to Asia was marginal, working on paper but in effect dependent on very large vessel availabilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

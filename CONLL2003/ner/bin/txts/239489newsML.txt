@@ -1,0 +1,42 @@
+NYSE Circuit breaker rules.
+
+NEW YORK 1996-12-06
+
+After the stock market plunge of October, 1987, the Securities and Exchange Commission adopted a series of measures intended to forestall the possibility of future full-fledged market crashes.
+
+The rules are called "circuit breakers" because they gradually stop trading as markets fall, first curbing New York Stock Exchange program trades and eventually halting all U.S. equity, options and futures activity.
+
+The following is a list of the current circuit breakers and conditions required to trigger them:  
+
+*** If the Dow Jones Industrial Average rises or falls 50 points from previous session's close:
+
+Index arbitrage orders on the New York Stock Exchange in Standard & Poor's 500 stocks are prohibited unless they act in a stabilizing fashion, such as purchases after a decline in price or sales after price increases.
+
+The curb remains in effect all session unless the Dow Industrials return to within 25 points of their previous close.
+
+*** If the Chicago Mercantile Exchange S&P 500 futures index falls 12 points:  
+
+The futures price contract is not allowed to fall further for 15 minutes.
+
+All program market orders in S&P 500 stocks entered via the NYSE's computer system are diverted to a separate file, also known as a "sidecar." After a five minute delay, those trades that can be are paired off.
+
+Trading is halted in any stocks where an imbalance exists that cannot be absorbed in an orderly fashion. Normal procedures apply for handling individual imbalances but under certain conditions the NYSE publicly releases extra information about individual imbalances.  
+
+New stop orders are barred on the NYSE for the rest of the day except for orders of 2,099 shares or fewer for individual investors.
+
+The following circuit breakers apply to all equity, options and futures markets:
+
+*** If the Dow Industrials fall 250 points from the previous close:
+
+Trading is halted for 30 minutes.
+
+*** If the Dow Industrials fall 400 points:
+
+Trading is halted for one hour.
+
+The last two circuit breakers have never been triggered.  
+
+Meanwhile on Thursday the New York Stock Exchange said its board of directors has approved a proposal to increase the trigger points for market-wide circuit-breakers.
+
+The latest action proposed by the NYSE, the result of a joint effort by the exchange and the Securities and Exchange Commission calls for a half-hour trading halt across all U.S. equities and futures markets if the Dow Jones Industrial Average falls 350 points from the previous day's close; and a one-hour halt at minus 550 points.
+

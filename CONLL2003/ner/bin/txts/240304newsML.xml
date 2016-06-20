@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240304" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: France expels new planeload of Romanians.</title>
+<headline>France expels new planeload of Romanians.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>France sent home 23 Romanian illegal immigrants on Friday, including four people recently released from prison, the interior ministry said.</p>
+<p>The group was the 32nd of its type sent home by air since current Interior Minister Jean-Louis Debre was appointed following the election of President Jacques Chirac in May 1995.</p>
+<p>No details were given but in the past, virtually all those expelled have been members of that country's large poverty-stricken gypsy minority who have slipped into in France in increasing numbers in recent years.</p>
+<p>Most expulsions from France by air of illegal immigrants have been to West and Central Africa or to Romania.</p>
+<p>Nearly 20,000 illegals have been expelled since Debre took office including nearly 12,000 this year.</p>
+<p>More than 1,000 people employing illegal immigrants, mostly in the garment trade, and a further 1,000 people who helped them slip into the country without passing border controls were arrested during the same period, the ministry said.</p>
+<p>Illegal immigration has become a burning issue in France with unemployment at over 12 percent and the far-right National Front party gaining strength in by-elections with demands that jobs be reserved for &quot;native-born&quot; French people.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ROM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

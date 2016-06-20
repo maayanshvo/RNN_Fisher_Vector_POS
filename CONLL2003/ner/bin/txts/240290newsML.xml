@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240290" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: S&amp;P cuts Credit National debt rating.</title>
+<headline>S&amp;P cuts Credit National debt rating.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>Standard &amp; Poor's said on Friday it had lowered the rating of long-term debt issued by French banks Credit National and Banque Francaise du Commerce Exterieur and their subsidiaries to A minus from A.</p>
+<p>The rating agency said in a statement it had also cut the short-term debt rating of paper issued by the two banks to A-2 to A-1.</p>
+<p>It said the outlook for the long-term debt rating remained negative.  </p>
+<p>The statement also said debt issued by the two banks which carried a French government guarantee was not affected by the downgrade.</p>
+<p>Credit National acquired all of BFCE's capital this year and the two banks will finish their merger in 1997.</p>
+<p>-- Paris Newsroom +331 4221 5542</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241134" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-RBA rumoured buyer in Australian bond market.</title>
+<headline>RTRS-RBA rumoured buyer in Australian bond market.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>The Reserve Bank of Australia was rumoured to have intervened to stop today's huge sell-off in the Australian bond market, traders said.</p>
+<p>The central bank refused to comment.</p>
+<p>&quot;They were rumoured to have been in the market about a half an hour ago to stop the rot, but it's still looking a pretty horrible day,&quot; one trader said.  </p>
+<p>By 3.20 p.m. (0420 GMT) the Australian 10-year bond futures contract was at 92.465 after hitting a low of 92.430, but was still down sharply from Thursday's 92.830 close.</p>
+<p>This took the yield on the benchmark 10-year November 2006 bond to over 7.50 percent having been testing 7.0 percent earlier in the week.</p>
+<p>A weak U.S. Treasury market, heavy technical driven liquidation and rising expectations for the country's growth performance next year all combined to push yields up sharply, analysts said.</p>
+<p>This week's sell-off in the Australian dollar and an unchanged policy stance by the Reserve Bank also weighed on sentiment.</p>
+<p>--Sydney newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

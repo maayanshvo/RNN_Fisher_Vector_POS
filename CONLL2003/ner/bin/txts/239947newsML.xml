@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239947" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: Turkey signs warplane accord with Israel.</title>
+<headline>Turkey signs warplane accord with Israel.</headline>
+<dateline>ANKARA 1996-12-06</dateline>
+<text>
+<p>Turkey's Islamist Prime Minister Necmettin Erbakan has signed a $600 million agreement with Israel for the modernisation of Turkish F-4 fighter-bombers, the state-run Anatolian news agency reported on Friday.</p>
+<p>Erbakan, who reportedly signed the accord on Thursday, had pledged to scrap an earlier military cooperation agreement between Turkey and Israel before taking office in June. He has not since acted on the pledge.</p>
+<p>Turkish President Suleyman Demirel approved the deal on Friday, the president's office said in a statement.</p>
+<p>Turkish officials were not available to comment on the signing of the latest accord, which was welcomed by Israel's embassy in Ankara.</p>
+<p>&quot;We feel very pleased that the project in question has been signed by Prime Minister Erbakan after a long period of talks,&quot; an embassy spokesman was quoted as telling Anatolian.</p>
+<p>&quot;We want the project to be put into effect as soon as possible,&quot; the spokesman said.</p>
+<p>The five-year modernisation project covers 54 U.S.-made F-4 planes and will be financed with Israeli credit.</p>
+<p>Twenty-six of the Turkish Air Force planes will be modernised in Israel and 28 in the western Turkish town of Eskisehir.</p>
+<p>Israeli commercial banks approved the $600 million credit package by Israel Aircraft Industries (IAI) in October.</p>
+<p>The five-year deal will involve the installation of advanced avionic systems including radar and electronic warfare and navigation systems.</p>
+<p>Israeli officials said last weekend that they had renewed the military cooperation agreement with Turkey, which had drawn the ire of Syria, Iran and Islamists.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ANKARA"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

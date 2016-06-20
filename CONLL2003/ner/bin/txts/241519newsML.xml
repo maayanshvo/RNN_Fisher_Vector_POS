@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241519" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Australian stocks dive 2.9 percent by close.</title>
+<headline>Australian stocks dive 2.9 percent by close.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Australian shares plunged on Friday after comments by U.S. Federal Reserve chairman Alan Greenspan spooked traders across Asian markets.</p>
+<p>By the close, the All Ordinaries index was down 69.4 points (2.9 percent) to 2,313.9 - its largest single day fall since March 11 when it dived 80.2 points in response to a 171 point fall in the Dow after unexpectedly strong U.S. jobs data.</p>
+<p>Speaking at a function in Washington, Greenspan said the U.S. central bank needed to be wary when &quot;irrational exuberance&quot; infected stock and other asset markets as that could end up doing damage to the U.S. economy.</p>
+<p>Brokers said traders were concerned the comments, made after the U.S. market closed, could cause a serious retracement on Wall Street when it re-opened on Friday.</p>
+<p>&quot;Greenspan spoke after the American market closed so they are trying double guess how far the American market is going to be down by,&quot; said Andrew Sekely, head of equities at broker Intersuisse.</p>
+<p>While the implications of Greenspan's comments were not completely clear, traders already tense ahead of the U.S. November employment report preferred not to wait and see how the numbers came out.</p>
+<p>&quot;If the American market is not down by as much as expected then they might be overreacting, but in the meantime they are prepared for the worse,&quot; Sekely said.</p>
+<p>U.S. employment data for November was due later on Friday a and traders said the figures had the potential to further deepen negative sentiment in both the U.S. and elsewhere.</p>
+<p>&quot;If that figure does come out worst than expectations, we know Greenspan won't have any qualms about raising interest rates in the U.S. and that will filter through here and crunch our market,&quot; said dealer Scott Mailer of Daiwa Securities.</p>
+<p>Interest rate-sensitive stocks were the hardest hit.</p>
+<p>The banks and finance index crumbled 4.15 percent compared to the broader market's losses of 2.91 percent.</p>
+<p>Falls outnumbered rises by a ratio of about five to one, while about 20 percent of stocks traded remained steady.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

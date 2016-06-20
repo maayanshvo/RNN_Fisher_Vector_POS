@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241526" id="root" date="1996-12-06" xml:lang="en">
+<title>SINGAPORE: Singapore stocks open slightly lower.</title>
+<headline>Singapore stocks open slightly lower.</headline>
+<dateline>SINGAPORE 1996-12-06</dateline>
+<text>
+<p>Singapore shares opened a shade lower on Friday and were expected to slip a little further on profit-taking ahead of the weekend.</p>
+<p>&quot;We've had a good run up the last few days,&quot; said one dealer. &quot;Some of the gains will be surrendered.&quot;</p>
+<p>The benchmark 30-share Straits Times Industrials Index (STII) stood at 2,207.51, down 6.66 points by 0140 GMT. Volume was a modest 18.7 million shares.</p>
+<p>Most of the losses were due to early falls in drinks firm Fraser &amp; Neave and foods group Cerebos which were both 20 cents lower at Singapore $15.30 and S$10.50 respectively.</p>
+<p>&quot;These were the chief reason the index was up last night,&quot; said the dealer.</p>
+<p>Some of the most active stocks were again foreign currency stocks, including Jardine Strategic and Hong Kong-based toy maker Wah Shing.</p>
+<p>&quot;Non-Singapore dollar stocks have consistently outperformed in recent days,&quot; said one dealer, suggesting buying to match Asian regional indices might be supporting the shares.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SINGAPORE"/>
+<dc element="dc.creator.location.country.name" value="SINGAPORE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

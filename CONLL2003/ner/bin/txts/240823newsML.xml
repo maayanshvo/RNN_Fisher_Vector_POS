@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240823" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. West Coast spot gasoline keeps firming late.</title>
+<headline>U.S. West Coast spot gasoline keeps firming late.</headline>
+<dateline>LOS ANGELES 1996-12-05</dateline>
+<text>
+<p>U.S. West Coast wholesale gasoline continued climbing late Thursday, as refiners snatched up supplies before pricier crude values trickled into the spot market.</p>
+<p>A 78-cent rally in NYMEX crude, which influences the wholesale market, forced traders to buy products in a market nervous about decreased production and upcoming maintenance outages.</p>
+<p>&quot;People looked at (Thursday's) values and said it's way undervalued,&quot; a broker said.  </p>
+<p>NYMEX January crude settled at $25.58, up 78 cents as it broke through a contract high of $25.20 a barrel and gained strength on reports of shrinking U.S. supplies.</p>
+<p>Bids for Los Angeles conventional-grade gasoline added another cent to their penny gain this morning, touching 67.50/67.50 cents a gallon. Futures helped fuel the gains as January gasoline prices settled a sharp 1.44 cents higher at 69.68 cents a gallon.</p>
+<p>California Air Resource Board (CARB) gasoline was sold for 70.50 and 70 cents, with traders pegging its range at 70/70.50 cents in late trade. It gained one cent from midday and just over two cents from Wednesday.</p>
+<p>Distillates, which have also risen this week amid increased exports, saw less dramatic gains. Bids for L.A. low sulphur diesel rose a half cent to 70 cents.</p>
+<p>-- David Brinkerhoff, Los Angeles bureau +1 213 380 2014</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240163" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Crown Cork &amp; Seal to issue $1.2 bln debt.</title>
+<headline>Crown Cork &amp; Seal to issue $1.2 bln debt.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Crown Cork &amp; Seal Co Inc expects to issue about $1.2 billion in a multi-tranche debt in the near term, a company spokesman said Friday.</p>
+<p>&quot;The timing of the planned $1.2 billion take-down is purely dependent on market conditions,&quot; said Craig Calle, SVP-Finance and Treasurer at Crown Cork.</p>
+<p>&quot;We are concerned about the increase in Treasury yields today,&quot; Calle added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I31000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

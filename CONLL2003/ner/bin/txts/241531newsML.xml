@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241531" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Bonds batter Australian stocks at open.</title>
+<headline>Bonds batter Australian stocks at open.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>A sharp selloff in bond markets flowed through to the Australian sharemarket at the opening on Friday with the banking sector leading the way down.</p>
+<p>Turnover was light, though, with traders not expecting major activity ahead of the weekend and employment data due in the US later today. At 10.20 a.m. (2320 GMT), the All Ordinaries index was 11.5 points lower at 2,371.8.</p>
+<p>&quot;The big banks are taking most of it but I'm not expecting great things today,&quot; said a Sydney broker, noting the modest volume and lack of investor commitment.</p>
+<p>&quot;There are numbers out in the U.S. tonight and we will take a lead from there next week,&quot; the broker said.</p>
+<p>Shares in building materials group James Hardie Industries were steady despite the company's announcement of a 36 percent slump in half year net profit to A$14.7 million (US$11.7 million).</p>
+<p>Rises outnumbered falls by a ratio of about three to two, while about 41 percent of stocks traded remained steady.</p>
+<p>(A$1=US$0.7970)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

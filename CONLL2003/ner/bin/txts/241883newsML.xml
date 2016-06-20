@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241883" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: German police not searching for Paris bombers.</title>
+<headline>German police not searching for Paris bombers.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>German police said on Saturday French authorities had asked them to help track down the bombers of a Paris underground train, but added they were not actively searching for suspects.</p>
+<p>A spokeswoman for the Federal Office for Criminal Investigation told Reuters French police had asked Germany to be on alert for the suspects who could have fled abroad.</p>
+<p>But she said there was no active search under way.</p>
+<p>She confirmed a report in Saturday's Bild newspaper which said French authorities had asked German police to be on alert as some of the suspects, thought to be Algerian, may have fled to Germany and others to Italy.</p>
+<p>Three people were killed and 94 treated for injuries after a bomb exploded on a train at the Port Royal station in Paris on Tuesday.</p>
+<p>The bomb, concealed in a bulky 13-kg (27-lb) gas canister, was placed under a seat in a bag. Twenty people were still in hospital on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

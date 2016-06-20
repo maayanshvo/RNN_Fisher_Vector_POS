@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240081" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Government argues for two Unabomber trials.</title>
+<headline>Government argues for two Unabomber trials.</headline>
+<dateline>NEWARK, N.J. 1996-12-06</dateline>
+<text>
+<p>Federal prosecutors want to put accused Unabomber Theodore Kaczynski on trial twice, first in June in New Jersey and six months later in California, authorities said friday.</p>
+<p>Kaczynski faces federal murder charges in both New Jersey and in California, where he is being held without bail.</p>
+<p>A Justice Department spokesman said prosecutors plan on Tuesday to argue for two separate trials before U.S. District Judge Dickinson Debevoise in Newark, New Jersey, where the accused bomber is slated to appear at an arraignment via video teleconference.</p>
+<p>Defence attorneys for Kaczynski have argued that the charges be consolidated into one case in California, where Kaczynski is charged in four bomb attacks that killed two people and injured two others.</p>
+<p>He faces charges in New Jersey in the 1984 death of an advertising executive killed by a parcel bomb mailed to his home. Kaczynski allegedly mailed the bomb from San Francisco.</p>
+<p>&quot;The bombings that resulted in death should be prosecuted where the death occurred,&quot; prosecutors said in court papers filed late Thursday in Newark.</p>
+<p>Prosecutors said a trial could begin here on June 30. His California trial date is Nov. 12.</p>
+<p>Kaczynski, a former mathematics professor turned recluse, is accused of a string of mail-bomb attacks over several years. He was arrested in April at his one-room cabin in rural Montana.</p>
+<p>His attorneys in New Jersey and in California were not immediately available on Friday for comment.</p>
+<p>However, Quin Denvir, his court-appointed defence attorney in California, told The New York Times that a June trial date was unrealistic and called prosecutors' move a pre-trial ploy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEWARK, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

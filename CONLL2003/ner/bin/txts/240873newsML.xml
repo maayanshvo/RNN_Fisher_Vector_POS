@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240873" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: Coceral puts EU 1996 grain crop at 203 mln tns.</title>
+<headline>Coceral puts EU 1996 grain crop at 203 mln tns.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>European Union grain production is estimated at 203 million tonnes in 1996, up from an October estimate of 201 million and 175.8 million in 1995, Coceral, the EU grain trade organisation said on Friday.  </p>
+<p>The estimate, which was presented at a meeting of the EU cereals advisory committee on Friday, was based on a planted area of 36.4 million hectares and an average yield of 5.6 tonnes per hectare.</p>
+<p>The bigger crop followed a 3.1 percent increase in plantings and favourable weather resulting in a higher yield, up from 5.0 tonnes per hectare in 1995.  </p>
+<p>Estimated output for each cereal (million tonnes)-</p>
+<p>		    1996	1996	 1995	 pct change</p>
+<p>				  Oct 11		     96/95</p>
+<p> Total Grain    202.987   201.116    175.795    15.5</p>
+<p>of which  Soft Wheat	90.999    90.175     80.074    13.6</p>
+<p> Durum wheat	7.701     7.628	5.861    31.4</p>
+<p> Barley	    52.758    52.355	44.069   19.7</p>
+<p>of which:  Spring barley   25.573    25.302	18.902   35.3</p>
+<p> Maize	     33.810    33.311	29.462   14.8</p>
+<p> Rye		  5.804     5.822	 6.320  - 8.2</p>
+<p> Oats		 7.367     7.357	 6.367   15.7</p>
+<p> Sorghum	    0.700     0.688	 0.595   17.6</p>
+<p> Triticale	  3.849     3.781	 3.047   26.3</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

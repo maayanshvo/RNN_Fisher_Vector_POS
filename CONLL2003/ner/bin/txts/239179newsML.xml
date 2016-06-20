@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239179" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: European VGO quietens, some gains lost with crude.</title>
+<headline>European VGO quietens, some gains lost with crude.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>bid/ask	prev bid/ask</p>
+<p> Low sulphur cargoes fob NWE	  163/164	  160/162</p>
+<p> High sulphur cargoes fob NWE	 150/152	  149/151</p>
+<p> High sulphur barges fob ARA	  157/159	  156/158</p>
+<p> Formula quotation fob Med	     08/12	    08/12</p>
+<p>--------------------------------------------------------------</p>
+<p>European vacuum gas oil was quiet on Friday as the market tracked tumbling crude and lost some of the gains seen earlier in the week.</p>
+<p>Dealers said there was little European demand for low sulphur material. Combined with weaker VGO prices in the U.S. caused by poor buying interest it undermined prices and limited activity.</p>
+<p>&quot;There are a couple more cargoes on offer, but no one is taking anything,&quot; said one trader. Russian supplies were also overhanging the market.</p>
+<p>A low sulphur cargo was heard offered in the high $160s fob, but traders thought the prices overly ambitious.</p>
+<p>&quot;If anything gets done, it will be down in the low $160s,&quot; said one. &quot;Those deals that are being done at going Argus related,&quot; said another.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240524" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: TransTexas North Dakota flow understated.</title>
+<headline>TransTexas North Dakota flow understated.</headline>
+<dateline>HOUSTON 1996-12-06</dateline>
+<text>
+<p>TransTexas Gas Corp said its statement Wednesday reporting the flow rate of the Heart River No. 1 in Dickinson, N.D., understated the discovery well's actual recorded production.</p>
+<p>After evaluating the volumes flowed to tanks during the test, the company said Friday, it found the actual rate was 6,836 barrels of oil daily, not the 6,355 listed Wednesday.</p>
+<p>As a result of the discovery well's flow volumes, TransTexas said, it is increasing the completion equipment for its second well in the filed, the Dinsdale 2-4, to optimize the well's flow capabilities.  </p>
+<p>The changes in completion equipment include larger tubing, choke equipment, etc., TransTexas spokesman Simon Ward said.</p>
+<p>This will not delay completion and testing of the well, he added. -- Jim Brumm 212-859-1710.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300014">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

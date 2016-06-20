@@ -1,0 +1,28 @@
+CBOT/CME closing trends - Dec 6.
+
+Wheat    up 6 1/4  cts/bu    Live Cattle  dn 1.000 cts/lb
+
+    Corn     dn 1 1/4  cts/bu    Feeders	dn 0.625 cts/lb
+
+    Oats     up 1 1/4  cts/bu    Live Hogs    dn 0.325 cts/lb
+
+    Soybeans dn 6	cts/bu    Pork Bellies dn 1.325 cts/lb
+
+    Soyoil   up 0.12   cts/lb
+
+    Soymeal  dn 1.40   dollar/ton
+
+Commodity Research Bureau Futures Index - Dec 5
+
+FUTURES INDEX	 243.53   IMPORTS		 310.73
+
+INDUSTRIES	    271.50   GRAINS		  213.24
+
+OILSEEDS		292.15   LIVESTOCKS/MEATS    259.51
+
+PRECIOUS METALS     255.48   CURRENCY		137.60
+
+ENERGY		  209.37   INTEREST RATES	114.03
+
+MISCELLANEOUS	 289.39
+

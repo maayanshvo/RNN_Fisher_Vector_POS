@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239934" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: GM plans to invest in Philippines.</title>
+<headline>GM plans to invest in Philippines.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>United States car giant General Motors Corp (GM) is planning to open several automotive-related projects in the Philippines, the presidential palace said on Friday.</p>
+<p>&quot;The American firm General Motors is investing in a variety of projects in the country to complement its car manufacturing plant in Thailand,&quot; the palace said in a statement.</p>
+<p>The statement came after GM Asian and Pacific operations president Donald Sullivan made a courtesy call on President Fidel Ramos on Friday.</p>
+<p>&quot;They are considering a lot of projects here but the specific ones will come out (later). In a month's time, a final decision from the GM chairman might already be available,&quot; Philippine Board of Investments chief Cesar Bautista told reporters.</p>
+<p>GM recently chose Thailand over the Philippines as the site of its multi-billion dollar car manufacturing plant for the Asia Pacific region. - Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

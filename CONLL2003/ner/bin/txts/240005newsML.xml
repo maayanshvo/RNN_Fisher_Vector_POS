@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240005" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Michigan.</title>
+<headline>PRESALE - Michigan.</headline>
+<text>
+<p>AMT: 22,760,000     DATE: 12/12/96	NYC Time: 1100	CUSIP: 594636</p>
+<p>ISSUER: Michigan							  ST: MI</p>
+<p>ISSUE: Comprehensive trans refunding, Series 1996 A	 TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 12/15/96							     SURE BID: Y</p>
+<p>DUE: 8/1/98-14						SR MGR:</p>
+<p>1ST CPN: 08/01/97</p>
+<p>CALL: 8/1/06 at 101, dtp 8/1/08			 TIC</p>
+<p>DELIVERY: 12/19/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: State Treasurer's Office, Lansing</p>
+<p>L.O.: Dickinson, Wright, Moon, Van Dusen &amp; Freeman</p>
+<p>F.A.: Public Financial Mgt., Atlanta</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     95,000</p>
+<p>1999		     95,000</p>
+<p>2000		    100,000</p>
+<p>2001		    105,000</p>
+<p>2002		    110,000</p>
+<p>2003		  1,030,000</p>
+<p>2004		  1,075,000</p>
+<p>2005		  1,130,000</p>
+<p>2006		  1,185,000</p>
+<p>2007		  1,245,000</p>
+<p>2008		     95,000</p>
+<p>2009		    100,000</p>
+<p>2010		    105,000</p>
+<p>2011		    110,000</p>
+<p>2012		  5,140,000</p>
+<p>2013		  5,385,000</p>
+<p>2014		  5,655,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

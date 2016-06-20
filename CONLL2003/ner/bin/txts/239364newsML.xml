@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239364" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: US corporate junk bonds bolstered by cash inflows.</title>
+<headline>US corporate junk bonds bolstered by cash inflows.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Continued strong inflows into U.S. high-yield mutual funds helped the junk market maintain its composure, despite the turmoil which struck Treasuries and stocks throughout the day on Friday, traders said.</p>
+<p>AMG Data Services, a financial data company, reported $750 million in new cash poured into the junk market during the week prior to this Wednesday, they noted.</p>
+<p>Calls to AMG Data were not immediately returned.</p>
+<p>These inflows, which came close to setting an all time record, helped junk bond prices ended the day unchanged to slightly higher, traders said.  </p>
+<p>Meanwhile, the benchmark 30-year Treasury fought back from more than one point losses to end the day down only 2/32 at 99-27/32. Its closing yield was 6.51 percent.</p>
+<p>The Dow Jones Industrial Average lost 0.86 percent of its value, dropping 55.6 points to 6381.95.</p>
+<p>U.S. investment-grade bond prices generally tracked Treasuries, traders said.</p>
+<p>Back in the high-yield market, debt of CAI Wireless Systems Inc ended the day 25 points lower after news that Bell Atlantic Corp and NYNEX Corp were rethinking their strategy to provide video services.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

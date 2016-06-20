@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240741" id="root" date="1996-12-06" xml:lang="en">
+<title>MOROCCO: Commodities fund to study switch of finances.</title>
+<headline>Commodities fund to study switch of finances.</headline>
+<dateline>RABAT 1996-12-06</dateline>
+<text>
+<p>The Common Fund for Commodities is to consider switching more finance into projects aimed at diversifying developing countries' commodity production, the official Moroccan news agency MAP said.</p>
+<p>The recommendation was adopted at a meeting in Marrakesh, Morocco, of the fund's governing council, it said in a report late on Thursday.</p>
+<p>A summary of operations of the fund's Second Account -- devoted to supporting development projects -- said that by the end of 1996 it had backed 49 projects covering 20 commodities at a total cost of $118.1 million.</p>
+<p>The governors decided their next meeting would be in Amsterdam in December 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEVGCO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RABAT"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

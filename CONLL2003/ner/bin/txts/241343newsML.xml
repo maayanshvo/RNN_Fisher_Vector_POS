@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241343" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Talk of BOJ ending JGB buying 'groundless'--BOJ.</title>
+<headline>Talk of BOJ ending JGB buying 'groundless'--BOJ.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Market talk that the Bank of Japan may stop purchasing Japanese government bonds (JGBs) from the secondary market is &quot;totally groundless&quot;, a BOJ spokesman told Reuters on Friday.  </p>
+<p>&quot;The talk was entirely a groundless rumour,&quot; said the BOJ spokesman.</p>
+<p>The cash and futures market dived on Friday partly due to the widespread, persistent rumour that the BOJ would stop buying JGBs from the secondary market in order to check further falls in Japanese bond yields.</p>
+<p>The benchmark 182nd 10-year JGB yield shot up to 2.490 percent from 2.340 percent at the close of Thursday trade.</p>
+<p>The rumour also sent the dollar down against the yen as currency traders interpreted it to mean that yen interest rates would go up.  </p>
+<p>Another BOJ official told Reuters that the central bank's bond purchases from the market are normally conducted twice a month, but there is no fixed purchase schedule.</p>
+<p>-- Yoshiko Mori, Tokyo Treasury Desk +81-3-3432-8676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

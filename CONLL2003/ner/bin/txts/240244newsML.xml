@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240244" id="root" date="1996-12-06" xml:lang="en">
+<title>PORTUGAL: Portuguese bond report.</title>
+<headline>Portuguese bond report.</headline>
+<dateline>LISBON 1996-12-06</dateline>
+<text>
+<p>Bonds closed off their lows as international markets, and particularly Italy, staged a late rally.</p>
+<p>Traders see the benchmark 10-year cash bond continuing to track the bund at a distance of around 125 basis points.</p>
+<p>&quot;We ended up back at the 125 basis points (against the bund) and this is level at which we are likely to stay,&quot; said one trader. &quot;On Monday, Spain is going to tumble, given that it was closed today, but we are going to stay with our eyes fixed on the bund,&quot; he added.</p>
+<p>--Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

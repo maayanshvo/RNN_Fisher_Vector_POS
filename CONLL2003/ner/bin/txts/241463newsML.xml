@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241463" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Elekta buys Johnson &amp; Johnson unit.</title>
+<headline>Elekta buys Johnson &amp; Johnson unit.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish medical technology group Elekta on Friday said it had signed an agreement with Johnson &amp; Johnson to buy its Cordis Neuroscience division with a turnover of about 120 million crowns a year.</p>
+<p>The deal still needed approval from the U.S. Federal Trade Commission which can take up to three months, Elekta said in a statement.</p>
+<p>The purchase is not expected to mean any dilution of Elektra's profit per share and involves no goodwill.</p>
+<p>The acquisition will be financed with the company's own means and bank finance.</p>
+<p>Cordis Neuroscience specialises in producing and selling implants and one-off items for treatment of water on the brain, a market that is estimated to be worth a total of 400 million crowns a year.</p>
+<p>-- Stockholm newsroom +46-8-700 1017</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

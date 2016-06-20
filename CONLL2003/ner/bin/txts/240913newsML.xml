@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240913" id="root" date="1996-12-06" xml:lang="en">
+<title>PORTUGAL: Tabaqueira sale on Dec 12 cabinet agenda -minister.</title>
+<headline>Tabaqueira sale on Dec 12 cabinet agenda -minister.</headline>
+<dateline>LISBON 1996-12-06</dateline>
+<text>
+<p>The privatisation of 65 percent of state tobacco concern Tabaqueira-Empresa Industrial de Tabacos should be on the agenda of the next cabinet meeting on Thursday, December 12, Economy Minister Augusto Mateus told Reuters.</p>
+<p>&quot;On Monday, I hope to finalise my report which has only to do with the competitive aspects,&quot; he said.</p>
+<p>&quot;After that, it will go to the cabinet for a decision,&quot; he said, adding that if a decision were taken at the cabinet session, there would still be time for the privatisation to be carried out this year.</p>
+<p>Three foreign-led consortiums -- Spain's Tabacalera, Philip Morris and French group Seita -- are bidding for Tabaqueira.</p>
+<p>The country's competition council has already ruled that all three bids are acceptable under competition rules.</p>
+<p>-- Lisbon bureau 3511-3150035</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I42900">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LISBON"/>
+<dc element="dc.creator.location.country.name" value="PORTUGAL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

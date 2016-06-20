@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240967" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Europe strengthens Airbus around China 100-seater.</title>
+<headline>Europe strengthens Airbus around China 100-seater.</headline>
+<byline>Pierre Tran</byline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>Europe's aircraft industry flew closer to strengthening its industrial base with announcements on Friday that a 100-seater jet to be built with China will form part of the Airbus family and Italy's Alenia will enter new Airbus programmes.</p>
+<p>The news follows statements earlier this week from archrival Boeing and the smaller McDonnell Douglas that the two U.S. firms are cooperating on future wide-body jets, particularly two &quot;stretched&quot; versions of the Boeing 747 jumbo.</p>
+<p>&quot;A specific agreement has been reached on the new 100 seat jet family in which all the European partners involved have agreed that it will be part of the Airbus product range,&quot; a statement from British Aerospace Plc (BAe) said.</p>
+<p>BAe is a partner in the European Airbus Industrie consortium, as well as the separate AIA joint venture which is partnering China to build the Asian Express 100 passenger plane.</p>
+<p>Airbus, together with Alenia, a unit of the Finmeccanica holding company, will set up a new company to lead the European participation with China and Singapore, the joint statement said.</p>
+<p>Singapore's Singapore Technologies Aerospace is also a partner in the project.</p>
+<p>&quot;This completes the bottom end of the Airbus range with a brand new offering and consolidates Airbus' position in the growing Asian market,&quot; an Airbus spokesman said.</p>
+<p>The Airbus partners are also bringing Alenia closer to the consortium by involving it in derivatives of current products, such as the A340-600, a stretched version of the four-engine, long-range A340, as well as a likely role in the A3XX large aircraft under study.</p>
+<p>&quot;Alenia will probably be a risk-sharing partner in the A3XX,&quot; the spokesman added. &quot;It means a broadening in equity and funds for both programmes.&quot;</p>
+<p>Airbus has marked out the A340-600 as its top priority as it needs to increase capacity to rival the Boeing 777 twinjet and older 747 models. It also wants to be able to launch the A3XX, expected to cost $8 billion, by 1998 for service in 2003.</p>
+<p>But while Alenia is moving in at the programme level, it is not entering the consortium as an equity partner. Alenia is already present in a special Airbus subsidiary, Airbus Military Company, set up to manage the Future Large Aircraft (FLA), a tactical transporter planned for eight European forces.</p>
+<p>The other Airbus partners are French state-owned Ste Nationale Industrielle Aerospatiale, Daimler-Benz Aerospace, a unit of Daimler-Benz AG and Construcciones Aeronauticas SA (CASA) of Spain.</p>
+<p>The 100-seater plane for China will share common features with the Airbus A320 family, which includes the A321 and A319, seating between 124 and 186 passengers. It will bring Airbus into a new segment fought over by Boeing and McDonnell Douglas.</p>
+<p>News that McDonnell Douglas will act as a subcontractor for Boeing, announced on December 3, &quot;didn't take us by surprise,&quot; said the Airbus spokesman. &quot;It doesn't alter our agenda.&quot;</p>
+<p>The aerospace industry had been expecting some of realignment by McDonnell Douglas after it announced at the end of October it was dropping studies of its MDXX wide-body plane. It also lost its place for a vital U.S. competition for the Joint Strike Fighter (JSF) last month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SINGP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I32000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I35000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

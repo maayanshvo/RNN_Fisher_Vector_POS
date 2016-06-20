@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239640" id="root" date="1996-12-06" xml:lang="en">
+<title>YUGOSLAVIA: Yugo PKB to buy 20 Massey Ferguson tractors.</title>
+<headline>Yugo PKB to buy 20 Massey Ferguson tractors.</headline>
+<dateline>BELGRADE 1996-12-06</dateline>
+<text>
+<p>Yugoslavia's largest agricultural corporation PKB said on Friday it will buy 20 heavy Massey Ferguson tractors worth $2 million.</p>
+<p>Ferguson tractors will be on PKB fields within 90 days.</p>
+<p>&quot;This is a very important deal for us, because PKB machinery is 12-15 years old and if we do not obtain new equipment, it will be difficult to successfully revive agricultural production,&quot; PKB president Vojislav Simanovic told reporters.</p>
+<p>Simanovic stressed Yugoslavia urgently needed 400 heavy tractors (200 horse power each) which are not produced by local factories. &quot;Without the new machinery, there will be no future for the Yugoslav agriculture.&quot;</p>
+<p>Serbian deputy agriculture minister Goran Petkovic said this was a good start to eliminate bottlenecks in the country's agriculture.</p>
+<p>Massey Ferguson, a unit of LucasVarity offered a five-year credit line with 8 percent annual interest. The credit line is arranged with the backing of the largest Yugoslav commercial bank Beobanka.</p>
+<p>-- Gordana Filipovic, Belgrade newsroom, +381 11 222 4254</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I35300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

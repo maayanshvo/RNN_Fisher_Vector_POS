@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240157" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Hungarian Telephone sees access line growth.</title>
+<headline>Hungarian Telephone sees access line growth.</headline>
+<dateline>STAMFORD, Conn. 1996-12-06</dateline>
+<text>
+<p>Hungarian Telephone and Cable Corp said on Friday it expected to have 100,000 access lines in place by early 1997, giving the company a penetration level of between 12 percent and 14 percent.</p>
+<p>The company said it holds rights to five concession areas in Hungary, with a total population of 715,000 people, and is on schedule to finish the buildout of its network also by the end of 1997.</p>
+<p>Hungarian Telephone said it currently has 85,000 telephone access lines in place.</p>
+<p>It added that it is the largest private telephone service provider in Hungary outside of the former state-controlled MATAV.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HUNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STAMFORD, Conn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

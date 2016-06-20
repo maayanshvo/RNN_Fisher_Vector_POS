@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240013" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Sunnyvale, Texas.</title>
+<headline>PRESALE - Sunnyvale, Texas.</headline>
+<text>
+<p>AMT: 2,200,000	DATE: 12/09/96	NYC Time: 1400	CUSIP: 867629</p>
+<p>ISSUER: Sunnyvale							 ST: TX</p>
+<p>ISSUE: Combined tax &amp; rev cert. of oblig Ser 96		 TAX STAT: Exempt-LT</p>
+<p>M/SP/F:								     BOOK ENTRY: Y</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 12/01/96							     SURE BID: N</p>
+<p>DUE: 2/15/98-17					     SR MGR:</p>
+<p>1ST CPN: 08/15/97</p>
+<p>CALL: 2/15/06 @ par					 NIC</p>
+<p>DELIVERY: 1/14/97 approx				  ORDERS:</p>
+<p>PAYING AGENT: U.S. Trust Co. of Texas, Dallas</p>
+<p>L.O.: Fulbright &amp; Jaworski, Dallas</p>
+<p>F.A.: First Southwest Co., Dallas</p>
+<p>LAST SALE: None</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		     60,000</p>
+<p>1999		     60,000</p>
+<p>2000		     65,000</p>
+<p>2001		     70,000</p>
+<p>2002		     75,000</p>
+<p>2003		     80,000</p>
+<p>2004		     85,000</p>
+<p>2005		     90,000</p>
+<p>2006		     95,000</p>
+<p>2007		    100,000</p>
+<p>2008		    105,000</p>
+<p>2009		    115,000</p>
+<p>2010		    120,000</p>
+<p>2011		    130,000</p>
+<p>2012		    135,000</p>
+<p>2013		    145,000</p>
+<p>2014		    155,000</p>
+<p>2015		    160,000</p>
+<p>2016		    170,000</p>
+<p>2017		    185,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

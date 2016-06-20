@@ -1,0 +1,80 @@
+PRESALE - Metro Atlanta RTA, Ga..
+
+AMT: 165,150,000    DATE: 12/11/96	NYC Time: 1100	CUSIP: 591745
+
+ISSUER: Metro Atlanta RTA					     ST: GA
+
+ISSUE: Sales tax refunding, Series 1996 A		     TAX STAT: Exempt-REV
+
+M/SP/F: NA/NA/NA							  BOOK ENTRY: N
+
+ENHANCEMENTS: MBIA AAA/AAA/NA					 BANK QUAL: N
+
+DTD: 12/01/96							     SURE BID: Y
+
+DUE: 7/1/98-20						SR MGR:
+
+1ST CPN: 07/01/97
+
+CALL: 7/1/06 at 102, dtp 7/1/08			 NIC
+
+DELIVERY: 12/23/96 approx				 ORDERS:
+
+PAYING AGENT: SunTrust Bank, Atlanta
+
+L.O.: King & Spalding, Atlanta
+
+F.A.: Evensen Dodge, Inc., Atlanta
+
+LAST SALE: $100,000,000 MBIA 11/02/94@ 6.9293% NIC;22 yrs 1 mos Avg; BBI- 6.64%
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		    670,000
+
+1999		    700,000
+
+2000		    730,000
+
+2001		    760,000
+
+2002		    790,000
+
+2003		    830,000
+
+2004		    860,000
+
+2005		    610,000
+
+2006		    650,000
+
+2007		    690,000
+
+2008		    740,000
+
+2009		    790,000
+
+2010		    850,000
+
+2011		  9,990,000
+
+2012		 10,180,000
+
+2013		 10,730,000
+
+2014		 11,310,000
+
+2015		 11,900,000
+
+2016		 12,540,000
+
+2017		 20,490,000
+
+2018		 21,590,000
+
+2019		 22,750,000
+
+2020		 24,000,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

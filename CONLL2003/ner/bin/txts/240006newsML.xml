@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240006" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Kokomo-Center Sch Bldg Corp, Ind..</title>
+<headline>PRESALE - Kokomo-Center Sch Bldg Corp, Ind..</headline>
+<text>
+<p>AMT: 28,000,000     DATE: 12/10/96	NYC Time: 1300	CUSIP: 500296</p>
+<p>ISSUER: Kokomo-Center SBC					     ST: IN</p>
+<p>ISSUE: First Mortgage, Series 1996				 TAX STAT: Exempt-REV</p>
+<p>M/SP/F: NA/Aprov/NA						     BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: N</p>
+<p>DTD: 12/15/96							     SURE BID: Y</p>
+<p>DUE: see note						 SR MGR:</p>
+<p>1ST CPN: 07/15/97</p>
+<p>CALL: 1/15/08 at 102, dtp 1/15/09		     NIC</p>
+<p>DELIVERY: 12/31/96 approx				 ORDERS:</p>
+<p>PAYING AGENT: First National Bank, Kokomo</p>
+<p>L.O.: Ice Miller Donadio &amp; Ryan, Indianapolis</p>
+<p>F.A.: Summers &amp; Co., Fort Wayne</p>
+<p>LAST SALE: None</p>
+<p>NOTES: due 1/15 &amp; 7/15/98-08, 1/15/09 and 1/15 &amp; 7/15/14-17</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>01/15/98		550,000</p>
+<p>07/15/98		565,000</p>
+<p>01/15/99		575,000</p>
+<p>07/15/99		590,000</p>
+<p>01/15/00		600,000</p>
+<p>07/15/00		615,000</p>
+<p>01/15/01		630,000</p>
+<p>07/15/01		645,000</p>
+<p>01/15/02		660,000</p>
+<p>07/15/02		675,000</p>
+<p>01/15/03		695,000</p>
+<p>07/15/03		710,000</p>
+<p>01/15/04		730,000</p>
+<p>07/15/04		750,000</p>
+<p>01/15/05		770,000</p>
+<p>07/15/05		790,000</p>
+<p>01/15/06		810,000</p>
+<p>07/15/06		830,000</p>
+<p>01/15/07		855,000</p>
+<p>07/15/07		875,000</p>
+<p>01/15/08		900,000</p>
+<p>07/15/08		920,000</p>
+<p>01/15/09		950,000</p>
+<p>01/15/14	    1,270,000</p>
+<p>07/15/14	    1,310,000</p>
+<p>01/15/15	    1,350,000</p>
+<p>07/15/15	    1,390,000</p>
+<p>01/15/16	    1,430,000</p>
+<p>07/15/16	    1,475,000</p>
+<p>01/15/17	    1,520,000</p>
+<p>07/15/17	    1,565,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

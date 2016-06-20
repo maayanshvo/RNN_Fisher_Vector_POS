@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241466" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: France wants investment despite Daewoo move - paper.</title>
+<headline>France wants investment despite Daewoo move - paper.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>France still wants foreign investment despite suspending the privatisation of electronics giant Thomson SA because of objections to the spinoff of its consumer goods arm to a Korean firm, Finance Minister Jean Arthuis said in a newspaper interview on Friday.</p>
+<p>&quot;We must not leave the slightest shadow of a doubt. France needs foreign investors,&quot; he told Britain's Financial Times in an interview.</p>
+<p>He was speaking after the independent privatisation commission said it could not approve some aspects of the planned transfer of Thomson Multimedia consumer electronics by Lagardere Groupe, the government's preferred bidder for the Thomson group, to Daewoo Electronics of South Korea.</p>
+<p>Arthuis's appeal came as the South Korean government warned of a possible deterioration in relations with France following the suspension of the sale.</p>
+<p>&quot;The candidates did not lack quality or honour. Daewoo's honour was not in question. The candidates in no way failed in their obligation,&quot; Arthuis said.</p>
+<p>He said the privatisation commission's reservations focused &quot;on the enforceability of the detailed arrangements between Lagardere and Daewoo.&quot;</p>
+<p>Daewoo has said it is still committed to acquiring Thomson Multimedia and has called the decision to suspend the sale &quot;very regrettable&quot;.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

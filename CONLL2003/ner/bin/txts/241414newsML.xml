@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241414" id="root" date="1996-12-06" xml:lang="en">
+<title>TUNISIA: PRESS DIGEST - Tunisia - Dec 6.</title>
+<headline>PRESS DIGEST - Tunisia - Dec 6.</headline>
+<dateline>TUNIS 1996-12-06</dateline>
+<text>
+<p>These are the leading stories in the Tunisian press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>LA PRESSE</p>
+<p>- Consumer price index rose 0.2 percent in November.</p>
+<p>LE TEMPS</p>
+<p>- Father investigating case of Tunisian student Khaled Zghal who went missing 13 months ago in Greece.</p>
+<p>LE RENOUVEAU</p>
+<p>- President Ben Ali leads ceremony in memory of Farhat Hached, trade union and nationalist leader killed 44 years ago during fight for independence.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

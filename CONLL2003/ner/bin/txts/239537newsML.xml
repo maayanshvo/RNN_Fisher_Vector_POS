@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239537" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: South African court rejects wheat marketer's appeal.</title>
+<headline>South African court rejects wheat marketer's appeal.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>South Africa's Supreme Court has rejected the appeal of wheat marketing company Propermark against a court ruling banning it from selling wheat.</p>
+<p>South Africa's Wheat Board obtained an interdict against the company on Monday. The board said in a statement on Friday that the Supreme Court had dismissed Propermark's appeal with costs.</p>
+<p>A board spokesman said earlier this week that Propermark had &quot;jumped the gun&quot; by advertising that it was buying wheat.</p>
+<p>The board is due to adopt a free market system by October 31 next year when the current winter grain marketing scheme runs out, but for now is still the only marketing channel for wheat in South Africa.</p>
+<p>The Wheat Board is the last of South Africa's agricultural marketing boards to practise single-channel marketing.</p>
+<p>Legislation passed in parliament last month outlaws statutory agricultural market controls and accepts that market supply and demand is the best method to ensure the efficient allocation of resources.</p>
+<p>It also means the demise of commodity control boards -- like the Wheat Board -- which controlled the marketing of agricultural products for almost seven decades.</p>
+<p>-- Johannesburg newsroom, +27-11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

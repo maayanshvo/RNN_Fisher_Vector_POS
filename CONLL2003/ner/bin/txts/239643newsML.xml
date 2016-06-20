@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239643" id="root" date="1996-12-06" xml:lang="en">
+<title>CZECH REPUBLIC: Direct bond trades on the Czech PSE - Dec 6.</title>
+<headline>Direct bond trades on the Czech PSE - Dec 6.</headline>
+<dateline>PRAGUE 1996-12-06</dateline>
+<text>
+<p>The following is a list of direct bond trades made on the Prague Stock Exchange:</p>
+<p> ISSUE		    Min. Price  Max. Price   Volume Turnover</p>
+<p>				  pct	  pct	     (CZK 000's)</p>
+<p>BV FINANCE 11/97	  100.27    100.27	  98   10030.405</p>
+<p>CEZ 10,90/01		 97.90     98.15	2500   25716.780</p>
+<p>CEZ 11,0625/08	     99.10     99.20	4000   41672.770</p>
+<p>CEZ 11,3/05		  96.00     99.60	6000   62164.140</p>
+<p>CEZ 14 3/8 /01	    103.55    103.55	  49     568.667</p>
+<p>CSOB 11,00/00		98.90     99.00	9000   93932.480</p>
+<p>DELVITA 12,5/01	    98.40     98.70	 900   91493.332</p>
+<p>IPB 11,125/98		96.00     98.65     14000  141719.788</p>
+<p>KB 11,4/01		   99.95     99.95	 500    5113.085</p>
+<p>KB 2 VAR/99		  99.73    100.45	3000   30271.050</p>
+<p>RYCHNOV/KN 13,1/02	 96.00    100.23	1000   10895.890</p>
+<p>ST.DLUHOP. 8,7/00	  94.70     95.95     22000  225113.770</p>
+<p>ST.DLUHOP.10,95/01	101.30    102.40     38000  400135.998</p>
+<p>ST.DLUHOP.11,4/98	 100.55    101.10     47000  476784.517</p>
+<p>ST.DLUHOP.8,55/97	  98.50     98.82	7320   75641.982</p>
+<p>ST.DLUHOP.9,15/00	  95.49     96.39     11000  108734.300</p>
+<p>ST.DLUHOP.9,25/99	  96.70     97.65     13000  130112.454</p>
+<p>ST.DLUHOP.9,4/97	   98.60     98.65	2000   19850.340</p>
+<p>ST.DLUHOP.9,40/98	  98.00     98.05	3000   31008.010</p>
+<p>ST.DLUHOP.9,45/01	  96.40     97.35	6180   64527.703</p>
+<p>SKOFIN 11,625/98	  100.07    100.07	1185   13014.746</p>
+<p>UNION BANKA 12/99	  99.99     99.99     15000  163750.000</p>
+<p>ZETOR 10 7/8 /00	   98.70     99.10     12000  118617.000</p>
+<p>-- Prague Newsroom, 42-2-2423-0003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

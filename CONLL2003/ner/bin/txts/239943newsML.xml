@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239943" id="root" date="1996-12-06" xml:lang="en">
+<title>LEBANON: Lebanon gang members killed accomplice -- sources.</title>
+<headline>Lebanon gang members killed accomplice -- sources.</headline>
+<dateline>BEIRUT 1996-12-06</dateline>
+<text>
+<p>Three Beirut gang members charged with making 15 billion Lebanese pounds by selling forged and genuine revenue stamps murdered a finance ministry official party to the embezzlement, judicial sources said on Friday.</p>
+<p>They said Mohammad Harmoush and Tony Tayyar -- both Lebanese -- and a Palestinian man named Farid Mousalli killed by police last month, had shot dead Ra'afat Sleiman, who was responsible for the sale of the stamps at the ministry.</p>
+<p>The embezzlement case has caused a sensation in Lebanon in recent months.</p>
+<p>Sleiman's fate has been a mystery since late October when a prosecutor charged all four men and two others with forging revenue stamps and selling for private gain genuine stamps supplied by the ministry for a total of 15 billion pounds.</p>
+<p>Mousalli was killed by Lebanese police on November 17.</p>
+<p>The sources said that police were searching for Sleiman's body in bushes near the northern village of Ghosta, where the killers buried it.</p>
+<p>Acting finance minister Fouad Siniora last month denied that the embezzlement totalled 15 billion pounds, saying it totalled 3.8 billion. ($1 = 1,553 Lebanese pounds)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241789" id="root" date="1996-12-07" xml:lang="en">
+<title>LEBANON: Israeli shelling wounds four Lebanese civilians.</title>
+<headline>Israeli shelling wounds four Lebanese civilians.</headline>
+<dateline>NABATIYEH, Lebanon 1996-12-07</dateline>
+<text>
+<p>Israel gunners wounded four civilians when they shelled a south Lebanon village on Saturday after a guerrilla raid on Israeli forces, security and pro-Israeli militia sources said.</p>
+<p>Lebanese security sources said four people were lightly wounded by shrapnel when artillery shells slammed into the village of Kfar Tibnit near the market town of Nabatiyeh just oustide Israel's south Lebanon occupation zone.</p>
+<p>Sources with the Israeli-allied South Lebanon Army (SLA) militia in the zone said the Israeli shelling followed an attack in which guerrillas set off a road-side bomb near an Israeli patrol and fired Sagger rockets at it and a nearby post.</p>
+<p>The attack was carried out in an area inside the zone facing Kfar Tibnit. There was no immediate report of casualties or claim of responsibility for the attack.</p>
+<p>The pro-Iranian Hizbollah (Party of God) leads a guerrilla war against some 1,000 Israeli troops and the 3,000-strong SLA in a bid to oust them from the south Lebanon zone set up in 1985 to stop cross-frontier raids on northern Israel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NABATIYEH, Lebanon"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241266" id="root" date="1996-12-06" xml:lang="en">
+<title>CHINA: Chinese girl nearly dies from cigarette smoke.</title>
+<headline>Chinese girl nearly dies from cigarette smoke.</headline>
+<dateline>SHANGHAI 1996-12-06</dateline>
+<text>
+<p>A five-year-old girl in the east China city of Tianjin choked and almost died from cigarette smoke at her grandfather's birthday with relatives smoking for hours in a small room, the Wen Hui Bao newspaper said on Friday.</p>
+<p>The newspaper said the girl was rushed to hospital and found to be having extreme difficulty breathing.</p>
+<p>It said eight of the people at the party, including the girl's father, immediately announced they would give up smoking.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

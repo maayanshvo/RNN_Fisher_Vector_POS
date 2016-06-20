@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241708" id="root" date="1996-12-07" xml:lang="en">
+<title>CHILE: Chilean novelist Jose Donoso dies.</title>
+<headline>Chilean novelist Jose Donoso dies.</headline>
+<dateline>SANTIAGO, Chile 1996-12-07</dateline>
+<text>
+<p>Chilean novelist Jose Donoso, whose books mixed surrealism with black comedy, died on Saturday in Santiago at the age of 71, his publishers said.</p>
+<p>Donoso had been ill for at least two years, according to a spokesman for the publishers, Alfaguara.</p>
+<p>Donoso, whose novels included &quot;Coronacion&quot; (Coronation) and &quot;El obsceno pajaro de la noche&quot; (The Obscene Bird of the Night), died at his home in the Chilean capital, surrounded by friends and family members, the spokesman said.</p>
+<p>Donoso was Chile's best-known novelist and one of the leading writers of the Latin American literary boom that began in the 1960s.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GENT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GOBIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SANTIAGO, Chile"/>
+<dc element="dc.creator.location.country.name" value="CHILE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

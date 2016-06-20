@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241615" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: SOCCER-FRENCH LEAGUE STANDINGS.</title>
+<headline>SOCCER-FRENCH LEAGUE STANDINGS.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>Standings in the French first</p>
+<p>division after Saturday's 's matches (tabulate under played,</p>
+<p>won, drawn, lost, goals for, against, points):</p>
+<p> Monaco		     21  12  6  3  36  16  42</p>
+<p> Paris Saint-Germain    21  12  6  3  34  15  42</p>
+<p> Bastia		     21  10  6  5  28  22  36</p>
+<p> Auxerre		    21   9  8  4  28  13  35</p>
+<p> Bordeaux		   21   9  7  5  30  23  34</p>
+<p> Strasbourg		 21  11  1  9  27  29  34</p>
+<p> Metz			 21   8  8  5  22  17  32</p>
+<p> Nantes		     21   7  9  5  41  25  30</p>
+<p> Guingamp		   21   7  8  6  18  18  29</p>
+<p> Lyon			 21   7  8  6  27  31  29</p>
+<p> Rennes		     21   8  4  9  25  28  28</p>
+<p> Lille			21   7  7  7  22  30  28</p>
+<p> Marseille		  21   6  9  6  19  18  27</p>
+<p> Le Havre		   21   6  7  8  22  21  25</p>
+<p> Cannes		     21   6  7  8  14  22  25</p>
+<p> Lens			 21   7  4 10  25  34  25</p>
+<p> Montpellier		21   3  9  9  17  25  18</p>
+<p> Nancy			21   3  7 11  14  26  16</p>
+<p> Caen			 21   3  7 11  12  26  16</p>
+<p> Nice			 21   3  4 14  17  39  13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MONAC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

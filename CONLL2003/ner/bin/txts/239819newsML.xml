@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239819" id="root" date="1996-12-06" xml:lang="en">
+<title>BRAZIL: Trade in Brazil's Casa Anglo suspended.</title>
+<headline>Trade in Brazil's Casa Anglo suspended.</headline>
+<dateline>SAO PAULO 1996-12-06</dateline>
+<text>
+<p>Sao Paulo Stock Exchange (Bovespa) has suspended trade in Brazilian retailer Casa Anglo's common shares, a bourse spokeswoman said.  </p>
+<p>The bourse halted trade in the stock after Brazil's Securities and Exchange Commission (CVM) determined that Casa Anglo's majority shareholder Ricardo Mansur should raise the price he offered to pay for stock owned by the firm's minority holders.</p>
+<p>CVM determined that the majority shareholder should offer to pay 386.79 reais per lot of 1,000 shares, nearly 100 percent above Mansur's proposed price.</p>
+<p>In August, United Industria e Comercio, controlled by Mansur, acquired a controlling interest in Actisa, the holding company for Casa Anglo, which owns 100 percent of department store chain Mappin and bank Mappin.</p>
+<p>-- Fatima Cristina, Sao Paulo Newsroom, 55-11-2485412</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65600">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

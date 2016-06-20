@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240807" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Bell Atlantic and Nynex slow TV expansion - WSJ.</title>
+<headline>Bell Atlantic and Nynex slow TV expansion - WSJ.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Bell Atlantic and Nynex, which announced a merger last year, are retreating from a key part of their strategy to expand into television, The Wall Street Journal reported Friday.</p>
+<p>The decision makes it almost certain that they will reorganize their ambitious programming venture, Tele-TV, either shutting it or folding it into Bell Atlantic.</p>
+<p>Bell Atlantic and Nynex had intended to offer Tele-TV to tens of thousands of East Coast telephone customers, using a microwave transmission technology called wireless cable.</p>
+<p>But, the story says, the technology has proven to be fatally flawed because the signals are obstructed by hills, trees and structures.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239963" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Coast Guard rescues three; dog remains on board.</title>
+<headline>Coast Guard rescues three; dog remains on board.</headline>
+<dateline>BOSTON 1996-12-06</dateline>
+<text>
+<p>The Coast Guard rescued three crewmembers from a sinking lobster boat Friday, but the vessel's captain and one crew member remained on board trying to save the ship.</p>
+<p>A Coast Guard helicopter plucked three crew members off the the 65-foot Panther, sailing out of Portland, Maine, as it tossed about in 10-to-12 foot seas 112 miles off the coast of Massachusetts, Coast Guard spokesman Petty Officer Roger Wetherell said.</p>
+<p>&quot;The three men just landed in Portland. The captain, one crewmen and a dog are still on board,&quot; Wetherell said.</p>
+<p>&quot;They're trying to save the boat,&quot; he added.</p>
+<p>Another ship, the fishing vessel Lady Marie, was sailing alongside the lobster boat in the zero visibility conditions and managed to pass over pumps to help the remaining crew drain the ship, part of which was completely awash.</p>
+<p>Elsewhere in New England, the fast moving storm, which dumped up to 18 inches of snow in western Massachusetts, was also blamed for at least one death.</p>
+<p>Massachusetts State Police said a woman from Westfield, New Jersey, was driving on Interstate 84 near Sturbridge at about 11 a.m., when the storm was at its peak in the area, and lost control of her car. Police said she skidded, spun out of control and was hit by a tractor-trailer.</p>
+<p>At its height, the storm of heavy wet snow, knocked out power to about 16,000 customers.</p>
+<p>Some 14,000 Northeast Utility customers in western Connecticut and parts of Massachusetts were without power as were about 600 Eastern Utilities customers in Rhode Island. About 1,000 customers of Boston Edison were also without power.</p>
+<p>A spokeswoman for MassPort, which operates Logan International airport, reported up to one hour delays on outbound flights and noted there were many cancellations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

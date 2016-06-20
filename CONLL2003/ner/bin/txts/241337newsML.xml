@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241337" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: HKFE says HK's Jan stock index contract suspended.</title>
+<headline>HKFE says HK's Jan stock index contract suspended.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Hong Kong Futures Exchange Ltd said on Friday that trading on the January contract of Hang Seng Index Futures has been suspended in late morning after it plunged more than 500 points.  </p>
+<p>Trading of index future contracts for all forward months would be suspended whenever the movement exceeds 500 points above or below the previous session, a spokesman said.</p>
+<p>Spot December index futures fell 565 points to close the morning at 12,980.</p>
+<p>January contracts were last traded at 13,160, down 450 points before suspended shortly after noon, with the next bid over 500 points down. March contracts were down 420 points at 13,255 at their last trade at 11:38 a.m. (0338 gmt).</p>
+<p>&quot;The rule is just for one session and that means trading on the contracts for forward months will resume this afternoon,&quot; one futures trader said.</p>
+<p>Hong Kong stocks tumbled on fears of interest rate rise with the Hang Seng Index slided 569.90 points to close Friday's midsession at 12,921.66. -- Hong Kong Newsroom (852) 2843 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

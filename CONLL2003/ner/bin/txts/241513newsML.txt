@@ -1,0 +1,70 @@
+Countries and companies slow to defuse Millennium Bomb.
+
+Patricia Reaney
+
+LONDON 1996-12-06
+
+Robin Guenier isn't planning any overseas holidays to celebrate the new millennium.
+
+When the clock strikes midnight on December 31, 1999, he plans to be at home, far from anything controlled by a computer.
+
+As head of Taskforce 2000, a British organisation set up to tackle the so-called Millennium Bomb, he is more aware than most of the catastrophe that could result when the world's computers tick over into the next millennium.
+
+If all goes well life will continue as before. If it doesnt't computers around the world could crash.
+
+Everything from national defence systems, global air traffic control and banks to telephone and security systems, lifts and power stations could malfunction.
+
+All because computers were programmed in the 1960s to use a two-digit format to show the year, like 97 for 1997.
+
+If the millions of date reference programs throughout the world are not corrected before the millennium they will read 00 as the year 1900, not 2000.
+
+CHAOS PREDICTED UNLESS ACTION TAKEN
+
+"Failure to deal with the problem could lead to commercial collapse. I put it bluntlly because I want to get the message across. Unless we act now there will be international chaos," warns British Science and Technology Minister Ian Taylor in a new book "The Millennium Bomb" that details the dilemma.
+
+Describing the computer glitch as a "contagious disease", he predicted that it could force many companies out of business and lead to economic depression. It is estimated that the problem appears in 80 percent of computer programs worldwide.
+
+Although computer programmers have been aware of the Millennium Bomb for nearly three decades, countries and companies have been slow to tackle the problem which could turn out to be one of mankind's most expensive mistakes.
+
+Technology experts estimate it could cost $600 billion worldwide and 400 man years for a company to correct the glitch. Some experts doubt whether there are enough technical wizards available to correct the billions of computer codes in time.
+
+Despite the warnings of impending doom many companies around the world still aren't aware of the problem and only a small percentage are trying to correct it.
+
+"Not nearly enough (British) companies are recognising it and globally the situation appear to be worse," Guenier told Reuters.
+
+A recent survey of 535 British companies showed that more than 60 percent have not begun to deal with the problem, and 65 percent said a quarter or more of their systems are affected.
+
+Another poll of 520 European businesses indicated that only 19 percent will meet the deadline.
+
+"We really only have two years...in most cases the job must be done by January 1999," Guenier said. "Two years in theory is not enough for a large corporation to fix it. You've got to do it all next year. If you haven't started yet, and many, many haven't, there isn't going to be enough time."
+
+Testing is the only way of knowing if a computer program is affected. Even if a company manages to solve the glitch, further testing to make sure they have corrected it and that the rewritten software works could take up to a year.
+
+FAILURE TO UNDERSTAND THE PROBLEM
+
+Guenier said one of the biggest problems in tackling the Millennium Bomb is that many senior people in business and government fail to understand how important the problem is.
+
+"People find it hard to believe that such a simple problem...can truly have the devastasting consequences that some people are indicating."
+
+The astronomical costs of fixing the bug has added to the air of complacency. Information technology departments are having a hard time convincing board members of the seriousness of the problem and the need to set aside funds to remedy it.
+
+"Conceptually, it is always harder for people to accept the idea of paying for disaster prevention rather then profit generation," said Paul Weller, a director of millennium consultancy firm Chase Software Solutions.
+
+"If people ask me how much better their systems will be after paying for millennium correction I have to say the system will continue to function as it is, as distinct from not function."
+
+U.S. AND BRITISH TASK FORCES SET UP
+
+The United States and Britain have taken the lead in the battle to defuse the Millennium Bomb. Both have set up task forces to carry the word to business leaders that if they do not do something soon it will be too late.
+
+Cuba, one of the least technologically advanced countries in the world, has been touted as the best place to be on the eve of the new millennium, but Guenier said some African countries could also be a good destination.
+
+"I wouldn't recommend flying around in airplanes at that time," Guenier said.
+
+Most major airlines have plans in hand. Air traffic controls systems are facing up to the problem and will most likely be functioning normally, he stressed.
+
+The social consequences, if social security benefits aren't paid or banking and pension systems fail, could be even more serious.
+
+"The IT (information technology) industry has really got to face up to its responsibility and do practically nothing else but this," Guenier emphasised.
+
+"I think we've got a big job to do to get people to understand it. I am totally convinced it is very serious...It's a nasty one."
+

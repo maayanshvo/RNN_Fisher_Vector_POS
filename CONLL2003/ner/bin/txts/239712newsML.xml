@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239712" id="root" date="1996-12-06" xml:lang="en">
+<title>LATVIA: Latvian c.bank cuts key refinancing rate.</title>
+<headline>Latvian c.bank cuts key refinancing rate.</headline>
+<dateline>RIGA 1996-12-05</dateline>
+<text>
+<p>The Latvian central bank on Friday cut its key refinancing rate to 9.5 percent from 10 percent, the bank said.</p>
+<p>The last rate cut was in October, when the rate was reduced to 10 percent from 11 percent.</p>
+<p>The refinancing rate is an key reference rate in the Latvian money market and is the minimum rate at which banks can obtain two-week funds from the central bank.</p>
+<p>The bank said in a statement that since the last rate cut, inflation had continued to fall despite the seasonal rise in goods and services prices in the autumn.</p>
+<p>&quot;At the same time, interbank activity has been increasing, money market interest rates have been falling, which demonstrates the stability of the Latvian financial system,&quot; the bank added.</p>
+<p>It said it was also optimistic about the state of government finances.</p>
+<p>The finance ministry said earlier that the budget deficit so far this year was 26 million lats compared with a year-end target of 40 million lats.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

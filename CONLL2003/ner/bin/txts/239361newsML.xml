@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239361" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Sepragen Corp Q3 shr loss widens.</title>
+<headline>Sepragen Corp Q3 shr loss widens.</headline>
+<dateline>HAYWARD, Calif. 1996-12-06</dateline>
+<text>
+<p>SEPRAGEN CORPORATION CONDENSED STATEMENTS OF OPERATIONS</p>
+<p>				    (unaudited)</p>
+<p>			Three Months		   Nine Months</p>
+<p>		   Ended September 30	  Ended September 30,</p>
+<p>			1996	1995	    1996	   1995</p>
+<p> Net Sales  $   142,375 $   90,711   $ 1,005,156    $ 888,643</p>
+<p>Total costs</p>
+<p>and expenses</p>
+<p>		  1,103,488  1,036,501     3,696,078    2,774,734</p>
+<p>Loss from</p>
+<p>  operations  (961,113)  (945,790)   (2,690,922)  (1,886,091)</p>
+<p>Other income,</p>
+<p>  net		 9,954     72,471	  80,505	 12,960</p>
+<p> Net loss     (951,159)  (873,319)   (2,610,417)  (1,873,131)</p>
+<p>Net loss per</p>
+<p>common and</p>
+<p>common equivalent</p>
+<p>  share	     (.33)	(.31)	   (.91)	  (.87)</p>
+<p>Weighted average</p>
+<p>shares</p>
+<p> outstanding  2,856,431  2,855,032     2,856,431    2,141,595</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAYWARD, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

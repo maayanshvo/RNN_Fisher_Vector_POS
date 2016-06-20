@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240953" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: Belgian police smash major drugs rings, 30 arrested.</title>
+<headline>Belgian police smash major drugs rings, 30 arrested.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>Police smashed two drugs smuggling rings and arrested 30 people after a taxidriver in Spain alerted them to a suitcase of heroin left in his cab, Belgian police said on Friday.</p>
+<p>Police seized dozens of kilos of heroin with a street value of hundreds of millions of Belgian francs, a public prosecutor's office spokesman in the port city of Antwerp said.</p>
+<p>He said a 24-year-old Belgian woman left a suitcase containing 13 kg (29 lb) of heroin in a taxi in Barcelona. The taxidriver alerted police who arrested a 33-year-old Turkish man when he came to pick up the suitcase at a lost luggage office. The woman was later arrested in Belgium.</p>
+<p>She and the Turkish man smuggled heroin from Turkey to Antwerp from where it was taken to Spain, France and Germany by others, the spokesman said.</p>
+<p>He said 14 people were arrested in Belgium and 16 others in other European nations after an investigation lasting nearly a year. ($1=32.14 Belgian Franc)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BELG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241178" id="root" date="1996-12-06" xml:lang="en">
+<title>INDONESIA: Indonesia shipping - Tanjung Priok - Dec 6.</title>
+<headline>Indonesia shipping - Tanjung Priok - Dec 6.</headline>
+<text>
+<p>Vessels at Tanjung Priok Port,</p>
+<p>Jakarta Summary:</p>
+<p>Vessels unloading : 28   Vessels loading : 13</p>
+<p>---------------------------------------------------------------</p>
+<p>Name	   Arrival	Scheduled    P/Origin    Unloading Grt</p>
+<p>		 Date/Time    departure    P/Dest	Loading</p>
+<p>---------------------------------------------------------------</p>
+<p>Qi Men	 06-12-96     14-12-96     Tanjung-    g.cargo</p>
+<p>9,551	  1600	   1500	   Perak	 10,041 tns</p>
+<p>Global Putra Indonesia		     China	     -</p>
+<p>---------------------------------------------------------------</p>
+<p>Daisy T	05-12-96     07-12-96     Manila	g.cargo</p>
+<p>8,015	  1600	   1500	   S'pore	2,234 tns</p>
+<p>Djakarta Lloyd						     -</p>
+<p>---------------------------------------------------------------</p>
+<p>Gulf Khalid  06-12-96     08-12-96     S'pore	g.cargo</p>
+<p>1,513	  0600	   0700	   Palembang   920 tns</p>
+<p>Tirta Samudera Caraka					asphalt</p>
+<p>								   741 tns</p>
+<p>									 -</p>
+<p>---------------------------------------------------------------</p>
+<p>Dragom-	06-12-96     06-12-96     P.Klang     coils</p>
+<p>miresti	0700	   2300	   Tanjung-    2,140 tns</p>
+<p>11,025					   Perak	     -</p>
+<p>Goshen Niaga Jaya</p>
+<p>---------------------------------------------------------------</p>
+<p>Capella	05-12-96     06-12-96     Merak	 hydrocarbon</p>
+<p>4,992	  1800	   0700	   S'pore	1,000 tns</p>
+<p>Djakarta Lloyd						     -</p>
+<p>---------------------------------------------------------------</p>
+<p>Hua Kang He  06-12-96     07-12-96     Penang	container</p>
+<p>16,291	 0900	   0900	   Tanjung-    250 teus</p>
+<p>Global Putra Indonesia.M		   Perak	 container</p>
+<p>								   100 teus</p>
+<p>---------------------------------------------------------------</p>
+<p>Caraka-	06-12-96     06-12-96     S'pore	container</p>
+<p>JN-III	 0100	   1500	   Panjang     57 teus</p>
+<p>3,256							    container</p>
+<p>Bhumi Hasta Samudera					 152 Teus</p>
+<p>---------------------------------------------------------------</p>
+<p>Delia-	 05-12-96     07-12-96     P.Gudang    palm oil</p>
+<p>Perdana-I    1600	   2300	   Belawan     5,500 tns</p>
+<p>3,329								  -</p>
+<p>B.T.J.P.</p>
+<p>---------------------------------------------------------------</p>
+<p>Nzol-	  06-12-96     08-12-96     Tanjung-    container</p>
+<p>Kassiakos    0800	   2300	   Perak	 81,293 teus</p>
+<p>16,872					   Tanjung-	  -</p>
+<p>Bina Mina Karya Perkasa		    Perak</p>
+<p>---------------------------------------------------------------</p>
+<p>Maersk Nara  06-12-96     07-12-96     S'pore	    -</p>
+<p>20,408	 1000	   0400	   S'pore	container</p>
+<p>Djakarta Lloyd						 590 teus</p>
+<p>---------------------------------------------------------------</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I77002">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

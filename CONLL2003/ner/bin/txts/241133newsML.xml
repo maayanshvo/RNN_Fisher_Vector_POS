@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241133" id="root" date="1996-12-06" xml:lang="en">
+<title>NEW ZEALAND: Peters says NZ First to meet on Sunday.</title>
+<headline>Peters says NZ First to meet on Sunday.</headline>
+<dateline>WELLINGTON 1996-12-06</dateline>
+<text>
+<p>New Zealand First leader Winston Peters said on Friday that his party caucus would meet on Sunday afternoon but the meeting would not be decisive in choosing between the Labour and National parties.</p>
+<p>His party holds the balance of power and has been in talks for eight weeks with left-leaning Labour and the caretaker conservative National Party about forming a government.  </p>
+<p>Peters said the number of places each party is allocated in cabinet would form part of any agreement NZ First makes with Labour or National.</p>
+<p>He said the NZ First caucus had begun considering the final documents prepared with respect to agreements with both the Labour and National parties.</p>
+<p>-- Wellington newsroom 64 4 4734 746</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WELLINGTON"/>
+<dc element="dc.creator.location.country.name" value="NEW ZEALAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241703" id="root" date="1996-12-07" xml:lang="en">
+<title>BRAZIL: Brazil telecom bill may be unveiled early next wk.</title>
+<headline>Brazil telecom bill may be unveiled early next wk.</headline>
+<dateline>SAO PAULO 1996-12-06</dateline>
+<text>
+<p>A long-awaited bill containing Brazil's new General Telecommunications Law is expected to be sent to Congress early next week, a Communications Ministry spokesman said.</p>
+<p>Communications Minister Sergio Motta may hold a news conference Wednesday to explain and answer questions on the proposed law, said chief ministry spokesman Francisco Mendonca.</p>
+<p>&quot;The press conference usually comes the day after it goes to Congress,&quot; he said.</p>
+<p>Local news agency Invest News quoted Motta on Friday as saying he hoped to send the measure to the Chamber of Deputies on Monday, but Mendonca said he could not confirm the date.</p>
+<p>Release of the law, which will create a regulatory watchdog for the sector, set telecom policy and outline government plans to break-up and sell off the federal Telebras, has been eagerly anticipated for weeks.</p>
+<p>It was expected this week after being delayed from late November and speculation mounted after an old draft was leaked to the press on Tuesday. Officials say the bill has been delayed due to its complexity.</p>
+<p>-- James Craig, Sao Paulo newsroom 5511 248 5413</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

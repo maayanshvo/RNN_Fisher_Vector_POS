@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240096" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Western Cornbelt hogs carcass close - USDA.</title>
+<headline>Western Cornbelt hogs carcass close - USDA.</headline>
+<dateline>DES MOINES, IA 1996-12-06</dateline>
+<text>
+<p>Receipts: Friday, 80,000, Saturday 5,000, Week Ago: 80,000, Year Ago: 60,000. Trend: Steady to $0.76 lower than Thursday's close. - USDA</p>
+<p>Lean Value Summary for 170-191 lbs Carcasses</p>
+<p>Percent  10th Rib	Last Rib     Carcass Cwt</p>
+<p>Lean	Backfat	 Backfat     Price Range</p>
+<p>45-46    1.15-1.24    1.20-1.29     71.04  78.16</p>
+<p>47-48    1.00-1.14    1.10-1.19     72.52  81.04</p>
+<p>49-50     .90- .99    1.00-1.09     74.00  81.04</p>
+<p>51-52     .75- .89     .80- .99     75.48  84.22</p>
+<p>53-54     .60- .74     .60- .79     76.96  86.60</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DES MOINES, IA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

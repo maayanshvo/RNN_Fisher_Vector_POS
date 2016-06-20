@@ -1,0 +1,12 @@
+CME average feeder steer price.
+
+CHICAGO 1996-12-06
+
+The Chicago Mercantile Exchange reported the average feeder steer price for the seven calendar days ending Wednesday, Dec 04  used for cash settlement of CME Feeder Cattle contracts. (in dollars per cwt) --
+
+12-STATES - FOR 7 DAYS ENDING -
+
+Wednesday    Dec	 04   $65.27    up 0.31
+
+Tuesday	Dec	 03   $64.96    dn 0.04
+

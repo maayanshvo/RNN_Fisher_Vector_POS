@@ -1,0 +1,86 @@
+India overseas country funds rates - Dec 6.
+
+------------------INDIA COUNTRY FUNDS------------------
+
+.
+
+NAME			    SIZE  ISSUE  NAV    NAV   INDICATIVE
+
+(ISSUER/LAUNCH)  LISTING ($mln) PRICE  DATE   ($)   MKTPRICE($)
+
+					   ($)
+
+INDIA FUND A	    O  GBP75  P1.05  02/12 P2.16   P1.97/2.07
+
+(UTI/Jul'86)
+
+INDIA FUND B	    O  GBP41  P1.06  02/12 P0.81   P0.73/0.78
+
+(UTI/Oct'86)
+
+INDIA GROWTH FUND     C     65  12.00  27/11  9.91  10.38/10.88
+
+(UTI/Aug'88)
+
+INDIA MAGNUM FD A     C    205  20.00  22/11 39.28  33.50/36.50
+
+(SBI/Oct'89)
+
+INDIA MAGNUM FD B     C    205  20.00  22/11 39.28  33.50/36.50
+
+HIMALAYAN FUND	  C    105  11.00  04/12 12.31  11.00/11.75
+
+JF INDIA TRUST FUND   O    310  N.A    04/12  N/A   17.29/18.31
+
+(J.Fleming/May'93)
+
+BOMBAY FUND	     O     30  11.39  20/11  8.33   7.13/7.63
+
+(BZW/Aug'93)
+
+INDIA OPPORTUNITIES   O    100  10.35  27/11  7.75   7.50/8.00
+
+(Martin Currie/Jul'93)
+
+INDIA INVESTMENT CO   O    160  10.00  05/12  4.94	126.26
+
+(F & Colonial/Oct'93)
+
+INDIA FUND, INC.	C    510  15.00  29/11  7.15   6.63/7.13
+
+Oppenheimer/Feb'94)
+
+MORGAN STANLEY FUND   C    500  15.00  05/12  N/A	   9.00
+
+(Morgan/Feb'94)
+
+MADRAS(I) EQUITY FD A O 11.800  20.00  03/12  17.07 17.07/17.97
+
+(G.Flight/Nov'95)
+
+MADRAS(I) EQUITY FD B O  2.000  20.00  03/12  17.17 17.17/18.07
+
+(G.Flight/Nov'95)
+
+JARDINE FLEMING FD    C    150  15.00  27/11   6.79  6.25/6.75
+
+(J.Fleming/Feb'94)
+
+FLEMING INDIA TRUST   C  GBP84  100p   05/12  N/A	  39.50
+
+(Fleming/Apr'94)
+
+TAJ PERFORMANCE FD    O     30  15.00  28/11   6.58  5.13/5.88
+
+(Raymond James/Apr'94)
+
+.
+
+C - Close-ended, O - Open-ended, N.A - not available
+
+GBP or P- Pound sterling, p-pence
+
+.
+
+Note: India country fund prices are compiled from the rates quoted by Jardine Fleming Securities, Merrill Lynch, Robert Fleming, Barclays De Zoete Wedd, Barings, Bear Stearns, Credit Lyonnais and WI Carr in London. They are indicative and for reference only. For further information please telephone Shyam Kumar in Bombay on 022-265 9000.
+

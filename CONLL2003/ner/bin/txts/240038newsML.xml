@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240038" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fugitive embezzler appears in Denver court.</title>
+<headline>Fugitive embezzler appears in Denver court.</headline>
+<dateline>DENVER 1996-12-06</dateline>
+<text>
+<p>George Norman, an embezzler accused of making his escape by stealing a judge's Cadillac, appeared in court on Friday -- 23 years after he fled.</p>
+<p>A Feb. 3 date was set for Norman's trial on charges of stealing the Cadillac and transporting it over state lines.</p>
+<p>Norman, 66, remains in federal custody, serving the sentence for bank fraud that he fled. A not-guilty plea was entered on his behalf by a federal magistrate during an arraignment hearing.</p>
+<p>In 1973, Norman was preparing to serve a two-year sentence for embezzling $500,000 from a suburban Denver bank when he asked authorities for a little time to arrange his affairs before he was to surrender. He then fled Denver, allegedly in a 1968 Cadillac borrowed from a Colorado Supreme Court Judge, who was a friend.</p>
+<p>That was the last authorities saw of him until last month when federal marshals caught up with him outside a motel in Knoxville, Tenn.</p>
+<p>His attorney declined to comment on government claims Norman amassed a fortune worth more than $50 million, reportedly made in low-priced stocks, according to the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DENVER"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

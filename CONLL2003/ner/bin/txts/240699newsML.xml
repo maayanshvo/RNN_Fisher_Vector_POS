@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240699" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Norway's Saga gets $500 mln buyout loan.</title>
+<headline>Norway's Saga gets $500 mln buyout loan.</headline>
+<text>
+<p>LONDON, December 6 - Norway's Saga Petroleum has signed a $500 million credit to part-finance its acquisition of Santa Fe Exploration, according to a Saga official.</p>
+<p>On Wednesday Saga acquired the North Sea exploration group Santa Fe for $1.23 billion from the state-owned Kuwait Petroleum Corp.</p>
+<p>Chase Manhattan and Citibank provided the $500 million revolving credit which will supplement existing credits of $350 million to finance $850 million of the acquisition costs.</p>
+<p>The balance will be paid from company resources. The credit has a three year maturity and is priced at 17.5 bps over LIBOR.</p>
+<p>Early next year Saga has plans to refinance its $850 million loan which was signed in February 1994. That seven-year credit is priced at 30 bps over LIBOR for the first five years rising to 35 bps until maturity. Arrangers were ABN AMRO Bank, Deutsche Bank, Christiania Bank and Den norske Bank.</p>
+<p>Sophy Tonder 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="KUWAIT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="NORW">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

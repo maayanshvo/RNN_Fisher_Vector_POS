@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240969" id="root" date="1996-12-06" xml:lang="en">
+<title>GREECE: Greek CPI inflation falls to 7.7 pct yr/yr in Nov.</title>
+<headline>Greek CPI inflation falls to 7.7 pct yr/yr in Nov.</headline>
+<dateline>ATHENS 1996-12-06</dateline>
+<text>
+<p>Greek consumer price inflation dropped to 7.7 percent year-on-year in November from 8.3 percent in October, the National Statistics Service (NSS) said.</p>
+<p>&quot;Last year, we had a drop of 15.75 percent in motor oil prices and its impact was 0.32 percent,&quot; said Fani Zervou, NSS general secretary. &quot;This year, we had a reduction of 25.20 percent and its impact on CPI was a negative 0.59 percent.&quot;</p>
+<p>She declined to make a forecast about December but said that December CPI inflation rose 1.0 percent month-on-month in the last three years.</p>
+<p>&quot;No price increases were detected in the Athens-Pireaus area in early December sampling,&quot; she added.</p>
+<p>Greek bankers and economists polled by Reuters had predicted inflation would fall to 7.9 percent in November. The range of forecasts was 7.8 percent to 8.0 percent.</p>
+<p>    Consumer Price Index  November 96  October 96   November 95</p>
+<p>    Month-on-month		-0.3%	  0.9%	   0.2%</p>
+<p>    Rate of change		 7.7%	  8.3%	   8.2%</p>
+<p>    Index (1988=100)	   291.8	 292.8	  271.0</p>
+<p>--Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

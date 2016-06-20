@@ -1,0 +1,24 @@
+Tokai Rika sets terms on CB at 1.05%.
+
+TOKYO 1996-12-06
+
+BORROWER - Tokai Rika Co Ltd
+
+LEAD MGR - Nikko Securities Co Ltd
+
+TRUSTEE - Tokai Bank Ltd
+
+ TYPE convertible     ISSUE NO   5	  AMT   20 bln yen
+
+ COUPON 1.05%	   ISS PRICE	     MATURITY 31.Mar.06
+
+ CONV PRICE 932 yen   CURR RATE
+
+ CONV FROM 6.Jan.97   CONV TO 30.Mar.06
+
+ LAST MOODY'S	   PAY DATE 16.Dec.96  INT PAY end Mar/Sep
+
+ LAST S&P		 SIGN DATE	     SUB DATE 9.Dec-13.Dec
+
+ LAST JCR   A	   LAST JBRI  A	  LAST NIS
+

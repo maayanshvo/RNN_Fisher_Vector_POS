@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240416" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Web access planned for securities fraud cases.</title>
+<headline>Web access planned for securities fraud cases.</headline>
+<dateline>PALO ALTO, Calif. 1996-12-06</dateline>
+<text>
+<p>The Securities and Exchange Commission said Friday it was joining Stanford Law School and federal judges in northern California in a bid to provide public access to securities lawsuits via the Internet.</p>
+<p>As part of the effort, Stanford Law School said it created a site on the Internet's World Wide Web that could serve as a clearinghouse for information on securities fraud cases. The site was to be unveiled at a San Francisco news conference on Friday.</p>
+<p>Institutional investors with more than $1 trillion in assets under management have already registered for automatic updates of the Stanford Law School site.</p>
+<p>The move follows the defeat last month of Proposition 211, a California ballot issue that would have made it easier to file class-action securities lawsuits in the state.</p>
+<p>&quot;We would have done this without regard to 211,&quot; said Stanford Law School Professor Joseph Grundfest, adding that a new rule would be adopted to foster electronic filing.</p>
+<p>The SEC said judges of the U.S. District Court for the Northern District of California have proposed a rule that would require attorneys in securities fraud cases to post major litigation documents on the Internet.</p>
+<p>The proposed rule would not oblige attorneys to post the documents on any particular site, however, and the SEC said it would provide on its home page a list of qualified Internet sites for such data, of which Stanford would be the first.</p>
+<p>This would be similar to the way in which publicly traded corporations disclose financial information through the SEC's Edgar site, which was started as a university project.</p>
+<p>SEC Commissioner Steve Wallman said in a statement that, like the electronic access to financial disclosures, investors &quot;will now start to have the same access to information about federal securities fraud class action litigation.&quot;</p>
+<p>Thelton Henderson, chief judge of the U.S. District Court for the Northern District of California, said the court was seeking comments from attorneys and others on the proposal.</p>
+<p>The Northern District of California is home to Silicon Valley, and the venue for more class action securities fraud litigation than any other federal court in the nation.</p>
+<p>Henderson said securities class-action lawsuits often require communication with thousands of people.</p>
+<p>&quot;In a world of paper-based correspondence that process is often slow and expensive,&quot; Henderson said. &quot;The Internet may help alleviate this problem by creating a cheap and efficient means of providing class members in securities cases with detailed and timely information about litigation.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PALO ALTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

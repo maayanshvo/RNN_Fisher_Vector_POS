@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241916" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: Indonesia can produce 18,000 MW from geo-thermal.</title>
+<headline>Indonesia can produce 18,000 MW from geo-thermal.</headline>
+<dateline>GOA, India 1996-12-07</dateline>
+<text>
+<p>Indonesia's Mines and Energy Minister Ida Bagus Sudjana said on Saturday that the country had the potential to produce 18,000 megawatts of power from geo-thermal energy.</p>
+<p>In an interview with Reuters at an international energy conference in this tourist resort state, Sudjana said installed geo-thermal power generation capacity in Indonesia was currently 300 megawatts.</p>
+<p>But he said Indonesia planned to raise geo-thermal generation capacity to 1,000 megawatts by March 1998 - the end of the current five-year economic plan.</p>
+<p>He also said Indonesia had identified areas which could produce a combined 18,000 megawatts in geo-thermal power.</p>
+<p>Indonesia, Asia's only member of the Organisation of Petroleum Exporting Countries (OPEC), is trying to diversify away from reliance on crude oil for its energy needs.</p>
+<p>Galloping energy demand of about seven percent per year means it could turn into a net crude oil importer around 2005. Indonesia currently produces around 1.5 million barrels of crude and condensates per day, Sudjana said.</p>
+<p>Sudjana said Indonesia was working to exploit other forms of energy to preserve its crude oil reserves -- such as geo-thermal energy, gas and hydro power.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

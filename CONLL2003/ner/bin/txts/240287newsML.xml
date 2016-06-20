@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240287" id="root" date="1996-12-06" xml:lang="en">
+<title>NETHERLANDS: ARA bunkers dip, European buying dries up.</title>
+<headline>ARA bunkers dip, European buying dries up.</headline>
+<dateline>AMSTERDAM 1996-12-06</dateline>
+<text>
+<p>ARA bunkers dipped on Friday, while prices in other European ports were steady, but buying everywhere dried up as crude oil tumbled.</p>
+<p>Crude's weakness came after reports that Iraq oil exports may flow on Tuesday.</p>
+<p>Rotterdam 380 cst dipped by $1/$2 a tonne to $126/$127 fob as the barge market made only a partial recovery from initial sharp losses.</p>
+<p>Immediate deliveries remained tight, but the supply from Rotterdam next week were expected to improve. Many buyers also covered midweek.</p>
+<p>&quot;Almost all of (the buyers) have delayed their decisions until next week as they believe the prices will be weaker then,&quot; one supplier said.</p>
+<p>Hamburg prices were also marginally lower and buyers were scarce.</p>
+<p>Bunkers in Mediterranean ports were mostly steady and demand everywhere was low.</p>
+<p>Spanish ports were quietened by a national holiday.</p>
+<p>-- Amsterdam Newsroom +31 20 504 5000, Fax 31 20 504 5040</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NETH">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMSTERDAM"/>
+<dc element="dc.creator.location.country.name" value="NETHERLANDS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

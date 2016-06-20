@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240147" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Perry says no evidence of Gulf War bio weapons ills.</title>
+<headline>Perry says no evidence of Gulf War bio weapons ills.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Defence Secretary William Perry said Friday there is no evidence that U.S. Gulf War troops were exposed to Iraqi biological weapons, but said that cannot be completely ruled out.</p>
+<p>&quot;We have no evidence of any exposure to biological weapons,&quot; Perry told reporters.</p>
+<p>&quot;But since we know that the Iraqis had the weapons we have to continue to examine data and we cannot categorically rule it out,&quot; he said. &quot;We do not believe that is the case because we have no such evidence.&quot;</p>
+<p>Perry made the comments when asked about an ABC News report that some experts believe U.S. troops were exposed during the 1991 war to Iraqi biological agents such as aflatoxin.</p>
+<p>The report quoted Jonathan Tucker, a former staff member of President Bill Clinton's Advisory Commission on Gulf War Illness, as saying such weapons could be connected to the flu-like symptoms reported by thousands of Gulf War veterans because the weapons produce similar symptoms.</p>
+<p>The ABC report said aflatoxin, which initially only makes people sick but can kill them years later, was in Iraqi weapons and could have been released by Iraq deliberately or in allied bombing raids on Iraqi laboratories.</p>
+<p>Perry made the comments during a photo session before meeting with Argentine Defence Minister Jorge Dominguez.</p>
+<p>Perry also said Sen. William Cohen, President Clinton's nominee to succeed Perry as defence secretary, will begin getting briefings at the Pentagon Monday in preparation for taking over the job.</p>
+<p>Perry said he will stay until Cohen, who would be the first Republican Cabinet member in Clinton's Democratic administration, is confirmed by the Senate probably in January.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

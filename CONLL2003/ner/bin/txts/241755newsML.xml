@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241755" id="root" date="1996-12-07" xml:lang="en">
+<title>PHILIPPINES: Philippine Jan-Nov car sales up by 24 pct.</title>
+<headline>Philippine Jan-Nov car sales up by 24 pct.</headline>
+<dateline>MANILA 1996-12-07</dateline>
+<text>
+<p>Passenger car sales for the first 11 months of the year rose 24 percent to 80,368 units from 64,746 in the same period last year, the Chamber of Automotive Manufacturers of the Philippines (Campi) said.</p>
+<p>The local unit of Honda Motor Co Ltd led with 18,347 cars sold while the Philippine branch of Toyota Motor Corp sold 17,589 cars, Campi said at the weekend.</p>
+<p>The Philippine Automotive Manufacturing Corp, assembler of Mitsubishi cars, ranked third, selling 13,728 vehicles. Nissan Motor Phils Inc, a unit of Nissan Motor Co Ltd, had total sales of 11,217 units.</p>
+<p>The Columbian Motors group, Philippine assembler of Mazda, Subaru, Kia and BMW sold 12,501 cars during the 11-month period.</p>
+<p>Other car brands made up the remainder of sales. -- Manila newsroom 63 2 8418939, Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

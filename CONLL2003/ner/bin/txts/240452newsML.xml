@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240452" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: Canada's unemployment flat at 10.0 pct in Nov.</title>
+<headline>Canada's unemployment flat at 10.0 pct in Nov.</headline>
+<dateline>OTTAWA 1996-12-06</dateline>
+<text>
+<p>Statistics Canada said on Friday the unemployment rate was unchanged at 10.0 percent in November from October.</p>
+<p>				     Oct 96	Oct 96</p>
+<p>Labor force		     15.26	 15.24</p>
+<p>Employment			13.73	 13.72</p>
+<p>Unemployment		     1.53	  1.53</p>
+<p>Unemployment rate	     10.0 pct    10.0 pct</p>
+<p>Participation rate	    65.0 pct    65.0 pct</p>
+<p>Note - Labor force, employment and unemployment in millions, on seasonally adjusted basis.  </p>
+<p>A Reuters survey of economists had forecast the unemployment rate to drop to 9.8 percent and employment to grow by 39,000 in November.</p>
+<p>Part-time employment rose by 30,000 from the month before, but most of the gains were erased by declines in full-time employment.</p>
+<p>Statistics Canada said employment rose 35,000 since April, compared to 202,000 in the first four months of the year.</p>
+<p>Employment in the service sector grew by 44,000 in November, the strongest monthly increase so far this year. But on a year-over-year basis, it rose only 0.7 percent or 70,000.  </p>
+<p>Employment in the goods producing sector rose 2.8 percent from the same time last year.</p>
+<p>There was little change in either private or public employment in November. A 40,000 gain among self-employed workers was offset by a 37,000 private employee jobs loss.</p>
+<p>Province			UE rate (pct)   Change (pct point)</p>
+<p>Newfoundland		    18.5	     -1.3</p>
+<p>Prince Edward Island	  15.3	     +0.4</p>
+<p>Nova Scotia		     12.9	     -0.2</p>
+<p>New Brunswick		   12.9	     +0.2</p>
+<p>Quebec			    12.6	     +0.2</p>
+<p>Ontario			    9.3	     +0.2</p>
+<p>Manitoba			   7.6	     +0.6</p>
+<p>Saskatchewan		     6.0	     -0.3</p>
+<p>Alberta			    6.6	     -0.6</p>
+<p>British Columbia		 9.5	     -0.3</p>
+<p>(For more information from Statistics Canada, contact Doug Drew at 613-951-4720, Jean-Marc Levesque at 613-951-2301 or the information line at 613-951-9448.)</p>
+<p>((Reuters Ottawa Bureau, 613-235-6745))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OTTAWA"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241009" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Swedish shares end down, but off lows, on U.S..</title>
+<headline>Swedish shares end down, but off lows, on U.S..</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish shares ended off day lows on Friday in relief after Wall Street did not open as low as feared.</p>
+<p>The exchange's general index fell 1.58 percent to 2,287.35 from a day-earlier record high. But the index recovered late in the session from a day low of 2,235.19.</p>
+<p>In line with market trends, drugs major Astra rebounded somewhat from day lows and ended 4.5 crowns lower at 332 crowns after rising nine crowns on Thursday.</p>
+<p>Telecommunications group Ericsson dropped 4.5 crowns to 199 crowns.</p>
+<p>Astra and Ericsson dominated the trade with 2.1 billion crowns of total turnover, which landed at the high level of 6.25 billion crowns.</p>
+<p>During the day, the market was depressed by U.S. Federal Reserve Chairman Alan Greenspan warning of &quot;irrational exuberance&quot; infecting financial markets.</p>
+<p>But dealers and analysts expect the downturn to be shortlived and see the market stablising in a few days.</p>
+<p>Among sectors, the building and construction and forestry groups were the hardest hit, down 2.22 percent and 2.11 percent, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

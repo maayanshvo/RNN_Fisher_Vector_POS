@@ -1,0 +1,14 @@
+Micro Component launches chip system.
+
+ST. PAUL, Minn. 1996-12-06
+
+Micro Component Technology Inc said Friday it had introduced a new type of semiconductor manufacturing system as part of a project with Credence Systems Corp.
+
+The so-called Centaur system workcell allows several steps in the computer chip manufacturing process to be executed together, said Micro Component.
+
+The system also provides for complete integration of the tester, handler, manipulator, loadboard and contactor for chip testing devices.
+
+Micro Component manufactures test-handling equipment for the semiconductor industry.
+
+-- Chicago Newsdesk (312) 408-8787
+

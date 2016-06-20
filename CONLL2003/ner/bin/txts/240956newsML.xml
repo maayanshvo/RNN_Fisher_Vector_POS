@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240956" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Jochimsen - dlr rise due more to weak European units.</title>
+<headline>Jochimsen - dlr rise due more to weak European units.</headline>
+<dateline>DUESSELDORF, Germany 1996-12-06</dateline>
+<text>
+<p>Bundesbank council member Reimut Jochimsen said on Friday that the recent rise in the dollar was based on the relative weakness of European currencies.</p>
+<p>&quot;The dollar appreciation was not real dollar strength but European weakness,&quot; Jochimsen said.</p>
+<p>He said there had been speculation in foreign exchange markets about how stable the future European single currency would be.</p>
+<p>--Frankfurt Newsroom + 49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUESSELDORF, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

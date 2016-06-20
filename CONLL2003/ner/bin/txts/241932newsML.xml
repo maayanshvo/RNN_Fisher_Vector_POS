@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241932" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: India suggests world fund for alternative energy.</title>
+<headline>India suggests world fund for alternative energy.</headline>
+<dateline>GOA, India 1996-12-07</dateline>
+<text>
+<p>Indian foreign minister I.K. Gujral suggested on Saturday that an international fund be created to study alternative sources of energy.</p>
+<p>The minister suggested one way to raise money for the fund would be for individual governments to impose a levy of one cent per barrel on oil, delegates at an oil consumer-producer meeting here said.</p>
+<p>The minister floated the idea during morning sessions, which were closed to reporters.</p>
+<p>Proceeds would support an internationally-managed fund which would focus on alternative energy technology, delegates quoted the minister as saying.</p>
+<p>The minister did not outline a framework or model for the fund, but said it was one idea that may be acceptable to both oil producers and consumers.</p>
+<p>The meeting in this Indian resort region is the fifth since producer-consumer gatherings were established in the wake of the Gulf War oil price scare.</p>
+<p>The need to develop alternative, cleaner sources of power is frequently invoked but, barring technological breakthroughs, fossil fuels such as oil, coal and natural gas are expected to provide the bulk of the world's energy needs for the forseeable future.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I16300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

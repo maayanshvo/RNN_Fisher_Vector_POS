@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241181" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: TIFFE Euroyen futures end down in Tokyo.</title>
+<headline>TIFFE Euroyen futures end down in Tokyo.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Dec 6 settlement  prev settlement</p>
+<p> TIFFE Euroyen 3M (U)     99.16		   99.21</p>
+<p>---------------------------------------------------------------</p>
+<p>The September Euroyen futures contract ended Friday's Tokyo day session down, but off lows.</p>
+<p>The September fell as low as 99.12 following a plunge in Japanese government bond (JGB) futures, but had managed to recoup some ot its losses by the end of the session. The volume was 88,458 contracts.</p>
+<p>The key March JGB futures contract closed down 0.96 at 125.38 on a combination of bearish factors.  </p>
+<p>JGBs were battered by a market rumour that the Bank of Japan (BOJ) may stop buying JGBs from the secondary market.</p>
+<p>The rumour was later denied by the BOJ, but March JGB futures had managed to erase only part of their losses.</p>
+<p>Also, a slide in U.S. Treasuries and large-lot sales of the benchmark cash JGB by Asian investors accentuated the fall.</p>
+<p>&quot;Euroyen futures followed JGB futures down. The yield curve steepened as the long-end suffered the biggest loss,&quot; said a trader at a city bank.</p>
+<p>&quot;We may have already seen a big turnaround in market sentiment,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

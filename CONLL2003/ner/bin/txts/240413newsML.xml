@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240413" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Stocks skid on Greenspan's market warning.</title>
+<headline>Stocks skid on Greenspan's market warning.</headline>
+<dateline>NEW YORK</dateline>
+<text>
+<p>Stocks fell sharply Friday as Federal Reserve Chairman Alan Greenspan's warning over &quot;irrational exuberance&quot; in financial markets was seen as a hint the central bank may raise interest rates to cool things down.</p>
+<p>Based on early and unofficial data, the Dow Jones industrial average ended down 55.16 points at 6,381.95 after earlier falling more than 140 points. In the broader market, declining issues swamped advances 4-1 on heavy volume of 505 million shares on the New York Stock Exchange.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

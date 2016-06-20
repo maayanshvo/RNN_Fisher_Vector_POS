@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239329" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: AutoZone promotes Adams to chief executive.</title>
+<headline>AutoZone promotes Adams to chief executive.</headline>
+<dateline>MEMPHIS, Tenn. 1996-12-06</dateline>
+<text>
+<p>AutoZone Inc said on Friday that Johnston Adams Jr. was assuming the title of chief executive officer from J.R. Hyde III.</p>
+<p>Hyde will continue to serve as chairman.</p>
+<p>Adams, previously chief operating officer, will be elected president and chief executive officer at the company's board meeting on December 12, 1996, AutoZone said.</p>
+<p>Vice Chairman Timothy Vargo will be named to the additional post of chief operating officer, the auto parts retailer said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I65400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEMPHIS, Tenn."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241540" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: GOLF-THIRD ROUND OF JCPENNEY CLASSIC WASHED OUT.</title>
+<headline>GOLF-THIRD ROUND OF JCPENNEY CLASSIC WASHED OUT.</headline>
+<dateline>TARPON SPRINGS, Florida 1996-12-07</dateline>
+<text>
+<p>Heavy rains on Saturday washed out the third round of the $1.5 million JCPenney Classic at the Innisbrook Hilton Resort.</p>
+<p>Officials said the tournament would be reduced to 54 holes for the first time in its 37-year history.</p>
+<p>The final round of the special event, which pairs players from the PGA and LPGA Tours, will be played in the alternate shot format on Sunday.</p>
+<p>The duo of Pat Hurst and Scott McCarron were tied for the lead with the team of Donna Andrews and Mike Hulbert at 13-under-par 129 through 36 holes.</p>
+<p>The tandem of reigning U.S. Amateur champions Kelli Kuehne and Tiger Woods were another shot back at 12-under 130.</p>
+<p>Defending champions Beth Daniel and Davis Love will start the final round six shots off the pace.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TARPON SPRINGS, Florida"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

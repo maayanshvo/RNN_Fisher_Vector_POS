@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239142" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: FIVE DIE AS CROP PLANE COLLIDES WITH PICKUP.</title>
+<headline>FIVE DIE AS CROP PLANE COLLIDES WITH PICKUP.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>Five people were killed and one slightly injured when a crop-spraying airplane crashed into a light delivery vehicle while preparing for takeoff in South Africa's North West region, state radio reported on Friday.</p>
+<p>The freak accident occurred in Mafikeng on Thursday. The pilot survived the crash, but the driver and passengers of the bakkie were killed.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

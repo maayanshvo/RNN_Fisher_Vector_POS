@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239360" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: ConEd to shut 1,000 MW NY power unit today.</title>
+<headline>ConEd to shut 1,000 MW NY power unit today.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Consolidated Edison Co of New York (ConEd) Friday said it will shut a 1,000 megawatt (MW) unit at its Ravenswood generating complex later today for scheduled maintenance.</p>
+<p>The unit in Long Island City, N.Y., was planned to resume operation December 16 following the &quot;winter firm-up outage,&quot; said a company spokesman.</p>
+<p>The Ravenswood's unit 1 remained shut for an extensive maintenance program until next year, and unit 2 stayed in reserve shutdown, he said.  Units 1 and 2 have combined capacity of 742 MW.</p>
+<p>ConEd is the operator and sole owner of the Ravenwood units, which use fuel oil and/or natural gas to generate electricity.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

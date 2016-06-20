@@ -1,0 +1,24 @@
+Petro-Canada raises light oil prices.
+
+COMPANY	 EFF DATE	LT SWEET		LT SOUR
+
+				CDLR/BBL CDLR/M3   CDLR/BBL   CDLR/M3
+
+IMPERIAL OIL  12/05/96   34.34  216.00	33.23     209.00
+
+SHELL CANADA  12/05/96   34.18  215.00	33.07     208.00
+
+SUNCOR*	 12/05/96   34.34  216.00	33.23     209.00
+
+PETRO-CANADA  12/05/96   34.18  215.00	33.39     210.00
+
+KOCH OIL	12/05/96   34.02  214.00	32.75     206.00
+
+Light sweet marker crude
+
+ at Edmonton/Swan Hills......40 API, 0.3 pct sulphur
+
+Light sour at Cromer, Man....33 API, 1.1 pct sulphur
+
+*Suncor light sour...........35 API, 1.2 pct sulphur
+

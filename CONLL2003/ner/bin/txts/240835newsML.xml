@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240835" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S air industry cites need for safety improvements.</title>
+<headline>U.S air industry cites need for safety improvements.</headline>
+<byline>Robert Trautman</byline>
+<dateline>WASHINGTON 1996-12-05</dateline>
+<text>
+<p>Airline industry officials said Thursday that early utilization of new safety equipment and a modernized air traffic control system were vital to keeping the nation's crowded skies safe.</p>
+<p>They said the technologies include equipment to alert pilots to unexpected approaching terrain. Such technology could have helped pilots avoid mountain crashes and saved hundreds of lives in recent years.</p>
+<p>The calls for new technology and air traffic control modernization were made to the Presidential Commission on Aviation Safety and Security, formed after the July 17 explosion of TWA Flight 800 that killed 230 people.</p>
+<p>A United Airlines official told the panel that the new safety device to avoid &quot;controlled flight into terrain&quot; was being tested on 18 of its planes and, if it worked, would be installed on all United planes by the year 2000.</p>
+<p>United's vice president for corporate safety and security, Edmond Soliday, said use of the device likely would have enabled the plane carrying Commerce Secretary Ron Brown to avoid crashing into a mountain in Croatia and an American Airlines jet avoid hitting a mountain in Colombia in 1995.</p>
+<p>Brown and 34 others were killed in the Croatia crash while 159 people in the American Airlines crash.</p>
+<p>Other new safety devices included equipment to alert pilots that they may be approaching dangerous wind shear conditions.</p>
+<p>John O'Brian, director of engineering and air safety for the Air Line Pilots Association, said the system has been a stage of &quot;insidious deterioration&quot; and modernization was needed in order to cope safely with the increasing demand for air transportation.</p>
+<p>Barry Krasner, president of the National Air Traffic Controllers Association, said that while airlines were posting record traffic figures and profits, &quot;the ground-based air traffic control infrastructure outdated and unable to keep pace with expansion.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I76400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

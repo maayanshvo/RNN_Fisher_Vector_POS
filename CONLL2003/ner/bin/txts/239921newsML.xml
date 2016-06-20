@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239921" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: LG Merchant Bank closes US$50 mln FRCD.</title>
+<headline>LG Merchant Bank closes US$50 mln FRCD.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>LG Merchant Banking Corp's US$50 million floating rate certificate of deposit issue has been completed on a club deal basis, bankers said.</p>
+<p>They said the facility has a final maturity of five years with a put and a call option in year three.</p>
+<p>The issue is priced at par to float at 55 basis points over the three-month London Interbank Offered Rate.</p>
+<p>Management fees are 39 basis points for participants.</p>
+<p>Particpating banks include KDB UK, Bayeriche Landesbank Asia, ING Baring Securities Hong Kong, Korea First Bank, Sumitomo Finance Asia, Shinhan Bank and Baden-Wurttembergische Bank AG.</p>
+<p>--Hong Kong Newsroom (852) 2847 4039</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

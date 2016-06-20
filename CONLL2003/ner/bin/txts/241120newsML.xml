@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241120" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-&quot;Dr Doom&quot; Faber sees world economic troubles.</title>
+<headline>RTRS-&quot;Dr Doom&quot; Faber sees world economic troubles.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>The world is undergoing changes similar to those characterising the periods leading up to the deflationary recession after 1873 and the 1920s which preceded the Great Depression, Hong Kong-based investment adviser Marc Faber, better known as &quot;Doctor Doom&quot;, said on Friday.</p>
+<p>&quot;The threat of a deflationary recession beginning sometime over the next six to nine months is higher than it has ever been since the late 1920s,&quot; Faber said in a speech to a futures exchange regulators meeting in Sydney.  </p>
+<p>A deflationary recession would have very negative implications on growth in Asia, where massive over-investment based on optimistic export expectations have been made in many countries, said Faber, author of the &quot;Gloom, Boom and Doom Report.&quot;</p>
+<p>&quot;Slower growth or recessions would also lead to a less stable political environment,&quot; Faber said.</p>
+<p>He said he doubted monetary policies would be able to steer the global economy around a deflationary recession, largely because the damage had already been done.  </p>
+<p>&quot;In a deflationary recession, the highest quality bonds significantly outperform lower quality bonds,&quot; Faber said.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

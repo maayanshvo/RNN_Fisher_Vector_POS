@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241315" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: PNCC signs MOU with HK firm on possible jv.</title>
+<headline>PNCC signs MOU with HK firm on possible jv.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Tollway operator and construction firm Philippine National Construction Corp said on Friday it signed a memorandum of understanding with Hongkong Concrete Company Limited that could pave the way for a joint venture agreement.</p>
+<p>PNCC president Rogelio Luis said in a statement the company was considering setting up a joint venture for a cement silo plant and concrete hatching plant.</p>
+<p>They will also explore other areas of cooperation in construction materials.</p>
+<p>Government-controlled PNCC also said it signed an agreement for the immediate construction of a road project with the state's Bases Conversion Development Authority and its subsidiaries Clark Development Corp and Clark International Airport Corp.</p>
+<p>The project, the six-kilometre Mabalacat-Clark Spur Road, will have a four-lane expressway.</p>
+<p>It is scheduled to be finished late next year.</p>
+<p>- Manila newsroom 63 2 841-8937 fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I5020041">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

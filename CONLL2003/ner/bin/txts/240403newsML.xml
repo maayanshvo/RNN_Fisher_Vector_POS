@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240403" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: India call money quoted at 0.10-0.25 pct on Friday.</title>
+<headline>India call money quoted at 0.10-0.25 pct on Friday.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Indian call money rates were quoted at 0.10-0.25 percent on Friday, the fortnightly reporting day for banks, dealers said.</p>
+<p>Dealers expect call rates to open around 4.0-5.0 percent on Saturday, the first day of the new fortnight.</p>
+<p>&quot;Next fortnight is expected to be tight with the third instalment of advance taxes which will flow out in the second half of December,&quot; ICICI Securities and Finance Company said in a debt market survey released earlier this week.</p>
+<p>&quot;Profitability of the corporate sector for the first half of 1996/97 has shown a dip due to higher interest cost and hence the advance tax outflow will be significantly lower than in September,&quot; the report said.</p>
+<p>It estimated the advance tax outflow between 40 and 50 billion rupees.</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241236" id="root" date="1996-12-06" xml:lang="en">
+<title>INDONESIA: Japan to boost military cooperation with Indonesia.</title>
+<headline>Japan to boost military cooperation with Indonesia.</headline>
+<dateline>JAKARTA 1996-12-06</dateline>
+<text>
+<p>Japan and Indonesia have agreed to increase military cooperation, the chairman of Japan's Joint Staff Council, General Shigeru Sugiyama, said on Friday.</p>
+<p>&quot;We will further increase the military relationship between Indonesia and Japan. It will bring a new era between the two countries,&quot; he told reporters after a meeting with Indonesia's President Suharto.</p>
+<p>Sugiyama arrived in Jakarta on Thursday for a four-day visit.</p>
+<p>Japan's military cooperation with Indonesia has been limited to the participation of Japanese naval vessels in joint exercises.</p>
+<p>No further details on the military cooperation agreement were available.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JAKARTA"/>
+<dc element="dc.creator.location.country.name" value="INDONESIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239704" id="root" date="1996-12-06" xml:lang="en">
+<title>SLOVAKIA: Bomb explodes outside home of expelled Slovak MP.</title>
+<headline>Bomb explodes outside home of expelled Slovak MP.</headline>
+<dateline>BRATISLAVA 1996-12-06</dateline>
+<text>
+<p>A bomb exploded on Friday outside the home of a Slovak politician expelled from parliament after he quit the ruling party, complaining of a lack of democracy in the country.</p>
+<p>The official TASR news agency said the explosion blew out all ground floor windows of Frantisek Gaulieder's family home in Galanta, western Slovakia, and damaged the main entrance, but no-one was injured.</p>
+<p>Gaulieder, formerly a member of Prime Minister Vladimir Meciar's ruling Movement for a Democratic Slovakia, was stripped of his parliamentary mandate on Wednesday after leaving the party last month in protest over what he said was a lack of democracy in the country.</p>
+<p>He said he had been receiving anonymous death threats since making the move.</p>
+<p>&quot;This was an act of terrorism and now I fear not only for my own life, but also of that of my wife and children,&quot; he told TASR. Gaulieder's family was sleeping in a bedroom at the back of the house and were unharmed by the blast.</p>
+<p>It was not immediately clear who was behind the blast.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVAK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRATISLAVA"/>
+<dc element="dc.creator.location.country.name" value="SLOVAKIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

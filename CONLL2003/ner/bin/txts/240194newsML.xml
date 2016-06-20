@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240194" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BG&amp;E power plant gets favorable NRC report.</title>
+<headline>BG&amp;E power plant gets favorable NRC report.</headline>
+<dateline>BALTIMORE 1996-12-06</dateline>
+<text>
+<p>Baltimore Gas and Electric Co said its Calvert Cliffs Nuclear Power Plant received top ratings in three of four areas assessed by the U.S. Nuclear Regulatory Commission (NRC).</p>
+<p>In the NRC's survey that takes place every 18 months, the power plant received the agency's top ratings for operations, engineering and plant support and an &quot;average&quot; rating in maintenance, the company said.</p>
+<p>&quot;Management actions consistently reflected a strong safety perspective,&quot; the company quoted from the report. &quot;Operator performance continued to be strong an appropriately focused on reactor safety.&quot;</p>
+<p>The report covered a period from May 14, 1995 to October 19, 1996, the company said.</p>
+<p>Baltimore Gas and Electric said the report noted some equipment liability problems affected plant operations and stronger oversight and control of off-site maintenance work groups is needed. The company said it is addressing these concerns.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BALTIMORE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240405" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: INDIA-Ceat quotes on government securities-Dec 6.</title>
+<headline>INDIA-Ceat quotes on government securities-Dec 6.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Ceat Financial Services said it made the following two-way quotes on Friday for dated government securities and treasury bills</p>
+<p>.</p>
+<p>Government securities</p>
+<p>---------------------</p>
+<p>.</p>
+<p>Particulars		    Bid/Offer	 Ytm(%)</p>
+<p>-----------------------------------------------------</p>
+<p>11.00% 2002		  89.95/90.40     13.73/13.60</p>
+<p>14.00% 2006		 101.80/102.35    13.76/13.66</p>
+<p>13.85% 2006(A)	    101.05/101.55    13.81/13.71</p>
+<p>.</p>
+<p>* To contribute to this daily composite rate, please telephone Samir Shah on 022 265-9000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239624" id="root" date="1996-12-06" xml:lang="en">
+<title>ALBANIA: Albanian jailed for threat of bomb suicide.</title>
+<headline>Albanian jailed for threat of bomb suicide.</headline>
+<dateline>TIRANA 1996-12-06</dateline>
+<text>
+<p>An Albanian court on Friday sentenced a man who threatened to blow himself up outside President Sali Berisha's office to 13 years in jail for guerrilla action and illegal possession of arms.</p>
+<p>Buza last April said he would blow himself up outside the presidential palace unless he was allowed to speak to Berisha, who was at the time meeting Italian President Oscar Luigi Scalfaro.</p>
+<p>Buza was overpowered by riot police less than one hour after he began his action.</p>
+<p>&quot;Evaluating all the conditions of the case the court thinks the sentence should be lower than the minimum (15 years),&quot; Tirana judge Qazim Gjonaj added.</p>
+<p>The defendant denied the charges, saying his action was intended to urge the authorities to give him a $20,000 loan.</p>
+<p>Medical experts had concluded Buza was mentally unstable but fully responsible for the act he had committed, Gjonaj said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIRANA"/>
+<dc element="dc.creator.location.country.name" value="ALBANIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

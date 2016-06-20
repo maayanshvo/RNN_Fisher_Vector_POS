@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241612" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: SOCCER-MONACO HELD TO GOALLESS DRAW BY GUINGAMP.</title>
+<headline>SOCCER-MONACO HELD TO GOALLESS DRAW BY GUINGAMP.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>Monaco failed to take full advantage of the shock defeat by arch rivals Paris St Germain by Nancy 24 hours earlier when they were held to a goalless draw at home by Guingamp on Saturday.</p>
+<p>A win would have allowed in-form Monaco to seize a two-point lead over PSG.</p>
+<p>But Monaco, who had won their last four matches, were unable to break down a solid Guingamp defence and had to be content with taking over at the top of the table on goal difference.</p>
+<p>Bastia moved into third spot with a 1-0 win over bottom-of-the-table Nice while Bordeaux were beaten 2-1 by champions Auxerre.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MONAC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

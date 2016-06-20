@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240735" id="root" date="1996-12-06" xml:lang="en">
+<title>CYPRUS: Cyprus puts new hopes in Albright for breakthrough.</title>
+<headline>Cyprus puts new hopes in Albright for breakthrough.</headline>
+<dateline>NICOSIA 1996-12-06</dateline>
+<text>
+<p>Cyprus on Friday congratulated Madeleine Albright on her appointment as U.S. Secretary of State and expressed hopes her knowledge of the long-standing dispute dividing the island would work to Cyprus's benefit.</p>
+<p>&quot;There is no doubt that when the U.S. Secretary of State is familiar with the Cyprus problem this is an advantage to our national issue,&quot; government spokesman Yiannakis Cassoulides told a news briefing.</p>
+<p>President Bill Clinton on Thursday named Albright, his U.N. ambassador for nearly four years, as secretary of state to replace Warren Christopher.</p>
+<p>The United States is expected to launch an initiative in coming months to spur negotiations between the Greek and Turkish Cypriot communities on the island.</p>
+<p>Turkey invaded northern Cyprus in 1974 after a coup in Nicosia engineered by the military junta in Greece.</p>
+<p>A small army of mediators, including Albright, have tried to make headway in the dispute for years but have failed to achieve progress to reunite the island under a federal umbrella.</p>
+<p>In her capacity as Washington's ambassador to the United Nations Albright visited Cyprus in July where she had meetings with Cypriot President Glafcos Clerides and Turkish Cypriot leader Rauf Denktash.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,24 @@
+London LIFFE futures APT closing prices.
+
+LONDON 1996-12-06
+
+London International Financial Futures Exchange automated pit trading (APT) tabular details:
+
+   CONTRACT (MONTH)	APT CLOSE  SETTLEMENT  PREVIOUS SETTLE
+
+   LONG GILT (DEC) (1/32)   109-17	109-18	     110-13
+
+   SHORT STERLING (DEC)	93.62	 93.61		93.61
+
+   GERMAN GOVT BOND (MAR)   100.22	100.01	     100.70
+
+   EUROMARK (DEC)		96.77	 96.76		96.76
+
+   ITALIAN GOVT BOND (MAR)  127.57	127.40	     128.61
+
+   EUROLIRA (DEC)		92.85	 92.84		92.94
+
+    EUROSWISS (DEC)	     97.82	 97.82		97.82
+
+   FTSE 100 (DEC)	   3,970.00    3,955.00	   4,054.00
+

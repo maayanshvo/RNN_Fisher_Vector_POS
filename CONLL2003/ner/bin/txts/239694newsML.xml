@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239694" id="root" date="1996-12-06" xml:lang="en">
+<title>YUGOSLAVIA: Serbian information minister quits.</title>
+<headline>Serbian information minister quits.</headline>
+<dateline>BELGRADE 1996-12-06</dateline>
+<text>
+<p>Serbian Information Minister Aleksander Tijanic resigned on Friday but claimed his departure had nothing to do with street protests shaking the socialist government of President Slobodan Milosevic.</p>
+<p>Milosevic has begun a purge of socialists accused of rigging the results of local elections against an opposition coalition last month, setting off 19 days of demonstrations.</p>
+<p>Political sources said Tijanic was among the officials being made scapegoats, but the minister told journalists he resigned two weeks ago for other reasons.</p>
+<p>He said he was dissatisfied with the situation in the media but refused to answer questions.</p>
+<p>The socialists control Serbian television and the main newspapers which have given little publicity to the daily demonstrations, attracting more than 100,000 people, while vilifying opposition leaders.</p>
+<p>The authorities shut down Belgrade's main independent radio B-92 this week because it was transmitting live reports of the demonstrations but they were forced to let it back on the air by a U.S.-led international outcry.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="YUG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BELGRADE"/>
+<dc element="dc.creator.location.country.name" value="YUGOSLAVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

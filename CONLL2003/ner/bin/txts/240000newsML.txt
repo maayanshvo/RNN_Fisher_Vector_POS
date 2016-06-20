@@ -1,0 +1,66 @@
+PRESALE - New York State.
+
+AMT: 106,045,000    DATE: 12/10/96	NYC Time: 1100     CUSIP: 649810
+
+ISSUER: New York State						 ST: NY
+
+ISSUE: Certificates of participation			     TAX STAT: Exempt-REV
+
+M/SP/F: NA/NA/A							  BOOK ENTRY: Y
+
+ENHANCEMENTS: None						     BANK QUAL: N
+
+DTD: 12/01/96							    SURE BID: Y
+
+DUE: see note						 SR MGR:
+
+1ST CPN: 02/01/97
+
+CALL: Non-Callable					  NIC
+
+DELIVERY: 12/19/96 approx				 ORDERS:
+
+PAYING AGENT: Manufacturers & Traders Trust Co., Buffalo
+
+L.O.: Hawkins, Delafield & Wood, New York
+
+F.A.: O'Brien Partners Inc., New York
+
+LAST SALE: $46,690,000 11/21/95 @ 5.0602% TIC; 3yrs 1mos Avg; BBI- 5.65%
+
+NOTES: 8/1/97; 2/1 & 8/1/98-04
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+08/01/97	    5,280,000
+
+02/01/98	    9,335,000
+
+08/01/98	   11,550,000
+
+02/01/99	   12,790,000
+
+08/01/99	   13,550,000
+
+02/01/00	   13,980,000
+
+08/01/00	    9,955,000
+
+02/01/01	    7,965,000
+
+08/01/01	    7,275,000
+
+02/01/02	    6,120,000
+
+08/01/02	    4,070,000
+
+02/01/03	    2,380,000
+
+08/01/03		925,000
+
+02/01/04		555,000
+
+08/01/04		315,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

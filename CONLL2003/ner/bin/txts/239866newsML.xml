@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239866" id="root" date="1996-12-06" xml:lang="en">
+<title>CHINA: S.Korea's Kumho China tyre plant opens.</title>
+<headline>S.Korea's Kumho China tyre plant opens.</headline>
+<dateline>BEIJING 1996-12-06</dateline>
+<text>
+<p>A $120 million tyre joint venture between South Korea's Kumho Co Ltd and China has started production, the official Xinhua news agency said on Friday.</p>
+<p>The first phase of the Nanjing-Kumho Tyre Corp Ltd in Nanjing in the eastern province of Jiangsu would produce three million tyres a year, Xinhua said.</p>
+<p>&quot;The company will expand its manufacturing scale to meet the needs of China's automotive industry,&quot; the agency quoted a company director as saying.</p>
+<p>The plant was China's largest tyre factory, Xinhua said but gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I48110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIJING"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

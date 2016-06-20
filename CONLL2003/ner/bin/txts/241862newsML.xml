@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241862" id="root" date="1996-12-07" xml:lang="en">
+<title>ITALY: Italy industrialist criticises government.</title>
+<headline>Italy industrialist criticises government.</headline>
+<dateline>MILAN 1996-12-07</dateline>
+<text>
+<p>Giorgio Fossa, head of Italy's influential Confindustria industrialists group, said on Saturday that if the goverment did not do more to help business it would be swept away.</p>
+<p>&quot;If the government doesn't change course, the country itself will sweep it away,&quot; Fossa told a business convention in Milan.</p>
+<p>&quot;We have a government which should make it easier for companies to create new jobs and instead it raises taxes and therefore does not understand the reality of the country,&quot; he said.</p>
+<p>Leaders of Prime Minister Romano Prodi's centre-left government, which took office last May, criticised Fossa.</p>
+<p>&quot;Such a radical statement by a man who holds such an important position in our economy is on the limits of irresponsibility,&quot; said Mauro Zani of the ex-communist Democratic Party of the Left (PDS), the largest coalition party.</p>
+<p>Members of the opposition centre-right Freedom Alliance welcomed Fossa's comments.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

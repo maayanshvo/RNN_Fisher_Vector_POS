@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240558" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: SEC has no comment on NYSE circuit-breakers action.</title>
+<headline>SEC has no comment on NYSE circuit-breakers action.</headline>
+<dateline>WASHINGTON 1996-12-05</dateline>
+<text>
+<p>The Securities and Exchange Commission said Thursday it has no comment on an action by the New York Stock Exchange increasing the trigger points for market-wide circuit breakers.</p>
+<p>The Big Board's action was announced so late in the day that the agency could not immediately comment, said SEC spokeswoman Jennifer Scardino.</p>
+<p>The NYSE's action calls for a half-hour trading halt across all U.S. equities and futures markets if the Dow Jones Industrial Average falls 350 points from the previous day's close and a one-hour halt at minus 550 points.</p>
+<p>The current levels are 250 and 400 points, respectively.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

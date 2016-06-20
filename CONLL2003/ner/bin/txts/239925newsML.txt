@@ -1,0 +1,20 @@
+Oji Paper sets terms on straight bond.
+
+TOKYO 1996-12-06
+
+BORROWER - Oji Paper Co Ltd
+
+LEAD MGR - Dai-ichi Kangyo Sec
+
+FISCAL AGENT - Sakura Bank Ltd
+
+ TYPE straight bond   ISSUE NO   15	 AMT   40 bln yen
+
+ COUPON 2.45%	   ISS PRICE  100.00   MATURITY 12.Dec.03
+
+ LAST MOODY'S	   PAY DATE 12.Dec.96  INT PAY 12th Jun/Dec
+
+ LAST S&P		 SIGN DATE	     SUB DATE 6.Dec
+
+ LAST JCR		 LAST JBRI  AA-	LAST NIS
+

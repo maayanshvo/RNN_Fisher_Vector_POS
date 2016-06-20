@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240189" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Scholastic files $150 mln shelf debt, stock.</title>
+<headline>Scholastic files $150 mln shelf debt, stock.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Scholastic Corp said Friday it filed a shelf registration with the Securities and Exchange Commission to sell up to $150 million in debt securities and preferred and common stock.</p>
+<p>The debt securities may be either senior debt securities or subordinated debt securities, the New York-based company said in the filing.</p>
+<p>Net proceeds from the sale of the securities will be added to the company's general funds and used for general corporate purposes, which may include the repayment of indebtedness, capital expenditures and possible acquisitions.</p>
+<p>Scholastic is a publisher and distributor of children's books, classroom and professional magazines and other educational materials.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47530">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

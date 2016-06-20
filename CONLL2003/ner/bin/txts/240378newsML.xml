@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240378" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian copper prices weaken on oversupply.</title>
+<headline>Indian copper prices weaken on oversupply.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Indian copper prices weakened on Friday on improved arrivals amid fresh offerings by the state-owned Hindustan Copper Ltd, dealers said.</p>
+<p>Other base metals finished steady. Ready copper fell by 50 rupees at 12,700 rupees per quintal. &quot;Sluggish physical enquiries also kept market quiet,&quot; one dealer said.</p>
+<p>Zinc gained by 25 rupees at 6,475 rupees on a shortage of ready stock and fresh physical support. Lead was unchanged at 4,450 rupees. Tin was steady at the improved level of 35,100 rupees. Nickel was quiet at 37,100 rupees and aluminium at 7,300 rupees. Overall volumes were dull.</p>
+<p>-- Bombay Commoditiies +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

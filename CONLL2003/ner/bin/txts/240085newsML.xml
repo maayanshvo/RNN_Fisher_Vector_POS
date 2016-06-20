@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240085" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. barges lightly quoted on call session.</title>
+<headline>U.S. barges lightly quoted on call session.</headline>
+<dateline>ST. LOUIS 1996-12-06</dateline>
+<text>
+<p>U.S. barge rates were lightly quoted Friday on the St. Louis Merchants Exchange call session. No barges traded versus no trades Thursday.</p>
+<p>- Two barges next week Illinois bid at a steady 130 percent of tariff, offered at 135 percent.</p>
+<p>- One barge, week of December 15, lower Ohio bid 2-1/2 points higher at 105 percent, no offer.</p>
+<p>Two barges, week of January 5, Illinois, offered five points lower at 195 percent, bid at 150 percent.  </p>
+<p>- Five barges, 30-day open, mid-Mississippi (McGregor and south) bid at 160 percent, offered at 170 percent, no comparisons.</p>
+<p>- 36 barges, two each week May-August, Illinois, offered at 130 percent of tariff, no bid or comparison.</p>
+<p>- 36 barges, two each week May-August, mid-Mississippi offered at a steady 135 percent, bid at 120 percent (basis one each week).</p>
+<p>--Chicago newsdesk 312-408 8720</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,26 @@
+Commezbank sets warrants on the DAX index.
+
+LONDON 1996-12-06
+
+Commerzbank AG, Frankfurt has issued 100,000 "Discount-Certificates' in three equal tranches, on the DAX index, lead manager Commerz Financial Products said.
+
+COMMON TERMS:
+
+One certificate controls one index.
+
+ EXPIRATION	29.DEC.98		 PAYDATE    09.DEC.96
+
+ LISTING	   FRANKFURT		 DAX REF    2848.50
+
+* * * * * * *
+
+ TRANCHE     CAP	 PRICE	  DISCOUNT
+
+    A	  2800	2485.84 DEM  12.73 PCT
+
+    B	  3000	2612.50 DEM  8.29  PCT
+
+    C	  3200	2704.54 DEM  5.05  PCT
+
+--Reuter London Newsroom +44 171 542 7658
+

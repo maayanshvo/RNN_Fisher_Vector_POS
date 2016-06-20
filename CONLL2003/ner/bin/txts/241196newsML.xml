@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241196" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: FORECAST-Japan Nov WPI seen down 0.6 pct year/year.</title>
+<headline>FORECAST-Japan Nov WPI seen down 0.6 pct year/year.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Japan's domestic wholesale price index for November will likely mark a year-on-year fall of 0.6 percent, according to an average of economists forecasts.</p>
+<p>The fall in domestic prices shows signs of bottoming out and prices will likely stabilise for a while, said an economist at DKB Research Institute.</p>
+<p>The Bank of Japan will announce the data at 8.50 a.m. on Monday (2350 GMT Sunday).</p>
+<p>Following are the forecasts of year-on-year and month-on-month changes in Japan's domestic and overall wholesale price indices:  </p>
+<p>			    Domestic		  Overall</p>
+<p>			    yr/yr     mo/mo	yr/yr     mo/mo</p>
+<p> Salomon Brothers    -0.6 pct  +0.1 pct   +0.5 pct  +0.2 pct</p>
+<p> Daiwa Bank Research -0.6 pct  +0.1 pct   +0.4 pct  +0.2 pct</p>
+<p> Yamaichi Research   -0.7 pct  +0.0 pct   +0.4 pct  +0.2 pct</p>
+<p> DKB Research	  -0.6 pct  +0.1 pct   +0.5 pct  +0.3 pct</p>
+<p> NCS Research	  -0.6 pct  +0.1 pct   +0.5 pct  +0.3 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

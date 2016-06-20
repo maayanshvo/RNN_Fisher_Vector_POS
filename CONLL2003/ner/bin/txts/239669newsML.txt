@@ -1,0 +1,60 @@
+Russian international airports charges in December.
+
+MOSCOW 1996-12-06
+
+Below are the current charges of 14 international Russian airports in roubles for December, including landing fees (L), maintenance fees (M), passenger charges (P), fuel cost per tonne (F) and cost for meteorological data (W):
+
+			  L	     M	 P	F	    W
+
+Arkhangelsk     1,711,360   400,800  33,000  1,270,000   326,036
+
+Irkutsk	   1,651,121   246,000  59,488   978,250    237,480
+
+Khabarovsk	1,237,550   651,800  42,650  1,537,729   282,200
+
+Krasnoyarsk     1,551,340   669,345  46,800  1,213,558   280,000
+
+Murmansk	  1,349,000   440,000  35,170  1,083,333   n/a
+
+Nizhny Novgorod 1,500,000   536,260  40,000    996,000   356,200
+
+Novosibirsk	 960,000   295,000  43,000  1,169,063   498,070
+
+Omsk		1,319,618   180,263  28,992  1,120,959   262,710
+
+Petropavlovsk-  3,045,000   830,000  47,000  1,945,000   n/a
+
+Kamchatsky
+
+Samara	    1,489,000   365,000  37,730  1,075,000   n/a
+
+St Petersburg   1,547,200   502,841  52,672  1,187,347   480,000
+
+Vladivostok     2,278,352 1,080,000  61,009  1,574,000   n/a
+
+Volgograd	 1,541,000   448,950  37,740    960,000   213,330
+
+Yekaterinburg   1,999,942   322,178  42,934  1,330,000   307,909
+
+Charges do not include value-added tax.
+
+Landing and maintenance rates are quoted for Yakovlev Yak-40 passenger jets. They should be multiplied by the following coefficients for other passenger aircraft:
+
+Ilyushin Il-62     8.4		A-310	 7.8
+
+Ilyushin Il-96    10.6		Boeing 727  4.8
+
+Antonov  An-124   32.9		Boeing 737  2.6
+
+Tupolev Tu-154M    8.0		Boeing 747 16.0
+
+Tupolev Tu-204     6.0		Boeing 757  6.9
+
+Tupolev Tu-134     2.2		Boeing 767  8.2
+
+Tupolev Tu-154M    8.0		DC-10	11.0
+
+Airport officials declined to say what dollar exchange rates would be used. The official exchange rate for the dollar on Friday was 5,519 roubles.
+
+--Viktor Anoshkin, Moscow Newsroom, +7095 941 8520
+

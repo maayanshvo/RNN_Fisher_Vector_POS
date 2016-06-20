@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241089" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Minister asks investors not to shun France - FT.</title>
+<headline>Minister asks investors not to shun France - FT.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>The French finance minister, Jean Arthuis, appealed to foreign investors not to shun France following the government's surprise decision to suspend the sale of Thomson SA, the Financial Times said on Friday.</p>
+<p>&quot;We must not leave the slighest shadow of a doubt. France needs foreign investors,&quot; Arthuis said in an interview with the newspaper.</p>
+<p>Arthuis' comments come after France on Wednesday shelved plans to privatise the state-owned electronics giant after an independent commission objected to part of the sale that would have handed Thomson's consumer electronics unit to South Korea's Daewoo.</p>
+<p>As the Korean media accused the French of racism, Seoul said it would determine whether the French decision amounted to discrimination, the FT said.</p>
+<p>&quot;Daewoo's honour was not in question. The candidates in no way failed in their obligations,&quot; Arthuis told the newspaper.</p>
+<p>-- London Newsroom +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

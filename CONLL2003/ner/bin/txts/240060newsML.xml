@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240060" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Coast Guard attempt rescue of five fishermen and dog.</title>
+<headline>Coast Guard attempt rescue of five fishermen and dog.</headline>
+<dateline>BOSTON 1996-12-06</dateline>
+<text>
+<p>The Coast Guard was attempting to rescue five fishermen and a dog trapped on a sinking lobster boat 112 miles off the coast of Massachusetts Friday as a fast moving storm dumped up to 18 inches of snow on New England.</p>
+<p>The 65-foot Panther, sailing out of Portland, Maine, reported flooding and its decks awash in 10-to-12 foot seas shortly after 1 p.m. EST, according to Coast Guard spokesman Lt. Cmdr. Jim McPherson.</p>
+<p>&quot;There are five people aboard the vessel and a dog,&quot; McPherson said, adding that 35 mph northeast winds were battering the boat in zero visability conditions.</p>
+<p>Elsewhere in New England, some 14,000 Northeast Utility customers in western Connecticut and parts of Massachusetts were without power as were about 600 Eastern Utilities customers in Rhode Island. About 1,000 customers of Boston Edison were also without power.</p>
+<p>The fast moving storm continued to pound the region leaving up to 18-inches of snow in the western part of Massachusetts, according to the state's emergency management agency.</p>
+<p>A spokeswoman for MassPort, which operates Logan International airport, reported up to one hour delays on outbound flights and noted there were many cancellations.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

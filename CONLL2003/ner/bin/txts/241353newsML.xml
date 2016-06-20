@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241353" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan November ethylene output rises 2.5 pct yr/yr.</title>
+<headline>Japan November ethylene output rises 2.5 pct yr/yr.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Japan's ethylene production rose by 2.5 percent in November from a year earlier to 583,000 tonnes due to vigorous domestic and overseas demand, a trade ministry official said on Friday.</p>
+<p>Japan's total ethylene output in calendar 1996 is expected to surpass seven million tonnes for the first time, he said.</p>
+<p>Cumulative output from January to November added up to 6.47 million tonnes, he said.</p>
+<p>The previous record high for annual ethylene output was in 1995, when production hit 6.94 million tonnes, he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I25120">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

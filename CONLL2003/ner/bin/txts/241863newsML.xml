@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241863" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: Tunisian envoy arrives in Algiers.</title>
+<headline>Tunisian envoy arrives in Algiers.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>Tunisian Interior Minister Mohamed Djgham arrived in Algiers on Saturday to discuss the movement of goods and people between the countries, the Algerian APS news agency said.</p>
+<p>&quot;This visit is taking place in the framework of brotherhood relations between Tunisia and Algeria. It also aims at reinforcing cooperation in the field of circulation of goods and people and development of the (Algerian-Tunisian) border zone,&quot; the agency said.</p>
+<p>APS did not say now long Djgham would stay. Algeria and Tunisia are members of the North African Arab Maghreb Union which includes Morocco, Libya and Mauritania.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

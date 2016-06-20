@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240787" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. Plains fed cattle market quiet, no bids-trade.</title>
+<headline>U.S. Plains fed cattle market quiet, no bids-trade.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>U.S. Plains feedlot cattle markets Friday were quiet following this week's fairly active sales mostly at $68.00 per cwt, feedlot sources said.</p>
+<p>A few hundred head of cattle sold Thursday at $67.00, but several feedlot sources did not think the sales were the start of a lower trend for next week.</p>
+<p>Feedlots remain current in their marketings of finished cattle, which could lend support to next week's prices, along with ideas that beef prices were near a bottom following this week's steep declines.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

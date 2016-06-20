@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240181" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Greenspan calls for Social Security benefit cuts.</title>
+<headline>Greenspan calls for Social Security benefit cuts.</headline>
+<dateline>PHILADELPHIA 1996-12-06</dateline>
+<text>
+<p>Federal Reserve Chairman Alan Greenspan Friday made clear that privatisation of Social Security was not a panacea for the pension program's ills and called for cuts in benefits to help rescue it.</p>
+<p>&quot;Clearly, something has to give,&quot; the central bank chief said in a speech prepared for delivery to the Union League. &quot;We cannot hope to grow our way out of the problem.&quot;</p>
+<p>He called for an increase in the age at which retirees become eligible to draw on Social Security benefits and other changes to save money for the &quot;badly-underfunded&quot; system. The eligibility age is currently 65.  </p>
+<p>The Fed chief also threw his support behind stepped-up efforts to alter the way that cost of living increases for Social Security and other government benefit programs are calculated -- a move that would save billions of dollars.</p>
+<p>Currently, social security and other benefits are raised annually in line with increases in the consumer price index. But a congressionally-appointed commission this week said the CPI overstates inflation by 1.1 percentage points a year.</p>
+<p>&quot;Indexing social security benefits to the CPI goes far beyond the intent of Congress to insulate retirees from inflation,&quot; Greenspan said.  </p>
+<p>Greenspan said that privatisation of the Social Security program could help, but made clear that it was not a cure-all for the system's ills.</p>
+<p>Under privatisation, money in the Social Security trust fund would be invested in equities, not just Treasury bonds, as a way of earning higher returns.</p>
+<p>But Greenspan argued that any gains made by a such shift would be offset by lower returns on private pension retirement programs. In fact, he predicted &quot;great market tension&quot; as the result of such a move as equity prices rose and bond prices fell.  </p>
+<p>&quot;Certainly, with the Social Security trust funds no longer investing all of their surplus in U.S. Treasuries, the federal debt held by the public would rise, presumably placing downward pressure on bond prices,&quot; Greenspan said.</p>
+<p>He said that does not mean that at least some partial privatisation of Social Security would not be helpful. But it would only be a net plus if it encouraged people to save more.</p>
+<p>&quot;It is because privatization plans might increase savings that makes them potentially viable, not their particular financing,&quot; he said.  </p>
+<p>In arguing that the United States cannot grow its way out of its Social Security problems, Greenspan said that productivity would have to grow by two full percentage points faster than it has been to fix the system.</p>
+<p>That is not credible, even if, as Greenspan suspects, recent productivity growth trends have been underestimated.</p>
+<p>The Fed chief also warned that the nation cannot depend on foreign capital to help finance the economic growth that would be needed to plug the Social Security hole.</p>
+<p>&quot;To be sure, for relatively short periods of time we can finance part of domestic investment in plant and equipment with foreign savings as we are doing today,&quot; he said. &quot;History, however, tells us that there is a limit to how far that can go,&quot; he added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GWELF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PHILADELPHIA"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

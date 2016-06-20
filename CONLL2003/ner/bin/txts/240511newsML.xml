@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240511" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Equity sells 3.6 mln shares at $41.25/shr.</title>
+<headline>Equity sells 3.6 mln shares at $41.25/shr.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Equity Residential Properties Trust said on Friday it sold 3.6 million registered common shares of beneficial interest through Smith Barney Inc at a price of $41.25 per share.  </p>
+<p>Equity said the sale will bring aggregate proceeds of $148.5 million and that it has granted Smith Barney a 30-day over-allotment option for an additional 540,000 shares.</p>
+<p>The shares are included in the company's shelf registration that was declared effective by the Securities and Exchange Commission in September 1996, the company said.</p>
+<p>The proceeds will be used to buy additional multifamily properties.</p>
+<p>Equity Residential is a self-administered and managed equity real estate investment trust that owns 231 properties consisting of 68,712 units in 31 states.</p>
+<p>((--Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

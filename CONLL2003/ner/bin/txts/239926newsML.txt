@@ -1,0 +1,20 @@
+Heiwado sets terms on straight bond.
+
+TOKYO 1996-12-06
+
+BORROWER - Heiwado Co Ltd
+
+LEAD MGR - Daiwa Securities Co Ltd
+
+TRUSTEE - Sanwa Bank Ltd
+
+ TYPE straight bond   ISSUE NO   3	  AMT   10 bln yen
+
+ COUPON 2.05%	   ISS PRICE  100.00   MATURITY 13.Dec.01
+
+ LAST MOODY'S	   PAY DATE 13.Dec.96  INT PAY 13th Jun/Dec
+
+ LAST S&P		 SIGN DATE	     SUB DATE 6.Dec
+
+ LAST JCR		 LAST JBRI  A-	 LAST NIS
+

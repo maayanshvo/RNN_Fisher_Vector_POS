@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239839" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Zedillo proposes new central bank deputy governor.</title>
+<headline>Zedillo proposes new central bank deputy governor.</headline>
+<dateline>MEXICO CITY 1996-12-05</dateline>
+<text>
+<p>Mexican President Ernesto Zedillo on Thursday proposed Deputy Finance Minister Jose Sidaoui as the new deputy governor of the central bank, to replace Ariel Buira whose term is coming to an end.</p>
+<p>In a statement, Zedillo's office said the nomination had to be approved by the Senate. Buira's three-year term ends on December 31 this year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

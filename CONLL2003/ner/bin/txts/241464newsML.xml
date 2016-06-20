@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241464" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Stora CEO denies Brazil mill plans.</title>
+<headline>Stora CEO denies Brazil mill plans.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Swedish forestry group Stora AB has no plans to set up a pulp mill in Brazil, the company's chief executive officer (CEO) Lars-Ake Helgesson said on Friday.</p>
+<p>&quot;We have no plans to build a mill there -- it is complete nonsense,&quot; Helgesson told Reuters on Friday, quashing a report in Swedish newspaper Svenska Dagbladet.</p>
+<p>&quot;We have people in Brazil, but that is in line with our general market research.&quot;  </p>
+<p>The Friday newspaper article said Stora plans to build a mega mill in Brazil, a project costing billions of crowns.</p>
+<p>According to the article, seven players aiming to build a mill contacted Stora for cooperation.</p>
+<p>Helgesson said the article was completely unfounded.</p>
+<p>-- Birgitta Forsberg, Stockholm newsroom 46-8-7001006</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I47100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241928" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: Six killed in clash in Kashmir forest.</title>
+<headline>Six killed in clash in Kashmir forest.</headline>
+<dateline>SRINAGAR, India 1996-12-07</dateline>
+<text>
+<p>Two Indian soldiers and four separatist guerrillas were killed in a seven-hour gun battle in a forest in Kashmir, a defence spokesman said on Saturday.</p>
+<p>Six soldiers were wounded in the clash late on Friday after security forces raided a guerrilla hideout in the thick forests of Khaipora, 25 km (15 miles) southwest of the state's summer capital Srinagar, P. Purshuttam said.</p>
+<p>He said an army officer, a soldier and four foreign militants belonging to the Lashkar-e-Tioba group were killed.</p>
+<p>Lashkar-e-Tioba is one of more than a dozen groups fighting Indian rule over Jammu and Kashmir state. Authorities say Lashkar-e-Tioba is comprised largely of Afghans.</p>
+<p>India says Pakistan trains and arms mercenaries and Kashmiri militants. Islamabad says it offers only political and diplomatic support to the separatists.</p>
+<p>More than 20,000 people have been killed in since the separatist revolt erupted nearly seven years ago in mostly Hindu India's only Moslem majority state.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SRINAGAR, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

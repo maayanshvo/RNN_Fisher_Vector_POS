@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239551" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: S.African JSE overall index plunges 1.5 pct.</title>
+<headline>S.African JSE overall index plunges 1.5 pct.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>The Johannesburg Stock Exchange's overall index plunged 1.5 percent or 100.6 points to 6,617.0 points on Friday amid fears of sharp losses on Wall Street later in the day.  </p>
+<p>Dealers said U.S. stocks were expected to be sold off following comments by U.S. Federal Reserve head Alan Greenspan on Thursday which had been interpreted to mean U.S. markets were overheated.</p>
+<p>Although stopping short of commenting directly on Wall Street's strong run, Greenspan said the Fed had to be wary when &quot;irrational exuberance&quot; infects stock and other asset markets as that could end up doing damage to the economy.</p>
+<p>By 1149 GMT South African industrial shares had dived almost two percent or 152.1 points to 7,824.6 -- the index's lowest level since end-August.</p>
+<p>But gold shares were boosted by gains in bullion, which advanced sharply as speculators anticipated a possible move into the yellow metal if Greenspan's comments unnerved Wall Street.</p>
+<p>The gold index added 25.3 points or almost 1.7 percent to 1,535.8.</p>
+<p>-- Johannesburg newsroom 27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

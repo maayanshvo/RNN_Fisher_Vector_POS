@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241805" id="root" date="1996-12-07" xml:lang="en">
+<title>MOROCCO: Mediterranean businessmen seek WTO investment code.</title>
+<headline>Mediterranean businessmen seek WTO investment code.</headline>
+<byline>Ali Bouzerda</byline>
+<dateline>MARRAKESH, Morocco 1996-12-07</dateline>
+<text>
+<p>Some 400 businessmen from 25 European and Mediterranean countries called on the World Trade Organisation to set up a multilateral code for investments.</p>
+<p>The &quot;Second Euro-Mediteranean summit of businessmen&quot;, which wound up in the Moroccan city of Marrakesh on Friday, said in a final statement:</p>
+<p>&quot;Aware of the essential role of trade exchange and private investment to strengthen the Euro-Mediterranean economic relations, delegates...urgently call on the first ministerial conference of the World Trade Organisation (WTO) in Singapore to implement the (GATT) commitments of Marrakesh and set up a multilateral code of investments.&quot;</p>
+<p>The WTO conference, expected to meet in Singapore next week, will discuss issues pending since the meeting of the General Agreement on Trade and Tariffs in Marrakesh in 1994.</p>
+<p>The businessmen's meeting said it aimed to create conditions for establishing a zone of prosperity, stability and cooperation among the countries bordering the Mediterranean.</p>
+<p>It also called for:</p>
+<p>- Regular contacts between the associations of Euro- Mediterranean business managers and the European Commission,</p>
+<p>- Close collaboration between employers' organisations of Europe and those on the southern Mediterranean bank.</p>
+<p>The Marrakesh meeting decided to set up a North African business federation linking businessmen from Morocco, Algeria, Tunisia, and Egypt. It will include Mauritania later.</p>
+<p>The next Euro-Mediterranean businessmen's conference will be held in Greece in 1997, officials said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MOROC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MARRAKESH, Morocco"/>
+<dc element="dc.creator.location.country.name" value="MOROCCO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

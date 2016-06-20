@@ -1,0 +1,36 @@
+Bombay bourse carry forward trades - Dec 7.
+
+BOMBAY 1996-12-07
+
+The following is the latest trade data for the top stocks at the Bombay Stock Exchange (BSE) for the carry-forward or "badla" account on Saturday at 11.15 a.m.
+
+SCRIP	 BUY	SELL     AV     LAST	 VOL	VAL
+
+		RATE     RATE    BADLA   RATE	 QTY     (million)
+
+		QTY	QTY     (Rs)    QTY	 ('000)
+
+---------------------------------------------------------------
+
+RELIANCE   -0.15    -0.06   -0.04   -0.09	54.90    10.00
+
+		300	1000		1000
+
+SBI	   0.20     0.23    0.22    0.20     100.95    21.20
+
+		350	1100		50
+
+ITC	  -4.05    -4.00   -3.65   -3.50	29.00     7.90
+
+		1400     100		 200
+
+TISC	  0.15     0.16    0.16    0.14	84.85    13.00
+
+		850	1000		2000
+
+--------------------------------------------------------------
+
+Note: The "badla" is interest rate for carry-forward trades. These are arrived through unique transactions which takes into account oversold and overbought positions and money supply.
+
+--Bombay Newsroom +91-22-265-9000
+

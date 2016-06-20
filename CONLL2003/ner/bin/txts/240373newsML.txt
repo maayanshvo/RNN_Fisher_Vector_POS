@@ -1,0 +1,26 @@
+Indian annualised interest rate on forward dollars.
+
+BOMBAY 1996-12-06
+
+The following are monthly annualised interest rates on forward dollar premia quoted by banks and brokers at 1600 IST. The rates are spot/one month to spot/six months.
+
+	    O/N =  3.40%			 O/N = 2.55% (Discount)
+
+	    T/N =  2.55%			 T/N = 2.55%
+
+		   Dec  6, 1996			Dec  5, 1996
+
+	  1 month forward =  5.78%	1 month forward =  5.10%
+
+	  2 month forward =  6.46%	2 month forward =  6.46%
+
+	  3 month forward =  6.91%	3 month forward =  6.80%
+
+	  4 month forward =  7.48%	4 month forward =  7.48%
+
+	  5 month forward =  7.68%	5 month forward =  7.82%
+
+	  6 month forward =  7.55%	6 month forward =  7.60%
+
+-- Bombay newsroom, 91-22-265 9000
+

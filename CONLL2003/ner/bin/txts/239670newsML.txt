@@ -1,0 +1,38 @@
+Moscow airports charges in December.
+
+MOSCOW 1996-12-06
+
+Below are the current charges of Moscow airports in roubles fixed for December, including landing fees (L), maintenance fees (M), passenger charges (P), fuel cost per tonne (F) and cost for meteorological data (W):
+
+			    L	  M	 P	F	   W
+
+Sheremetyevo	955,200   440,000  34,000  1,090,000  n/a
+
+Domodedovo	  841,440   257,572  23,210  1,125,000  192,500
+
+Vnukovo	     958,333   250,500  31,300  1,066,667  191,667
+
+Bykovo		800,000   200,000  25,000  1,209,616  n/a
+
+Charges do not include value added tax.
+
+Landing and maintenance rates are quoted for Yakovlev Yak-40 passenger jets. They should be multiplied by the following coefficients for other passenger aircraft:
+
+lyushin  Il-62	8.4		A-310	 7.8
+
+Ilyushin Il-96     10.6		Boeing 727  4.8
+
+Antonov  An-124    32.9		Boeing 737  2.6
+
+Tupolev  Tu-154M    8.0		Boeing 747 16.0
+
+Tupolev  Tu-204     6.0		Boeing 757  6.9
+
+Tupolev  Tu-134     2.2		Boeing 767  8.2
+
+Tupolev  Tu-154M    8.0		DC-10	11.0
+
+Airport officials declined to say what dollar exchange rates would be used. The official exchange rate for the dollar on Friday was 5,519 roubles.    --Viktor Anoshkin, Moscow Newsroom,
+
++7095 941 8520
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241165" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Australian MP John Langmore formally resigns.</title>
+<headline>RTRS-Australian MP John Langmore formally resigns.</headline>
+<dateline>CANBERRA 1996-12-06</dateline>
+<text>
+<p>Australian parliamentarian John Langmore has formally resigned from his lower house seat, the office of House of Representatives speaker Bob Halverson said on Friday.</p>
+<p>&quot;Halverson announced that he had received today from Mr John Vance Langmore, a letter resigning his place as member of the House of Representatives for the electoral division of Fraser in the Australian Capital Territory,&quot; his office said in a statement.</p>
+<p>Halverson was considering possible dates for the by-election, his office said.</p>
+<p>Langmore, 57, announced in November that he intended to resign from parliament to take up a position as Australia's senior representative at the United Nations headquarters in New York.</p>
+<p>He played an active role at the U.N. social development conference in Copenhagen last year and has co-authored articles with U.N. development programme officer Inge Kaul.</p>
+<p>Langmore, a persistent campaigner for interventionist economic policy, has been Labor member for Fraser since 1984.</p>
+<p>He was senior private secretary to the employment and industrial relations minister from 1983 to 1984 and was economic advisor to then treasurer Paul Keating in 1983.</p>
+<p>His previous posts include assistant director of the national planning office of Papua New Guinea from 1969 to 1973.</p>
+<p>-- Canberra Bureau 61-6 273-2730</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

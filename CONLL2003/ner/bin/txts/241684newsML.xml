@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241684" id="root" date="1996-12-07" xml:lang="en">
+<title>RUSSIA: French leader to visit Moscow in early 1997-agency.</title>
+<headline>French leader to visit Moscow in early 1997-agency.</headline>
+<dateline>MOSCOW 1996-12-07</dateline>
+<text>
+<p>French President Jacques Chirac is expected to visit Moscow early next year at the invitation of Russian President Boris Yeltsin, who is recovering after heart surgery, Interfax news agency said on Saturday.</p>
+<p>Interfax quoted Yeltsin's press office as saying that a short working visit by Chirac had been agreed between the two leaders &quot;in principle&quot; during a telephone conversation earlier on Saturday. The agency gave no further details.</p>
+<p>Yeltsin's press office was not immediately available for comment.</p>
+<p>Yeltsin, 65, underwent successful multiple heart bypass surgery on November 5 and doctors say he is likely to return to work in the Kremlin later this month.</p>
+<p>On Friday Yeltsin's press-secretary Sergei Yastrzhembsky said that German Chancellor Helmut Kohl would visit Russia on January 4. Yeltsin is also expected to visit the United States in the first half of 1997.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

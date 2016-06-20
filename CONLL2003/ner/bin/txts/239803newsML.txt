@@ -1,0 +1,18 @@
+Banco de Mexico assigns secondary credits.
+
+MEXICO CITY 1996-12-06
+
+Banco de Mexico injected 3.385 billion pesos on Friday by assigning two credit auctions in the secondary market.
+
+The credits were assigned as follows:
+
+    CREDIT AUCTIONS   TERM    MAXIMUM  MINIMUM  AVERAGE
+
+    2.385  bln pesos  5 days  30.82    30.50    30.69
+
+    1.000  bln pesos  3 days  31.00    31.00    31.00
+
+NOTE: Maximum, minium and average are percentages
+
+-- Mexico City newsroom +525 728-9500
+

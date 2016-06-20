@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239695" id="root" date="1996-12-06" xml:lang="en">
+<title>SLOVENIA: Slovenia shares up, seen making further gains.</title>
+<headline>Slovenia shares up, seen making further gains.</headline>
+<dateline>LJUBLJANA 1996-12-06</dateline>
+<text>
+<p>Slovenian shares firmed 0.66 percent on Friday, the fourth straight day of gains, and traders said the upward trend could continue to the end of the year, underpinned by demand from foreign investors.</p>
+<p>&quot;Foreign investors are willing to come back. The development, especially in the pharmaceutical and food industries, is quite positive,&quot; said Florian Hellmich, equity analyst at Vienna based Investmentbank Austria.</p>
+<p>* The 10-share SBI index rose 7.83 points to 1,191.6</p>
+<p>* Overall seven shares rose, 10 fell and one was unchanged, while seven were untraded.</p>
+<p>* Drug maker Lek's A issue was most actively traded, firming 1.25 percent to 20,200 tolars on volume of 8,149 shares. -- Ljubljana newsroom, 386-61-125-8439</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SLVNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LJUBLJANA"/>
+<dc element="dc.creator.location.country.name" value="SLOVENIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239414" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Phillips unit plans Mexican joint venture.</title>
+<headline>Phillips unit plans Mexican joint venture.</headline>
+<dateline>BARTLESVILLE, Okla. 1996-12-06</dateline>
+<text>
+<p>Phillips Petroleum Co said Friday its Phillips Driscopipe division intends to enter into a joint venture with a Mexican firm to make high-density polyethylene pipe in Mexico.</p>
+<p>Terms were not disclosed.</p>
+<p>Phillips and Promotora Mexicana de Industrias SA de CV, a unit of Grupo Miguel, plan to make more than 20 million pounds of pipe a year for Mexican markets from March 1997.</p>
+<p>The new firm will be named Driscopipe Mexicana SRL. Promotora Mexicana will hold a 51 percent interest, while Phillips Driscopipe will hold the remaining 49 percent.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BARTLESVILLE, Okla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

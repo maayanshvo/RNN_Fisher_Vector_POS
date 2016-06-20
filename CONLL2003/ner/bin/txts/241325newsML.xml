@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241325" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Manila's PHIBOR mostly steady, one-month rate up.</title>
+<headline>Manila's PHIBOR mostly steady, one-month rate up.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>The Philippine interbank offered rates (PHIBOR) were mostly unchanged, with only two maturities inching higher, traders said.</p>
+<p>The one-month PHIBOR inched up to 11 percent from 10 15/16 percent following the increase in banks' special savings rate as part of their year-end window-dressing.</p>
+<p>Six-month rates also inched up marginally.</p>
+<p>Other rates were steady as in the spot rates.</p>
+<p>&quot;The swap rates are just following the spot rates,&quot; one trader said.  </p>
+<p>Average rates quoted by 20 banks were:</p>
+<p>			  DEC 6		   DEC 5</p>
+<p>    1 W		10  3/4		 10  3/4</p>
+<p>    2 W		10  7/8		 10 13/16</p>
+<p>    1 M		11			10 15/16</p>
+<p>    2 M		11  1/16		11  1/6</p>
+<p>    3 M		11  1/8		 11  1/8</p>
+<p>    6 M		11  5/16		11  1/4</p>
+<p>    12M		11  3/4		 11  3/4</p>
+<p>    VAL		9-Dec		    6-Dec</p>
+<p>- Manila newsroom 63 2 8109636 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

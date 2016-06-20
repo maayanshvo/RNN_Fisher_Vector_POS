@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241679" id="root" date="1996-12-07" xml:lang="en">
+<title>GHANA: Ghana votes for president and parliament.</title>
+<headline>Ghana votes for president and parliament.</headline>
+<dateline>ACCRA 1996-12-07</dateline>
+<text>
+<p>Ghanaians voted for a president and parliament on Saturday with President Jerry Rawlings bidding for a final four-year term against a stiff challenge from a new opposition alliance.</p>
+<p>Witnesses in the West African nation's capital Accra said queues formed at polling stations before they opened at 7 a.m. (0700 GMT) after a tense campaign marred by sporadic violence.</p>
+<p>Polling followed a controversial eve-of-vote nationwide address by Rawlings, who has dominated the life of the former British colony since first seizing power in 1979.</p>
+<p>Urging a high turnout, he said the polls held &quot;a very special significance in Ghana's democratic progress&quot; noting that an administration was seeking re-election for the first time.</p>
+<p>His rivals -- John Kufuor of the New Patriotic Party and surgeon Edward Mahama of the People's National Convention -- denounced the timing of the address as unfair.</p>
+<p>Rawlings's ruling National Democratic Congress faces a strong challenge from an alliance formed by Kufuor's party and the People's Convention Party.</p>
+<p>Since independence in 1957 Ghanaians have voted only five times. The army first intervened in 1966 when it ousted nationalist president Kwame Nkrumah.</p>
+<p>Rawlings, a former air force flight-lieutenant, took power in 1979, restored civilian rule but seized power again in 1981. Since then, the one-time socialist firebrand has steered Ghana down the road of Western-style economic liberalisation.</p>
+<p>Polls close at 5 p.m. (1700 GMT). A run-off will be held in 21 days if no clear winner emerges.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GHANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ACCRA"/>
+<dc element="dc.creator.location.country.name" value="GHANA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

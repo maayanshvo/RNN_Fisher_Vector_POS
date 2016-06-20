@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240143" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NYMEX to raise natgas, electricity margins Monday.</title>
+<headline>NYMEX to raise natgas, electricity margins Monday.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The New York Mercantile Exchange said it will increase margins on its three natural gas and two electricity futures contracts, effective at the close of business Monday.</p>
+<p>For Henry Hub gas futures, the initial margin will be increased to $3,800 from $3,300 for clearing members; to $4,180 from $3,630 for members; and to $5,130 from $4,455 for customers.</p>
+<p>For Permian Basin gas futures, the initial margin will be raised to $2,500 from $1,500 for clearing members; to $2,750 from $1,650 for members; and to $3,375 from $2,025 for customers.</p>
+<p>For Alberta gas futures, the initial margin will be increased to $2,000 from $1,000 for clearing members; to $2,200 from $1,100 for members; and to $2,700 from $1,350 for customers.</p>
+<p>Electricity futures at the California-Oregon border will be raised to $1,400 from $1,100 for clearing members; $1,540 from $1,210 for members; and to $1,890 from $1,485 for customers.</p>
+<p>Palo Verde electricity futures will rise to $1,400 from $1,100 for clearing members; to $1,540 from $1,210 for members; and to $1,890 from $1,485 for customers.</p>
+<p>Inter-month spreads involving the Henry Hub spot month will be increased to $1,500 from $1,000 for clearing members; to $1,650 from $1,100 for members; and to $2,025 from $1,350 for customers.</p>
+<p>For all other months, spreads will be raised to $500 from $400 for clearing members; to $550 from $440 for members; and to $675 from $540 for customers.</p>
+<p>--H McCulloch, New York Power Desk +212-859-1628</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

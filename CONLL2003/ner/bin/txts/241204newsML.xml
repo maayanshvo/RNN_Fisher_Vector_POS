@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241204" id="root" date="1996-12-06" xml:lang="en">
+<title>VIETNAM: Donors pledge $2.4 billion to Vietnam for 1997.</title>
+<headline>Donors pledge $2.4 billion to Vietnam for 1997.</headline>
+<dateline>HANOI 1996-12-06</dateline>
+<text>
+<p>Donor nations and agencies pledged aid totalling $2.4 billion to Vietnam for 1997, diplomatic sources said at the end of a two-day World Bank Consultative Group meeting in Hanoi on Friday.</p>
+<p>The latest aid commitments, which were slightly more than the $2.3 billion pledged at last year's annual meeting in Paris, brought total pledges of official development assistance (ODA) since 1993 to $8.5 billion.  </p>
+<p>Details of the pledges were expected to be formally announced at a World Bank news conference due later on Friday.</p>
+<p>During the meeting donors praised the communist country's decade-old reform process, which has brought average economic growth of more than eight percent for the past five years and lifted living standards off the floor.</p>
+<p>However, they also urged Hanoi to do more in a number of areas including trade liberalisation, state enterprise reform and in the creation of a more competitive economic environment.</p>
+<p>The Communist Party agreed at a landmark meeting earlier this year to continue economic reforms, but conservatives have argued that the country's economic and social liberalisation could loosen the party's grip on power.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="VIETN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HANOI"/>
+<dc element="dc.creator.location.country.name" value="VIETNAM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

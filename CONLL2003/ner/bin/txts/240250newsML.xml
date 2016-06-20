@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240250" id="root" date="1996-12-06" xml:lang="en">
+<title>ITALY: New Italian airline launches international service.</title>
+<headline>New Italian airline launches international service.</headline>
+<dateline>MILAN 1996-12-06</dateline>
+<text>
+<p>Italian airline Azzurra Air said on Friday it will start flights to London's City Airport, Paris' Charles de Gaulle, Munich and Rome's Ciampino from December 10 from Bergamo Orio airport in northern Italy.</p>
+<p>Azzurra Air, which was founded in December 1995, is 48 percent owned by Air Malta, 26 percent by IMS International and 25 percent by Mediocredito Central and has company capital of 10 billion lire ($6.5 million).</p>
+<p>The company said in a statement it was the first Italian carrier to operate at London's City Airport.</p>
+<p>It has a fleet of two new Avro RJ 85 aircraft, with a third due to become available in April next year.</p>
+<p>Azzurra Air said cities like Zurich in Switzerland and Cologne in Germany could be added to schedules at a later date.</p>
+<p>From April, the company said it also planned to open a second base at Turin airport, in north-west Italy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ITALY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MALTA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MILAN"/>
+<dc element="dc.creator.location.country.name" value="ITALY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

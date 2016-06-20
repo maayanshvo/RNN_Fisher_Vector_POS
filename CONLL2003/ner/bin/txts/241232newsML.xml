@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241232" id="root" date="1996-12-06" xml:lang="en">
+<title>CHINA: Shanghai T-bill repo rates end mixed, spots up.</title>
+<headline>Shanghai T-bill repo rates end mixed, spots up.</headline>
+<dateline>SHANGHAI 1996-12-06</dateline>
+<text>
+<p>Contracts on the treasury bill repurchase market in Shanghai closed mixed on Friday because big institutions returned money to the repo market due to the absence of new domestic A share issues, traders said.</p>
+<p>The annual rate for the most active seven-day contract rose to 10.65 percent from 10.51 percent on Thursday.</p>
+<p>Turnover plunged to 3.76 million lots from 7.84 million. One lot is 1,000 yuan face value of treasury bills.</p>
+<p>There have been no new A share issues this week and some institutions returned their liquidity to the repo market, pushing down early-maturing contracts today, traders said.  </p>
+<p>Traders expect the rates to recover early next week on the back of surging A share markets in Shanghai and Shenzhen.</p>
+<p>Contracts on the T-bill spot market in Shanghai ended mostly up and traders said the rebound would continue early next week on bargain-hunting, with prices very low after successive falls in the past few months.</p>
+<p>But the most active 10-year bond that matures in June 2006, a market barometer, fell to 116.47 yuan from 116.86 yuan, indicating market sentiment had not improved much, they said.</p>
+<p>Combined volume of the nine-contract market rose to 2.45 million lots from 1.98 million.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SHANGHAI"/>
+<dc element="dc.creator.location.country.name" value="CHINA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

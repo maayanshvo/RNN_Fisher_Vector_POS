@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240451" id="root" date="1996-12-06" xml:lang="en">
+<title>CANADA: INSTANT VIEW-Canada Nov unemployment flat at 10.0.</title>
+<headline>INSTANT VIEW-Canada Nov unemployment flat at 10.0.</headline>
+<dateline>TORONTO 1996-12-06</dateline>
+<text>
+<p>Following are reactions to unemployment data released by Statistics Canada on Friday. Statistics Canada said the unemployment rate was unchanged at 10.0 percent in November from October.</p>
+<p>Economists in a Reuters survey had forecast, on average, the rate to dip to 9.8 percent from 10.0 percent in October.</p>
+<p>Michael Gregory, economist, Lehman Brothers - &quot;This is a pretty sluggish number here -- unemployment unchanged at 10.0 percent, employment up a paltry 7,000. It does suggest the Canadian economy is still struggling to create jobs.&quot;  </p>
+<p>Michael Gregory - &quot;I think it is neutral for rates because the Canadian economy is picking up steam and there already is quite a lot of ease in the system...But it does raise a little question about the sustainability of the upbeat numbers we've been getting, particularly in housing and autos.&quot;</p>
+<p>Mark Mullins, chief economist, Midland Walwyn - &quot;We've had some strong gains, so month-to-month volatility isn't something I am really worried about. I am actually quite comfortable with this report given that we had a good rise in help wanted yesterday.&quot;  </p>
+<p>Doug Porter, economist, Nesbitt Burns - &quot;I would say the report is definitely on the disappointing side. I would say it's even a little bit weaker than the sluggish headline number suggests given that most of the growth was in part-time.</p>
+<p>&quot;Most of the other (recent) indicators have suggested the economy is coming back, but this just reinforces that the bounce-back is not that strong. Certainly it underlines that the Bank of Canada does not want to tighten policy any time soon.&quot;</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

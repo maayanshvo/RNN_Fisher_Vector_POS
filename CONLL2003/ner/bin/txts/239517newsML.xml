@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239517" id="root" date="1996-12-06" xml:lang="en">
+<title>NIGERIA: U.S. drugs team to assess Nigerian effort.</title>
+<headline>U.S. drugs team to assess Nigerian effort.</headline>
+<dateline>ABUJA 1996-12-06</dateline>
+<text>
+<p>U.S. anti-drug officials are to assess Nigeria's efforts to end its role as a major transit centre for narcotics, an official said on Friday.</p>
+<p>&quot;We welcome the fact-finding team,&quot; Adamu Mohammed, special adviser to the military government on drugs and financial crimes, told journalists.</p>
+<p>Mohammed said the team would arrive on Monday for a four-day visit. &quot;Afterwards, they will hopefully find out the true situation on our efforts and subsequently grade us properly and objectively,&quot; he said.</p>
+<p>In May Nigeria rejected a U.S. report that said the populous West African nation was not doing enough against drug trafficking.</p>
+<p>Nigeria does not produce heroin or cocaine but has a reputation as a transit centre point and many Nigerian couriers are in prison abroad.</p>
+<p>Nigeria has been &quot;decertified&quot; by the United States twice since 1994, a measure to block economic aid that Washington takes when dissatisfied with a country's efforts against drugs.</p>
+<p>Relations are also strained by U.S. criticism of Nigeria's ruling generals for alleged human rights abuses and lack of democracy.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ABUJA"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

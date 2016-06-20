@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241848" id="root" date="1996-12-07" xml:lang="en">
+<title>CANADA: Canada's radio voice abroad to close March 31.</title>
+<headline>Canada's radio voice abroad to close March 31.</headline>
+<dateline>MONTREAL 1996-12-06</dateline>
+<text>
+<p>Radio Canada International (RCI), Canada's voice to the world, is slated to close March 31, 1997 after attempts to raise sufficient rescue funds failed, a source at the Canadian Broadcasting Corp. said on Friday.</p>
+<p>The 123 staff members heard the bad news on an afternoon conference call with RCI executive director Terry Hargreaves and Michael McEwen, senior adviser to CBC president Perrin Beatty, the source said.</p>
+<p>Canadian travelers, soldiers posted abroad, exporters, and foreigners interested in Canada called for the service to be saved when it was put on the chopping block earlier this year.</p>
+<p>RCI was granted a 11th-hour reprieve last March, but the arrangement to finance a rescue package has come to an end.</p>
+<p>Canadian Press NewsAgency said the federally funded CBC and the government were unable to come up with the C$16 million ($12 million) in funding necessary to keep RCI on the air.</p>
+<p>&quot;In the short term, new funds were made available by the government for one year, but unfortunately they feel it's not possible to extend that funding beyond this year,&quot; said Beatty in a Canadian Press report on Friday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I9741105">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MONTREAL"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

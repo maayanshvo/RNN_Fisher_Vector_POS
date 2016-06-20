@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241168" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-NAB to issue A$350 mln in CDs.</title>
+<headline>RTRS-NAB to issue A$350 mln in CDs.</headline>
+<dateline>MELBOURNE 1996-12-06</dateline>
+<text>
+<p>National Australia Bank Ltd said on Friday it plans to issue A$350 million of transferable certificates of deposit (CDs) due April 15, 2000.  </p>
+<p>The coupon is 6.75 percent payable semi-annually with settlement on December 11, the bank said.</p>
+<p>The issue was priced at a spread of 18 basis points over the 7.0 percent government bond due April 2000.</p>
+<p>This the first fixed rate domestic issue by a major bank since 1991, and represents a return to the Australian market for the National Australia Bank, a spokesman for the bank added.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MELBOURNE"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

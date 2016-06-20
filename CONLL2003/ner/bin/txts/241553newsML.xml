@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241553" id="root" date="1996-12-07" xml:lang="en">
+<title>AUSTRIA: BOBSLEIGH-WORLD CUP TWO-MAN RESULTS.</title>
+<headline>BOBSLEIGH-WORLD CUP TWO-MAN RESULTS.</headline>
+<dateline>IGLS, Austria 1996-12-07</dateline>
+<text>
+<p>Results of a World Cup two-man bobsleigh event on Saturday:</p>
+<p>1. United States III (Brian Shimer, Randy Jones) one</p>
+<p>minute 45.91 seconds (52.90/53.01)</p>
+<p>2. Italy I (Guenther Huber, Antonio Tartaglia) 1:45.93</p>
+<p>(52.74/53.19)</p>
+<p>3. Canada I (Pierre Lueders, Dave MacEachern) 1:45.94</p>
+<p>(52.76/53.18)</p>
+<p>4. German I (Sepp Dostthaler, Thomas Lebsa) 1:45.95</p>
+<p>(52.82/53.13)</p>
+<p>5. Switzerland I (Reto Goetschi, Guido Acklin) 1:45.98</p>
+<p>(52.91/53.07)</p>
+<p>6. Germany III (Dirk Wiese, Jakobs Marco) 1:46.02</p>
+<p>(52.89/53.13)</p>
+<p>7.Czech Republic I (Jiri Dzmura, Pavel Polomsky)</p>
+<p>1:46.06 (53.01/53.05)</p>
+<p>8. Austria I (Hubert Schoesser, Erwin Arnold) 1:46.13</p>
+<p>(52.92/53.21)</p>
+<p>9. Britain I (Sean Olsson, Dean Ward) 1:46.26 (52.97/</p>
+<p>53.29)</p>
+<p>10 equal. United States I (Jim Herberich, Garrett</p>
+<p>Hines) 1:46.34 (53.14/53.20) and Austria III</p>
+<p>(Hannes Conti, Georg Kuttner) 1:46.34 (53.30/</p>
+<p>53.04).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IGLS, Austria"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

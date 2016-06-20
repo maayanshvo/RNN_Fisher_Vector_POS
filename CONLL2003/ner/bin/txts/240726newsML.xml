@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240726" id="root" date="1996-12-06" xml:lang="en">
+<title>CYPRUS: Cyprus firms as rest of Europe gets a bashing.</title>
+<headline>Cyprus firms as rest of Europe gets a bashing.</headline>
+<dateline>NICOSIA 1996-12-06</dateline>
+<text>
+<p>Cyprus stocks bucked the trend to firm on Friday while stocks in larger European bourses took a bashing after U.S. central bank governor Alan Greenspan's warning about &quot;irrational exuberance&quot; infecting markets.</p>
+<p>Stocks on the island's small market, which dropped 1.01 percent on Thursday, reversed the trend on Friday by gaining 0.31 percent and closing at 81.83 points.</p>
+<p>Banking stocks gained 1.06 percent as investors paid more attention to bullish comments by Cyprus's own finance minister than they did to Greenspan, whose remarks triggered major market declines from Hong Kong to London.</p>
+<p>&quot;What Greenspan or anyone else abroad says will have only have a superficial affect - if any - on the Cyprus market,&quot; said Haris Christoforou, finance editor of the English-language Cyprus Mail daily.</p>
+<p>&quot;It is an insular bourse and its degree of reliance on foreign capital flows is very limited,&quot; he said.</p>
+<p>Theodoulos Charalambides, manager of stockbrokers Laiki Investments, attributed the rise in part to optimistic messages on the Cypriot economy made by finance minister Christodoulos Christodoulou on Thursday.</p>
+<p>&quot;The Cyprus market is isolated from other markets... the exchange relies on the prospects of the Cyprus economy and the present economic situation.... this (the finance minister's) statement did affect the market in part,&quot; Charalambides said.</p>
+<p>The finance minister predicted a rise in nominal GDP growth to 3.5 percent in 1997 from 2.5 expected this year. Unemployment is expected to be 2.9 percent, a slight drop from this year's expectation of 3.0 percent.</p>
+<p>Inflation in 1997 is forecast at 2.8 percent compared to 3.0 percent this year.</p>
+<p>--Michele Kambas, Nicosia newsroom 357 2 365089</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CYPR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NICOSIA"/>
+<dc element="dc.creator.location.country.name" value="CYPRUS"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

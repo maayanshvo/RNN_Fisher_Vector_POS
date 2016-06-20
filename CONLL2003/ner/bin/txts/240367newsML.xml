@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240367" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Delhi shares retreat to end lower at settlement. [CORRECTED 12:38 GMT]</title>
+<headline>Delhi shares retreat to end lower at settlement. [CORRECTED 12:38 GMT]</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>Shares on the Delhi bourse closed with modest losses as operators covered short positions amid selling by foreign institutional investors at the end of settlement, brokers said.</p>
+<p>The Delhi sensitive index ended 1.10 points (corrects from rupees) lower at 635.79 after touching a session high of 639.67.  </p>
+<p>&quot;It seems that the major players were reluctant to create any large positions at this juncture and preferred to book profits at every rise,&quot; said Kuldip Sethi of brokers Multiple Investments.</p>
+<p>ACC ended 17 rupees higher at 960.</p>
+<p>Reliance Industries quoted 0.50 rupee lower at 183.25.</p>
+<p>ITC rose four rupees to 276.</p>
+<p>State Bank of India fell 2.45 rupees to 208.65.</p>
+<p>TISCO shed 0.30 rupee to 152.</p>
+<p>TELCO dropped 2.25 rupees to 309.25.</p>
+<p>-- New Delhi newsroom +91-11 301 2024</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

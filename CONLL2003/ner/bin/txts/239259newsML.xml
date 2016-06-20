@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239259" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: BofA, UBS to arrange Israel Electric $150 mln loan.</title>
+<headline>BofA, UBS to arrange Israel Electric $150 mln loan.</headline>
+<text>
+<p>LONDON, Dec 6 - Israel Electric Corp has given Bank of America and Union Bank of Switzerland the mandate to arrange a $150 million credit syndicated loan, bankers said.</p>
+<p>The banks are now seeking co-arrangers.</p>
+<p>The seven-year credit, which has a five-year put and call option, is priced at 30 bps over LIBOR for the first two years. The margin rises to 35 bps for years three through five and then, rises to 37.5 bps if the deal is extended through to year seven.</p>
+<p>Co-arrangers are being asked for commitments of $12.5 million, which will earn them a 27.5 bps fee.</p>
+<p>General syndication will take place in the new year.</p>
+<p>In February, Israel Electric borrowed $100 million for five years with a margin of 50 bps over LIBOR. That deal, arranged by Sumitomo Bank, Union Bank of Israel and EuroTrade Bank, was oversubscribed and increased from $50 million.</p>
+<p>Paul Caine 44-0171-542-4048</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C173">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

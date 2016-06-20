@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239472" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Alumax unit ups aluminum extrusion prices.</title>
+<headline>Alumax unit ups aluminum extrusion prices.</headline>
+<dateline>NORCROSS, Ga. 1996-12-06</dateline>
+<text>
+<p>Alumax subsidiary Alumax Extrusions Inc said on Friday it increased prices $0.04 per pound on all aluminum extrusion orders entered after December 9, 1996, and all shipments on or after December 23.</p>
+<p>The price increase did not apply to seamless tube and pipe and Acc-U-Plate product prices, the company said.</p>
+<p>Alumax Extrusion makes soft-alloy aluminum extrusions.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22450">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NORCROSS, Ga."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

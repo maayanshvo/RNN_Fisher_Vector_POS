@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239980" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CBOT/CME closing trends - Dec 6.</title>
+<headline>CBOT/CME closing trends - Dec 6.</headline>
+<text>
+<p>Wheat    up 6 1/4  cts/bu    Live Cattle  dn 1.000 cts/lb</p>
+<p>    Corn     dn 1 1/4  cts/bu    Feeders	dn 0.625 cts/lb</p>
+<p>    Oats     up 1 1/4  cts/bu    Live Hogs    dn 0.325 cts/lb</p>
+<p>    Soybeans dn 6	cts/bu    Pork Bellies dn 1.325 cts/lb</p>
+<p>    Soyoil   up 0.12   cts/lb</p>
+<p>    Soymeal  dn 1.40   dollar/ton</p>
+<p>Commodity Research Bureau Futures Index - Dec 5</p>
+<p>FUTURES INDEX	 243.53   IMPORTS		 310.73</p>
+<p>INDUSTRIES	    271.50   GRAINS		  213.24</p>
+<p>OILSEEDS		292.15   LIVESTOCKS/MEATS    259.51</p>
+<p>PRECIOUS METALS     255.48   CURRENCY		137.60</p>
+<p>ENERGY		  209.37   INTEREST RATES	114.03</p>
+<p>MISCELLANEOUS	 289.39</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

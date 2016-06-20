@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239386" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Tel-Instrument Q2 Sept 28 full results.</title>
+<headline>Tel-Instrument Q2 Sept 28 full results.</headline>
+<dateline>CARLSTADT, N.J. 1996-12-06</dateline>
+<text>
+<p>Three Months Ended     Six Months Ended</p>
+<p>			   Sep 28,    Sep 30,    Sep 28,    Sep 30,</p>
+<p>			     1996	 1995	 1996	 1995</p>
+<p> Sales		  $601,601   $593,148 $1,235,208 $1,220,516</p>
+<p> Net income	     55,388     74,064     66,124    130,226</p>
+<p>Net income per   common share	    0.03	 0.05	 0.04	 0.08</p>
+<p>Weighted average shares outstanding</p>
+<p>			 1,782,526  1,603,806  1,705,932  1,603,806</p>
+<p>Note: Full company name is Tel-Instrument Electronics Corp.</p>
+<p>-- New York Newsdesk 212-859-1610.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CARLSTADT, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

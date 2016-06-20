@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241602" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: NHL ICE HOCKEY-FRIDAY'S RESULTS.</title>
+<headline>NHL ICE HOCKEY-FRIDAY'S RESULTS.</headline>
+<dateline>NEW YORK 1996-12-07</dateline>
+<text>
+<p>Results of National Hockey</p>
+<p>League games on Friday (home team in CAPS):</p>
+<p> NY RANGERS	  6    Toronto	  5</p>
+<p> BUFFALO	     1    Anaheim	  1 (OT)</p>
+<p> Pittsburgh	  5    WASHINGTON     3</p>
+<p> Montreal	    3    CHICAGO	  1</p>
+<p> Philadelphia	6    DALLAS	   3</p>
+<p> St Louis	    4    COLORADO	 3</p>
+<p> EDMONTON	    5    Ottawa	   2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241368" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Markets too negative about Japan economy - BOJ.</title>
+<headline>Markets too negative about Japan economy - BOJ.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>The financial markets have been reacting too negatively to possible adverse effects on Japan's economy from a planned rise in the sales tax in April and a drop in public spending, senior Bank of Japan officials said on Friday.</p>
+<p>&quot;I realise there are negative views in the markets about the impact of the consumption tax hike and drop in public spending, but the markets appear to be exaggerating the magnitude of the negative impact,&quot; a senior BOJ official told Reuters.</p>
+<p>The BOJ's quarterly &quot;tankan&quot; survey, released last month, showed that private capital spending is increasing among small- and medium-sized firms. &quot;Taking into account the possible effects of the sales tax hike, companies have been increasing capital spending,&quot; the official said.</p>
+<p>The official added that while one cannot deny the negative impact of the tax hike, the increase will not hamper the gradual economic recovery Japan is currently experiencing.</p>
+<p>Another BOJ official said while there is a risk as to whether the private sector can weather the negative impact from falling public spending, he sees an expansion in private demand and said the mechanism of self-sustained recovery was in the works.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

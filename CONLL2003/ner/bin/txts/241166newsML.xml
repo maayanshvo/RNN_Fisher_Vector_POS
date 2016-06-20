@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241166" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-PNG investor raises Highlands stake.</title>
+<headline>RTRS-PNG investor raises Highlands stake.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>The National Provident Fund Board of Papua New Guinea said on Friday it had become a substantial shareholder in takeover target Highlands Gold Ltd with a stake of 5.54 percent, or 31.25 million shares.</p>
+<p>Highlands, which is the subject of a hostile 75 cent per share bid by Placer Dome Inc, has been the subject of heavy turnover in recent days. Placer has a 33 percent stake in Highlands, with each company having a 25 percent holding in the giant Porgera gold mine in the PNG Highlands.</p>
+<p>Highlands shares were one cent higher at 78 cents at 0025 GMT (11.25 a.m.).  </p>
+<p>The Australian Financial Review newspaper said on Friday that the National Provident Fund Board had said it would not be accepting the Placer Dome bid.</p>
+<p>It also said Highlands' welcomed the investment as a sign that that institutions in PNG did not want to see the company disappear.</p>
+<p>-- Sydney Newsroom 61-2 9373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PAPNG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

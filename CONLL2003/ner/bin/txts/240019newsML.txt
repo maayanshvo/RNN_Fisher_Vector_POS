@@ -1,0 +1,54 @@
+PRESALE - $1.775 mln Des Moines, Ia..
+
+AMT: 1,775,000	DATE: 12/09/96	NYC Time: 1200     CUSIP: 250097
+
+ISSUER: Des Moines						     ST: IA
+
+ISSUE: New jobs training certificates			    TAX STAT: Taxabl-ULT
+
+M/SP/F: NA/NA/NA							 BOOK ENTRY: Y
+
+ENHANCEMENTS: None						     BANK QUAL: N
+
+DTD: 12/01/96							    SURE BID: Y
+
+DUE: 6/1/98-06						SR MGR:
+
+1ST CPN: 06/01/97
+
+CALL: 6/1/04 @ par					  NIC
+
+DELIVERY: 30 days					   ORDERS:
+
+PAYING AGENT: Norwest Bank Iowa, Des Moines
+
+L.O.: Davis, Brown, Koehn, Shors & Roberts, Des Moines
+
+F.A.: Evensen Dodge, Inc., Minneapolis
+
+LAST SALE: $4,700,000 (Taxable) 1/10/94 @ 5.6987% NIC; 6yrs 5mos Avg; BBI-5.34%
+
+NOTES: Merged Area XI
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1998		     55,000
+
+1999		    125,000
+
+2000		    140,000
+
+2001		    160,000
+
+2002		    215,000
+
+2003		    245,000
+
+2004		    265,000
+
+2005		    285,000
+
+2006		    285,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

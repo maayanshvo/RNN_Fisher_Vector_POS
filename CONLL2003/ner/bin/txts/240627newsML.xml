@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240627" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: UK business failures fall in November - Touche.</title>
+<headline>UK business failures fall in November - Touche.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>UK accountants Deloitte &amp; Touche released the following data on administrative receiverships and administration order appointments in Britain in November -</p>
+<p> BUSINESS FAILURE APPOINTMENTS   Nov     Oct		 Nov,95</p>
+<p> England, Wales and Scotland     107     120		 163</p>
+<p> -- breakdown by REGION	    Nov     12 MTHS TO Nov  1995</p>
+<p>    London &amp; Southeast	     36	652		 858</p>
+<p>    Wales				 0	33		  55</p>
+<p>    Scotland			    2	91		  120</p>
+<p>-- breakdown by SECTOR</p>
+<p>    construction		     20	269		 367</p>
+<p>    finance &amp; business services  14	183		 341</p>
+<p>    manufacturing industries     30	459		 485</p>
+<p>    retailing			   9	219		 269</p>
+<p>    wholesaling			 9	112		 144</p>
+<p>-- London Newsroom +44 171 542 7715</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

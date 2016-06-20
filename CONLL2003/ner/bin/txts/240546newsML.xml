@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240546" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Berg Electronics names Conlon president.</title>
+<headline>Berg Electronics names Conlon president.</headline>
+<dateline>ST. LOUIS 1996-12-06</dateline>
+<text>
+<p>Berg Electronics Corp said Friday it had appointed Robert Mills to the new position of vice chairman of the board, and Executive Vice President Timothy Conlon will succeed Mills as president and chief operating officer.</p>
+<p>The changes are effective January 1.  </p>
+<p>Berg said Mills's appointment as vice chairman will provide continuity and orderly succession as he assumes additional responsibilities as president and chief operating officer of a new printed circuit board company operated by Mills &amp; Partners Inc of St. Louis.</p>
+<p>Berg supplies electronic connector, socket and cable assembly products.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34440">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ST. LOUIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

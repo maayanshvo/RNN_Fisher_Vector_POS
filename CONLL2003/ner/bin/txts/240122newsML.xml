@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240122" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Clinton to have more news conferences in 2nd term.</title>
+<headline>Clinton to have more news conferences in 2nd term.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>President Clinton aims to hold more news conferences in his second term and will have one Dec. 13, the White House said Friday.</p>
+<p>The president had only two formal, full-blown news conferences last year, one in January and one after he won re-election in November, although he had various other limited sessions with the press.</p>
+<p>White House spokesman Mike McCurry said Clinton &quot;plans to have regular news conferences&quot; during his second term. But when asked how frequent these would be, he was evasive, saying, &quot;periodic, occasional.&quot;</p>
+<p>&quot;He enjoys the give and take&quot; with reporters, the spokesman added.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240497" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Union sees Mo. nuke fully back this weekend.</title>
+<headline>Union sees Mo. nuke fully back this weekend.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Union Electric Co expected its 1,125 megawatt (MW) Callaway nuclear generation station in Fulton, Mo., to resume full operation this weekend after being idled Sunday to repair a leaking seal in a hydraulic system.</p>
+<p>&quot;It'll be back to 100 percent some time this weekend,&quot; a company spokesman said.</p>
+<p>He said a minor turbine trip, due to an imbalance of water level in the steam turbine overnight, did not affect the startup of the plant.</p>
+<p>As of 0825 CST, Callaway was operating at 54 percent of capacity, he added.</p>
+<p>The Callaway station represents about 25 percent of the company's generation capacity, and is one of nine power plants owned and operated by Union Electric.</p>
+<p>--New York Power Desk +1 212 859 1622</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

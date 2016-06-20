@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241551" id="root" date="1996-12-07" xml:lang="en">
+<title>AUSTRIA: BOBSLEIGH-SHIMER PILOTS USA III TO SURPRISE WIN.</title>
+<headline>BOBSLEIGH-SHIMER PILOTS USA III TO SURPRISE WIN.</headline>
+<dateline>IGLS, Austria 1996-12-07</dateline>
+<text>
+<p>Brian Shimer piloted USA III to a surprise victory in a World Cup two-man bobsleigh race on Saturday.</p>
+<p>Lying fifth after the first run, Shimer and breakman Randy Jones delivered a near-perfect second trip down the 1976 Olympic course for an aggregate time of one minute 45.91 seconds.</p>
+<p>First run leaders Guenther Huber and breakman Antonio Tartaglia in the Italy I sleigh finished second two-hundredths of a second behind the Americans.</p>
+<p>Canada I, represented by Pierre Lueders and breakman Dave MacEachern, completed the third World cup event of the winter a further one-hundredth of a second behind the Italians.</p>
+<p>The Canadians, winners of the opening two events in Altenberg, Germany, and La Plagne, France, increased their lead in the World Cup standings.</p>
+<p>They have 104 points, 15 ahead of USA I's Jim Herberich and breakman Garrett Hines who managed only 10th place on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUST">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="IGLS, Austria"/>
+<dc element="dc.creator.location.country.name" value="AUSTRIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241710" id="root" date="1996-12-07" xml:lang="en">
+<title>BRAZIL: Brazil minister warns of cellular cartel threat.</title>
+<headline>Brazil minister warns of cellular cartel threat.</headline>
+<dateline>SAO PAULO 1996-12-07</dateline>
+<text>
+<p>Brazil's Communications Minister Sergio Motta has warned that foreign-led groups preparing to bid on cellular B Band frequency concessions may be trying to form a cartel to divide up the 10 service areas, local newspapers said.</p>
+<p>&quot;Members of the consortia met in Sao Paulo to study dividing the B Band areas amongst themselves,&quot; Motta was quoted as saying by Jornal do Brasil.</p>
+<p>The press quoted Motta, who spoke on Friday at a business lunch, as saying that it was to avoid just such possible concession rigging that Brasilia opted not to release all B Band bid specifications at once at the end of December.</p>
+<p>An official from one group ackowledged he was invited two weeks ago to a meeting to discuss &quot;interconnections&quot; between concession areas but did not go, but others dismissed Motta's statements, the papers said.</p>
+<p>&quot;The minister is creating ghosts out of shadows,&quot; Luiz Garcia, head of mining group ABC Algar, was quoted by Folha de S. Paulo as saying.</p>
+<p>Some 20 groups, including many of the largest telecoms firms in the world, are eyeing Brazil's B Band. Tender documents for the concessions are slated to be released in the coming weeks, officials said.</p>
+<p>-- James Craig, Sao Paulo newsroom 5511 248 5413</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BRAZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C34">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAO PAULO"/>
+<dc element="dc.creator.location.country.name" value="BRAZIL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

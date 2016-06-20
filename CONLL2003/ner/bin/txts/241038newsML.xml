@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241038" id="root" date="1996-12-06" xml:lang="en">
+<title>BELGIUM: Gene maize already in Portugal, Spain-EU diplomat.</title>
+<headline>Gene maize already in Portugal, Spain-EU diplomat.</headline>
+<dateline>BRUSSELS 1996-12-06</dateline>
+<text>
+<p>Shipments of U.S. gene-modified maize may already have arrived in Portugal and Spain in breach of EU rules, a European Union diplomat told reporters on Friday.</p>
+<p>&quot;According to our information from the European Commission, Spain and Portugal have already received shipments of maize,&quot; the diplomat said, referring to cargos containing corn from this year's U.S. harvest, the first to include a gene-modified strain made by Swiss chemicals company Ciba -Geigy AG.</p>
+<p>The European Commission is due to decide on December 18 whether to allow imports of the modified maize, which Ciba Geigy has altered to make it resistant to the corn-borer pest and to increase its tolerance of certain weedkillers.</p>
+<p>A Commission decision to clear the maize, which U.S. authorities have approved, will depend on advice from EU committees on food, animal feed and pesticides.</p>
+<p>European Union environment ministers failed last June to agree on a French-backed proposal to approve the maize, with some citing fears related to the environmental effects of releasing the new strain and others saying that a &quot;marker gene&quot; used in the Ciba maize could undermine the effectiveness of an antibiotic used in animals and humans.</p>
+<p>Commission environment spokesman Peter Jorgensen refused to say on Friday whether the EU executive had information indicating whether Portugal and Spain had received maize shipments containing the gene-modified strain.</p>
+<p>He told a news conference that the EU's 15 member states were warned in writing on November 27 that it was their responsibility to stop such imports entering the bloc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="PORL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BRUSSELS"/>
+<dc element="dc.creator.location.country.name" value="BELGIUM"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

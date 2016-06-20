@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239204" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: NWE fuel-high sulphur tumbles, low sulphur stumble.</title>
+<headline>NWE fuel-high sulphur tumbles, low sulphur stumble.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Fuel oil tumbled on Friday with easier crude, the ending of the strike at Elf's three French refineries and the prospect of American fuel flooding the European market.</p>
+<p>Up to $4 was shaved off high sulphur cargo prices and low sulphur was off about $2.</p>
+<p>Traders said the sharp drop in high sulphur cracked prices reflected a lack of fundamental strength.</p>
+<p>&quot;It was closely tied in with crude and also a bit by the Elf strike and they have both gone,&quot; said one trader.</p>
+<p>A cargo was heard sold into a utility at $119 cif NWE, $4 off a similar deal done on Thursday.</p>
+<p>Two coking units in the U.S are also off-line, one of which will be out for three weeks maintenance.</p>
+<p>Up to 165,000 tonnes of fuel will have to find an alternative home and a large parcel over 50,000 tonnes is expected to head into ARA. Dealers said the arbitrage is open from the U.S. into Europe and some are bracing themselves for the extra product.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

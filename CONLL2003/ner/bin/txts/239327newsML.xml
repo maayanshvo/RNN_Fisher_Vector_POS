@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239327" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Poore Bros shrs up on first trading day.</title>
+<headline>Poore Bros shrs up on first trading day.</headline>
+<dateline>GOODYEAR, Ariz. 1996-12-06</dateline>
+<text>
+<p>Poore Brothers Inc's shares closed on Friday at 4-1/2, up one from their IPO price of $3.50.</p>
+<p>In a statement, the company said its initial public offering of 2.25 million shares was priced at $3.50 each.</p>
+<p>Paradise Valley Securities Inc underwrote the offering, the company said. The company produces, markets and distributes salty snack foods that are sold primarily in the southern and western United States.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOODYEAR, Ariz."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240779" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: MCA to buy 50 percent of Polish TV station.</title>
+<headline>MCA to buy 50 percent of Polish TV station.</headline>
+<dateline>UNIVERSAL CITY, Calif.</dateline>
+<text>
+<p>MCA Inc. said Thursday it reached an agreement to buy a 50 percent stake in Luxembourg-based media group CLT's RTL7, the free, satellite-and cable-delivered general entertainment local language channel in Poland.</p>
+<p>RTL7 is scheduled to launch Dec. 7. Terms of the deal were not released.</p>
+<p>In a statement, MCA said it will provide both first-run and library programming, and will create two Universal branded programming blocks, consisting of movie and action- adventure themes.</p>
+<p>First-run titles will include, &quot;Beethoven,&quot; &quot;The Burning Zone,&quot; &quot;Coach&quot; and &quot;EZ Streets,&quot; among others. Feature length titles will include &quot;Airport,&quot; &quot;The Land Before Time,&quot; &quot;Dead Men Don't Wear Plaid,&quot; and more.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="POL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I97400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741110">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="UNIVERSAL CITY, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

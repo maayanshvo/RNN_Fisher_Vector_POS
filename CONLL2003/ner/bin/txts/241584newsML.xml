@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241584" id="root" date="1996-12-07" xml:lang="en">
+<title>ZIMBABWE: GOLF-ZIMBABWE OPEN THIRD ROUND SCORES.</title>
+<headline>GOLF-ZIMBABWE OPEN THIRD ROUND SCORES.</headline>
+<dateline>HARARE 1996-12-07</dateline>
+<text>
+<p>Leading third round scores in the</p>
+<p>Zimbabwe Open on Saturday (South African unless stated):</p>
+<p>201 Mark McNulty (Zimbabwe) 72 61 68</p>
+<p>205 Des Terblanche 65 67 73</p>
+<p>206 Nick Price (Zimbabwe) 68 68 70</p>
+<p>207 Clinton Whitelaw 70 70 67, Mark Cayeux (Zimbabwe)</p>
+<p>69 69 69, Justin Hobday 71 65 71</p>
+<p>209 Steve van Vuuren 65 69 75</p>
+<p>210 Brett Liddle 75 65 70</p>
+<p>211 Hugh Baiocchi 73 67 71, Greg Reid 72 68 71, Mark</p>
+<p>Murless 71 67 73</p>
+<p>212 Trevor Dodds (Namibia) 72 69 71, Schalk van der</p>
+<p>Merwe (Namibia) 67 73 72, Hennie Swart 75 64 73,</p>
+<p>Andrew Pitts (U.S.) 69 67 76</p>
+<p>213 Sean Farrell (Zimbabwe) 77 68 68, Glen Cayeux</p>
+<p>(Zimbabwe) 75 68 70, Nic Henning 73 70 70, Dion</p>
+<p>Fourie 69 73 71</p>
+<p>214 Steven Waltman 72 70 72, Bradford Vaughan 72 71</p>
+<p>71, Andrew Park 72 67 75, Desvonde Botes 72 68 74.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ZIMBAB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HARARE"/>
+<dc element="dc.creator.location.country.name" value="ZIMBABWE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

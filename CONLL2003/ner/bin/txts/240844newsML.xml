@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240844" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Greenspan remarks spook Swedish debt and crown.</title>
+<headline>Greenspan remarks spook Swedish debt and crown.</headline>
+<text>
+<p>1515 GMT - Swedish debt yields ended the week sharply higher as Fed Chairman Alan Greenspan's warning of &quot;irrational exuberance&quot; in assets markets spooked investors worldwide.</p>
+<p>The crown tracked a weaker dollar and softenend versus the mark.</p>
+<p>Dealers hoped that the focus next week would shift to Swedish fundamentals with November CPI figures seen paving the way for lower yields. * Six-month T-bills up two basis points at 4.10 percent * Ten-year bond yields rise twelve basis points to 7.04 percent * The mark firms to 4.4035 crowns versus 4.3800 late Thursday</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

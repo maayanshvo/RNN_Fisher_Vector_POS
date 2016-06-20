@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240256" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Thomson debacle may hurt efforts to woo investors.</title>
+<headline>Thomson debacle may hurt efforts to woo investors.</headline>
+<byline>Penny MacRae</byline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>France's halting of the sale of state-owned Thomson Multimedia to a South Korean conglomerate is a blow to the country's efforts to shed its protectionist image and woo foreign investment, economists say.</p>
+<p>&quot;The public comments on this issue show the French have a fair way to go down the learning curve (on foreign investment),&quot; said economist Sean Shepley of CS First Boston.</p>
+<p>The flip-flop -- the latest in a string by Prime Minister Alain Juppe's deeply unpopular conservative government -- also raises concerns about France's ability to achieve tough deficit cuts to qualify for European monetary union in the teeth of strong domestic opposition, economists say.</p>
+<p>&quot;It reinforces a natural scepticism about the government's ability to push through changes,&quot; said Shepley.</p>
+<p>The scheme to sell Thomson, France's biggest defence contractor, for a symbolic franc to missile-maker Lagardere and its South Korean ally Daewoo, was dogged by public opposition from the start.</p>
+<p>But the decision to start the privatisation process over again startled investors and shocked Koreans, who saw it as a slap to national pride, after the French government had staunchly defended the plan.</p>
+<p>Among key objections of the privatisation commission, which vetoed the sale, was that Daewoo was not legally bound to fulfil any of its pledges to create jobs and invest in France.</p>
+<p>It also objected to the transfer to South Korea of advanced technology that had been partly funded by the state.</p>
+<p>&quot;It's a very French way of looking at things. They want to protect their own producers and technology and that's obviously not a profitable route,&quot; said Marie Owens-Thomsen of BIP.</p>
+<p>&quot;Investment means gains and potential costs, but on balance those gains outweigh the costs,&quot; said another economist. &quot;France doesn't seem to have yet gone through this learning process.&quot;</p>
+<p>Under the agreement, Lagardere would have sold Thomson's money-losing consumer electronics arm Thomson Multimedia to Daewoo Electronics in a deal that would have been the first takeover of a big French firm by an Asian rival.</p>
+<p>The government is already being pilloried by the French media, which has accused it of bungling the sale and warned it could seriously tarnish France's image with foreign investors.</p>
+<p>Seeking to limit the damage, Finance Minister Jean Arthuis urged foreign investors not to shun France and sought to appease South Korea by reassuring Daewoo it was still in the running.</p>
+<p>France is vying for a multi-billion franc combat aircraft order from South Korea.</p>
+<p>But economists said the harm to the country's image may already be done. The move will smack to outsiders as typical of the &quot;insular, protectionist reputation France has always had&quot;, said Darren Williams of UBS.</p>
+<p>It &quot;has damaged the country's reputation in the eyes of investors&quot;, said Jean-Luc de Lemaze of brokerage CSFB. &quot;There's a feeling there's a social blockade.&quot;</p>
+<p>In Seoul, Daewoo said it would pursue its bid for Thomson Multimedia which would transform its Daewoo Electronics unit into the world's biggest television set maker.</p>
+<p>Deputy Prime Minister Han Seung-soo called the events worrying and voiced hope they will not hurt cooperation.</p>
+<p>But Jean-Jacques Grauhar, director of the European Union Chamber of Commerce in Seoul said, &quot;Some politicians are using very hard words toward France.&quot; And some financial analysts in Korea see the move as racist.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I34540">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

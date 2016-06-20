@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241439" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: Munich Re disaster claims low in 1996.</title>
+<headline>Munich Re disaster claims low in 1996.</headline>
+<dateline>MUNICH, Germany 1996-12-06</dateline>
+<text>
+<p>Munich Re, the world's largest reinsurance group, said on Friday that it had been relatively unaffected by natural catastrophes in the year to date.</p>
+<p>Claims from natural catastrophes in the first 11 months, which count toward 1996/1997 accounts, were &quot;once again relatively low,&quot; management board chairman Hans-Juergen Schinzler said in a speech prepared for the company's shareholders' meeting.</p>
+<p>On the other hand, large damage claims were slightly higher than the year ago period, he said.</p>
+<p>Munich Re, whose full name is Muenchener Rueckversicherungs AG, reported an underwriting profit of 573 million marks in 1995/1996, up from a 100-million-mark loss the previous year.</p>
+<p>Schinzler also said Munich Re's parent company premium income was likely to rise only marginally in the year ending June 30 1997 from the 18 billion marks reported for 1995/1996.</p>
+<p>However the outlook could be brightened by improved currency exchange rates this year, he said.</p>
+<p>--Frankfurt Newsroom, +49 69 756525</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8200318">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240196" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Credit Store buys  Service One Holdings.</title>
+<headline>Credit Store buys  Service One Holdings.</headline>
+<dateline>SIOUX FALLS, S.D. 1996-12-06</dateline>
+<text>
+<p>Credit Store Inc said on Friday it has completed its acquisition of Service One Holdings Inc, the sole stockholder of  Service One International Corp, from  Taxter One LLC, an entity controlled by Jay Botchman.</p>
+<p>The company said Botchman in September acquired 20 million common shares of Credit Store and contributed them to Taxter. On December 4, Taxter exchanged all its Service One Holdings common stock for 1.2 million shares of series A preferred stock and 800,000 shares of series B preferred stock of CSI.</p>
+<p>Service One is a national credit card service company specializing in marketing, underwriting and administering credit cards issued to sub-prime debtors.</p>
+<p>((--Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SIOUX FALLS, S.D."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

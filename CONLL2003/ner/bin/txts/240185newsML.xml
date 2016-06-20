@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240185" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Argentine official says GDP not solution to jobs.</title>
+<headline>Argentine official says GDP not solution to jobs.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>A return in Argentina's gross domestic product (GDP) to peak levels last seen in 1994 will not solve the country's unemployment problem, said Guillermo Escude, National Director for macroeconomic policy coordination at The Ministry of Economy in Argentina.</p>
+<p>&quot;Even if we get to the peak 1994 GDP level, that is when we won't be able to blame the recession on any part of the unemployment rate, we will still face severe unemployment problems, &quot; he said, speaking to investors at a conference in New York.</p>
+<p>The current unemployment rate in Argentina is 17 percent.</p>
+<p>Escude said the bulk of the jobs problem rests with smaller firms catching up in investment in exported capital goods, technology and new managerial methods.</p>
+<p>&quot;There is no doubt...part of the unemployment problem is the difficulty of small firms to adapt to the more severe and more competitive circumstances.&quot;</p>
+<p>He said the adaptation of smaller firms to the new environment will be &quot;a gradual process&quot;.</p>
+<p>&quot;The government is doing what it can to eliminate the severe unemployment problem, &quot; he added.</p>
+<p>-- Roanne Daniels 212 859-1677</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

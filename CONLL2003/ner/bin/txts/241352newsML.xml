@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241352" id="root" date="1996-12-06" xml:lang="en">
+<title>PHILIPPINES: Vitarich to sell assets.</title>
+<headline>Vitarich to sell assets.</headline>
+<dateline>MANILA 1996-12-06</dateline>
+<text>
+<p>Poultry firm Vitarich Corp said on Friday its board had approved a plan to sell non-essential assets to finance the company's working capital and expansion programmes.</p>
+<p>Counsel Tadeo Hilado told the Philippine Stock Exchange the assets sale would raise about 400 million to 600 million pesos for the company.</p>
+<p>He did not specify which assets would be disposed.</p>
+<p>Vitarich was the biggest loser among commercial-industrial shares on Friday, shedding 25 centavos, or 8.20 percent, to close at 2.80 pesos.- Manila newsroom 63 2 8418938 Fax 8176267</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PHLNS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C182">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MANILA"/>
+<dc element="dc.creator.location.country.name" value="PHILIPPINES"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

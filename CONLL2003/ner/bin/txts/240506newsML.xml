@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240506" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Detroit Edison nuke seen in restart Friday.</title>
+<headline>Detroit Edison nuke seen in restart Friday.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Detroit Edison's 1,116 megawatt (MW) Fermi 2 nuclear power plant in Monroe County, Mich., was expected to begin the restart process Friday following a repair outage, a company spokeswoman said.</p>
+<p>&quot;It should resume the startup process at about midday today,&quot; spokeswoman Mary Kay Bean said Friday, adding the unit would likely go through &quot;several days&quot; of restart testing before synchronizing to the electricity grid.</p>
+<p>The unit was shut for electrical repairs Dec 2 while in restart mode following a scheduled 63-day maintenance and refueling outage.</p>
+<p>Detroit Edison is a subsidiary of DTE Energy Co.</p>
+<p>--New York Power Desk 212-859-1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

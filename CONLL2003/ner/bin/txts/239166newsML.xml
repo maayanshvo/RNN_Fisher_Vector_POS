@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239166" id="root" date="1996-12-06" xml:lang="en">
+<title>BULGARIA: BULGARIA INTERNAL CREDIT RISES 2.52 PCT IN WEEK.</title>
+<headline>BULGARIA INTERNAL CREDIT RISES 2.52 PCT IN WEEK.</headline>
+<dateline>SOFIA 1996-12-06</dateline>
+<text>
+<p>Bulgarian banks' internal credit</p>
+<p>rose to 1,612.7 billion levs on November 29 from 1,573 billion</p>
+<p>levs a week earlier, preliminary central bank figures showed.</p>
+<p>Credit to government rose 5.65 percent to 662 billion levs,</p>
+<p>credit to state firms inched up 0.30 percent to 432.2 billion</p>
+<p>levs and lev-denominated credit to private firms edged down</p>
+<p>0.74 percent to 134.2 billion levs.</p>
+<p> PERCENTAGE CHANGE	  NOV29-NOV22 NOV29-NOV1  NOV 1-SEPT27</p>
+<p> Total internal credit	 +2.52	+30.02	 +1.67</p>
+<p> Credit to govt		  +5.65	+30.52	 +2.26</p>
+<p> Credit to state firms	 +0.30	+30.10	 +2.40</p>
+<p> Lev credit to private firms -0.74	 +2.13	 -1.94</p>
+<p> NOMINAL (BILLION LEVS)	NOV 29	NOV 22	  NOV 1</p>
+<p> Total internal credit	1,612.7     1,573.0	1,240.3</p>
+<p> Credit to govt		   662.0	 626.6	  507.2</p>
+<p> Credit to state firms	  432.2	 430.9	  332.2</p>
+<p> Lev credit to private firms  134.2	 135.2	  131.4</p>
+<p> Dlr credit to private firms    1.10	  1.10	   1.12</p>
+<p>(USD billion)</p>
+<p>-- Sofia Newsroom, 359-2-84561</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81402">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SOFIA"/>
+<dc element="dc.creator.location.country.name" value="BULGARIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

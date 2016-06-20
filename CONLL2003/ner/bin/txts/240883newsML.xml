@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240883" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: France's Borotra receives Thomson unions.</title>
+<headline>France's Borotra receives Thomson unions.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French Industry Minister Franck Borotra on Friday met a trade union delegation from Thomson SA which wants the government to stop the privatisation of the electronics group.</p>
+<p>&quot;Franck Borotra had expressed the government's intention to pursue the privatisation (of Thomson) according to the terms that will be detailed in the coming days,&quot; the industry ministry said in a statement.</p>
+<p>&quot;He has taken note of comments that TMM (Thomson Multimedia) should be fully valued and reconfirmed the recapitalisation of this company,&quot; the statement said.  </p>
+<p>The worker representatives are due to be received at Prime Minister Alain Juppe's office later today. Juppe himself is in Bordeaux, where he is mayor.</p>
+<p>Government sources said that it was unclear what the next steps in the sale would be and when it would be announced.</p>
+<p>&quot;I believe we need a few days to think things over,&quot; an official said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

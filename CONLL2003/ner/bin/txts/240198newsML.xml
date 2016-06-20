@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240198" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Maine Yankee nuclear plant off-line.</title>
+<headline>Maine Yankee nuclear plant off-line.</headline>
+<dateline>WISCASSET, Maine 1996-12-06</dateline>
+<text>
+<p>The Maine Yankee nuclear plant was shut down Friday to correct a problem with two control room cables, plant officials said.</p>
+<p>The 910-megawatt plant was taken off line after engineers discovered two cables in the reactor protective system were not properly separated as required by Nuclear Regulatory Commission design criteria.</p>
+<p>The problem was discovered as part of a circuitry review ordered by the NRC for all nuclear plants, Maine Yankee said in a statement.</p>
+<p>Plant officials said they did not know long the shut-down will last. They said more information would be available after a review of &quot;circuitry issues.&quot;</p>
+<p>The plant has been limited to 90 percent capacity while regulators investigate the safety of its emergency core cooling system. The issue is also under investigation by the U.S. Justice Department.</p>
+<p>Maine Yankee is 38 percent owned by Central Maine Power Co, 20 percent each by New England Electric System and Northeast Utilities, seven percent by Bangor Hydro, five percent by Maine Public Service Co. and 10 percent by other New England utilities.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1610107">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WISCASSET, Maine"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

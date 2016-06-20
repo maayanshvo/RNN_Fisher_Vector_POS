@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240488" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Int'l Thoroughbred holder to sell stock.</title>
+<headline>Int'l Thoroughbred holder to sell stock.</headline>
+<dateline>CHERRY HILL, N.J. 1996-12-06</dateline>
+<text>
+<p>International Thoroughbred Breeders Inc said Robert Brennan, who owns about 25 percent of the company's stock, plans to sell his shares to NPD Inc, a company formed by Nunzio DeSantis and Anthony Coelho.</p>
+<p>Brennan said the base sale price is $4 a share, subject to certain adjustments.</p>
+<p>The proposed sale is subject to the several conditions, such as approval by the bankruptcy court which is overseeing Brennan's Chapter 11 proceedings and the purchaser arranging a two-year $5 million unsecured line of credit for International Thoroughbred's benefit.</p>
+<p>International Thoroughbred owns and operates the Garden State Park and Freehold Raceway, two horse racing tracks in New Jersey.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97911">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHERRY HILL, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

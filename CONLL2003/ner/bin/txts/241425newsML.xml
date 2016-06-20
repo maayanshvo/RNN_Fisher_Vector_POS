@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241425" id="root" date="1996-12-06" xml:lang="en">
+<title>LEBANON: PRESS DIGEST - Lebanon - Dec 6.</title>
+<headline>PRESS DIGEST - Lebanon - Dec 6.</headline>
+<dateline>BEIRUT 1996-12-06</dateline>
+<text>
+<p>These are the leading stories in the Beirut press on Friday. Reuters has not verified these stories and does not vouch for their accuracy.</p>
+<p>AN-NAHAR</p>
+<p>-The World Bank granted Lebanon $31 million for agricultural development.</p>
+<p>-Ground crews of the national carrier Middle East Airlines went on a three-hour strike to protest against the company's new medical insurance policy.</p>
+<p>-Fourty thousand Palestinians signed a petition demanding the cancellation of a one-year old decision by the interior ministry asking Palestinians, residents of Lebanon's refugee camps, to apply for an exit re-entry visa before leaving Lebanon.</p>
+<p>AS-SAFIR</p>
+<p>-Prime Minister Hariri met Arab diplomats in Beirut.</p>
+<p>AL-ANWAR</p>
+<p>-Astonian unit joined the 4600-strong U.N. force in south Lebanon.</p>
+<p>AD-DIYAR</p>
+<p>-Three Lebanese banks are preparing to list their shares on the Beirut Stock Exchange.</p>
+<p>-Former Prime Minister Karami says $250 million were spent on parliamentary elections campaigns in September.</p>
+<p>NIDA'A AL-WATAN</p>
+<p>World Bank delegation meets top officials.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

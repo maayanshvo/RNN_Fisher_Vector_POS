@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240571" id="root" date="1996-12-06" xml:lang="en">
+<title>GREECE: BANK OF GREECE GOVERNOR TO PRESENT EURO ON DEC 13.</title>
+<headline>BANK OF GREECE GOVERNOR TO PRESENT EURO ON DEC 13.</headline>
+<dateline>ATHENS 1996-12-06</dateline>
+<text>
+<p>The governor of the Greek central bank, Lucas Papademos, will present the initial design of the seven denominations of euro, EU's future single currency, the bank said in a statement.</p>
+<p>The euro designs were approved by the board of directors of the European Monetary Institute (EMI) on December 3, it said.</p>
+<p>Alexandre Lamfalussi, the president of EMI. will present the leaders of the EU member countries with the euro in Dublin on December 13, it said.</p>
+<p>A similar presentation will take place at the headquarters of the EMI in Frankfurt.</p>
+<p>Euro will be available in denominations of 5, 10, 20, 50, 100, 200 and 500, it added.</p>
+<p>Euros will be in circulation around the end of 2001 in accordance with a decision taken by the European council of December 1995. --Dimitris Kontogiannis, Athens Newsroom +301 3311812-4</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GREECE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G154">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ATHENS"/>
+<dc element="dc.creator.location.country.name" value="GREECE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

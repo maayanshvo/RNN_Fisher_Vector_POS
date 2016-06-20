@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240027" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Clinton increases funding for N.Carolina storm.</title>
+<headline>Clinton increases funding for N.Carolina storm.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>President Clinton Friday authorized an increase in federal funding for rebuilding public facilities in North Carolina damaged by Hurricane Fran in early September.</p>
+<p>By law the federal government pays at least 75 percent of the eligible expenses for repair of disaster-damaged public facilities and other eligible expenses. Clinton issued an order increasing the federal share to 90 percent to reduce the financial burden on North Carolina.</p>
+<p>&quot;This increase in the cost-share will reduce the burden on the residents of North Carolina who have suffered so greatly from Hurricane Fran,&quot; Clinton said in a written statement. &quot;Full recovery from this devastating storm will take some time, but we are encouraged by the progress that has been made in the past three months.&quot;</p>
+<p>The Federal Emergency Management Agency estimates the full cost of recovery from Hurricane Fran will exceed $445 million, or more than $67 per person in North Carolina.</p>
+<p>The cost-share adjustment is retroactive to Sept. 6, date of Clinton's major disaster declaration for the state.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

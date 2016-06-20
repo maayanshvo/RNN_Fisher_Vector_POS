@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241291" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Yiu Wing interim net returns to profit.</title>
+<headline>Yiu Wing interim net returns to profit.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Six months ended September 30</p>
+<p>(in million HK$ unless stated)</p>
+<p>    Shr (H.K. cents)	   0.78 gain   vs 4.69 loss</p>
+<p>    Dividend (H.K. cents)    nil	   vs nil</p>
+<p>    Exceptional items	  21.99 gain  vs 5.68 loss</p>
+<p>    Net			    3.78 profit vs 22.55 loss</p>
+<p>    Turnover		     335.66	vs 265.11</p>
+<p>    Company name		 Yiu Wing International Holdings</p>
+<p>				     Ltd</p>
+<p>    Books close		  N/A</p>
+<p>    Dividend payable	   N/A</p>
+<p>NOTE - Construction company Yiu Wing also operates restaurants.</p>
+<p>Net is after an exceptional gain on disposal of investment property and mark to market recovery of marketable securities.</p>
+<p>-- Hong Kong newsroom (852) 2843 6368</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,50 @@
+Residential Mortgage Secs sets 64 mln stg FRN.
+
+LONDON 1996-12-06
+
+Residential Mortgage Securities 1 Plc has issued a three-tranche asset-backed bond for a total of 64.2 million stg, lead manager Nomura said.
+
+CLASS A
+
+ AMT    59 MLN STG    BASE	*3M-LIBOR  LEG MAT     09.MAR.34
+
+ S&P	  AAA	 MARGIN     +15 BP    AVG LIFE    4.11 YRS
+
+ REOFFER    99.90     ISS PRICE  PAR	 PAY DATE    13.DEC.96
+
+ FULL FEES  0.40	MGT/UND    0.30	SELLING     0.10
+
+ NOTES     *TO DECEMBER 2006 THEN 3M-LIBOR +40 BP
+
+* * * * *
+
+CLASS M
+
+ AMT    5.2 MLN STG   BASE	*3M-LIBOR  LEG MAT     09.MAR.34
+
+ S&P	  =	   MARGIN     +40 BP    AVG LIFE    9.99 YRS
+
+ REOFFER    99.28     ISS PRICE  PAR	 PAY DATE    13.DEC.96
+
+ FULL FEES  1.47	MGT/UND    0.75	SELLING     0.72
+
+ NOTES     *TO DECEMBER 2006 THEN 3M-LIBOR +90 BP
+
+* * * * *
+
+THERE IS ALSO A 3.19 MILLION STG CLASS B TRANCHE
+
+* * * * *
+
+COMMON TERMS
+
+ LISTING    LONDON    DENOMS (K) 10	  SALE LIMITS US/UK
+
+ NEG PLG    NO	  CRS DEFLT  NO	  FORCE MAJ   IPMA 2
+
+ NOTES	CALLABLE ON EVERY COUPON DATE ASSUMING LESS THAN 10
+
+		PERCENT OF THE CLASS OUTSTANDING
+
+-- London Newsroom +44 171 542 8863
+

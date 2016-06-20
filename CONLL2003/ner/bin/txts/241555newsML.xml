@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241555" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: FREESTYLE SKIING-WORLD CUP AERIALS RESULTS.</title>
+<headline>FREESTYLE SKIING-WORLD CUP AERIALS RESULTS.</headline>
+<dateline>TIGNES, France 1996-12-07</dateline>
+<text>
+<p>Results of the World Cup</p>
+<p>freestyle skiing aerials competition on Saturday:</p>
+<p>Men:</p>
+<p> 1. Alexis Blanc (France)	   238.36 points</p>
+<p> 2. Sebastien Foucras (France)    223.60</p>
+<p> 3. Jeff Bean (Canada)		209.96</p>
+<p> 4. Eric Bergoust (U.S)	     207.15</p>
+<p> 5. Christian Rijavec (Austria)   204.17</p>
+<p> 6. Alexandre Mikhailov (Russia)  202.59</p>
+<p> 7. Ales Valenta (Czech Republic) 194.02</p>
+<p> 8. Andy Capicik (Canada)	   193.82</p>
+<p> 9. Trace Worthington (U.S.)	192.36</p>
+<p> 10. Dmitri Dashinski Belarus)    190.70</p>
+<p>Women:</p>
+<p> 1. Veronica Brenner (Canada)     170.42</p>
+<p> 2. Karin Kuster (Switzerland)    160.55</p>
+<p> 3. Evelyne Leu (Switzerland)     160.36</p>
+<p> 4. Caroline Olivier (Canada)     157.10</p>
+<p> 5. Jacqui Cooper (Australia)     156.52</p>
+<p> 6. Marie Lindgren (Sweden)	 154.82</p>
+<p> 7. Dan Cuo (China)		   154.61</p>
+<p> 8. Kristie Marshall (Australia)  154.60</p>
+<p> 9. Xu Nannan (China)		 152.08</p>
+<p> 10. Hilde Synnove Lid (Norway)   148.20</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TIGNES, France"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

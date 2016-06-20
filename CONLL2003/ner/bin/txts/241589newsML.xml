@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241589" id="root" date="1996-12-07" xml:lang="en">
+<title>AUSTRALIA: CRICKET-SHEFFIELD SHIELD SCORE.</title>
+<headline>CRICKET-SHEFFIELD SHIELD SCORE.</headline>
+<dateline>HOBART, Australia 1996-12-07</dateline>
+<text>
+<p>Close of play score on the second day of the four-day Sheffield Shield cricket match between Tasmania and Victoria at Bellerive Oval on Saturday:</p>
+<p>Tasmania 481 for eight declared (Michael DiVenuto 119, David Boon 118, Shaun Young 113); Victoria 220 for three (Dean Jones 130 not out).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOBART, Australia"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

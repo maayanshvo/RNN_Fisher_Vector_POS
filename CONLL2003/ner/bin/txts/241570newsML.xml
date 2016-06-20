@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241570" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: RUGBY UNION-BRITISH RESULTS.</title>
+<headline>RUGBY UNION-BRITISH RESULTS.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>Results of British rugby union</p>
+<p>matches on Saturday:</p>
+<p>Pilkington Cup fourth round</p>
+<p> Reading	50     Widnes	     3</p>
+<p>English division one</p>
+<p> Bath	   35     Harlequins	20</p>
+<p> Gloucester   29     London Irish    19</p>
+<p> Orrell	 22     West Hartlepool 15</p>
+<p> Wasps	  15     Bristol	   13</p>
+<p>Welsh division one</p>
+<p> Caerphilly   20     Cardiff	   34</p>
+<p> Llanelli     97     Newbridge	 10</p>
+<p> Newport	45     Dunvant	   22</p>
+<p> Pontypridd   53     Bridgend	   9</p>
+<p> Swansea	49     Neath	     10</p>
+<p> Treorchy     13     Ebbw Vale	 17</p>
+<p>Scottish division one</p>
+<p> Boroughmuir  31     Watsonians	35</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

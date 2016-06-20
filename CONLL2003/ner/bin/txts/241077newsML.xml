@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241077" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: UK's Rifkind denies Clarke threatened to resign.</title>
+<headline>UK's Rifkind denies Clarke threatened to resign.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Foreign Secretary Malcolm Rifkind on Friday dismissed reports Chancellor of the Exchequer Kenneth Clarke threatened to quit over the government's European policy.</p>
+<p>&quot;Allegations were made, Ken Clarke has denied them, that's good enough for me, it should be good enough for you,&quot; Rifkind told a radio interviewer on Friday.</p>
+<p>Clarke on Friday denied reports he had threatened to resign if Major had decided to rule out entry into a single European currency in the life of the next parliament. The government's current policy is to wait and decide on entry at the time. -- London Newsroom +44 171 542 7768</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

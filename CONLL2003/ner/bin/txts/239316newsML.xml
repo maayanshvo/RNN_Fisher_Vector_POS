@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239316" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: RESEARCH ALERT - Comercial del Plata cut.</title>
+<headline>RESEARCH ALERT - Comercial del Plata cut.</headline>
+<text>
+<p>-- Deutsche Morgan Grenfell said on Friday it had cut its rating on Argentina's Sociedad Comercial del Plata SA to sell from hold.</p>
+<p>-- Analyst Carlos de Leon said in a report he downgraded the stock because &quot;substantial asset sales ... have continued to be absent,&quot; and debt will continue to grow with current investment plans.</p>
+<p>-- The late opening of the Parque de la Costa theme park in April 1997 &quot;means that the company will miss out on the peak summer season ... and is likely to report another loss during fiscal 1997,&quot; he said.</p>
+<p>-- Ian Simpson, Wall Street Desk (212) 859-1879</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ARG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

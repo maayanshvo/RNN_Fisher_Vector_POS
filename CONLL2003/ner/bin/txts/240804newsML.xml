@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240804" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CME average feeder steer price.</title>
+<headline>CME average feeder steer price.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>The Chicago Mercantile Exchange reported the average feeder steer price for the seven calendar days ending Wednesday, Dec 04  used for cash settlement of CME Feeder Cattle contracts. (in dollars per cwt) --</p>
+<p>12-STATES - FOR 7 DAYS ENDING -</p>
+<p>Wednesday    Dec	 04   $65.27    up 0.31</p>
+<p>Tuesday	Dec	 03   $64.96    dn 0.04</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

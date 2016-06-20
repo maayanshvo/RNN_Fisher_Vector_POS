@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239223" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: New meningitis scare hits Britain.</title>
+<headline>New meningitis scare hits Britain.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>A boy has died from meningitis and a girl from the same school has contracted the disease in the second such scare to hit Britain in as many weeks, health authorities said on Friday.</p>
+<p>The 16-year-old who attended Sale Grammar School in the northern England city of Manchester died less than a day after becoming ill.</p>
+<p>The 15-year-old girl is also suffering from the disease and hospital officials described her condition as serious.</p>
+<p>&quot;At the moment there is no evidence the two cases are linked. However, we are assuming they are as a precaution for the time being,&quot; a spokeswoman said.</p>
+<p>The more than 1,260 students at the school are being given antibiotics as a precaution.</p>
+<p>Wales grappled with its own cluster of meningitis cases on a university campus in Cardiff. At least two people have died and hundreds have been vaccinated in an effort to contain the virus.</p>
+<p>In Scotland, eight people have died and hundreds more are fighting a widespread food-poisoning outbreak.</p>
+<p>A health authority spokeswoman said 78 people suspected of having the disease, including 64 confirmed cases, were still being treated. Three were listed in poor condition.</p>
+<p>More than 290 people have reported symptoms in Lanarkshire county, the worst-hit area, since the outbreak first came to light after people ate tainted meat pies at a pensioners' lunch.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GHEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240063" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Man stole pigs, tipped strippers, gets 10 years.</title>
+<headline>Man stole pigs, tipped strippers, gets 10 years.</headline>
+<dateline>APPLETON, Wis. 1996-12-06</dateline>
+<text>
+<p>A farmhand used the proceeds from stolen pigs to lavish tips on dancers at strip clubs and offered one $3,000 to pay for breast implant surgery, authorities said Friday.</p>
+<p>In sentencing Darrel Voeks, 38, to a 10-year prison term on Thursday, Outagmie County Circuit Court Judge Dennis Luebke said he was &quot;a thief by habit.&quot;</p>
+<p>&quot;You are self-indulgent. You are narcissitic,&quot; Luebke said at the sentencing, adding Voeks should pay restitution of more than $100,000 to the farming family who had hired him.</p>
+<p>Voeks, who was already on probation for prior pig thefts, pleaded that he was trying to pay bills for his ex-wife and children. But the court heard that receipts showed much of the money went to dancers at strip clubs where he was known as a big tipper.</p>
+<p>One stripper said Voeks offered to give her $3,000 for breast implant surgery.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="APPLETON, Wis."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

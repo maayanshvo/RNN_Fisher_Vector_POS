@@ -1,0 +1,38 @@
+U.S. 3-Area Base Cost Hogs Carcass Lean Value-USDA.
+
+DES MOINES, Iowa 1996-12-06
+
+Base Cost Lean Value Hog Carcass values for Thursday, Dec 5.
+
+ DAILY    Volume	  Avg	 Bcost	 Bcost    Bcost
+
+ 3-AREA		     Carcass  47-48%	 49-50%   51-52%
+
+				 Wt    *1.10-1.19 *1.00-1.09 *.80-.99
+
+12/05/96  131,669	 187.8     77.03	 78.42     79.81
+
+12/04/96  133,893	 187.0     77.05	 78.45     79.84
+
+12/03/96  134,996	 187.0     77.34	 78.73     80.12
+
+12/02/96  123,267	 186.5     76.62	 78.01     79.40
+
+11/29/96  111,523	 186.1     76.48	 77.91     79.31
+
+11/28/96	  0	   0.0	0.00	  0.00	0.00
+
+12/07/95  124,443	 186.6     59.30	 60.63     61.89
+
+WEEKLY 3-AREA
+
+Week Ended:
+
+11/30/96  531,564	 186.1     75.65	 77.04     78.43
+
+11/09/96  650,565	 186.1     71.85	 73.20     74.54
+
+12/09/95  624,726	 186.8     58.99	 60.31     61.57
+
+Note: *Indicates backfat. Includes volume, weighted average base cost and average carcass weight for Mid-South, Eastern Cornbelt,  and Western Cornbelt based on actual, not estimated, data. 51-52  pct values are used to calculate CME Lean Hog Value Index. Weekly total includes Saturday and/or Sunday data.
+

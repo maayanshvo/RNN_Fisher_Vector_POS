@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241850" id="root" date="1996-12-07" xml:lang="en">
+<title>CANADA: Bre-X denies report of deal with Barrick.</title>
+<headline>Bre-X denies report of deal with Barrick.</headline>
+<dateline>TORONTO 1996-12-06</dateline>
+<text>
+<p>Bre-X Minerals Ltd formally denied on Friday a published report that there was a deal with Barrick Gold Corp for rights to Indonesia's Busang gold deposit.</p>
+<p>&quot;There's a number of things that have been tabled,&quot; Bre-X spokesman Steve McAnulty said in a telephone interview.</p>
+<p>&quot;The best thing to say about it is there are still unresolved issues. It would premature for me to comment,&quot; McAnulty said.</p>
+<p>He said Bre-X and Barrick were still negotiating.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="INDON">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I21000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

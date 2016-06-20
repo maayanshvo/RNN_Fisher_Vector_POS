@@ -1,0 +1,22 @@
+NATIONAL BANK OF MACEDONIA FIX FOR MONDAY.
+
+SKOPJE 1996-12-06
+
+The National Bank of Macedonia
+
+(NBM) fix for Monday:
+
+    DEM 100 - 2,663.7071	USD   1 -  40.8559
+
+    CHF 100 - 3,150.6328	ATS 100 - 378.6193
+
+The NBM calculates the denar's rate against the German mark
+
+on the basis of the information submitted by banks during the
+
+morning. Denar rates against other currencies are worked out
+
+from the Frankfurt fixing rates, issued around 1500 local time.
+
+-- Sofia Newsroom, 359-2-84561
+

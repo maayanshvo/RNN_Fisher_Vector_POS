@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240938" id="root" date="1996-12-06" xml:lang="en">
+<title>DENMARK: Denmark's Radiometer H1 result seen flat.</title>
+<headline>Denmark's Radiometer H1 result seen flat.</headline>
+<dateline>COPENHAGEN 1996-12-06</dateline>
+<text>
+<p>A Reuter consensus survey sees medical equipment group Radiometer reporting largely unchanged earnings when it publishes first half 19996/97 results next Wednesday.</p>
+<p>An average of four analysts' forecasts predicted pre-tax profit of 147.3 million crowns compared to 144.5 million in the first six months of 1995/96.</p>
+<p>They said that the group's failure to introduce new products was behind the share's weak performance in 1996, during which it has lost seven percent so far.</p>
+<p>--Soeren Linding Jakobsen, Copenhagen newsroom +45 33969650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="DEN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I34420">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COPENHAGEN"/>
+<dc element="dc.creator.location.country.name" value="DENMARK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

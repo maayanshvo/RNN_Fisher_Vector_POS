@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240552" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Calif. lawmaker proposes balanced budget amendment.</title>
+<headline>Calif. lawmaker proposes balanced budget amendment.</headline>
+<dateline>SACRAMENTO, Calif. 1996-12-05</dateline>
+<text>
+<p>California state Assemblyman Jan Goldsmith said on Thursday he had introduced a constitutional amendment to require the state Legislature to pass a balanced budget.</p>
+<p>The balanced budget amendment, the first proposed constitutional amendment of the 1997-1998 legislative session, would also require the state Department of Finance to asses projected revenues and budget shortfalls and the state Legislative Analyst to verify the findings.</p>
+<p>&quot;This legislation codifies our commitment to a balanced budget in the Constitution,&quot; said Goldsmith, a Republican from San Diego. &quot;It is the foundation of fiscal responsibility.&quot;</p>
+<p>With only days remaining in the 1995-1996 legislative session, the Assembly passed Goldsmith's earlier balanced budget amendment. The session ended, however, before the measure could be heard on the Senate side.</p>
+<p>There is currently no provision in California's Constitution to require the Legislature to send a balanced budget to the governor for signature.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SACRAMENTO, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

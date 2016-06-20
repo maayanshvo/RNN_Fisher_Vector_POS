@@ -1,0 +1,146 @@
+U.S. nuclear power plant scheduled outages -- Dec 6.
+
+NEW YORK 1996-12-06
+
+Listed below are scheduled maintenance and refueling outages at US nuclear power plants.
+
+Company		   Unit	   Capacity     Date    Length
+
+						 (MW)    strt   end (days)
+
+UNITS CURRENTLY IN SCHEDULED OUTAGE
+
+Commonwealth Edison   LaSalle 2	1,078   9/20 *02/97   170
+
+			    Zion 2	   1,040   9/18 *02/97   150
+
+Consumers Power Co    Palisades	  780  11/01  12/20    51
+
+Detroit Edison	  Fermi 2	  1,116   9/27 *12/10    74
+
+Duke Power Co	   Oconee 3	   846  10/04  01/97    93
+
+Duquesne Lt Co	  B. Valley 2	833   8/30  *
+
+Illinois Power	  Clinton 1	  930   9/06 *12/19    70
+
+Northeast Utils	 Millstone 1	660   *
+
+			    Millstone 2	870   *
+
+			    Millstone 3    1,149   *
+
+			    Conn. Yankee     582   7/22  *
+
+NY Power Authority    FitzPatrick	780  10/26  12/11    47
+
+PSE&G		     Salem 1	  1,106   5/16  07/97
+
+			    Salem 2	  1,106   6/07  12/23   196
+
+SoCal Edison	    San Onofre 2   1,070  11/30  02/10    70
+
+Southern Nuclear	Farley 2	   822  10/12  12/15    63
+
+Wisconsin Electric    Pt Beach 2	 485  10/05  12/14    71
+
+Wisconsin Public	Kewaunee	   503   9/20  01/02    85
+
+TOTAL IN SCHEDULED OUTAGE: 15,756 MW
+
+PENDING SCHEDULED OUTAGES:
+
+American Electric     Cook 1	    1,020    02/28/97     45
+
+			    Cook 2	    1,090    11/07/97     45
+
+Arizona Public	  Palo Verde 3    1,221    02/22/97     50
+
+			    Palo Verde 2    1,221    09/20/97     50
+
+Baltimore G&E	   Calvert Cliffs 2  850    03/14/97     45
+
+Boston Edison Co	Pilgrim 1	   670    02/01/97     35
+
+Carolina P&L	    Brunswick 2	 754   *10/  /97
+
+			    Harris 1	    880   *04/  /97
+
+Commonwealth Edison   Dresden 3	   794   *03/  /97     45
+
+Consumers Power	 Big Rock Pt 1	67    04/01/97     60
+
+Consolidated Edison   Indian Pt 2	 975    04/05/97     43
+
+Dusquesne Light	 Beaver Valley 1   810    09/05/97     45
+
+Entergy Corp	    Arkansas 2	  858    04/11/97     45
+
+			    River Bend 1	936    09/12/97     30
+
+			    Waterford 3     1,075    04/11/97     30
+
+Florida P&L	     St Lucie 2	  839   *04/15/97     50
+
+			    St Lucie 1	  839   *10/20/97     50
+
+			    Turkey Point 3    666   *03/01/97     50
+
+			    Turkey Point 4    666   *09/15/97     50
+
+Georgia Power	   Hatch 1	     741    10/11/97     30
+
+			    Hatch 2	     765    03/15/97     30
+
+			    Vogtle 1	  1,162    09/07/97     34
+
+GPU Nuclear	     Three Mile Island 786    09/05/97     50
+
+Houston Light & Power South Texas 2   1,250    02/07/97     35
+
+			    South Texas 1   1,250    09/13/97     35
+
+Nebraska Public Pwr   Cooper		764    04/01/97     40
+
+NY Power Authority    Indian Pt 3	 965   *05/  /97     50
+
+Niagara Mohawk	  Nine Mile Pt 1    610   *02/03/97     40
+
+North Atlantic Energy Seabrook 1	1,150    05/10/97     40
+
+PECO Energy	     Limerick 2	1,055    02/01/97     30
+
+			    Peach Bottom 3  1,100    09/  /97     30
+
+PP&L			Susquehanna 2   1,094   *04/15/97     36
+
+PG&E			Diablo Canyon 1 1,087    05/03/97     60
+
+			    Diablo Canyon 2 1,073    09/20/97     32
+
+SoCal Edison	    San Onofre 3    1,080    04/05/97     65
+
+Southern Co	     Farley 1	    812    03/15/97     50
+
+Rochester G and E     Ginna 1	     470   *10/  /97
+
+Texas Utilities	 Comanche Pk 2   1,150   *10/  /97     45
+
+Virginia Power	  North Anna 1	911    05/16/97     35
+
+			    Surry 1	     781    02/18/97     35
+
+			    Surry 2	     781    11/01/97     35
+
+Wash. Public Pwr	WNP2		1,112    04/11/97     42
+
+TOTAL PENDING OUTAGES		    38,180 MW
+
+Note: for those marked with *, the start or restart dates are tentative.
+
+Tennessee Valley Authority unit TVA Nuclear and Unicom Corp subsidiary Commonwealth Edison Co declined to disclose information on their scheduled 1997 outages.
+
+Nuclear operating companies advise that outage durations are estimates and subject to change.
+
+-- Chris Reese, New York Power Desk 212-859-1627
+

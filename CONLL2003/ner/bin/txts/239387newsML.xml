@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239387" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Lexington B &amp; L Financial Corp Q4 net off.</title>
+<headline>Lexington B &amp; L Financial Corp Q4 net off.</headline>
+<dateline>LEXINGTON, Mo. 1996-12-06</dateline>
+<text>
+<p>Three Months Ended    Year Ended</p>
+<p>					  Sept. 30,	     Sept. 30,</p>
+<p>					  1996  1995	  1996   1995</p>
+<p>Operating Data:</p>
+<p>Net interest income after</p>
+<p>    provision for loan losses    488   412	 1,730  1,575</p>
+<p> Noninterest income (loss)	  27   (9)	    99     --</p>
+<p> Noninterest expense		 474   168	 1,144    704</p>
+<p>Income before income tax</p>
+<p>    expense			     41   235	   685    871</p>
+<p> Net income			     39   157	   461    571</p>
+<p> Earnings per share		 0.04   N/A	  0.40    N/A</p>
+<p>Earnings per share, excluding  SAIF special assessment	  0.19   N/A	  0.55    N/A</p>
+<p>					At Sept. 30,</p>
+<p>					 1996	1995</p>
+<p> Total assets		    $61,670  $49,981</p>
+<p> Loans receivable, net	  45,348   41,111</p>
+<p> Deposits			   42,237   42,401</p>
+<p>			  (Dollars in thousands)</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C1511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LEXINGTON, Mo."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

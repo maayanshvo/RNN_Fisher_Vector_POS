@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241112" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Court ejects head of Australian child-sex inquiry.</title>
+<headline>Court ejects head of Australian child-sex inquiry.</headline>
+<dateline>CANBERRA 1996-12-06</dateline>
+<text>
+<p>The Australian opposition on Friday demanded a high-powered investigation into paedophilia in the Australian diplomatic service after the federal court forced the head of the existing inquiry to stand aside.</p>
+<p>The court said inquiry head Chris Hunt might be biased, since he privately told a newspaper he had turned up no major evidence of paedophile activity, even though he still had months' of investigation before him.</p>
+<p>&quot;Today we are left with a ruinous wreck beyond salvage and a continuing pall of doubt and suspicion hanging over our diplomatic service,&quot; opposition foreign affairs spokesman Laurie Brereton said.</p>
+<p>But the government responded by pressing ahead with the original inquiry, established in May, appointing a new head to lead it.</p>
+<p>Critics say that if there were many paedophiles in senior posts in the Foreign Affairs Department then a secret inquiry would be open to internal influence and would become a public service whitewash.</p>
+<p>Accordingly, they demand an open investigation.</p>
+<p>A spokesman for Foreign Affairs Minister Alexander Downer said the appointment of a new inquiry head, administrative law expert Pamela O'Neil, showed the government's commitment to pursue the matter. A report is due in May next year.</p>
+<p>One Australian diplomat has been prosecuted this year for having sex with a Cambodian boy under 16 but was acquitted.</p>
+<p>Police have investigated others.</p>
+<p>A newspaper reported allegations in April that diplomats had directed Australian government aid to certain foreign orphanages to secure sex with children.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CANBERRA"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

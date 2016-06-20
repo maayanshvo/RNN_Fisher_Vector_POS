@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240771" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BALANCE - Nevada GO bonds at $145,000.</title>
+<headline>BALANCE - Nevada GO bonds at $145,000.</headline>
+<text>
+<p>STATE OF NEVADA</p>
+<p>RE: $41,905,000</p>
+<p>GENERAL OBLIGATION</p>
+<p>CAPITAL IMPROVEMENT &amp; REFUNDING BONDS</p>
+<p>					     720,000.00</p>
+<p>				 NATURAL RESOURCES &amp; REFUNDING</p>
+<p>    MOODY'S: Aa		    S&amp;P: AA</p>
+<p>Delivery Date: Regular Way</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>05/15/2003B	     35M    6.00	  4.55</p>
+<p>05/15/2004B	     35M    6.00	  4.65</p>
+<p>05/15/2005B	     35M    6.00	  4.75</p>
+<p>05/15/2006B	     40M    6.00	  4.85</p>
+<p>  Total:		 145M</p>
+<p>Grand Total: 145M</p>
+<p>Lehman Brothers</p>
+<p>Morgan Stanley &amp; Co. Incorporated</p>
+<p>J.P. Morgan Securities Inc.</p>
+<p>BA Securities, Inc.</p>
+<p>First Albany Corporation</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>Bear, Stearns &amp; Co. Inc.</p>
+<p>Dillon, Read &amp; Co. Inc.</p>
+<p>IN ASSOCIATION WITH:</p>
+<p>Raymond, James &amp; Associates, Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

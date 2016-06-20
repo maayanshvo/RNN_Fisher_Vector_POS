@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239382" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Possis terminates Bard distribution deal.</title>
+<headline>Possis terminates Bard distribution deal.</headline>
+<dateline>MINNEAPOLIS 1996-12-06</dateline>
+<text>
+<p>Possis Medical Inc said Friday it sent a notice terminating its supply and distribution agreement with C.R. Bard Inc for the Possis Perma-Seal Dialysis Access Graft.</p>
+<p>Possis said it is in negotiations with Bard concerning settlement and the terms of separation. Possis said Bard breached the agreement and has 30 days to correct it.</p>
+<p>On August 5, Possis said Bard purchased IMPRA Inc, a supplier of synthetic vascular grafts and vascular access grafts for kidney dialysis patients.</p>
+<p>&quot;The impact of Bard's purchase of IMPRA Inc, a direct competitor for sales of the Perma-Seal Graft, and placing IMPRA in control of marketing the Perma-Seal Graft, made it impossible for Possis to keep Bard/IMPRA as its distributor,&quot; Possis said in a statment.</p>
+<p>The agreement, signed on December 30, 1994, granted Bard worldwide rights to sell Perma-Seal Grafts manufactured by Possis, the company said.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I37200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

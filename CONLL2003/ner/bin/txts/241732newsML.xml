@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241732" id="root" date="1996-12-07" xml:lang="en">
+<title>BURMA: Burma frees most detainees after crackdown.</title>
+<headline>Burma frees most detainees after crackdown.</headline>
+<dateline>RANGOON 1996-12-07</dateline>
+<text>
+<p>Most of the 264 Burmese students and sympathisers held after a protest near the University of Yangon (Rangoon) was broken up earlier on Saturday have been released, a  government spokesman said.</p>
+<p>&quot;Most of those held in the 3.00 a.m. operation have been released by this early afternoon and I would expect all of them to be freed by the end of the day,&quot; the spokesman told Reuters. He did not give details of how many people had been freed.  </p>
+<p>He said the government was still checking the identities of those held at the Kyatkasan ground (a former horse racing course) in central Rangoon.</p>
+<p>The students and sympathisers who were held were part of a larger group of about 500 that had gathered outside the university on Friday to protest against the continued detention of 80 student leaders.</p>
+<p>They had also demanded that they be allowed to form student unions on campuses.</p>
+<p>Earlier on Saturday, government officials failed to persuade the protesters to leave. Soldiers and riot police charged the protesters and detained them.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BURMA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RANGOON"/>
+<dc element="dc.creator.location.country.name" value="BURMA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

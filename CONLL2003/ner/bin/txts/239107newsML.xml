@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239107" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION SUMMARIES.</headline>
+<dateline>BONN 1996-12-06</dateline>
+<text>
+<p>Summaries of matches played in the German first division on Friday:</p>
+<p>Bochum 2 (Stickroth 30th pen, Wosz 89th) Bayer Leverkusen 2 (Kirsten 18th, Ramelow 56th). Halftime 1-1. Attendance: 24,602</p>
+<p>Werder Bremen 1 (Bode 85th) 1860 Munich 1 (Bormirow 8th). Halftime 0-1. Attendance 33,000</p>
+<p>Karlsruhe 3 (Reich 29th, Carl 44th, Dundee 69th) Freiburg 0. Halftime 2-0. Attendance 33,000</p>
+<p>Schalke 2 (Mulder 2nd and 27th) Hansa Rostock 0. Halftime 2-0. Attendance 29,300</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241867" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: Union threatens new strike at Lufthansa.</title>
+<headline>Union threatens new strike at Lufthansa.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>Germany's DAG white-collar union is threatening renewed strike action at national air carrier Deutsche Lufthansa AG over a lack of progress in wage talks, union chief Roland Issen told the Bild am Sonntag newspaper.</p>
+<p>In an interview released on Saturday, Issen said that if no agreement is reached at talks early next week, flight crews and cabin attendants would strike in the second half of the week.</p>
+<p>Germany's main international airport in Frankfurt would be hardest hit if there is a walkout, but Hamburg and Munich could suffer as well, Issen warned.</p>
+<p>The DAG called out air staff for two hours on November 11, disrupting several flights and costing Lufthansa an estimated 12 million marks. Talks are stuck on how long the pay deals will last and increases to Christmas and holiday pay.</p>
+<p>Lufthansa has already reached a pay deal with the OeTV transport union, which the DAG rejected. --Douglas Busvine, Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

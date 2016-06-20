@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240560" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Auto dealer Rick Hendrick to plead not guilty.</title>
+<headline>Auto dealer Rick Hendrick to plead not guilty.</headline>
+<dateline>CHARLOTTE, N.C. 1996-12-05</dateline>
+<text>
+<p>A lawyer for Rick Hendrick, the largest auto dealer in the country and NASCAR racing giant, said Hendrick would plead innocent to federal charges of conspiracy, mail fraud and money laundering.</p>
+<p>Hendrick was indicted on Wednesday by a federal grand jury in Asheville, North Carolina for bribing corrupt executives of Honda Motor Co Ltd's American Honda Motor Co in return for favorable treatment in getting dealerships and popular cars, according to the indictment.</p>
+<p>&quot;Rick Hendrick will plead not guilty and vigorously defend the charges against him,&quot; attorney Harold Bender said.  </p>
+<p>Bendeer added that Hendrick has maintained he has not paid any Honda employee to obtain favorable treatment of any kind.</p>
+<p>The government had been investigating corruption at American Honda Motor Co for three years and 16 Honda officials have pleaded guilty in the probe.</p>
+<p>&quot;In light of the serious nature of these pending charges, we will continue to monitor the situation closely,&quot; American Honda said in a statement. &quot;Further than that, we do not want to say anything that might adversely impact this proceeding.&quot;</p>
+<p>Hendrick faces 13 counts of money laundering, one count of mail fraud and one count of conspiracy.  </p>
+<p>The government also indicted Hendrick's brother John, who operates dealerships in the Carolinas, on a conspiracy charge.</p>
+<p>The indictment says the brothers were part of a 10-year scheme giving them competitive advantage over other dealers.</p>
+<p>The indictment follows the successful prosecution in New Hampshire of a number of Honda executives, employees and dealers during 1994 and 1995, the indictment said.</p>
+<p>If convicted, the conspiracy and mail-fraud counts each carry a maximum penalty of five years in prison and a $250,000 fine. Each money-laundering count carries a maximum of between 10 and 20 years in prison and fines of $250,000 to $500,000.</p>
+<p>A date for the Hendricks initial court appearance has not yet been set, Bender said.</p>
+<p>The indictment comes as Hendrick is to be honored in New York for winning the NASCAR Winston Cup Series championship. Hendrick operates 89 U.S. dealerships, including Honda, Toyota, Saturn and Porsche franchises in the Charlotte area.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83954">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHARLOTTE, N.C."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

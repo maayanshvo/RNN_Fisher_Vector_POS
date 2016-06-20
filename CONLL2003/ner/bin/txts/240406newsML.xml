@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240406" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian Shipping -- Visakhapatnam Cargoes - Dec 5.</title>
+<headline>Indian Shipping -- Visakhapatnam Cargoes - Dec 5.</headline>
+<dateline>BOMBAY 1996-12-06</dateline>
+<text>
+<p>Following is the berthing schedule of major vessels loading and unloading at India's Visakhapatnam port on December 5:</p>
+<p> Commodity		Tons		  Ship	     Berthing</p>
+<p>		   (LDD/ULD) (Balance)</p>
+<p>---------------------------------------------------------------</p>
+<p> Limestone	24,545 (ULD)  2,422     Jag Vidya	  05/12</p>
+<p>Di-Ammonium</p>
+<p>  Phosphate	7,315 (ULD) 11,842     Merkur	     08/12</p>
+<p> Sulphur	  26,482 (ULD)    ---     Lena-II	    04/12</p>
+<p> Genaral	     345 (ULD)    319     Atlas		06/12</p>
+<p> Coking Coal    46,139 (ULD)    ---     Dakshineshwar    05/12</p>
+<p> Iron Ore Fines 16,503 (ULD) 18,888     Nand Swasti	07/12</p>
+<p> Rock Phospate  24,581 (ULD) 12,011     Lucky Field	10/12</p>
+<p> Wire Rod Coils  1,430 (LDD)  5,364     Hang Fu	    10/12</p>
+<p> Steel Plates    7,620 (LDD)  2,880     Solvenija	  07/12</p>
+<p> Soya Bean Meal 16,016 (LDD)  8,139     XI Hai	     08/12</p>
+<p>.</p>
+<p>---------------------------------------------------------------</p>
+<p>	    Note:</p>
+<p>	    LDD - Loading</p>
+<p>	    ULD - Unloading</p>
+<p>(Source: J.M.Baxi &amp; Co, Visakhapatnam)</p>
+<p>-- Bombay newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

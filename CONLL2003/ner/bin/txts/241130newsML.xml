@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241130" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Australian hitman killed wrong victim.</title>
+<headline>Australian hitman killed wrong victim.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>An Australian hitman who went to the wrong house and killed the wrong man was sentenced to 20 years jail on Friday.</p>
+<p>Paul Crofts, 33, and an accomplice were contracted to shoot a man, identified only as Tony, in the leg to punish him for his misconduct with a female friend of the contractor, the New South Wales Supreme Court was told.</p>
+<p>But in February 1993 Leszic Betcher, was shot and killed after answering a knock at the door of his Sydney home. &quot;The inference from all the material is that the marauders had come to the wrong house,&quot; Judge Michael Grove said.</p>
+<p>In sentencing Crofts, who pleaded guilty, Grove took into account his &quot;mildly retarded&quot; intellectual state, which placed him in the lowest two percent of the population.</p>
+<p>Grove said Betcher was &quot;not only the victim of a horrendous crime, but his death was brought about in circumstances of an equally ghastly error on the part of the prisoner and his accomplices&quot;. The unnamed accomplice was earlier sentenced to 20 years in prison.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

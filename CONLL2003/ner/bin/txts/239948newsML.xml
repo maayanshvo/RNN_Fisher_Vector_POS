@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239948" id="root" date="1996-12-06" xml:lang="en">
+<title>TURKEY: U.S. flies Iraqi aid workers from Turkey to Guam.</title>
+<headline>U.S. flies Iraqi aid workers from Turkey to Guam.</headline>
+<dateline>DIYARBAKIR, Turkey 1996-12-06</dateline>
+<text>
+<p>The United States on Friday flew several hundred Iraqi employees of U.S.-linked aid organisations evacuated from nothern Iraq to the Pacific island of Guam, Turkish security officials said.</p>
+<p>The emergency rule governor's office told Reuters some 430 Iraqis were flown from Batman airport at 4 p.m. (1400 GMT) in southeast Turkey for Guam. They had been brought to Turkey from northern Iraq on Wednesday and housed at a gendarmerie post.</p>
+<p>It was the first group to be flown to Guam out of 4,500 Iraqis whom a Turkish Foreign Ministry spokesman has said would be evacuated to the U.S. territory via Turkey over the next two weeks.</p>
+<p>Washington evacuated about 2,700 Iraqi Kurds and other opposition figures mostly in September in response to concerns about Baghdad's increasing influence in northern Iraq.</p>
+<p>Iraqi troops crossed into the Kurdish region of northern Iraq for the first time in five years in late August to help one Kurdish militia in fighting against a rival.</p>
+<p>Iraq's Kurds broke from Baghdad after the Gulf War in 1991 under the shield of U.S.-led allied air patrols.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GUAM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="TURK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DIYARBAKIR, Turkey"/>
+<dc element="dc.creator.location.country.name" value="TURKEY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

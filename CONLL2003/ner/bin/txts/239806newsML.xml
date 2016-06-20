@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239806" id="root" date="1996-12-06" xml:lang="en">
+<title>COLOMBIA: Colombian kidnappers suffocate 4-year-old boy.</title>
+<headline>Colombian kidnappers suffocate 4-year-old boy.</headline>
+<dateline>BOGOTA 1996-12-06</dateline>
+<text>
+<p>Colombian kidnappers killed a 4-year-old boy by holding him in a plastic bag and suffocating him, police said on Friday.</p>
+<p>Brian Steven Ramirez Ortiz was kidnapped last Sunday in Pereira by a couple who had demanded $5,000 in exchange for his release, a police spokesman said.</p>
+<p>But the child died soon after his abduction, the spokesman said, because the kidnappers had bundled him into a large plastic bag and locked him in a closet.</p>
+<p>Two suspects in the case are in custody.</p>
+<p>The Pereira boy's body was found on Wednesday in an apartment building just across the street from where he lived, the spokesman said.</p>
+<p>Police said the case, which shocked residents of the western city of Pereira, was similar to one last week in the southwest city of Popayan, where the lifeless body of a 7-year-old kidnap victim was dumped on the doorstep of his parents' home.</p>
+<p>Colombia, often described as the most violent country in the Western Hemisphere, has the highest abduction rate in the world. More than 900 people have been snatched in the country this year, including more than 110 minors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="COL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOGOTA"/>
+<dc element="dc.creator.location.country.name" value="COLOMBIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240004" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Canon-McMillan Sch Dist, Pa..</title>
+<headline>PRESALE - Canon-McMillan Sch Dist, Pa..</headline>
+<text>
+<p>AMT: 5,000,000	DATE: 12/11/96	NYC Time: 1130	CUSIP: 138010</p>
+<p>ISSUER: Canon-McMillan SD					     ST: PA</p>
+<p>ISSUE: GO, Series 1997						 TAX STAT: Exempt-ULT</p>
+<p>M/SP/F:								     BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None							BANK QUAL: Y</p>
+<p>DTD: 01/01/97							     SURE BID: N</p>
+<p>DUE: 12/15/98-16					    SR MGR:</p>
+<p>1ST CPN: 06/15/97</p>
+<p>CALL: 6/15/02 at par					TIC</p>
+<p>DELIVERY: 35,444					    ORDERS:</p>
+<p>PAYING AGENT: To be named by the School District</p>
+<p>L.O.: Peck, Shaffer &amp; Williams, Pittsburgh</p>
+<p>F.A.: Milt Lopus Assoc., Inc., Harrisburg</p>
+<p>LAST SALE: $5,000,000 11/19/96 @ 5.5374% TIC; 18 yrs 3 mos Avg; BBI- 5.60%</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998			5,000</p>
+<p>1999		     60,000</p>
+<p>2000		    155,000</p>
+<p>2001		    165,000</p>
+<p>2002		    175,000</p>
+<p>2003		    175,000</p>
+<p>2004		    190,000</p>
+<p>2005		    320,000</p>
+<p>2006		    180,000</p>
+<p>2007		    110,000</p>
+<p>2008		    110,000</p>
+<p>2009		    115,000</p>
+<p>2010		    120,000</p>
+<p>2011		    125,000</p>
+<p>2012			5,000</p>
+<p>2013			5,000</p>
+<p>2014			5,000</p>
+<p>2015		  1,450,000</p>
+<p>2016		  1,530,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239489" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NYSE Circuit breaker rules.</title>
+<headline>NYSE Circuit breaker rules.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>After the stock market plunge of October, 1987, the Securities and Exchange Commission adopted a series of measures intended to forestall the possibility of future full-fledged market crashes.</p>
+<p>The rules are called &quot;circuit breakers&quot; because they gradually stop trading as markets fall, first curbing New York Stock Exchange program trades and eventually halting all U.S. equity, options and futures activity.</p>
+<p>The following is a list of the current circuit breakers and conditions required to trigger them:  </p>
+<p>*** If the Dow Jones Industrial Average rises or falls 50 points from previous session's close:</p>
+<p>Index arbitrage orders on the New York Stock Exchange in Standard &amp; Poor's 500 stocks are prohibited unless they act in a stabilizing fashion, such as purchases after a decline in price or sales after price increases.</p>
+<p>The curb remains in effect all session unless the Dow Industrials return to within 25 points of their previous close.</p>
+<p>*** If the Chicago Mercantile Exchange S&amp;P 500 futures index falls 12 points:  </p>
+<p>The futures price contract is not allowed to fall further for 15 minutes.</p>
+<p>All program market orders in S&amp;P 500 stocks entered via the NYSE's computer system are diverted to a separate file, also known as a &quot;sidecar.&quot; After a five minute delay, those trades that can be are paired off.</p>
+<p>Trading is halted in any stocks where an imbalance exists that cannot be absorbed in an orderly fashion. Normal procedures apply for handling individual imbalances but under certain conditions the NYSE publicly releases extra information about individual imbalances.  </p>
+<p>New stop orders are barred on the NYSE for the rest of the day except for orders of 2,099 shares or fewer for individual investors.</p>
+<p>The following circuit breakers apply to all equity, options and futures markets:</p>
+<p>*** If the Dow Industrials fall 250 points from the previous close:</p>
+<p>Trading is halted for 30 minutes.</p>
+<p>*** If the Dow Industrials fall 400 points:</p>
+<p>Trading is halted for one hour.</p>
+<p>The last two circuit breakers have never been triggered.  </p>
+<p>Meanwhile on Thursday the New York Stock Exchange said its board of directors has approved a proposal to increase the trigger points for market-wide circuit-breakers.</p>
+<p>The latest action proposed by the NYSE, the result of a joint effort by the exchange and the Securities and Exchange Commission calls for a half-hour trading halt across all U.S. equities and futures markets if the Dow Jones Industrial Average falls 350 points from the previous day's close; and a one-hour halt at minus 550 points.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239112" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: TENNIS-GRAND SLAM CUP QUARTER-FINAL RESULTS.</title>
+<headline>TENNIS-GRAND SLAM CUP QUARTER-FINAL RESULTS.</headline>
+<dateline>MUNICH, Germany 1996-12-06</dateline>
+<text>
+<p>Quarter-final results at the $6 million Grand Slam Cup tennis tournament on Friday: Goran Ivanisevic (Croatia) beat Mark Woodforde (Australia)  6-4 6-4  </p>
+<p>Yevgeny Kafelnikov (Russia) beat Jim Courier (U.S.) 2-6 6-4 8-6</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CRTIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MUNICH, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

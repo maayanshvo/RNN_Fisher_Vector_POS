@@ -1,0 +1,72 @@
+FORECAST - Italy o/n money to fall more this month.
+
+MILAN 1996-12-06
+
+Italy's money market continues to expect lower interest rates over the next month with the implicit overnight rate falling below the 7.5 percent discount rate, a study by Bocconi University research arm Igier showed on Friday.
+
+The implicit overnight rate is seen falling on a one-month timeframe to 7.43, just under the actual 7.50 percent official discount rate, and an actual market close of 7.88 percent on Thursday, the day on which Igier based its study.
+
+One week ago the implicit overnight rate was seen at 7.56 percent a month out, while one month ago it was seen at 7.68.
+
+On a three month timeframe the implicit overnight rate is seen at 6.75 percent, from 6.89 percent seen a week ago and 7.27 percent forecast one month ago.
+
+One year out, the implicit overnight rate is seen at 5.86 percent, from 6.05 forecast last week and 6.58 a month ago.
+
+Two years out the implicit overnight rate is seen standing at 6.52 percent, from 6.76 percent forecast last week and 6.97 percent one month ago.
+
+The spread between the two-year implicit Italian overnight rate and the implicit German overnight rate, considered a good indicator of market confidence in Europe's economic and monetary union, narrowed to 180 basis points from 202 a week ago and 213 a month ago.
+
+	  ************************* ITALY ************************
+
+			  --- IMPLICIT FORWARD RATES ---
+
+					1 Mo     3 Mo     1 Yr     2 Yr
+
+    Thursday December 5	 7.43     6.75     5.86     6.52
+
+    One week ago		  7.56     6.89     6.05     6.76
+
+    One month ago		 7.68     7.27     6.58     6.97
+
+    Three months ago	    8.54     8.42     8.31     8.78
+
+			   --- ACTUAL MARKET RATES ---
+
+					O/N	3-Mo     1-Yr     10-Yr
+
+    Thursday December 5	 7.88     7.06     6.52     7.46
+
+    One week ago		  8.00     7.20     6.67     7.69
+
+    One month ago		 7.94     7.53     7.00     7.98
+
+    Three months ago	    8.63     8.58     8.33     9.47
+
+************************** GERMANY *************************
+
+			 --- IMPLICIT FORWARD RATES ---
+
+					1 Mo     3 Mo     1 Yr     2 Yr
+
+    Thursday December 5	 3.03     3.07     3.63     4.72
+
+    One week ago		  3.17     3.16     3.63     4.74
+
+    One month ago		 3.04     3.10     3.71     4.84
+
+    Three months ago	    3.02     3.05     3.88     5.93
+
+			   --- ACTUAL MARKET RATES ---
+
+					O/N	3-Mo     1-Yr     10-Yr
+
+    Thursday December 5	 3.03     3.17     3.13     6.17
+
+    One week ago		  3.20     3.13     3.34     6.08
+
+    One month ago		 3.03     3.08     3.25     6.19
+
+    Three months ago	    3.05     3.13     3.25     6.63
+
+-- Milan newsroom ++392 66129654
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239054" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: SOCCER-LEEDS' BOWYER FINED FOR PART IN FAST-FOOD FRACAS.</title>
+<headline>SOCCER-LEEDS' BOWYER FINED FOR PART IN FAST-FOOD FRACAS.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Leeds' England under-21 striker Lee Bowyer was fined 4,500 pounds ($7,400) on Friday for hurling chairs at restaurant staff during a disturbance at a McDonald's fast-food restaurant.</p>
+<p>Bowyer, 19, who was caught in the act by security cameras, pleaded guilty to a charge of affray at a court in London. He was fined and ordered to pay a total of 175 pounds to two members of staff injured in the fracas in an east London restaurant in October.</p>
+<p>Leeds had already fined Bowyer 4,000 pounds ($6,600) and warned him a repeat of his criminal behaviour could cost him his place in the side.</p>
+<p>Bowyer, who moved to the Yorkshire club in August for 3.5 million pounds ($5.8 million), was expected to play against Middlesbrough on Saturday.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240876" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: EU may send grain to Bulgaria to offset shortages.</title>
+<headline>EU may send grain to Bulgaria to offset shortages.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>The European Union is studying the possibility of selling or providing wheat to Bulgaria to help it overcome shortages, European grain officials said on Friday.</p>
+<p>No decision has been taken, but discussions are under way between the EU's Brussels headquarters and Sofia, they said.</p>
+<p>&quot;We are looking at it. We promised the Bulgarians we would do something. We haven't decided what form it will take yet,&quot; said one official.</p>
+<p>Food aid was one of the ideas being considered, he said.</p>
+<p>Bulgarian faced an acute grain shortage following excessive exports last year and a poor harvest this summer due to adverse weather and a lack of funds.</p>
+<p>The farm ministry said in October it would have to import some 1.55 million tonnes of grain for human and animal consumption to meet the country's 1996/97 needs of five million.</p>
+<p>Sofia has already asked several countries, including the United States and some EU member nations, for credit guarantees to allow it to buy cereals. Main EU exporter France rejected the request for guarantees by the Coface export credit agency.</p>
+<p>Bulgaria buys most of its wheat from Argentina which has the lowest price, grain traders said. But it is in the grip of a severe economic crisis and Western operators have questioned its ability to pay because Argentina does not offer credits.</p>
+<p>EU Farm Commissioner Franz Fischler visited Bulgaria this summer and an expert grain team was sent soon afterwards.</p>
+<p>Bulgaria has said autumn sowings for next year's harvest have been on schedule and there should be no shortages once the next crop is in, as long as the weather is favourable.</p>
+<p>-- Paris newsroom +331 4221 5146</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="BUL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="EEC">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I01001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I0100132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C312">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="G158">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

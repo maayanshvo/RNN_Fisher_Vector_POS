@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241113" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: Sexually harrased Australia workers dial hotline.</title>
+<headline>Sexually harrased Australia workers dial hotline.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Australian bank workers who get sexually harassed at Christmas parties will be able to phone a special hotline set up by the Finance Sector Union (FSU) to deal with their complaints, the union said on Friday.</p>
+<p>&quot;Sexual harassment is a widespread problem in our industry,&quot; FSU spokesperson Lynne Poleson said in a statement.</p>
+<p>&quot;Last Christmas, a union survey showed that 18 percent of employees had suffered serious sexual harassment and a massive 48 percent had experienced unwelcome and offensive remarks,&quot; Poleson said.</p>
+<p>Over 65 percent of finance sector workers are women and many work in the junior levels of banking and insurance, she said.</p>
+<p>The hotline is for men and women with any queries they have about harassment. She told Reuters the type of harassment cases vary from being seen as a joke to some that are quite serious, but each hotline caller will be given couselling.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

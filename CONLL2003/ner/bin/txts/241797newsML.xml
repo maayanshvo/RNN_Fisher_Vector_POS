@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241797" id="root" date="1996-12-07" xml:lang="en">
+<title>TUNISIA: Tunisia Central Bank fully frees interest rates.</title>
+<headline>Tunisia Central Bank fully frees interest rates.</headline>
+<dateline>TUNIS 1996-12-07</dateline>
+<text>
+<p>The Central Bank of Tunisia said it has completed the liberalisation of interest rates by eliminating with immediate effect the preferential interest rates for priority sectors of the economy such as agriculture, export industries and small companies.</p>
+<p>&quot;The liberalisation has also resulted in eliminating the rediscount procedure to the Central Bank and the chanelling of any refinancing to the monetary market,&quot; a senior official told Reuters.</p>
+<p>Bankers welcomed the new measures saying that interest rates are now fully freed in Tunisia.</p>
+<p>&quot;The new measures are able to introduce more competition between banks regarding the interest rate they offer to their clients,&quot; Ahmed al-Karam, Vice-President of Amen Bank told Reuters.</p>
+<p>--Tunis newsroom, 2161-787538</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

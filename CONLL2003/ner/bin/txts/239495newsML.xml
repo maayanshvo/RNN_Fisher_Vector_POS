@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239495" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Hilton revises consent terms on Bally debt.</title>
+<headline>Hilton revises consent terms on Bally debt.</headline>
+<dateline>BEVERLY HILLS, Calif. 1996-12-06</dateline>
+<text>
+<p>Hilton Hotels Corp said on Friday it extended the deadline for its previously announced consent solicitations for certain issues of notes of Bally Entertainment Corp subsidiaries.</p>
+<p>The consent solications were being made in connection with tender offers for certain Bally debt securities as part of refinancing related to Hilton's pending merger with Bally.</p>
+<p>Hilton said it also extended the deadline for consent solicitations for the first mortgage notes of Bally's Grand Inc, an 85-percent owned Bally subsidiary.</p>
+<p>Hilton said it extended the deadline until 1700 CST/2200 GMT  December 11 or 1700 EST/2200 GMT on the date the respective supplemental indenture of the notes was executed, whichever is later.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEVERLY HILLS, Calif."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

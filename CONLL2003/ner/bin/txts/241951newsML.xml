@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241951" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: INDIA-Primary dealers quotes on securities - Dec 7.</title>
+<headline>INDIA-Primary dealers quotes on securities - Dec 7.</headline>
+<dateline>BOMBAY 1996-12-07</dateline>
+<text>
+<p>Primary dealers made the following two-way quotes on Saturday for dated government securities and treasury bills</p>
+<p>Government securities</p>
+<p>---------------------</p>
+<p>		    DFHI		STCI	     I-Sec</p>
+<p>					 (Bid/offer)	   (in rupees)</p>
+<p>13.50% 97    ------/------   ------/------   ------/------</p>
+<p>		    SBI Gilts	 GSTC	    PNB Gilts</p>
+<p>					 (Bid/offer)	   (in rupees)</p>
+<p>13.25% 97    ------/------   102.70/103.00   102.70/103.00</p>
+<p>13.50% 97    ------/------   ------/------   102.70/103.00</p>
+<p>13.50% 98    ------/------   102.55/102.65   ------/------</p>
+<p>13.62% 98    ------/------   103.55/103.65   ------/------</p>
+<p>13.65% 99    ------/------   ------/------   102.65/102.90</p>
+<p>00.00% 99    ------/------    76.80/77.00     76.80/77.05</p>
+<p>00.00% 00    ------/------   ------/------    62.35/62.60</p>
+<p>11.64% 01    ------/------    95.10/95.30    ------/------</p>
+<p>11.75% 01    ------/------    94.00/94.20    ------/------</p>
+<p>13.55% 01    ------/------   100.25/100.35   ------/------</p>
+<p>13.85% 06    ------/------   101.85/101.95   ------/------</p>
+<p>14.00% 06    ------/------   101.95/102.05   101.70/102.05</p>
+<p>Treasury bills</p>
+<p>---------------------</p>
+<p>Maturing	  DFHI	   STCI	     I-Sec</p>
+<p>on				    (Bid/offer)	(in percent)</p>
+<p>--/--/--     ------/------   ------/------   ------/------</p>
+<p>Maturing	  SBI Gilts    GSTC	     PNB Gilts</p>
+<p>on				     (Bid/offer)	(in percent)</p>
+<p>01/03/97	 8.00/7.65     ------/------   ------/------</p>
+<p>08/03/97	 8.50/7.85     ------/------   ------/------</p>
+<p>21/11/97	10.50/10.05    ------/------   ------/------</p>
+<p>10/10/97     ------/------    10.00/9.45     ------/------</p>
+<p>05/12/97	10.70/10.15     10.50/10.00    ------/------</p>
+<p>Note : DFHI - Discount and Finance House of India Ltd.</p>
+<p>	 STCI - Securities Trading Corporation of India Ltd.</p>
+<p>	 I-Sec- ICICI Securities and Finance Company Ltd.</p>
+<p>	 GSTC - Gilts Securities Trading Corporation Ltd.</p>
+<p>	   + Bombay Newsroom +91-22-265 9000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BOMBAY"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

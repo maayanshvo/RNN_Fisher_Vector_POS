@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240101" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Texas spot electricity eases along with natgas.</title>
+<headline>Texas spot electricity eases along with natgas.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Spot wholesale electricity prices in the Electric Reliability Council of Texas (ERCOT) eased Friday along with lower spot natural gas prices, industry sources said.</p>
+<p>Spot natural gas prices in Texas were said to have eased about 20 cents on Friday to near $3.50 per million British thermal units, and electricity followed behind, the brokers and marketers said.</p>
+<p>ERCOT firm, peak power for weekend and Monday delivery was pegged at $29.00-31.00 from $31.00-33.00 per megawatt hour (MWh) on Thursday, the sources said.</p>
+<p>Non-firm peak ERCOT power was pegged steady at $27.00-29.00.</p>
+<p>Firm off-peak ERCOT power transactions were pegged lower at $11.00-14.00 from $16.00-18.00, the sources said, while non-firm off-peak ERCOT power was assessed lower at $7.00-11.00 from $13.00-15.00 per MWh on Thursday.</p>
+<p>ERCOT January/February peak power prices were said to have fallen off after Thursday's jump to $31.75-32.25 from $33.50-34.50, the sources said.</p>
+<p>July/August ERCOT power was said to be trading near $26.00.</p>
+<p>--Chris Reese, New York Power Desk +1 212 859 1627</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M143">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

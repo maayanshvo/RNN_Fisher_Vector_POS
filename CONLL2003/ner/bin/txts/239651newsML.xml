@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239651" id="root" date="1996-12-06" xml:lang="en">
+<title>CZECH REPUBLIC: Czech leader Havel has emergency tracheotomy.</title>
+<headline>Czech leader Havel has emergency tracheotomy.</headline>
+<dateline>PRAGUE 1996-12-06</dateline>
+<text>
+<p>Doctors performed an emergency tracheotomy to help Czech President Vaclav Havel breathe after complications from cancer surgery on his lungs earlier this week, a spokesman said on Friday.</p>
+<p>Presidential spokesman Ladlislav Spacek said that the procedure to insert a device into Havel's throat, done after his breathing worsened on Thursday, caused the president's condition to improve.</p>
+<p>&quot;A worsening in the president's lung functions took place yesterday,&quot; Spacek said in a statement on Friday.</p>
+<p>&quot;A tracheotomy was performed and supportive breathing was installed through the help of a breathing device,&quot; he said. &quot;After these steps, the president's condition significantly improved.&quot;</p>
+<p>Havel has been recovering from surgery on Monday which removed a small malignant tumour along with half of his right lung. Doctors said the tumour was removed in an early stage and that Havel could be back to work in six weeks.</p>
+<p>The surgeon who performed the operation, Pavel Pafko, said on Thursday that tests showed the cancer had not spread to other organs. But he said that Havel had developed a slight case of pneumonia in the left lung.</p>
+<p>A team of cancer specialists is to meet early next week to discuss Havel's progress and decide what further treatment the president might need.</p>
+<p>Havel, aged 60 and a heavy smoker, entered hospital on November 25 after his office said he was suffering from pneumonia.</p>
+<p>The man who helped lead Prague's non-violent 1989 revolution against communism but who has limited executive powers as president, is recovering in the intensive care unit of Prague's Third Surgical Clinic.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CZREP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPRO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PRAGUE"/>
+<dc element="dc.creator.location.country.name" value="CZECH REPUBLIC"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241031" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: U.S. stocks in London fall, Dow plunge expected.</title>
+<headline>U.S. stocks in London fall, Dow plunge expected.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Investors were showing no buying interest in U.S. shares trading in London on Friday as stocks were marked down across the board in anticipation of a sharp sell-off in the U.S. later today.</p>
+<p>&quot;The Dow is looking sharply lower,&quot; said one senior trader. &quot;down around 100 points at the opening, I expect.&quot;</p>
+<p>December S&amp;P futures were down 12 points by 1134 GMT.</p>
+<p>Traders expected last night's note of caution from Fed chairman Alan Greenspan would shake the U.S. equity market and European bourses took heavy losses as investors braced themselves for a U.S. correction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

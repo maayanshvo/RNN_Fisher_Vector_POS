@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239102" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: SOCCER-FRENCH LEAGUE SUMMARIES.</title>
+<headline>SOCCER-FRENCH LEAGUE SUMMARIES.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>Summaries of French first division</p>
+<p>matches on Friday:</p>
+<p>Lens 0 Nantes 4 (Japhet N'Doram 7, Claude Makelele 42, Jocelyn</p>
+<p>Gourvennec 67, Christophe Pignol 72). Halftime 0-2. Attendance:</p>
+<p>15,000.</p>
+<p>Paris St Germain 1 (Bruno N'Gotty 2) Nancy 2 (Paul Fischer</p>
+<p>70, Phil Gray 89). 1-0. 30,000.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

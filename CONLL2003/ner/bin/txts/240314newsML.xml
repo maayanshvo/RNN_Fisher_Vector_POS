@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240314" id="root" date="1996-12-06" xml:lang="en">
+<title>SWEDEN: Swedish debt/currency market closing report.</title>
+<headline>Swedish debt/currency market closing report.</headline>
+<dateline>STOCKHOLM 1996-12-06</dateline>
+<text>
+<p>Debt yields closed sharply up but off highs as the market tailed the international financial scare after a warning against &quot;irrational exuberance&quot; in asset markets by Federal Reserve Chairman Alan Greenspan.</p>
+<p>A weaker than expected November U.S. job report helped Swedish debt to recover from the worst levels.</p>
+<p>&quot;Today trading has been driven entirely by foreign factors,&quot; said one dealer.</p>
+<p>Six-month T-bill rates closed two basis points higher at 4.10 percent and ten-year bond yields rose twelve basis points to 7.04 percent after hitting 7.10 percent in early trade.  </p>
+<p>The crown tracked a weaker dollar. At 1515 GMT, the mark had firmed to 4.4035 crowns from 4.3800 crowns on Thursday.</p>
+<p>Dealers hope that the focus will shift to Swedish fundamentals next week. &quot;I don't see any room for a major rise in Swedish debt yields and I think next week's CPI figure will pave the way for lower yields,&quot; said one analyst.</p>
+<p>Swedish November CPI figures, to be released on December 12, are expected to show a 0.1 percent drop in the month, taking the year-on-year figure down to deflation of 0.2 percent from deflation of 0.1 percent in October.</p>
+<p>-- Erik Aronsson, Stockholm newsroom +46-8-7001010</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWED">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="STOCKHOLM"/>
+<dc element="dc.creator.location.country.name" value="SWEDEN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

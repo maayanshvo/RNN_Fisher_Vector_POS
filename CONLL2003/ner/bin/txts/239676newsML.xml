@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239676" id="root" date="1996-12-06" xml:lang="en">
+<title>LATVIA: Sale of stake in Latvian Gas may be set back.</title>
+<headline>Sale of stake in Latvian Gas may be set back.</headline>
+<dateline>RIGA 1996-12-06</dateline>
+<text>
+<p>The Latvian Privatisation Agency (LPA) is expected next week to postpone for a second time a deal to sell shares in Latvian Gas as Germany's Preussen and Ruhrgas are worried over the company's 50 million lat debts.</p>
+<p>Ruhrgas and Preussen have joined to buy shares in Latvian Gas with Russia's Gazprom. The deadline for signing the deal is December 15, already postponed from October.</p>
+<p>&quot;Next week we can expect the Privatization Agency board to decide on the postponement of the deadline for subscribtion to Latvian Gas shares,&quot; an LPA official told Reuters, confirming a report in Dienas Bizness newspaper.</p>
+<p>Officials said the new deadline could be February 15.</p>
+<p>One of the major stumbling blocks has been the Latvian government position on the bad debts of the energy companies caused by non-payments by both industrial and private consumers.</p>
+<p>According to current rules bad debts cannot be written off without paying tax on the sums not collected.</p>
+<p>Ruhrgas is also currently examining both the Latvian goverment draft licence on natural gas companies as well as the draft statutes of a public company, the officials added.</p>
+<p>Dienas Bizness said the German firms wanted government guarantees for the bad debts.</p>
+<p>Ruhrgas/Preussen and Gazprom are expected to buy some 32 percent of Latvian Gas shares.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239814" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Analysts say TMM paid hefty price for rail.</title>
+<headline>Analysts say TMM paid hefty price for rail.</headline>
+<byline>Timna Tanners</byline>
+<dateline>MEXICO CITY 1996-12-06</dateline>
+<text>
+<p>Mexican transport company Transportacion Maritima Mexicana (TMM) and its U.S. partner may have overshot the mark in bidding for the government's Northeast Railway, analysts said on Friday.</p>
+<p>TMM and minority partner Kansas City Southern Industries Inc. on Thursday offered 11.07 billion pesos (about $1.4 billion) to win a 50-year concession to operate Mexico's key trade route railroad.  </p>
+<p>Compared with other railroads and annual income from the rail, he said the bid was a surprisingly high -- one that could reflect the companies' long-term strategic interests rather than the value of the route.</p>
+<p>Analysts did have some positive things to say about the deal, however. Some said TMM's winning bid is a strategic boon in boosting volume and diversifying transportation holdings in the long-term.</p>
+<p>The Northeast Railway system, which carries about 40 percent of Mexican rail exports, includes the main freight route between Mexico City and the U.S. border.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I71000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C183">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

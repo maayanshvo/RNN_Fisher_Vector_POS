@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240069" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: MichCon to offer gas supplier option.</title>
+<headline>MichCon to offer gas supplier option.</headline>
+<dateline>DETROIT 1996-12-06</dateline>
+<text>
+<p>MCN Corp said Friday its Michigan Consolidated Gas Co (MichCon) subsidiary will offer 47,000 residential and commercial customers in the Grand Rapids area alternative natural gas suppliers.</p>
+<p>Under a two-year pilot program filed Friday with the Michigan Public Service Commission, MichCon said it will allow customers to purchase natural gas from alternative suppliers but will continue to deliver it.</p>
+<p>&quot;As competition reshapes the energy industry, it's important for us to innovate the services we offer our customers,&quot; said Stephen Ewing, MichCon's president and chief executive officer. &quot;This pilot program will help determine if such a program can benefit residents and small businesses.&quot;</p>
+<p>The program is scheduled to begin April 1, 1997 for MichCon customers in portions of the southwest Michigan service area.</p>
+<p>MichCon will evaluate the program, scheduled to end March 31, 1999, to assess customer interest, determine any cost savings, assess the reliability and performance of suppliers, and identify infrastructure changes for a broader program, if warranted, the company said.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16200">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

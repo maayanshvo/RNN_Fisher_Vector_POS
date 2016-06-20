@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240152" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Nebraska cattle market extremely quiet - trade.</title>
+<headline>Nebraska cattle market extremely quiet - trade.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Nebraska cattle markets near midday Friday were extremely quiet, with no sales of slaughter steers or heifers reported, market sources said.</p>
+<p>Last sales were Thursday at $112.00 per cwt on a dressed basis, which was steady to $1.00 lower from the bulk of Wednesday's sales. There were some sales of $116.00 near midweek, but they did not last long when beef prices started tumbling, the sources said.</p>
+<p>Most of this week's showlist reportedly was sold. The weekly volume was pegged at 83,700 head, according to USDA. Next week's showlist was seen near unchanged, sources said.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

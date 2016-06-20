@@ -1,0 +1,16 @@
+Manila international coconut oil prices.
+
+MANILA 1996-12-06
+
+International Philippine coconut oil prices as reported by the United Coconut Associations of the Philippines (dollars per tonne cif Europe).
+
+	    Buyers   Sellers   Last     Prev
+
+  NovDec  795	800	 unq	802.50
+
+  DecJan  775	780	 unq	777.50
+
+  JanFeb  760	767.50    unq	765
+
+  FebMar  752.50   760	 unq	unq
+

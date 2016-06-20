@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239340" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Florida offical scales back windstorm rate changes.</title>
+<headline>Florida offical scales back windstorm rate changes.</headline>
+<dateline>TALLAHASSEE, Fla. 1996-12-06</dateline>
+<text>
+<p>Florida's insurance commissioner said on Friday that the proposed windstorm insurance rate changes to reduce the rate burden in seven counties was scaled back.</p>
+<p>Bill Nelson, Florida's insurance commissioner, said in a statement he cut by half rate rate changes that would have increased rates in 12 counties and cut rates in seven counties under a proposal from the Florida Windstorm Underwriting Association.  </p>
+<p>In a rate filing, the Florida Windstorm Underwriting Association sought higher increases for Dade, Broward and 10 other counties in a proposal to reduce premiums in seven north florida counties that historically have proved less likely to be hit by a hurricane, Nelson said.</p>
+<p>Homeowners in Dade, Broward and Palm Beach will pay yearly windstorm premiums of $300 a year on a $150,000 home instead of $326 a year, Nelson said. The increase is about 9.5 percent instead of the proposed 19 percent, Nelson said.</p>
+<p>Homeowners will be buying separate windstorm coverage for the first time in Palm Beach and Pasco Counties and their homeowners policies will be reduced to reflect this change, Nelson said.</p>
+<p>The windstorm insurance pool was created in 1970 to provide coverage in hurricane-prone coastal areas where insurers were refusing to insure against windstorm losses, Nelson said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLAHASSEE, Fla."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

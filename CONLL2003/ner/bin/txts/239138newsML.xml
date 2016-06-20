@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239138" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH AFRICA: FORECAST - S.AFRICAN COMPANY RESULTS.</title>
+<headline>FORECAST - S.AFRICAN COMPANY RESULTS.</headline>
+<dateline>JOHANNESBURG 1996-12-06</dateline>
+<text>
+<p>Analysts estimates of major</p>
+<p>South African company results expected next week include the</p>
+<p>following (all figures cents per share):</p>
+<p>DAY--COMPANY--PERIOD--CONSENSUS----RANGE---------PVS--</p>
+<p>WED  Premier  H1 EPS  15.6	  15.0-16.2     12.0</p>
+<p>WED  Premier  H1 DIV  5.1	   4.8-5.4	 4.0</p>
+<p>-- Johannesburg newsroom +27 11 482 1003</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SAFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JOHANNESBURG"/>
+<dc element="dc.creator.location.country.name" value="SOUTH AFRICA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

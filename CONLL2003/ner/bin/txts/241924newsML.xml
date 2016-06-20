@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241924" id="root" date="1996-12-07" xml:lang="en">
+<title>PAKISTAN: Pakistani rupee closing rates in kerb market.</title>
+<headline>Pakistani rupee closing rates in kerb market.</headline>
+<dateline>KARACHI, Pakistan 1996-12-07</dateline>
+<text>
+<p>Saturday's spot rupee rates in kerb market from two leading exchange dealers:</p>
+<p>			 Kalia &amp; Khanani Int'l   ARY Int'l Exchange</p>
+<p> U.S. dollar	 42.48/42.53		 42.45/42.48</p>
+<p> Pound sterling    71.00/71.10		 69.90/70.10</p>
+<p> Deutsche mark     27.45/27.50		 27.30/27.40</p>
+<p> Japanese yen	0.376/0.378		 0.374/0.377</p>
+<p> Saudi riyal	 11.30/11.32		 11.32/11.34</p>
+<p> UAE dirham	  11.56/11.58		 11.58/11.60</p>
+<p> Indian rupee	 1.13/1.14		   1.10/1.14</p>
+<p> F.E.B.C.	     6.10/6.30 pct	     6.10/6.30 pct</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="PAKIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="M132">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KARACHI, Pakistan"/>
+<dc element="dc.creator.location.country.name" value="PAKISTAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

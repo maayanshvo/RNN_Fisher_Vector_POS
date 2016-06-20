@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239481" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Duff upgrades Interstate Insurance paying ability.</title>
+<headline>Duff upgrades Interstate Insurance paying ability.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Duff &amp; Phelps Credit Rating Co said Friday it upgraded the claims paying ability rating of the Interstate Insurance Group to double-A-minus from single-A-plus.</p>
+<p>The upgrade reflects the rating agency's increased comfort that Interstate will benefit from the above-average flexibility that comes with being part of a larger, more diversified parent.</p>
+<p>The group consists of Interstate Fire &amp; Casualty Co and its two subsidiaries, Interstate Indemnity Co and Chicago Insurance Co, said Duff &amp; Phelps.</p>
+<p>Interstate is owned by Firemen's Fund Insurance Co, which is a subsidiary of Allianz AG Holding of Germany.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I82001">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

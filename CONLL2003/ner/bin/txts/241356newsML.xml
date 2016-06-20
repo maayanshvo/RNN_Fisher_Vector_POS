@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241356" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: Moody's says rates AES China Generating notes Ba3.</title>
+<headline>Moody's says rates AES China Generating notes Ba3.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Moody's Investors Service said on Friday it assigned a Ba3 rating to the US$180 million senior unsecured note issue, due 2006, of AES China Generating Co Ltd.</p>
+<p>AES China Generating is 48 percent owned by U.S. power company AES Corp.</p>
+<p>The rating reflected AES China's weak power purchase agreements with unrelated local Chinese utilities, the risk of construction delays and cost overruns, fuel supply and transportation risks and limitations on enforceability of the power contracts as well as bondholer remedies, the agency said.</p>
+<p>It also reflected the company's structural risks of the notes' bullet maturity, lack of recourse to the assets and the reliance on China's ability to generate U.S. dollars to cover debt service, it added.  </p>
+<p>But the rating also recognized growing demand for power in China, reasonable power costs, substantial equity commitments from AES Corp, and low techology risk, Moody's said.</p>
+<p>It said the rating outlook was positive, as construction is slightly ahead of schedule.</p>
+<p>The issuer's portfolio comprised of nine power projects, four of which are operating, and the remainder under construction or development, it added.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6369</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CHINA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C174">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

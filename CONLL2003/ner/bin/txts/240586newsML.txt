@@ -1,0 +1,28 @@
+Baltic Freight Index rose to 1,453.
+
+spot dry cargo shipping rates rose to 1,453 today from 1,445 on Dec 5 , with the base being Jan 4 1985 equals 1,000. The BFI is based on the following sub-indices with rates in dollars per tonne.
+
+ Route			   Index    Rate    Prev Index  Rate
+
+   1   US GULF/ARA	  1539    13.975    1508    13.688
+
+   1a  TRANSATLANTIC RV   1469 11125.000    1451 10938.000
+
+   2   US GULF/JAPAN	1713    24.269    1682    24.031
+
+   2a  SKAW P/USG/F EAST  1741 14281.000    1710 14025.000
+
+   3   NOPAC/JAPAN	  1657    15.288    1718 14088.000
+
+   3a  JAPAN-SK/NOPAC/RV  1533 12100.000    1543 12181.000
+
+   6   HR OR HR-RB/JAPAN  1213    12.506    1213    12.506
+
+   7   HR/ROTTERDAM	 1218     5.931    1222     5.950
+
+   8   QLAND/ROTTERDAM    0890     9.781    0888     9.769
+
+   9   FE/NOPAC/SKAW-P    0923  8069.000    0922  8063.000
+
+  10   TUBARAO/ROTTERDAM  1105     5.581    1109     5.600
+

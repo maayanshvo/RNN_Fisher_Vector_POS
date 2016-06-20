@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239417" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CAI Wireless rejects flawed system claims.</title>
+<headline>CAI Wireless rejects flawed system claims.</headline>
+<dateline>ALBANY, N.Y. 1996-12-06</dateline>
+<text>
+<p>CAI Wireless Systems Inc said on Friday it dismissed reports that its microwave signal technology is flawed and claimed that, with some modifications, the company could reach the required portion of households.</p>
+<p>The company's statement comes in response to news that Bell Atlantic Corp and its merger partner NYNEX Corp are re-evaluating their methods for offering video to homes. Bell Atlantic had cited disappointing results from strategic partner CAI Wireless as a reason for the review.  </p>
+<p>&quot;CAI continues to stand behind MMDS (multichannel multipoint distribution service) technology as a delivery platform for video,&quot; said John Prisco, CAI's president and chief operating officer.</p>
+<p>The company also said it is &quot;in wide-ranging discussions with Bell Atlantic and NYNEX relating to its entire relationship.&quot;</p>
+<p>The company said it hopes to reach agreement with the companies in the near future.  </p>
+<p>Claims from Bell Atlantic and NYNEX of flaws in CAI's system were based on preliminary and incomplete data from test results of digital systems built in Boston and Virginia Beach, Va., Prisco said.</p>
+<p>But, the company said, these initial test results show that the company can meet the 75 percent coverage pattern required by Bell Atlantic and NYNEX in the Boston and Virginia Beach areas when it uses towers about 400 feet tall. Shorter towers produce less coverage, CAI said.</p>
+<p>CAI's system is based on beaming television signals by line of sight to mounted receivers, or boosters. Buildings, hills or trees can obstruct the signal.</p>
+<p>CAI said it plans to make adjustments to the design that would improve the coverage and enable CAI to reach the required coverage levels, such as relocating some boosters to taller towers.</p>
+<p>&quot;We believe these systems demonstrate that digital MMDS technology is a legitimate delivery system for subscription television services,&quot; the company said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I9741109">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALBANY, N.Y."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

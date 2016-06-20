@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240768" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: BALANCE - Washington COPs at $3.1 mln.</title>
+<headline>BALANCE - Washington COPs at $3.1 mln.</headline>
+<text>
+<p>STATE OF WASHINGTON</p>
+<p>RE: $16,280,000</p>
+<p>CERTIFICATES OF PARTICIPATION</p>
+<p>(WASHINGTON STATE DEPARTMENT OF</p>
+<p>GENERAL ADMINISTRATION,</p>
+<p>TACOMA CO-LOCATION PROJECT, 1996)</p>
+<p>    MOODY'S: A1		    S&amp;P: A+</p>
+<p>Delivery Date: Regular Way</p>
+<p>Maturity	   Balance     Coupon    List</p>
+<p>10/01/2003	     215M    4.70	  4.70</p>
+<p>10/01/2004	     400M    4.80	  4.80</p>
+<p>10/01/2005	     450M    4.90	  4.90</p>
+<p>10/01/2006	     335M    5.00	  5.00</p>
+<p>10/01/2012	     670M    5.45	  5.55</p>
+<p>10/01/2014	     990M    5.55	  5.65</p>
+<p>  Total:	     3,060M</p>
+<p>Smith Barney Inc.</p>
+<p>Merrill Lynch &amp; Co.</p>
+<p>PaineWebber Incorporated</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

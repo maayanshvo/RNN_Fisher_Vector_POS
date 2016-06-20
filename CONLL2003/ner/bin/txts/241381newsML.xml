@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241381" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: NTT says expects break-up in 1999.</title>
+<headline>NTT says expects break-up in 1999.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Nippon Telegraph and Telephone Corp (NTT) expects its break-up to take place no earlier than 1999, a company official told reporters on Friday.  </p>
+<p>&quot;We believe we need two years after the government passes the necessary bills before we can split. We think it is difficult to do so in 1998 and we think it will take place in 1999,&quot; a senior NTT official told a news conference.</p>
+<p>But NTT President Junichiro Miyazu told the same news conference that the company would fight against the break-up if the government fails to keep the conditions spelt out by the Posts Ministry earlier on Friday.</p>
+<p>&quot;If the conditions are not kept we may cancel out the whole plan,&quot; he said.</p>
+<p>The ministry said NTT should be broken up into three divisions under a single holding company.</p>
+<p>The plan will carve up NTT into two regional companies and a long-distance carrier. NTT will also be allowed to enter the international market for the first time.</p>
+<p>NTT has long fought to avoid break-up and the holding company scheme marks a compromise between NTT management and the government.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

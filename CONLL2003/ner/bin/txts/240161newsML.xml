@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240161" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. Plains fed cattle market slow at $67 - trade.</title>
+<headline>U.S. Plains fed cattle market slow at $67 - trade.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>U.S. Plains feedlot cattle markets Friday were slow in a limited test at $67.00 per cwt, steady with light sales Thursday, but down $1.00 from the bulk of this week's sales, feedlot sources said.</p>
+<p>About 4,000 head sold in the Texas Panhandle and western Oklahoma area bringing the weekly sales to 71,200, according to USDA.</p>
+<p>There were no sales reported in Kansas, with 90,900 head confirmed sold for the week, including 31,500 head or about 35 percent previously contracted or formulated cattle, USDA said.  </p>
+<p>Declines were tied to this week's steep drop in beef prices and ideas that retailers were close to being finished buying beef for features going into the Christmas holiday, market sources said.</p>
+<p>Outlooks for increased feedlot cattle supplies within the next few weeks also weighed on the market, they said.</p>
+<p>((Chicago newsdesk 312-408-8720))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

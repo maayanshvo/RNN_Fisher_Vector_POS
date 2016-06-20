@@ -1,0 +1,28 @@
+Philippine mutual funds net asset values.
+
+MANILA 1996-12-06
+
+The following are the net asset values of Philippine mutual funds for Friday, December 6:
+
+  FUNDS		NAV PER	  DAILY	  YEAR TO DATE
+
+			 SHARE	    CHANGE	 YIELD
+
+			 (PESOS)	  (PCT)	  (PCT)
+
+Citisec Growth     1.4405	   -0.12	   21.68
+
+First Galleon	0.9897	   -0.21	    5.81
+
+Philam Fund	  3.7995	   -0.22	   18.60
+
+Philequity Fund    2.0473	   -0.17	   52.76
+
+United Fund	  1.1216	    0.36	   15.93
+
+Kabuhayan Fund     1.0342	   -0.80	    1.85*
+
+* From start of commercial operations on April 30, 1996
+
+Information provided by the Investment Company Association of the Philippines, an association of the country's mutual funds.  -- Manila newsroom (632) 841 8937
+

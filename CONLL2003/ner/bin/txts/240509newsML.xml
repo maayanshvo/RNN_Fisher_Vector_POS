@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240509" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fed seen adding reserves via customer repos.</title>
+<headline>Fed seen adding reserves via customer repos.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The Federal Reserve Bank of New York is expected to add temporary reserves to the banking system on Friday via customer repurchase agreements.</p>
+<p>&quot;I'm expecting a customer RP today,&quot; said Dana Saporta, economist at Stone and McCarthy Research Associates Inc.</p>
+<p>Analysts at MMS International are also expecting the Fed to add reserves via customer repos.</p>
+<p>At 1005 EST/1505 GMT, the federal funds were traded at 5-3/16 percent, below the central bank's 5-1/4 percent target.  </p>
+<p>Analysts said the market is still expecting the Fed to add permanent reserves to the banking system through a coupon pass operation soon, but not necessarily on Friday.</p>
+<p>-- N.A. Treasury Desk, 212-859-1676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

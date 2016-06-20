@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241626" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION RESULTS.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION RESULTS.</headline>
+<dateline>BONN 1996-12-06</dateline>
+<text>
+<p>Results of German Bundesliga soccer</p>
+<p>matches played on Saturday:</p>
+<p> Hamburg		     2   Fortuna Duesseldorf	   1</p>
+<p> Arminia Bielefeld	 2   Stuttgart			 0</p>
+<p> Bayern Munich	     1   Borussia Moenchengladbach   0</p>
+<p> Duisburg		    1   St Pauli			  0</p>
+<p> Cologne		     1   Borussia Dortmund	     3</p>
+<p>Played on Friday:</p>
+<p> Bochum			2   Bayer Leverkusen		2</p>
+<p> Werder Bremen	     1   1860 Munich		     1</p>
+<p> Karlsruhe		   3   Freiburg			  0</p>
+<p> Schalke		     2   Hansa Rostock		   0</p>
+<p>Bundesliga standings after Saturday's games (tabulate under</p>
+<p>played, won, drawn, lost, goals for, goals against, points):</p>
+<p> Bayern Munich		 17    10   6   1    27  14    36</p>
+<p> Borussia Dortmund	   17    10   4   3    36  18    34</p>
+<p> Bayer Leverkusen	    17    10   4   3    38  22    34</p>
+<p> VfB Stuttgart		 17     9   4   4    39  19    31</p>
+<p> Karlsruhe		     17     8   4   5    30  20    28</p>
+<p> Bochum			  16     7   6   3    23  21    27</p>
+<p> Cologne			 17     8   2   7    32  30    26</p>
+<p> Schalke			 17     7   4   6    25  26    25</p>
+<p> Werder Bremen		 17     6   4   7    29  28    22</p>
+<p> Duisburg			17     6   4   7    17  22    22</p>
+<p> Hamburg			 17     5   5   7    22  26    20</p>
+<p> Arminia Bielefeld	   17     5   4   8    20  28    19</p>
+<p> 1860 Munich		   17     4   6   7    25  31    18</p>
+<p> St Pauli			16     5   3   8    21  29    18</p>
+<p> Fortuna Duesseldorf	 17     5   3   9    14  26    18</p>
+<p> Hansa Rostock		 17     4   3  10    19  26    15</p>
+<p> Borussia Moenchengladbach 17     4   3  10    12  23    15</p>
+<p> Freiburg			17     4   1  12    20  40    13</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

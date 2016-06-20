@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241200" id="root" date="1996-12-06" xml:lang="en">
+<title>THAILAND: Thai interbank rate eases, baht lower late.</title>
+<headline>Thai interbank rate eases, baht lower late.</headline>
+<dateline>BANGKOK 1996-12-06</dateline>
+<text>
+<p>The Thai overnight interbank rate fell to 9.00-9.50 percent in late trade on Friday from 10.00-10.50 percent earlier on higher liquidity after the passing of central bank's reserve requirement, dealers said.</p>
+<p>&quot;Banks were seen offering their excess funds to the market in the afternoon after they maintained sufficient funds to meet the reserve requirement,&quot; said one dealer at a foreign bank.</p>
+<p>All commercial bank have to meet the Bank of Thailand's reserve requirement on seventh and 22nd of each month.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="THAIL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BANGKOK"/>
+<dc element="dc.creator.location.country.name" value="THAILAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239309" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Federal Reserve business loans rose in Nov 27 week.</title>
+<headline>Federal Reserve business loans rose in Nov 27 week.</headline>
+<text>
+<p>ONE WEEK ENDED NOVEMBER 27</p>
+<p>(Seasonally adjusted, millions of dollars)</p>
+<p> Business loans............776,200 up.....8,000</p>
+<p> Govt, agency securities...711,200 up.....6,100</p>
+<p> Large time deposits.......469,900 down.....500</p>
+<p> U.S. commercial paper.....765,298 up ....2,628</p>
+<p> Financial companies.......580,566 up.....3,676</p>
+<p> New York business loans....43,490 up.....1,317</p>
+<p> Excluding acceptances......43,203 up.....1,292</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E121">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239823" id="root" date="1996-12-06" xml:lang="en">
+<title>MEXICO: Mexican daily port, shipping update for Dec 6.</title>
+<headline>Mexican daily port, shipping update for Dec 6.</headline>
+<dateline>MEXICO CITY 1996-12-06</dateline>
+<text>
+<p>All major ports were open as of 1000 local/1600 GMT, the Communications and Transportation Ministry said in a daily update.</p>
+<p>Tampico port authorities said fishing restrictions were in place in an area adjacent to the port because of a geophysical study being carried out in deep waters of the region from the ship Kenda.</p>
+<p>The ministry updated port conditions and shipping warnings for the Gulf of Mexico, Caribbean and Pacific Coast.</p>
+<p>- Pacific Coast:</p>
+<p>Light rains along the coast of southern Baja California and Sinaloa, with the rest of the coast seeing clear skies. Winds from the northeast of 10 to 15 knots (19 to 28 kilometers/11 to 17 miles per hour).</p>
+<p>A new front is seen emerging during the course of Friday, affecting the north of the Baja California peninsula and Sonora state, bringing lower temperatures, light rains and waves up to six feet.</p>
+<p>- Gulf of Mexico:</p>
+<p>Cold front bringing light rains to the coast of Tamaulipas, but with the rest of the Gulf in clear skies. Winds from the northeast at 10 to 15 knots (19 to 28 kilometers/11 to 17 miles per hour).</p>
+<p>- Caribbean:</p>
+<p>Tropical air carrying sporadic light rains over the coast of Quintana Roo state. Winds from the northeast at 10 to 15 knots with waves three to five feet high.</p>
+<p>--Chris Aspin, Mexico City newsroom +525 728-7903</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MEX">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I76300">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MEXICO CITY"/>
+<dc element="dc.creator.location.country.name" value="MEXICO"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

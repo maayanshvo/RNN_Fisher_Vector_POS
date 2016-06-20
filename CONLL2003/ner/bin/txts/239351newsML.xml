@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239351" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NYC Jan refunding has its 1st Euro floating rate.</title>
+<headline>NYC Jan refunding has its 1st Euro floating rate.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>New York City on Friday said that it planned a $775 million refunding for January that will include its first floating rate issue of taxable debt for European investors.</p>
+<p>A city official, who declined to be named, explained that Goldman, Sachs, which this summer was demoted to the second tier of the syndicate, proposed the floating rate issue and as a result was promoted to book runner for this offering.  </p>
+<p>By selling the floating rate debt, the city hopes to establish a benchmark, the city official said, adding that it needed a large deal to accomplish this objective.</p>
+<p>The city in late June sold its first issue of Euronotes, a strategy that it says saved it $500,000 in interest costs, and it has been trying to build on this strategy of expanding the pool of potential investors since then.</p>
+<p>In November, New York City said it became the first U.S. municipality to offer bonds for sale in European markets by competitive bidding as it listed taxable bonds on the London Stock Exchange.</p>
+<p>The refunding planned for January also includes a $475 million tax-exempt offering. No specific date in January has been selected for the debt sale, the official added.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

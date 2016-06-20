@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239423" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CSCE cocoa ends thinly traded session weaker.</title>
+<headline>CSCE cocoa ends thinly traded session weaker.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>CSCE cocoa futures ended modestly lower in light turnover Friday, as a bout of local long liquidation late in the day pushed the prices toward session lows, floor sources said.</p>
+<p>&quot;The locals got caught long and sold it down near the close,&quot; one dealer said.</p>
+<p>March delivery ended $6 a tonne weaker, at $1,391, after ranging betwwen $1,408 and $1,388. Spot December fell $6, to $1,329, while the outer months finished down $3 to $10.</p>
+<p>Volume was thin, at an estimated 4,938 lots.</p>
+<p>Prices moved higher at the open, buoyed by trade buying, dealers said. The decline on the U.S. dollar against sterling this morning also contributed to the market's upturn as arbitrage favored dollar-denominated New York cocoa.</p>
+<p>But traders said the active March contract's inability to get through chart resistance at $1,410 a tonne slowed upward momentum and prompted some light speculative selling.</p>
+<p>Technically, traders said after $1,410, strong March resistance was seen at $1,425. Support was seen near $1,385.</p>
+<p>In fundamental news, the Brazilian Association of Chocolate, Cocoa, Sweets and Derivatives (Abicab) said the country's 1996 chocolate production is expected to increase by eight percent over 1995 output and a further rise is predicted for next year.</p>
+<p>Brazil is expected to produce 308,000 tonnes of chocolate in 1996 compared with a total of 293,700 tonnes the previous year, Abicab said.</p>
+<p>--Patricia Avidan, New York Commodities Desk +1 212 859 1640</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

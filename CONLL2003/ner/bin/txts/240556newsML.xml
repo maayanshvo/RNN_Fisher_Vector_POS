@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240556" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Boeing to consider union option to subcontracting.</title>
+<headline>Boeing to consider union option to subcontracting.</headline>
+<dateline>SEATTLE 1996-12-05</dateline>
+<text>
+<p>Boeing Co. said Thursday it would consider a Machinists union proposal aimed at persuading the company not to send some manufacturing work overseas.</p>
+<p>But less than a year after a bitter 10-week strike by the union, Boeing executives accused the Machinists of standing in the way of needed manufacturing improvements.</p>
+<p>Under the December 1995 contract that ended the strike by some 32,000 workers, Machinists won the right to propose alternatives any time the company planned to subcontract work done by 50 or more union members.</p>
+<p>The union presented such a proposal Thursday in response to the company's plan to seek a foreign manufacturer for airplane doors currently built by about 100 unionized workers in Seattle and Wichita, Kansas.</p>
+<p>The affected workers would be retrained for new jobs within the company, said Peter Conte, a Boeing spokesman.</p>
+<p>But instead the union has proposed forming a team led by union members with engineers and managers to recommend ways to speed manufacturing processes and improve quality.</p>
+<p>Boeing commercial airplane group executive vice president Bob Dryden said the proposal has &quot;some merit,&quot; but he questioned other recent actions that have led to deteriorating relations between the union and management.</p>
+<p>&quot;We are perplexed by this proposal to 'work together,' given recent actions by the union in filing unfair labor practice charges, seeking a federal court injunction to prohibit Boeing from implementing major process improvements, and in refusing invitations to sit down and discuss a variety of pertinent issues,&quot; Dryden said in a statement.</p>
+<p>Union local President Bill Johnson said in a statement the union was confident it could meet the company's goals without subcontracting the door manufacturing work.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I36400">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I3640010">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEATTLE"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

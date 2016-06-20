@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239673" id="root" date="1996-12-06" xml:lang="en">
+<title>RUSSIA: Russia ready for constructive work with Albright.</title>
+<headline>Russia ready for constructive work with Albright.</headline>
+<dateline>MOSCOW 1996-12-06</dateline>
+<text>
+<p>Russia said on Friday it expected a constructive relationship with Madeleine Albright, nominated by U.S. President Bill Clinton to be Secretary of State.</p>
+<p>Interfax news agency quoted First Deputy Foreign Minister Igor Ivanov as saying Moscow was ready for &quot;most active and constructive&quot; work with Albright. But he noted that policy would be shaped by Clinton and President Boris Yeltsin.</p>
+<p>Clinton and Yeltsin are due to meet next March for their first summit since both were re-elected.</p>
+<p>&quot;Our countries' leaders have agreed to meet in March, 1997. The Russian foreign ministry believes the new directions in the development of Russian-U.S. relations will be worked out there,&quot; Ivanov told Interfax.</p>
+<p>Interfax, outlining Albright's biography, pointed out that she had defended Washington's interests fiercely as U.S. ambassador to the United Nations and that this had included actively supporting NATO's plans to expand eastwards.</p>
+<p>Russia opposes NATO's plans to take in countries of eastern and central Europe which used to be part of the Soviet-led Warsaw Pact, saying such moves would threaten its security.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="RUSS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MOSCOW"/>
+<dc element="dc.creator.location.country.name" value="RUSSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

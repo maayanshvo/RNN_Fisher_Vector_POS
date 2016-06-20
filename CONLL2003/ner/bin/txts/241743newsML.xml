@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241743" id="root" date="1996-12-07" xml:lang="en">
+<title>MALAYSIA: S &amp; P Food Industries goes into property.</title>
+<headline>S &amp; P Food Industries goes into property.</headline>
+<dateline>KUALA LUMPUR 1996-12-07</dateline>
+<text>
+<p>S &amp; P Food Industries Bhd has bought Gewaris Sdn Bhd for 19.61 million ringgit to diversify into property development, a company statement said on Saturday.</p>
+<p>S &amp; P, an associate of Chase Perdana Bhd, said the acquisition would be financed through internal funds and bank borrowings.</p>
+<p>It said Gewaris was developing a 300 million ringgit condominium project called &quot;Fettes Villa&quot; in Malaysia's northern Penang state and this fitted well with its plans to diversify and capture a slice of the local property market.</p>
+<p>S &amp; P, a manufacturer of instant coconut milk powder and defatted desiccated coconut, also trades in other food products. ($1 = 2.52 ringgit)</p>
+<p>-- Kuala Lumpur newsroom (603-2307509)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I41000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I50000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I85000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="KUALA LUMPUR"/>
+<dc element="dc.creator.location.country.name" value="MALAYSIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

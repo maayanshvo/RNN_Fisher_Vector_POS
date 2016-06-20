@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240526" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Louis Dreyfus increases 1997 capital budget.</title>
+<headline>Louis Dreyfus increases 1997 capital budget.</headline>
+<dateline>OKLAHOMA CITY 1996-12-06</dateline>
+<text>
+<p>Louis Dreyfus Natural Gas Corp said Friday its board approved a 1997 exploration and development budget of $100 million, a 20 percent increase over last year.</p>
+<p>The company said it plans to spend about $34 million in the Sonora Region of West Texas, $28 million in the Mid-Continent Region, $13 million in the Permian Region and $15 million in the Gulf Coast Region.</p>
+<p>The remaining $10 million will be used to acquire undeveloped land and conduct seismic survys, the company said.</p>
+<p>About 25 percent of the $100 million budget will be used for exploration, the company said.</p>
+<p>-- New York Newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="OKLAHOMA CITY"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

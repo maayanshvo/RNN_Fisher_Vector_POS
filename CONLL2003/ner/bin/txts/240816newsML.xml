@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240816" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESS DIGEST - Washington Post page one - Dec 6.</title>
+<headline>PRESS DIGEST - Washington Post page one - Dec 6.</headline>
+<dateline>WASHINGTON 1996-12-05</dateline>
+<text>
+<p>The Washington Post carried the following stories on its front page on Friday:</p>
+<p>---</p>
+<p>WASHINGTON - With one eye on the history books and the other on the Republican-led Congress, President Clinton nominated U.N. Ambassador Madeleine Albright as the first woman to serve as secretary of state and Sen. William Cohen as defense secretary and the first Republican in his Cabinet.</p>
+<p>---</p>
+<p>WASHINGTON - President Clinton made a dramatic statement about the importance of diversity, loyalty and personal chemistry in the construction of a second-term Cabinet, but in unveiling his new national security team he left unanswered the question of where he hopes to take foreign and defense policy in the next four years.</p>
+<p>---</p>
+<p>WASHINGTON - Maryland Governor Parris Glendening promised to veto legislation intended to save charity casino gambling in Prince George's County.</p>
+<p>---</p>
+<p>WASHINGTON - Organizers of President Clinton's inauguration next month are aiming for a celebration with mass appeal and a message.</p>
+<p>---</p>
+<p>WASHINGTON - President Clinton's book, &quot;Between Hope and History,&quot; is hardly a best-seller with huge quantities being returned to the publisher.</p>
+<p>---</p>
+<p>BELGRADE - The Serbian government, making conciliatory gestures in the face of mounting street protests, allowed two independent radio stations to resume broadcasts and signalled willingness to consider acknowledging the electoral victory of opposition parties in two of Yugoslavia's biggest cities.</p>
+<p>---</p>
+<p>WASHINGTON - Under pressure from the White House and environmentalists, the Army Corps of Engineers has decided to phase out a federal permit that has allowed the development of of wetlands.</p>
+<p>----</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

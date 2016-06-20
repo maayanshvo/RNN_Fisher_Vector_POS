@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241449" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Swiss money rates start firm, but seen easing.</title>
+<headline>Swiss money rates start firm, but seen easing.</headline>
+<dateline>ZURICH 1996-12-06</dateline>
+<text>
+<p>Swiss short-term money market rates were firm in early trading, but were expected to ease in the afternoon, continuing this week's pattern, dealers said.</p>
+<p>Tomorow/next money was trading just below 2.00 percent in early trade, but was likely to ease toward 1.50 percent in the afternoon, dealers said.</p>
+<p>The recent tightening is largely seen as technical and not connected to any change in policy by the Swiss National Bank, which dealers said conducted normal operations this morning.</p>
+<p>The traditional tightening of rates at year-end is also a factor, dealers added. -- Zurich Editorial +41 1 631 7340</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

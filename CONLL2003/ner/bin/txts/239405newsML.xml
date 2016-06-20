@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239405" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Argosy Gaming wins Indiana casino permit.</title>
+<headline>Argosy Gaming wins Indiana casino permit.</headline>
+<dateline>ALTON, Ill. 1996-12-06</dateline>
+<text>
+<p>Argosy Gaming Co said Friday the U.S. Army Corps of Engineers gave final approval for construction of a riverboat casino and entertainment complex in Lawrenceburg, Ind., near Cincinnati.</p>
+<p>Next Tuesday, the company plans to launch a 367-foot-long riverboat casino offering 21,000 square feet of gaming space. Construction will also begin immediately on a docking facility, said Argosy.</p>
+<p>The permit allows construction of a 300-room luxury hotel and a parking structure.</p>
+<p>Argosy Gaming is a developer of riverboat casinos and related entertainment complexes in the Midwest and South.</p>
+<p>((Chicago newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I97912">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ALTON, Ill."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

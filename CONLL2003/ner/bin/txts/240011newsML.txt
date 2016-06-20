@@ -1,0 +1,72 @@
+PRESALE - Cherryville USD 447, Kan..
+
+AMT: 3,200,000	DATE: 12/09/96	NYC Time: 2000     CUSIP: 613317
+
+ISSUER: Cherryville USD 447					  ST: KS
+
+ISSUE: GO school building, Series 1996			   TAX STAT: Exempt-ULT
+
+M/SP/F:								    BOOK ENTRY: N
+
+ENHANCEMENTS: None						     BANK QUAL: Y
+
+DTD: 12/01/96							    SURE BID: Y
+
+DUE: 9/1/99-17						SR MGR:
+
+1ST CPN: 03/01/98
+
+CALL: 9/1/06 at par					 NIC
+
+DELIVERY: 1/8/97 approx				   ORDERS:
+
+PAYING AGENT: State Treasurer's Office, Topeka
+
+L.O.: Gilmore & Bell, Wichita
+
+F.A.: Ranson & Assoc., Inc., Wichita
+
+LAST SALE: None
+
+Year		     Amount    Coupon     Yield     Price  Conc.
+
+1999		     50,000
+
+2000		     85,000
+
+2001		     90,000
+
+2002		    100,000
+
+2003		    110,000
+
+2004		    120,000
+
+2005		    130,000
+
+2006		    140,000
+
+2007		    150,000
+
+2008		    160,000
+
+2009		    170,000
+
+2010		    185,000
+
+2011		    195,000
+
+2012		    210,000
+
+2013		    225,000
+
+2014		    240,000
+
+2015		    260,000
+
+2016		    280,000
+
+2017		    300,000
+
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+

@@ -1,0 +1,50 @@
+FEATURE - Money woes threaten Internet book project.
+
+Michelle V. Rafter
+
+LOS ANGELES 1996-12-05
+
+Michael S. Hart's dream of putting 10,000 books online is looking more and more impossible.
+
+Hart is the creator, director, heart and soul of Project Gutenberg, a 25-year-old undertaking to convert historical documents and classic works of literature into electronic texts free to anyone on the Internet.
+
+So far, Hart and a band of 700 volunteer scriveners have transcribed 700 books into electronic form, what Hart calls "etexts." Works available from the Project Gutenberg Web site (http://promo.net/pg/ or http://www.etext.org/Gutenberg/pg/pg_home.html) include everything from Cicero to Theodore Dreiser's "Sister Carrie," as well as documents such as the Declaration of Independence and Bill of Rights. All the books have expired copyrights, which allows them to be copied without legal penalty.
+
+Project Gutenberg isn't the only electronic library online -- similar etext compilations have been undertaken at Columbia University, Carnegie Mellon and the Massachusetts Institute of Technology. But it is the oldest and remains one of the largest, most well-known collections. Its Web site receives close to one "hit" a second, according to Hart, whose base of operations is his Urbana, Ill., home.
+
+However, the scant financial support Hart received over the years has all but dried up, threatening his ability to continue, let alone attain his goal of putting 10,000 books online by the turn of the century.
+
+"I've got people running around in circles to find (funding), but I don't have any answers from the places we've tried to contact," Hart said.
+
+Hart, 49, has stored Project Gutenberg files on computers at the University of Illinois at Champaign-Urbana since starting the electronic library as a student there in the early 1970s. But Hart claims the relationship has soured recently, and he isn't sure whether the school will continue to lend support.
+
+University officials did not return calls for comment.
+
+Earlier this year, Hart lost a $12,000-a-year post as an adjunct professor of electronic text at Benedictine University, the result of a budget shortfall that forced the suburban Chicago school to cut back on some non-essential programmes.
+
+"We'd like to continue to support Michael but we can't do it financially. We don't have the bucks," said Fr. David Turner, the school's chaplain and a longtime acquaintance.
+
+Hart also collects royalties from sales of Gutenberg texts compiled on CD-ROM and marketed by Walnut Creek CDROM (http://www.cdrom.com/), a Walnut Creek, Calif., software publisher. But sales of the CD-ROMs have slipped to a quarter of what they were two years ago, when Project Gutenberg etexts became available on the World Wide Web, said Bob Bruce, the company's president.
+
+"It's killed CD-ROM sales," Bruce said.
+
+Project Gutenberg's problems aren't isolated. Columbia's four-year-old Bartleby Library (http://www.columbia.edu/acis/bartleby/ ) contains etext versions of Barlett's Familiar Quotations and poetry from Dickinson, Frost, Keats and Whitman, among others.
+
+The university provides computer space for Bartleby files, but hasn't provided any additional funding for the library's creator, Steven van Leeuwen. As a result, van Leeuwen squeezes in work on Bartleby after his day job as an online editor at the university.
+
+"It's separating more and more from Columbia," he said.
+
+Van Leeuwen blames universities, which helped incubate the Internet in the early 1990s, for dropping the ball when it came to furthering development of Web-based public works projects.
+
+"Two years ago, everything good you found on the Web was from a university," Van Leeuwen said. "Perhaps it's because companies have come along and done such a good job that universities became overwhelmed and lost steam."
+
+Others believe money woes Gutenberg and Bartleby projects are experiencing highlight the No. 1 problem facing everyone who publishes on the Web: how to make money on something you're giving away for free.
+
+"I'm a big believer in capitalism. There's a big profit motive to publish what the public wants," said Bruce, with Walnut Creek CDROM. "But with the Web that breaks down; there's no compensation flowing back. If you put up a great Web page, people will think you're great, but you won't get rich. Somehow we need to find a solution to that."
+
+At this stage, arguing the finer points of Web economics won't help Hart, who figures he can hang in there for a couple more months without any new financial support. If he abandons his efforts, however, it won't be before Project Gutenberg publishes its 1,000th etext.
+
+"I'll guarantee we'll get to 1,000," Hart said. "Things may be shaky, worse than shaky by then. I have no clue what's going to happen in the next couple months."
+
+(Michelle V. Rafter writes about cyberspace and technology from Los Angeles. Reach her at mvrafter(at)deltanet.com. Opinions expressed in this column are her own).
+

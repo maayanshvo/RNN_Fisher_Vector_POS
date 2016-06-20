@@ -1,0 +1,46 @@
+Argentine Central Bank reserves detailed.
+
+BUENOS AIRES 1996-12-06
+
+The Argentine Central Bank Friday released the following international reserve and currency liability data, in millions:
+
+*A = International reserves (gold, currency, securities, including repos and reverse repos).
+
+B = Liquidity requirements.
+
+C = International reserves in the financial system.
+
+*D = Monetary base.
+
+E = Currency liabilities.
+
+F = Net repurchase tender agreements.
+
+G = Bank liquidity paper.
+
+H = Financial liabilities.
+
+   Date	*A*   *B*    *C*    *D*    *E*   *F*   *G*    *H*
+
+  Nov 25  19,235 3,744 22,979 11,836 11,838 5,358   571 17,797
+
+  Nov 26  19,304 3,814 23,118 11,786 11,788 5,511   571 17,900
+
+  Nov 27  19,296 3,762 23,058 11,802 11,804 5,491   571 17,871
+
+  Nov 28  19,301 3,762 23,063 11,908 11,910 5,385   571 17,883
+
+  Nov 29  19,309 3,497 22,806 12,062 12,064 5,203   575 17,867
+
+  Dic 02  19,104 4,137 23,241 12,218 12,236 5,490     0 17,769
+
+  Dic 03  19,136 4,230 23,366 12,375 12,393 5,200     0 17,635
+
+  Dic 04  19,295 4,313 23,608 12,587 12,604 5,047     0 17,842
+
+*A  Of the $19.29 billion in international reserves, $2.79 billion (14.48 percent) are in securities.
+
+*D  There are currently no peso-denominated current accounts at the Central Bank.
+
+-- Buenos Aires Newsroom +54 1 318-0651
+

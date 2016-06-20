@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241410" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan says to split NTT into three firms.</title>
+<headline>Japan says to split NTT into three firms.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>The Japanese government plans to split Nippon Telegraph and Telephone Corp (NTT) into three firms under a holding company, Posts and Telecommunications Minister Hisao Horinouchi told reporters on Friday.  </p>
+<p>One of the new companies will be a long-distance operator and the other two will be local-call operators, Horinouchi said.</p>
+<p>One of the local firms will operate in western Japan and the other in eastern Japan, while the long-distance operator would be allowed to offer international services as well as domestic long-distance calls, he said.</p>
+<p>Prime Minister Ryutaro Hashimoto said he hopes NTT will offer international telecommunications services as soon as possible, Horinouchi said.</p>
+<p>The government, the ruling Liberal Democratic Party (LDP) and two other parties in a close alliance with the LDP will work to submit the necessary bills to the parliament session beginning in January, he said.</p>
+<p>&quot;I'm happy that we reached an agreement which took into account the suggestions made by the ministry's panel,&quot; Horinouchi said.</p>
+<p>The panel proposed in February that NTT, which controls 80 percent of Japan's telecommunications market, be broken up into three companies.  </p>
+<p>In a statement, the ministry also said the holding company should hold all the shares in the new long-distance call company and two local-call operators, and also carry out basic research and development activities.</p>
+<p>The new long-distance call operator would be set up as a private company. The two local call companies would be set up as special companies which have the duty of ensuring there are phone services in the regions they cover.</p>
+<p>To implement the new NTT structure, the government will make the necessary adjustments in regulations such as the anti-monopoly and commercial laws, and mull possible special taxation measures, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I79020">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

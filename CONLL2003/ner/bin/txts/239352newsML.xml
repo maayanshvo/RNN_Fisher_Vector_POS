@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239352" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Berkshire raised stake in McDonald's.</title>
+<headline>Berkshire raised stake in McDonald's.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>Berkshire Hathaway Inc raised its stake in McDonald's Corp to 9.34 million shares as of September 30, 1995, it disclosed in a recently Securities and Exchange Commission filing.</p>
+<p>In March, it was disclosed that Berkshire, headed by Omaha, Neb., billionaire Warren Buffett, bought 4.96 million shares of McDonald's sometime during the last quarter of 1994.</p>
+<p>According to the SEC filing, the 9.34 million shares were valued at about $357.3 million.</p>
+<p>McDonald's declined to comment on Berkshire's stake.</p>
+<p>In the third quarter of 1996, McDonald's listed its average shares outstanding at 697.8 million.</p>
+<p>((Reuters Chicago Newsdesk (312) 408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I83960">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

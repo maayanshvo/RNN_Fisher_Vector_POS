@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239491" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: MFB Corp to buy back about 5 pct of shares.</title>
+<headline>MFB Corp to buy back about 5 pct of shares.</headline>
+<dateline>MISHAWAKA, Ind. 1996-12-06</dateline>
+<text>
+<p>MFB Corp, the parent company of MFB Financial, said Friday its board of directors approved the repurchase of an additional 89,066 shares of the company's oustanding stock, or about five percent.</p>
+<p>Repurchases may begin December 9, as the required regulatory approval is received.  </p>
+<p>&quot;The board believes that the corporation's shares are from time to time undervalued by the market, and this program will have the effect of enhancing the book value per share and the potential for growth in earnings per share of the corporation's remaining outstanding shares,&quot; the company said in a statement.</p>
+<p>Since the company completed its conversion to a publicly owned company on March 24, it has repurchased about 520,834 shares of common stock at an average price of $15.29 a share, MFB said.</p>
+<p>((--Chicago newsdesk, 312-408-8787))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8150103">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MISHAWAKA, Ind."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

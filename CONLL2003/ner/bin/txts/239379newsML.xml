@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239379" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Meridian Point Realty Trust Q3 shr profit.</title>
+<headline>Meridian Point Realty Trust Q3 shr profit.</headline>
+<dateline>SAN FRANCISCO 1996-12-05</dateline>
+<text>
+<p>Meridian Point Realty Trust '83</p>
+<p>				Financial Highlights</p>
+<p>				   Qtr Ended		  Qtr Ended</p>
+<p>				  Sep 30, 1996	     Sep 30, 1995</p>
+<p> Revenues		    $     417,696	     $  1,498,902</p>
+<p> Net Income (Loss)		 139,565		   (10,743)</p>
+<p>Net Income (Loss) per</p>
+<p>  common share			  0.05		    ($0.00)</p>
+<p>				 Nine Mos Ended	   Nine Mos Ended</p>
+<p>				  Sep 30, 1996	     Sep 30, 1995</p>
+<p> Revenues			  1,936,092		  4,573,960</p>
+<p>Gain on Disposition of</p>
+<p>  Assets			   2,582,606			   --</p>
+<p> Net Income (Loss)	     2,607,028		  (447,877)</p>
+<p>Per Share</p>
+<p>   Net Income (Loss)		  0.86		     (0.15)</p>
+<p>   Cash Distributions		 0.33			   --</p>
+<p>Shares of Beneficial</p>
+<p>  Interest Outstanding	 3,031,618		  3,031,618</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C151">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-05"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SAN FRANCISCO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239519" id="root" date="1996-12-06" xml:lang="en">
+<title>NIGERIA: Mobil looks at power generation in Nigeria.</title>
+<headline>Mobil looks at power generation in Nigeria.</headline>
+<dateline>LAGOS 1996-12-06</dateline>
+<text>
+<p>Mobil Corp will talk with Nigerian officials next week on using gas associated with oil production to generate electricity for sale locally, a company spokesman said on Friday.</p>
+<p>&quot;Two officials are here from Mobil's electricity subsidiary in the United States. They will meet with the government on Monday and we hope to have an agreement early next year,&quot; Yomi Adeyemi-Wilson of Mobil's Nigeria unit told Reuters.</p>
+<p>Adeyemi-Wilson said the plant had been proposed for the southeastern city of Port Harcourt, but he could not give an idea of the size of the project.</p>
+<p>&quot;A few outstanding issues are to be finalised such as the amount of payments from the Nigeria Electric Power Authority (NEPA) to the Mobil/NNPC (Nigeria National Petroleum Corp) joint venture,&quot; he said.</p>
+<p>Around 75 percent of the gas associated with oil production in Nigeria is currently flared.</p>
+<p>Government estimates put total reserves at between 150 and 300 trillion cubic feet.</p>
+<p>Mobil is the second biggest oil operator in Nigeria. It currently pumps around 500,000 barrels per day (bpd) of crude and expects to hit a target of 900,000 bpd by the year 2000.</p>
+<p>--Lagos newsroom +234 1 2630317</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NIGEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I16100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LAGOS"/>
+<dc element="dc.creator.location.country.name" value="NIGERIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

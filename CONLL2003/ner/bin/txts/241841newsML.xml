@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241841" id="root" date="1996-12-07" xml:lang="en">
+<title>USA: Queen Mary liner could be heading for Japan.</title>
+<headline>Queen Mary liner could be heading for Japan.</headline>
+<dateline>LOS ANGELES 1996-12-06</dateline>
+<text>
+<p>The Queen Mary, one of the world's fastest liners in the days before trans-Atlantic jet travel, could soon be taking to sea for the first time in nearly 30 years and heading for Japan.</p>
+<p>The businessman who runs the elegant ship, which has been sitting in a dock in Long Beach, California, as a floating hotel and tourist attraction since 1967, is negotiating a deal with a group of Japanese investors.</p>
+<p>The deal would call for the Queen Mary to be towed across the Pacific to Tokyo where she would stay for two or three years after refurbishing, Joseph Prevratil said Friday.</p>
+<p>The businessman has a 20-year lease to operate the ship, which is owned by the city of Long Beach.</p>
+<p>&quot;Negotiations are going very well but are hardly concluded; it's still 50/50,&quot; Prevratil said adding he expected an agreement by the end of January. He did not name the Japanese interests he was negotiating with.</p>
+<p>&quot;The ability to put it in Tokyo Bay where there are a large number of people, as a tourist attraction, is attractive,&quot; he said.</p>
+<p>A spokesman for Long Beach city, however, said any deals would have to be approved by the city council which would no doubt seek compensation for loss of tourist dollars.</p>
+<p>&quot;Our city manager will look very closely at any deal with the Japanese,&quot; the spokesman said. The three-funnelled British ship, built in 1934, has been attracting visitors to the port city some 20 miles (32 km) south of Los Angeles since 1967.</p>
+<p>The Walt Disney Co. ran the ship there for several years, but ended its lease in 1992 after scrapping plans for an adjacent ocean-oriented theme park.</p>
+<p>Prevratil took over the lease to manage and operate the Queen Mary after the city council voted to keep the ship in Long Beach instead of selling her in the face of several offers from foreign investors.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I74000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LOS ANGELES"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

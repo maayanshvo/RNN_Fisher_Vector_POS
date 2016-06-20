@@ -1,0 +1,68 @@
+Key stock and currency market movements at 1700 GMT.
+
+LONDON 1996-12-06
+
+The following table shows the latest close of key indices* on major world stock exchanges, the day's change in points and the indices' 1996 closing highs and lows (with dates). Also shown are the London closing values of the German mark, the Japanese yen, the British pound and gold bullion (previous day's closes in brackets):
+
+		  DEC 6	DAY'S CHANGE    1996 HIGH   1996 LOW
+
+		  CLOSE	 IN POINTS
+
+ NEW YORK    6,370.76	-66.34	 6,547.79    5,032.94
+
+		 (midday)			  (Nov 25)    (Jan 10)
+
+ LONDON	3,963.0	 -88.2	  4,073.1     3,632.3
+
+						     (Oct 21)    (Jul 16)
+
+ TOKYO	20,276.70     -667.20	22,666.80   19,734.70
+
+						     (Jun 26)    (Mar 13)
+
+ FRANKFURT   2,791.96     -117.95	 2,909.91    2,284.86
+
+						     (Dec 5)     (Jan 2)
+
+ PARIS	 2,240.72	-51.78	 2,315.66    1,897.85
+
+						     (Nov 29)    (Jan 11)
+
+ SYDNEY	2,313.9	 -69.4	  2,394.70    2,096.10
+
+						     (Nov 25)    (Jul 17)
+
+ HONG KONG  13,102.73     -388.83	13,530.95   10,204.87
+
+						     (Nov 27)    (Jan 2)
+
+- - - -
+
+FOREIGN EXCHANGE/GOLD BULLION CLOSE IN LONDON
+
+ Dollar/mark... 1.5465   (1.5490)
+
+ Dollar/yen.... 112.95   (112.31)
+
+Pound/dollar.. $1.6425  ($1.6271)
+
+Gold (ounce).. $369.65  ($370.00)
+
+- - - -
+
+*INDICES USED AND THEIR ALL-TIME CLOSING HIGHS
+
+New York Dow Jones industrial average -- 6,547.79 (Nov 25/96)
+
+London FTSE 100 index -- 4,073.1 (Oct 21/96)
+
+Tokyo Nikkei average -- 38,915.87 (Dec 29/89)
+
+Frankfurt DAX-3O index -- 2,909.91 (Dec 5/96)
+
+Paris CAC-40 General index -- 2,355.93 (Feb 2/94)
+
+Sydney Australian All-Ordinaries index -- 2,394.7 (Nov 25/96)
+
+Hong Kong Hang Seng index -- 13,530.95 (Nov 27/96)
+

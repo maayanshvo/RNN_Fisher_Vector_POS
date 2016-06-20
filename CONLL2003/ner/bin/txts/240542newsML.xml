@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240542" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: U.S. Nov non-farm payrolls rose 118,000.</title>
+<headline>U.S. Nov non-farm payrolls rose 118,000.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>U.S. Labor Department seasonally adjusted jobs data.</p>
+<p> In 1,000s--Change	Nov    Oct--(Prev)  Sept-(Prev)  Nov95</p>
+<p>  in Nonfarm Payrolls   118    224    210     -2   -35     150</p>
+<p> Jobless Rate (Pct)     5.4    5.2    5.2    5.2   5.2     5.6</p>
+<p>Earnings, Hours of Private, Non-Farm Production workers:</p>
+<p>    -			 Nov    Oct-(Prev)   Sept-(Prev)  Nov95</p>
+<p>Earnings/Hour(dollars)  11.99  11.90  11.91  11.91  11.91  11.59</p>
+<p> Avg Weekly Hours	34.5   34.3   34.3   34.7   34.7   34.4</p>
+<p> Manufacturing Hours   41.7   41.7   41.6   41.7   41.8   41.5</p>
+<p> -Overtime Hours	  4.5    4.4    4.5    4.5    4.5    4.3</p>
+<p>Non-Farm Month-On-Month Payroll Changes by Industry:</p>
+<p>    In 1,000s --	  Nov    Oct--(Prev)  Sept-(Prev)  Nov95</p>
+<p> Goods-Producing	   22     20     17    -41   -53     -18</p>
+<p> -Construction	     14     12     10     12     8	11</p>
+<p> -Manufacturing	     9	9	6    -50   -59     -25</p>
+<p> Service-Producing	 96    204    193     39    18     168</p>
+<p> -Retail		     17     93     62     30    27	37</p>
+<p> -Services		   70     88    119     75    56	86</p>
+<p> -Government		-22     -8    -40    -87   -67	-1</p>
+<p>Aggregate Weekly Hours Indexes, Seasonally Adj. (1982=100)</p>
+<p>    -			  Nov	Oct----(Prev)    Nov95</p>
+<p> Total Private	    137.6    137.0    136.8    134.3</p>
+<p> -Goods-Producing	 110.6    110.5    110.2    109.3</p>
+<p> --Manufacturing	  106.0    105.9    105.7    106.1</p>
+<p> -Service-Producing     149.7    148.9    148.7    145.6</p>
+<p>Note--The indexes show total aggregate hours of production or nonsupervisory workers on private nonfarm payrolls by industry.  </p>
+<p>Number of Workers by Industry, Seasonally Adj. (1,000s):</p>
+<p>    -			  Nov	Oct----(Prev)    Nov95</p>
+<p> Total Non-Farm	 120,392  120,274  120,227  117,899</p>
+<p> Goods-Producing	 24,299   24,277   24,262   24,133</p>
+<p> -Construction	    5,475    5,461    5,455    5,211</p>
+<p> -Manufacturing	  18,259   18,250   18,238   18,353</p>
+<p> --Durable Goods	 10,692   10,682   10,674   10,628</p>
+<p> --Non-Durable Goods    7,567    7,568    7,564    7,725</p>
+<p>Number of Workers by Industry, Seasonally Adj. (1,000s):</p>
+<p>    -			  Nov	Oct----(Prev)    Nov95</p>
+<p> Service-Producing     96,093   95,997   95,965   93,766</p>
+<p> -Transp./Utilities     6,349    6,337    6,337    6,233</p>
+<p> -Wholesale Trade	 6,637    6,634    6,632    6,478</p>
+<p> -Retail Trade	   21,812   21,795   21,761   21,300</p>
+<p>-Finance, Insurance,</p>
+<p>  and Real Estate	 7,041    7,025    7,029    6,871</p>
+<p> --Services		34,765   34,695   34,707   33,546</p>
+<p> --Help Supply	    2,357    2,389    2,391    2,226</p>
+<p> -Government	     19,489   19,511   19,499   19,338</p>
+<p>The non-farm payroll data are based on a survey of employers and the jobless rate is based on a survey of households.</p>
+<p>Wall Street economists expected a November rise in non-farm payrolls of 179,000 and a jobless rate of 5.2 percent. They also had forecast a 0.4 percent rise in November average hourly earnings and an average work week of 34.4 hours.</p>
+<p>The household survey also indicated that November employment fell 30,000, that the labor force grew by 244,000, and the number of unemployed rose 273,000.  </p>
+<p>Katharine Abraham, commissioner of the Labor Department's Bureau of Labor Statistics, in a statement played down the nine-cent jump in average hourly earnings during November, noting they are often volatile.</p>
+<p>&quot;As I mentioned in June when we had a similarly large jump, the monthly movements in earnings can be quite erratic,&quot; she said.</p>
+<p>Concerning the series of declines in government employment, she repeated that these are mainly a reflection of changing &quot;seasonal patterns in local education.&quot;</p>
+<p>She said the declines have contributed to slower overall employment growth.</p>
+<p>Also, the Labor official said auto plant shutdowns have depressed jobs growth during the past three months.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

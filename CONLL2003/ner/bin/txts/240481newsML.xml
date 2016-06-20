@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240481" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Sallie Mae to price floating rate notes.</title>
+<headline>Sallie Mae to price floating rate notes.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>The Student Loan Marketing Association said Friday it will price $500 million of short-term floating rate notes on Monday, December 9.</p>
+<p>When-issued trading is expected to begin at 0820 EST/1320 GMT the following day, it said.</p>
+<p>The notes are for settlement December 12. Maturity date is June 12, 1997. Cusip number is 86387TEX2.</p>
+<p>Sallie Mae said the notes will be priced at a spread to the bond equivalent rate of the 91-day Treasury bill, with the interest rate reset the day after each weekly T-bill auction.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81501">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C172">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

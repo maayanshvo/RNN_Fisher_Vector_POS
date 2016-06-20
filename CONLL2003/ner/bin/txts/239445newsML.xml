@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239445" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Taiwan Equity sees '96 loss, to skip payout.</title>
+<headline>Taiwan Equity sees '96 loss, to skip payout.</headline>
+<dateline>JERSEY CITY, N.J. 1996-12-06</dateline>
+<text>
+<p>Taiwan Equity Fund Inc said Friday it expects net investment and net capital losses for fiscal 1996 and will not declare an annual shareholder distribution.  </p>
+<p>The fund said its board had determined there is insufficient income to declare a 1996 distribution.</p>
+<p>The fund said it has net assets of about $54.4 million and has a net asset value of $12.08 per share, based on 4,507,318 shares outstanding.</p>
+<p>The fund was off 1/4 at 10 Friday afternoon.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERSEY CITY, N.J."/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

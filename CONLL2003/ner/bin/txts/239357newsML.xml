@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239357" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CME says its GLOBEX volume Thursday set record.</title>
+<headline>CME says its GLOBEX volume Thursday set record.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>The Chicago Mercantile Exchange said Friday its volume on the overnight GLOBEX session Thursday reached a record 37,452.</p>
+<p>Total GLOBEX volume for the session was 96,052, with volume on the Paris-based Marche a Terme International de France (MATIF) accounting for 58,600 contracts.</p>
+<p>The CME's previous overnight GLOBEX record was 29,509.</p>
+<p>The CME said Eurodollar futures led the overnight session, with 24,899 contracts traded. The CME, Reuters Holdings Plc and MATIF are partners in GLOBEX, an after-hours electronic trading system.</p>
+<p>((Derivatives desk, 312 408 8750))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240296" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: Carrefour repeats profit rise view - paper.</title>
+<headline>Carrefour repeats profit rise view - paper.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>French retailer Carrefour chairman Daniel Bernard reiterated in a newspaper interview his forecast of a 20 percent rise in net attributable, pre-exceptional profit in 1996 and the opening of more than 30 stores abroad in 1997.</p>
+<p>&quot;I confirm that the net attributable pre-exceptional profit will grow by around 20 percent this year,&quot; Bernard said in an interview to appear in the Saturday edition of the Journal des Finances.</p>
+<p>The group first forecast this profit increase in September.</p>
+<p>It made a net attributable, pre-exceptional profit of 2.690 billion francs in 1995.</p>
+<p>Barnard also said he expected investment in foreign store openings of close to 10 billion francs next year.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C15">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C152">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

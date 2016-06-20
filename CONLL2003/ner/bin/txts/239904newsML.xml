@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239904" id="root" date="1996-12-06" xml:lang="en">
+<title>HONG KONG: G. Tannery IPO seen over 200X subscribed - sources.</title>
+<headline>G. Tannery IPO seen over 200X subscribed - sources.</headline>
+<dateline>HONG KONG 1996-12-06</dateline>
+<text>
+<p>Initial public offering of shares of Guangdong Tannery Ltd is expected to be over 200 times subscribed, market sources said at close of its public subscription on Friday.</p>
+<p>An official statement on the subscription results will be made on December 10 and dealing in the company shares is expected to begin on December 16.</p>
+<p>Guangdong Tannery, leather unit of conglomerate Guangdong Investment Ltd, is offering 110 million new shares or 25 percent of the company's share capital at HK$1.03 per share.</p>
+<p>Of the offer, about 70.57 million shares will be offered to Guangdong Investment's shareholders on the basis of one Tannery share for every 20 Guangdong Investment shares held.</p>
+<p>Guangdong Investment will hold 75 percent of the company after the listing.</p>
+<p>Guangdong Tannery said proceeds raised from the issue would be used to expand and upgrade production facilities in China.</p>
+<p>-- Hong Kong Newsroom (852) 2843 6370</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="HKONG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I44000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HONG KONG"/>
+<dc element="dc.creator.location.country.name" value="HONG KONG"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

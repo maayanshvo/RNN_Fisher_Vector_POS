@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239092" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NBA BASKETBALL-STANDINGS AFTER THURSDAY'S GAMES.</title>
+<headline>NBA BASKETBALL-STANDINGS AFTER THURSDAY'S GAMES.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>Standings of National</p>
+<p>Basketball Association teams after games played on Thursday</p>
+<p>(tabulate under won, lost, percentage, games behind):</p>
+<p>		 EASTERN CONFERENCE</p>
+<p>		 ATLANTIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> MIAMI	     14    4   .778   -</p>
+<p> NEW YORK	  10    6   .625   3</p>
+<p> ORLANDO	    8    6   .571   4</p>
+<p> WASHINGTON	 7    9   .438   6</p>
+<p> PHILADELPHIA     7   10   .412   6 1/2</p>
+<p> BOSTON	     4   12   .250   9</p>
+<p> NEW JERSEY	 3   10   .231   8 1/2</p>
+<p>		 CENTRAL DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> CHICAGO	   17    1   .944   -</p>
+<p> DETROIT	   13    3   .813   3</p>
+<p> CLEVELAND	 11    5   .688   5</p>
+<p> ATLANTA	   10    8   .556   7</p>
+<p> CHARLOTTE	  8    8   .500   8</p>
+<p> MILWAUKEE	  8    8   .500   8</p>
+<p> INDIANA	    7    8   .467   8 1/2</p>
+<p> TORONTO	    6   11   .353  10 1/2</p>
+<p>		 WESTERN CONFERENCE</p>
+<p>		 MIDWEST DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> HOUSTON	   16    2   .889   -</p>
+<p> UTAH		14    2   .875   1</p>
+<p> MINNESOTA	  7   10   .412   8 1/2</p>
+<p> DALLAS	     6   11   .353   9 1/2</p>
+<p> DENVER	     5   14   .263  11 1/2</p>
+<p> SAN ANTONIO	3   13   .188  12</p>
+<p> VANCOUVER	  2   16   .111  14</p>
+<p>		 PACIFIC DIVISION</p>
+<p>			W    L    PCT  GB</p>
+<p> SEATTLE	   15    5   .750   -</p>
+<p> LA LAKERS	 13    7   .650   2</p>
+<p> PORTLAND	  11    8   .579   3 1/2</p>
+<p> LA CLIPPERS	7   11   .389   7</p>
+<p> GOLDEN STATE     6   12   .333   8</p>
+<p> SACRAMENTO	 6   12   .333   8</p>
+<p> PHOENIX	    2   14   .125  11</p>
+<p>FRIDAY, DECEMBER 6</p>
+<p> NEW JERSEY AT BOSTON	</p>
+<p> CLEVELAND AT DETROIT	</p>
+<p> NEW YORK AT MIAMI	   </p>
+<p> PHOENIX AT SACRAMENTO     </p>
+<p> VANCOUVER AT SAN ANTONIO  </p>
+<p> MINNESOTA AT UTAH	   </p>
+<p> CHARLOTTE AT PORTLAND     </p>
+<p> INDIANA AT GOLDEN STATE   </p>
+<p> ORLANDO AT LA LAKERS</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

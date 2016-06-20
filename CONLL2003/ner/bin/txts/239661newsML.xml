@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239661" id="root" date="1996-12-06" xml:lang="en">
+<title>ESTONIA: Estonian shares forge ahead as banks report.</title>
+<headline>Estonian shares forge ahead as banks report.</headline>
+<dateline>TALLINN 1996-12-06</dateline>
+<text>
+<p>The Estonian share market was buoyed by a spate of bank profit reports and recorded more gains on Friday, dealers said.</p>
+<p>Trade was a healthy 32.7 million kroons on the official list and the index gained 1.56 percent to 134.41.</p>
+<p>Savings Bank was the most actively traded on turnover of 14.5 million kroons after it yesterday reported a record monthly profit of 8.9 million kroons in November.</p>
+<p>Hansapank, which earlier in the week also announced record November profits, climbed slightly to 136 kroons from 135.60 kroons.</p>
+<p>Other bank shares also rose, with Forekspank up to 84.25 kroons from 83.25 kroons.</p>
+<p>Tallinna Pharmaceutical, which also this week encouraged the market with its profit performance, gained to 79.50 kroons from 72.45 kroons.</p>
+<p>The over-the-counter market was also well traded on 4.1 million kroons.</p>
+<p>Tallinna Kaubamaja was the most traded at 2.2 million kroons as it rose to 64.90 kroons from 63 kroons while sweetmaker Kalevi dipped to 598 million kroons from 600 million kroons on activity of 1.02 million kroons.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ESTNIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TALLINN"/>
+<dc element="dc.creator.location.country.name" value="ESTONIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

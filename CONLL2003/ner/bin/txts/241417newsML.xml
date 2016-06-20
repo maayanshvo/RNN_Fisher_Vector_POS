@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241417" id="root" date="1996-12-06" xml:lang="en">
+<title>TUNISIA: Libyan ship loaded with food en route to Iraq.</title>
+<headline>Libyan ship loaded with food en route to Iraq.</headline>
+<dateline>TUNIS 1996-12-06</dateline>
+<text>
+<p>Libya said a ship loaded with foodstuffs has left the Libyan port of Benghazi en route to sanctions-hit Iraq ahead of the Islamic fasting month of Ramadan, the official Libyan news agency JANA reported on Friday.</p>
+<p>The agency, monitored in Tunis, did not give details but said Libyan officials and the Iraqi envoy in Tripoli saw off the ship on Thursday afternoon.</p>
+<p>It said Libya appealed to all Arab states to follow its example and send aid to Iraqis, suffering from stringent U.N. trade sanctions imposed after Baghdad's 1990 invasion of Kuwait. Ramadan starts around January 10.</p>
+<p>Iraq last month accepted United Nations conditions to sell $2 billion of oil in a six-month period to buy food and medicine. Iraqi officials said the pact could be implemented in a week time as Baghdad signed trade deals with 50 world companies.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAQ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="LIBYA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="TUNIS">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TUNIS"/>
+<dc element="dc.creator.location.country.name" value="TUNISIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

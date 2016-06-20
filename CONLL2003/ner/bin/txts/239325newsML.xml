@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239325" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Lyondell CEO to retire early.</title>
+<headline>Lyondell CEO to retire early.</headline>
+<dateline>HOUSTON 1996-12-06</dateline>
+<text>
+<p>Lyondell Petrochemical Co said on Friday its chief executive officer Bob Gower had decided to take early retirement, and would be replaced by Dan Smith, a senior member of Lyondell's management team.</p>
+<p>Gower, 59, would continue as chairman of the board through August 1997, when he reaches age 60, then planned to develop entrepreneurial business opportunities with family members.  </p>
+<p>Smith, who was president and chief operating officer, would become president and CEO effective immediately, a company spokewoman said. Lyondell had not yet named a new COO, she said. Smith joined Lyondell when it was formed in 1985.</p>
+<p>He joined Lyondell's former parent company, ARCO, in 1968 as an engineer.</p>
+<p>-- New York newsdesk 212-859-1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

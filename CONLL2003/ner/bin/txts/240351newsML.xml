@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240351" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: Indian Sept coal output rises to 20.29 mln tonnes.</title>
+<headline>Indian Sept coal output rises to 20.29 mln tonnes.</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>Indian coal production rose in September to 20.29 million tonnes from 18.77 million in the same month in 1995, the government said on Friday.</p>
+<p>    COAL PRODUCTION  Sept 96  Sept 95	Apr-Sept</p>
+<p>						     1996     1995</p>
+<p>			   20.29     18.77    120.62   111.99</p>
+<p>Note - Figures are in million tonnes and preliminary.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I11000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

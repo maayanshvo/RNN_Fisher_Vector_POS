@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241221" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Japan temperatures seen average for Dec 7 - Jan 6.</title>
+<headline>Japan temperatures seen average for Dec 7 - Jan 6.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Temperatures and rainfall are forecast to be about average during the month from December 7 to January 6, the Meteorological Agency said on Friday.</p>
+<p>During the first week, from December 7 to December 13, temperatures in northern and eastern Japan are likely to be higher than average, it said.</p>
+<p>Temperatures in other regions are expected to be average for the season, it said.</p>
+<p>For the rest of the month, temperatures throughout Japan are expected to be about average, it said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GWEA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

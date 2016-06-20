@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240274" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Swiss stocks end lower.</title>
+<headline>Swiss stocks end lower.</headline>
+<dateline>ZURICH 1996-12-06</dateline>
+<text>
+<p>Swiss shares closed two percent lower in nervous trade but well above the day's lows on the blue-chip Swiss Market (SMI) index.</p>
+<p>An early slump on Wall Street weighed on the shares but did not endanger the slight recovery in the afternoon, dealers said. The dealers were split on whether the current level would be considered a buy opportunity.</p>
+<p>&quot;This depends on Wall Street&quot;, one trader noted.</p>
+<p>Bourses around the world were pressured on Friday after U.S. Fed chairman Alan Greenspan's remarks about &quot;irrational exuberance&quot; on financial markets.</p>
+<p>The SMI closed 78.3 points, or 2.0 percent, lower at 3,835.5 and the all-share Swiss Performance Index fell 47.37 points, or 1.9 percent, to 2,450.67.</p>
+<p>Most-active Roche certificates slid 250 francs, or 2.46 percent, to 9,910. Ciba and Sandoz also lost more than two percent.</p>
+<p>Surveillance held comparatively well, sliding 0.8 percent to 3,120 francs while ABB, Nestle and the banks lost between one and two percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

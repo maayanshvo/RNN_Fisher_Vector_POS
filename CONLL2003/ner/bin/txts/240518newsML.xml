@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240518" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Cymer stockholders raise share offer.</title>
+<headline>Cymer stockholders raise share offer.</headline>
+<dateline>WASHINGTON 1996-12-06</dateline>
+<text>
+<p>Cymer Inc said Friday its selling stockholders raised the number of shares they are offering for sale by 30,000 to 730,000 common shares.</p>
+<p>In an amended filing with the Securities and Exchange Commission, Cymer said the company's original offer of one million common shares still stands.</p>
+<p>However, after the increased offer, outstanding shares will now total 13,428,771 common, up from the previous 13,419,456 common, the filing said.</p>
+<p>The selling stockholders also increased the 30 day over allotment option to underwriters to purchase up to 259,500 additional common shares from the 255,000 common previously.</p>
+<p>The offering will be made through Morgan Stanley &amp; Co Inc, Montgomery Securities and Needham &amp; Co Inc.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WASHINGTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

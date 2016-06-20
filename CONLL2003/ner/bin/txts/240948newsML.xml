@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240948" id="root" date="1996-12-06" xml:lang="en">
+<title>REPUBLIC OF IRELAND: Irish live register 268,700 s.a. in November - CSO.</title>
+<headline>Irish live register 268,700 s.a. in November - CSO.</headline>
+<dateline>DUBLIN 1996-12-06</dateline>
+<text>
+<p>The numbers unemployed as measured by the live register showed a seasonally adjusted 268,700, Central Statistics Office (CSO) figures showed on Friday.  </p>
+<p>The live register, which shows the number of people claiming unemployment benefits, fell to an unadjusted 263,305 versus 267,586 the previous month.</p>
+<p>			  Unadjusted	    Adjusted</p>
+<p> Latest		  263,305		 268,700</p>
+<p> Previous		267,586		 273,800</p>
+<p> Year-ago		274,705		 280,200</p>
+<p>-- Dublin newsroom 353 1 660 3377</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E411">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBLIN"/>
+<dc element="dc.creator.location.country.name" value="REPUBLIC OF IRELAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

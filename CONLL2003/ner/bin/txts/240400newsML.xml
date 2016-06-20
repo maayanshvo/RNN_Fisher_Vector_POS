@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240400" id="root" date="1996-12-06" xml:lang="en">
+<title>INDIA: India details 6.4 pct rise in Aug industry output.</title>
+<headline>India details 6.4 pct rise in Aug industry output.</headline>
+<dateline>NEW DELHI 1996-12-06</dateline>
+<text>
+<p>The Indian government released its monthly report on industrial production on Friday, confirming that the index increased by 6.4 percent in August over the same month in 1995.</p>
+<p>    INDUSTRIAL PRODUCTION     Aug 96    Jul 96    Aug 95</p>
+<p>    Year-on-year change	  +6.4	+8.3     +13.2</p>
+<p>     -Mining			 +0.0	-0.6	+9.7</p>
+<p>     -Manufacturing		+7.8     +10.5     +14.5</p>
+<p>     -Electricity		  +2.8	+3.2	+9.3</p>
+<p>    Index (base 100=1980/81)  292.9     284.7     275.3</p>
+<p>NOTE - Figures for August 1996 are preliminary. Figures for July 1996 have been revised.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW DELHI"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

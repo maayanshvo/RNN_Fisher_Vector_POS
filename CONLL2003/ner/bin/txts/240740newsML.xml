@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240740" id="root" date="1996-12-06" xml:lang="en">
+<title>LEBANON: U.N. commission to move headquarters to Beirut.</title>
+<headline>U.N. commission to move headquarters to Beirut.</headline>
+<dateline>BEIRUT 1996-12-06</dateline>
+<text>
+<p>The U.N. Economic and Social Commission for Asia and the Pacific will move back its permanent headquarters to Beirut next September, the commission's secretary general said on Friday.</p>
+<p>&quot;There is an initial agreement to move to Beirut next summer during the month of September,&quot; ESCWA secretary general Hazem al-Biblawi told reporters upon his arrival to Beirut airport.</p>
+<p>ESCWA had moved its main offices to Baghdad in 1982 during the height of Lebanon's 1975-1990 civil war. When Iraq invaded Kuwait in 1990, the commission moved to Amman.</p>
+<p>&quot;The return of ESCWA to Beirut indicates that the international community recognises the return of normal life to Lebanon which is re-emerging as a key center for the region,&quot; he added.</p>
+<p>Biblawi is due to meet Lebanon's top political leaders during his one-day vist before returning back to Amman.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LEBAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="UN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BEIRUT"/>
+<dc element="dc.creator.location.country.name" value="LEBANON"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

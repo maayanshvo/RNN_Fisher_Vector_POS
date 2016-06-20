@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239997" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: FREE-TO-TRADE - Calif. Educational Facilities Auth.</title>
+<headline>FREE-TO-TRADE - Calif. Educational Facilities Auth.</headline>
+<text>
+<p>CALIFORNIA EDUCATIONAL FACILITIES AUTHORITY</p>
+<p>RE: $40,000,000</p>
+<p>REVENUE BONDS (CHAPMAN UNIVERSITY) SERIES 1996</p>
+<p>Effective immediately all syndicate terms and price</p>
+<p>restrictions are removed and the bonds are free to trade.</p>
+<p>BA Securities, Inc.</p>
+<p>Redwood Securities Group Inc.</p>
+<p>--U.S. Municipal Desk, 212-859-1650</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

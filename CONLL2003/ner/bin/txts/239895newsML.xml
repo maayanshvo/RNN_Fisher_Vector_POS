@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239895" id="root" date="1996-12-06" xml:lang="en">
+<title>JAPAN: Foreign securities firms appeal to MOF on tax plan.</title>
+<headline>Foreign securities firms appeal to MOF on tax plan.</headline>
+<dateline>TOKYO 1996-12-06</dateline>
+<text>
+<p>Four major foreign securities firms have submitted a petition to Japan's Ministry of Finance (MOF) appealing against planned rule changes on foreign bond investment.</p>
+<p>The ministry should conduct a thorough study before finalising the plan, they said in the statement, a copy of which was acquired by Reuters.</p>
+<p>The firms, Goldman Sachs, Merrill Lynch, Salomon Brothers and SBC Warburg, suggested that MOF work with them to come up with a plan that could be widely accepted by market participants.  </p>
+<p>It said the MOF's plan could damage the competitiveness of Eurobonds issued by Japanese firms.</p>
+<p>The MOF plan, disclosed earlier this week, is aimed at closing a tax loophole in foreign bond investment.</p>
+<p>It would require identification of the final holder of Eurobonds issued by Japanese borrowers to show they are foreigners and therefore exempt from tax.</p>
+<p>A MOF study showed that about 80 percent of Euroyen bonds are held by Japanese investors.</p>
+<p>The statement said the MOF's aim to require identification of final investors would not be easy to achieve. &quot;We wish the Japanese eurobond market to develop and we hope that the ministry will examine our opinions,&quot; it said.</p>
+<p>MOF has already submitted the plan to the ruling Liberal Democratic Party's tax panel.</p>
+<p>Industry sources said they expect the panel's decision during the week of December 16.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JAP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TOKYO"/>
+<dc element="dc.creator.location.country.name" value="JAPAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

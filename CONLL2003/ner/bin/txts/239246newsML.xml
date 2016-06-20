@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239246" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: UK Exchange to start electronic trading in Oct '97.</title>
+<headline>UK Exchange to start electronic trading in Oct '97.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>The London Stock Exchange said on Friday it planned to launch electronic trading for FTSE 100 stocks on October 20, 1997.</p>
+<p>The outline schedule includes a period for practical simulation and market testing and the target date is to be reconfirmed three months ahead of implementation.</p>
+<p>The market is expected to begin a comprehensive programme of testing in May and member firms will be required to have participated in full dress rehearsals by September 1997.  </p>
+<p>&quot;On the basis of our discussions with members, we have set a working launch date which we believe is challenging but achievable. It is essential, however, that the process leading to introduction of the order book is thorough and comprehensive,&quot; the Exchange said.</p>
+<p>To that end, it said, it had identified a series of milestones through which it could monitor progress and reconfirm the target date in the light of market readiness.</p>
+<p>The launch date is geared to meet the market's need for nine months preparation time after publication of the final specification for the new trading service.  </p>
+<p>Revised rules for the new trading structure will be circulated for comment later this month and final rules confirmed to the market together with a final service description and technical specification in January.</p>
+<p>-- London Newsroon +44 171 542 7717</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I83100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C22">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

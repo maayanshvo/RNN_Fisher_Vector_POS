@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240202" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: NYC Hevesi urges steps to delay hitting debt cap.</title>
+<headline>NYC Hevesi urges steps to delay hitting debt cap.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>New York City Comptroller Alan Hevesi on Friday recommended some short-term steps that the city could take to avoid hitting its constitutional debt limit until the end of the 1997 fiscal year on June 30.</p>
+<p>The comptroller's recommendations include asking the state legislature to approve a new infrastructure agency that could borrow up to $10.9 billion, about half of the borrowing capacity the city has lost as its debt cap has fallen.  </p>
+<p>The comptroller added his staff and the Giuliani Administration's budget officials have agreed to review the amount of registered contracts.</p>
+<p>This could produce up to $500 million that could be used to cut the amount counted under the debt limit, Hevesi said. He previously had estimated the maneuver might identify an additional $1 billion.</p>
+<p>Hevei noted the city's plan to pay the Metropolitan Transportation Authority $500 million in capital funds over four years in return for a short-term cash infusion does not require it to sell debt. So all of the $500 million might not have to be counted in the debt limit this year.</p>
+<p>The comptroller's recommendations were included in a report on the city's debt that is mandated by the charter.</p>
+<p>--Joan Gralla, 212-859-1654</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

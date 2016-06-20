@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241624" id="root" date="1996-12-07" xml:lang="en">
+<title>GERMANY: SOCCER-GERMAN FIRST DIVISION SUMMARIES.</title>
+<headline>SOCCER-GERMAN FIRST DIVISION SUMMARIES.</headline>
+<dateline>BONN 1996-12-07</dateline>
+<text>
+<p>Summaries of matches played in the German first division on Saturday:</p>
+<p>Hamburg 2 (Salihamidzic 56, Baeron 70) Fortuna Duesseldorf 1 (Seeliger 13). Halftime 0-1. Attendance: 19,000.</p>
+<p>Arminia Bielefeld 2 (Breitkreutz 19, Reina 68) Stuttgart 0. Halftime 1-0. Attendance: 22,500.</p>
+<p>Bayern Munich 1 (Klinsmann 51) Borussia Moenchengladback 0. Halftime 0-0. Attendance 63,000</p>
+<p>Duisburg 1 (Skoog 87) St Pauli 0. Halftime 0-0. Attendance 17,000.</p>
+<p>Cologne 1 (Vladoiu 45) Borussia Dortmund 3 (Herrlich 69, Zorc 72, Herrlich 86. Halftime 1-0. Attendance 52,000</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="BONN"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

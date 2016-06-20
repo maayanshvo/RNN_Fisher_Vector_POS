@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241424" id="root" date="1996-12-06" xml:lang="en">
+<title>ISRAEL: PLO court jails policeman for inmate killing.</title>
+<headline>PLO court jails policeman for inmate killing.</headline>
+<dateline>JERICHO, West Bank 1996-12-06</dateline>
+<text>
+<p>A Palestinian military court ordered a PLO policeman jailed for life on Friday for killing an inmate during a quarrel in a prison in self-ruled Jericho.</p>
+<p>&quot;After reviewing all the evidence and hearing the witnesses, we sentence Issam Jalaytah to life with labour because he had intent to kill,&quot; military judge Major Marwan Abu Fidda said.</p>
+<p>Abu Fidda said the sentence must be ratified by Palestinian President Yasser Arafat.</p>
+<p>Jalaytah shot dead 21-year-old Rashid Fityani this week. The Palestinian National Security Forces said Fityani, arrested in 1994 on charges of collaborating with Israel, was killed after assaulting Jalaytah during an attempted prison break.</p>
+<p>Sources at the Jericho prison said Jalaytah fired 13 bullets at Fityani, killing him instantly. Reporters said PLO police prevented them from photographing Fityani's body in a Jericho hospital.</p>
+<p>Palestinian human rights officials criticised Arafat's self-rule Authority for failing to protect prisoners.</p>
+<p>The killing occurred only days after Amnesty International issued a report blasting the Palestinian Authority for a &quot;worrying&quot; increase in human rights abuses.</p>
+<p>Palestinian police took over Jericho and the Gaza Strip in May 1994 under an interim peace deal with Israel. After the takeover, PLO police jailed without trial a number of Palestinians suspected of collaborating with Israel.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ISRAEL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="JERICHO, West Bank"/>
+<dc element="dc.creator.location.country.name" value="ISRAEL"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241960" id="root" date="1996-12-07" xml:lang="en">
+<title>FRANCE: France, Britain in talks on disputed fishing zone.</title>
+<headline>France, Britain in talks on disputed fishing zone.</headline>
+<dateline>PARIS 1996-12-07</dateline>
+<text>
+<p>France and Britain held talks on Friday to try to resolve a dispute over fishing rights in the Sark Box near the British Channel island of Guernsey, the French Foreign Ministry said.</p>
+<p>&quot;All agreed it was vital that fishing vessels in the zone act with moderation, respect the rules...and cooperate with the inspection authorities,&quot; the ministry said in a statement.</p>
+<p>&quot;The discussions took place in an open and positive atmosphere,&quot; it said, adding that the two sides would meet again in early January.</p>
+<p>The dispute was triggered when Britain unilaterally withdrew from a 1994 agreement that granted fishing rights to France in the zone.</p>
+<p>Last week, French trawlers defied the ban on their fishing in the zone but Guernsey officials avoided a confrontation by taking no action.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I03000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

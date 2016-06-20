@@ -1,0 +1,42 @@
+How stock market circuit breakers work.
+
+NEW YORK 1996-12-06
+
+After the stock market plunge of October 1987, the Securities and Exchange Commission adopted a series of measures intended to forestall any more full-fledged market crashes.
+
+The rules are called "circuit breakers" because they gradually halt trading as markets fall, first curbing New York Stock Exchange computer programme trades and eventually halting all U.S. stock, options and futures activity.
+
+The following is a list of circuit breakers and conditions required to trigger them:
+
+-- If the Dow Jones Industrial Average rises or falls 50 points from previous session's close:
+
+Certain computerized trading is halted unless it acts to stablize the market, such as purchases after declines in prices or sales after price rises.
+
+The curb remains in effect all session unless the Dow returns to within 25 points of its previous close.
+
+-- If the Chicago Mercantile Exchange S&P 500 futures index falls 12 points:
+
+The futures price contract is not allowed to fall further for 15 minutes.
+
+All computer programme market orders in S&P 500 stocks entered via the New York Stock Exchange's computer system are suspended. After a five-minute delay, those trades that can be are executed.
+
+Trading is halted in any stocks where an imbalance exists that cannot be absorbed in an orderly fashion.
+
+Certain new orders are barred on the NYSE for the rest of the day except for orders of 2,099 shares or fewer for individual investors.
+
+The following circuit breakers apply to all stock, options and futures markets:
+
+-- If the Dow Jones Industrial Average fall 250 points from the previous close:
+
+Trading is halted for 30 minutes.
+
+-- If the Dow Industrials fall 400 points:
+
+Trading is halted for one hour.
+
+The last two circuit breakers have never been triggered.
+
+On Thursday, the NYSE said its board of directors had proposed increasing the trigger points for marketwide circuit breakers.
+
+The action, the result of a joint effort by the exchange and the Securities and Exchange Commission, calls for a half-hour trading halt across all U.S. stock and futures markets if the Dow fell 350 points from the previous day's close; and a one-hour halt if it fell 550 points.
+

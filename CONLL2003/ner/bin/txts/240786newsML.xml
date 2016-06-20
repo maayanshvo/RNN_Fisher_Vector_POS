@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240786" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: MGE wheat/barley/shrimp deliveries - Dec 6.</title>
+<headline>MGE wheat/barley/shrimp deliveries - Dec 6.</headline>
+<dateline>MINNEAPOLIS 1996-12-06</dateline>
+<text>
+<p>The Minneapolis Grain Exchange Grain reported the following deliveries against December futures (wheat in 000 bu, shrimp in lots) -</p>
+<p>SPRING WHEAT - Nil. Oldest long August 28, 1996.</p>
+<p>WHITE WHEAT - Nil. Oldest long May 8, 1996.</p>
+<p>BLACK TIGER SHRIMP - Nil. Oldest long October 7, 1996.</p>
+<p>BARLEY - Nil. Oldest long July 30, 1996.</p>
+<p>WHITE SHRIMP - Nil.</p>
+<p>H=House. C=Customer account.</p>
+<p>(Chicago newsdesk 312 408 8720)</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MINNEAPOLIS"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

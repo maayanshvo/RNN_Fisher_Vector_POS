@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239954" id="root" date="1996-12-06" xml:lang="en">
+<title>DUBAI: Iran polymer output to reach one mln tonnes by 199.</title>
+<headline>Iran polymer output to reach one mln tonnes by 199.</headline>
+<dateline>DUBAI 1996-12-06</dateline>
+<text>
+<p>Iran's polymer production is expected to reach one million tonnes a year by 1999 from 500,000 tonnes in 1995, the official Iranian New Agency (IRNA) said on Friday.</p>
+<p>It quoted Industry Minister Mohammad Reza Nematzadeh as saying Iran's annual domestic polymer needs stood at 700,000 tonnes.</p>
+<p>He gave no further details.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="IRAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25140">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DUBAI"/>
+<dc element="dc.creator.location.country.name" value="DUBAI"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241442" id="root" date="1996-12-06" xml:lang="en">
+<title>SPAIN: Spanish markets closed for public holiday.</title>
+<headline>Spanish markets closed for public holiday.</headline>
+<dateline>MADRID 1996-12-06</dateline>
+<text>
+<p>Spain's financial markets were closed for the Constitution Day public holiday on Friday. They will reopen on Monday.</p>
+<p>Closing levels for bonds and the peseta on Thursday were as follows:</p>
+<p>* 10-yr 8.80 pct T-bond 111.32 vs 112.19, yield 7.09 vs 6.97</p>
+<p>* Dec bond future 111.37 vs 112.08 at yesterday's close</p>
+<p>* Peseta/mark 84.18/20 at 1615 GMT vs 84.14/16</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SPAIN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="MADRID"/>
+<dc element="dc.creator.location.country.name" value="SPAIN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

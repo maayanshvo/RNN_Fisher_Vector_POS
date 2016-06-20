@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241088" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: FEATURE - Countries and companies slow to defuse Millennium Bomb.</title>
+<headline>FEATURE - Countries and companies slow to defuse Millennium Bomb.</headline>
+<byline>Patricia Reaney</byline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Robin Guenier isn't planning any overseas holidays to celebrate the new millennium.</p>
+<p>When the clock strikes midnight on December 31, 1999, he plans to be at home, far from anything controlled by a computer.</p>
+<p>As head of Taskforce 2000, a British organisation set up to tackle the so-called Millennium Bomb, he is more aware than most of the catastrophe that could result when the world's computers tick over into the next millennium.</p>
+<p>If all goes well life will continue as before. If it doesnt't computers around the world could crash.</p>
+<p>Everything from national defence systems, global air traffic control and banks to telephone and security systems, lifts and power stations could malfunction.</p>
+<p>All because computers were programmed in the 1960s to use a two-digit format to show the year, like 97 for 1997.</p>
+<p>If the millions of date reference programs throughout the world are not corrected before the millennium they will read 00 as the year 1900, not 2000.</p>
+<p>CHAOS PREDICTED UNLESS ACTION TAKEN</p>
+<p>&quot;Failure to deal with the problem could lead to commercial collapse. I put it bluntlly because I want to get the message across. Unless we act now there will be international chaos,&quot; warns British Science and Technology Minister Ian Taylor in a new book &quot;The Millennium Bomb&quot; that details the dilemma.</p>
+<p>Describing the computer glitch as a &quot;contagious disease&quot;, he predicted that it could force many companies out of business and lead to economic depression. It is estimated that the problem appears in 80 percent of computer programs worldwide.</p>
+<p>Although computer programmers have been aware of the Millennium Bomb for nearly three decades, countries and companies have been slow to tackle the problem which could turn out to be one of mankind's most expensive mistakes.</p>
+<p>Technology experts estimate it could cost $600 billion worldwide and 400 man years for a company to correct the glitch. Some experts doubt whether there are enough technical wizards available to correct the billions of computer codes in time.</p>
+<p>Despite the warnings of impending doom many companies around the world still aren't aware of the problem and only a small percentage are trying to correct it.</p>
+<p>&quot;Not nearly enough (British) companies are recognising it and globally the situation appear to be worse,&quot; Guenier told Reuters.</p>
+<p>A recent survey of 535 British companies showed that more than 60 percent have not begun to deal with the problem, and 65 percent said a quarter or more of their systems are affected.</p>
+<p>Another poll of 520 European businesses indicated that only 19 percent will meet the deadline.</p>
+<p>&quot;We really only have two years...in most cases the job must be done by January 1999,&quot; Guenier said. &quot;Two years in theory is not enough for a large corporation to fix it. You've got to do it all next year. If you haven't started yet, and many, many haven't, there isn't going to be enough time.&quot;</p>
+<p>Testing is the only way of knowing if a computer program is affected. Even if a company manages to solve the glitch, further testing to make sure they have corrected it and that the rewritten software works could take up to a year.</p>
+<p>FAILURE TO UNDERSTAND THE PROBLEM</p>
+<p>Guenier said one of the biggest problems in tackling the Millennium Bomb is that many senior people in business and government fail to understand how important the problem is.</p>
+<p>&quot;People find it hard to believe that such a simple problem...can truly have the devastasting consequences that some people are indicating.&quot;</p>
+<p>The astronomical costs of fixing the bug has added to the air of complacency. Information technology departments are having a hard time convincing board members of the seriousness of the problem and the need to set aside funds to remedy it.</p>
+<p>&quot;Conceptually, it is always harder for people to accept the idea of paying for disaster prevention rather then profit generation,&quot; said Paul Weller, a director of millennium consultancy firm Chase Software Solutions.</p>
+<p>&quot;If people ask me how much better their systems will be after paying for millennium correction I have to say the system will continue to function as it is, as distinct from not function.&quot;</p>
+<p>U.S. AND BRITISH TASK FORCES SET UP</p>
+<p>The United States and Britain have taken the lead in the battle to defuse the Millennium Bomb. Both have set up task forces to carry the word to business leaders that if they do not do something soon it will be too late.</p>
+<p>Cuba, one of the least technologically advanced countries in the world, has been touted as the best place to be on the eve of the new millennium, but Guenier said some African countries could also be a good destination.</p>
+<p>&quot;I wouldn't recommend flying around in airplanes at that time,&quot; Guenier said.</p>
+<p>Most major airlines have plans in hand. Air traffic controls systems are facing up to the problem and will most likely be functioning normally, he stressed.</p>
+<p>The social consequences, if social security benefits aren't paid or banking and pension systems fail, could be even more serious.</p>
+<p>&quot;The IT (information technology) industry has really got to face up to its responsibility and do practically nothing else but this,&quot; Guenier emphasised.</p>
+<p>&quot;I think we've got a big job to do to get people to understand it. I am totally convinced it is very serious...It's a nasty one.&quot;</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I33030">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GODD">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GSCI">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

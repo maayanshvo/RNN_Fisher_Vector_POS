@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239555" id="root" date="1996-12-06" xml:lang="en">
+<title>ERITREA: Eritrean businessmen leave for United States.</title>
+<headline>Eritrean businessmen leave for United States.</headline>
+<dateline>ASMARA 1996-12-06</dateline>
+<text>
+<p>An Eritrean business delegation left Asmara on Friday for talks in the United States with potential investors and Eritrean communities in exile, officials said.</p>
+<p>A big government delegation, including President Isaias Afewerki, four ministers and the head of the privatisation agency, will follow the businessmen on Sunday, they said.</p>
+<p>The businessmen's trip is sponsored by the Corporate Council for Africa, a U.S. foundation working to promote American business in Africa. The council brought businessmen from big U.S. companies to Eritrea in May.</p>
+<p>The businessmen include Tuolde Tesfamariam, manager of the company which will build Eritrea's first five-star hotel, Yemane Tesfay from the Commercial Bank of Eritrea and Tewelde Kelati from Eritrean Shipping Lines.</p>
+<p>Trade and Industry Minister Oqbe Abraha, included in the official delegation, said he wanted to contact Eritrean expatriates to encouarage them to invest in Eritrea.</p>
+<p>&quot;We are interested in meeting Eritreans in the United States to see if there is any interest in our privatisation process. It is an important part of our trip,&quot; he told Reuters.</p>
+<p>Eritrea plans to privatise 37 state industrial firms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ERTRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E512">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ASMARA"/>
+<dc element="dc.creator.location.country.name" value="ERITREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240262" id="root" date="1996-12-06" xml:lang="en">
+<title>SWITZERLAND: Swiss to sign NATO partnership plan on Wednesday.</title>
+<headline>Swiss to sign NATO partnership plan on Wednesday.</headline>
+<dateline>ZURICH 1996-12-06</dateline>
+<text>
+<p>Foreign Minister Flavio Cotti will sign for Switzerland to join NATO's Partnership for Peace (PFP) programme on Wednesday, the ministry said on Friday.</p>
+<p>Switzerland decided in October to edge away from its traditional isolationism and join the NATO programme in a bid to promote security in post-Cold War Europe.</p>
+<p>Cotti will sign the PFP documents when he is in Brussels, the alliance's headquarters, for a meeting of NATO and eastern European foreign ministers who make up the North Atlantic Cooperation Council (NACC).</p>
+<p>The Swiss government, eager to boost its international role, has lobbied hard for the programme.</p>
+<p>But it took pains to ensure the conservative majority of Swiss that the move did not jeopardise the country's treasured neutrality nor signal its intention to join the Western military alliance.</p>
+<p>The 16-member North Atlantic Treaty Organisation launched the PFP scheme in 1994, primarily to help foster ties with its former Warsaw Pact adversaries who embraced democracy after the collapse of communism in Eastern Europe.</p>
+<p>Swiss officers will observe -- but not join -- military manoeuvres and take part in peacekeeping exercises. The government remains blocked by a 1993 referendum from ever sending armed peacekeepers abroad.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="NATO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="SWITZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="ZURICH"/>
+<dc element="dc.creator.location.country.name" value="SWITZERLAND"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

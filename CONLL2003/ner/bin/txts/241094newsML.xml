@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241094" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: Britain's Labour up 10 points in opinion poll.</title>
+<headline>Britain's Labour up 10 points in opinion poll.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Britain's opposition Labour Party has increased its opinion poll lead over the ruling Conservatives by 10 points in the past month, an opinion poll in Friday's Daily Telegraph Newspaper showed.</p>
+<p>The Gallup poll put support for Labour at 59 percent, up four points from a month ago, and Prime Minister John Major's Conservatives at 22 percent, down six points.</p>
+<p>The poll came as Major was struggling to play down the latest row in his party over Europe.</p>
+<p>Chancellor of the Exchequer (finance minister) Kenneth Clarke on Thursday denied reports that he was threatening to resign if Major gave in to Eurosceptics in the party opposed to closer links with Europe.</p>
+<p>Despite the denial, media reports said the ruling party was suffering from a potentially fatal rift.</p>
+<p>Just a week ago, Clarke cut income tax by one percent in a budget package intended to boost his party's electoral chances.</p>
+<p>Major must call an election by May 1997 and faces a struggle to hold on to his one-seat majority in parliament.</p>
+<p>The minority Liberal Democrats gained one point in the latest poll to 12 percent.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVOTE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

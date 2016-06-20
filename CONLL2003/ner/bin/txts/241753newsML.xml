@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241753" id="root" date="1996-12-07" xml:lang="en">
+<title>SOUTH KOREA: Seoul military files complaint against trust firm.</title>
+<headline>Seoul military files complaint against trust firm.</headline>
+<dateline>SEOUL 1996-12-07</dateline>
+<text>
+<p>South Korea's Defence Ministry has filed a fraud complaint against Daehan Investment Trust Co Ltd for its handling of a 40.1 billion won ($48.3 million) military pension fund, a prosecution official said on Saturday.</p>
+<p>&quot;The defence ministry brought a complaint against three senior officials at Daehan Investment Trust for swindling which inflicted a loss in its pension fund by improper management,&quot; the official from the Seoul Prosecutor's office told Reuters.</p>
+<p>&quot;We will start our investigation by questioning the parties involved and examining evidence,&quot; he said.</p>
+<p>Spokesmen for the Defence Ministry and the company had no immediate comment.</p>
+<p>The prosecution official said the complaint claimed that when the pension fund was deposited with the firm on January 16, 1995, the Daehan employees issued a memorandum to the ministry guaranteeing an annual fixed rate of return 15 to 20 percent through investment in bonds.</p>
+<p>But instead of putting the money in bonds, Daehan invested it in the stock market, resulting in a huge loss, he said.</p>
+<p>The official revealed the defence ministry filed a civil suit last April demanding Daehan pay the ministry 5.5 billion won due to it under a promise by the firm to get a minimum 15.7 percent return on the investment.</p>
+<p>The matter was still in the civil court.</p>
+<p>The official said the latest Defence Ministry complaint was being treated as a criminal matter.</p>
+<p>The South Korean stock market fell 9.4 percent in the year between when the pension fund money money was deposited with Daehan and last January 17 when it was withdrawn from the firm and placed elsewhere.</p>
+<p>There were no further immediate details on the case.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I81502">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I8150206">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I8150214">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

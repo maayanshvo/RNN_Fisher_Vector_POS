@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241915" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: IEA says oil destocking holds danger to consumers.</title>
+<headline>IEA says oil destocking holds danger to consumers.</headline>
+<dateline>GOA, India 1996-12-07</dateline>
+<text>
+<p>Western oil companies should take care not to harm consumers' interests by cutting costs and reducing oil stock levels too far, International Energy Agency (IEA) Director Robert Priddle said on Saturday.</p>
+<p>&quot;They are responsible for their consumers and their consumers don't like high prices any more than they like irregular supplies,&quot; Priddle said in an interview during energy talks in Goa.</p>
+<p>&quot;I think they (oil companies) have to be very careful they don't go too low,&quot; he said.</p>
+<p>Oil company policy aimed at cutting costs has seen inventory levels cut to the bone and helped push oil prices close to six year highs over the past two months.</p>
+<p>The IEA said that commercial stocks held by countries of the Organisation of Economic Cooperation and Development were 67 million barrels lower than a year ago.</p>
+<p>&quot;I think the relatively low level of stocks, particularly in North America is a significant factor in the fluctuation of price this year,&quot; said Priddle.</p>
+<p>The IEA director said oil consuming nations would have to remain on their guard despite projections for plentiful supplies over the next few years.</p>
+<p>&quot;Our latest study on supply-demand does show that over the next three or four years there will be pretty ample supply,&quot; he said.</p>
+<p>&quot;But all countries have to worry about security of supply because shocks can come unexpectedly and you have to be ready to cope with them.&quot;</p>
+<p>Priddle said oil markets had proved surprisingly resilient to news of the possibility of Iraq's imminent return to the world oil market under the U.N.'s oil for food exchange but that prices should subside if exports materialised.</p>
+<p>&quot;We're talking about half a million barrels a day (bpd) at current prices. That's a significant addition to supply and should have a downward effect on prices,&quot; he said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

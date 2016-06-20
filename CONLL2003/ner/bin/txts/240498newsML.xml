@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240498" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: GM sees higher Q1 North American output.</title>
+<headline>GM sees higher Q1 North American output.</headline>
+<dateline>DETROIT 1996-12-06</dateline>
+<text>
+<p>General Motors Corp said Friday it expects to build 1,413,000 vehicles in North America during the 1997 first quarter, a 16 percent increase from 1,219,000 built in the first quarter of 1996.</p>
+<p>GM also increased its 1996 fourth quarter North American production forecast by 15,000 vehicles to 1,183,000.</p>
+<p>GM produced 1,372,000 cars and trucks in the fourth quarter of 1995.</p>
+<p>The company said it is on track to build 5,209,000 vehicles in all of 1996. That would represent a 7.7 percent decrease from 5,645,000 vehicles built in 1995.</p>
+<p>For November, GM said its produced 240,000 cars and 183,000 trucks at its operations in the U.S., Canada and Mexico. A year earlier, GM made 277,000 cars and 199,000 trucks.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I35101">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="DETROIT"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

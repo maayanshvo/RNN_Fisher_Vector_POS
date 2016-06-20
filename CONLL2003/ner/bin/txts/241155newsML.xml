@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241155" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-TVNZ wins rights to show Sydney 2000 games.</title>
+<headline>RTRS-TVNZ wins rights to show Sydney 2000 games.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>State-owned broadcaster Television New Zealand (TVNZ) has won the exclusive rights to broadcast the Sydney 2000 Olympic games in New Zealand, The Sydney Organising Committee for the Olympic Games (SOCOG) said on Friday.</p>
+<p>The price of the rights was not disclosed at TVNZ's request. The rights include free-to-air, cable and pay television rights.</p>
+<p>TVNZ's only mainstream competitor is the TV3 network, which is 68 percent owned by Canada's CanWest Global Communications Corp  CWW.TO.</p>
+<p>-- Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="NZ">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I9741102">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

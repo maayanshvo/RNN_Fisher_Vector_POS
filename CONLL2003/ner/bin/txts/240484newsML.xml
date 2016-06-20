@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240484" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Fed refrains from open market operations.</title>
+<headline>Fed refrains from open market operations.</headline>
+<dateline>NEW YORK 1996-12-06</dateline>
+<text>
+<p>The Federal Reserve refrained from open market operations on Friday, dealers said.</p>
+<p>The Fed's absence in the market came as no surprise as the federal funds continued to trade below the Fed's 5-1/4 percent target. At 1130 EST/1630 GMT, the usualy time the Fed enters the market, federal funds were traded at 5-3/16 percent.</p>
+<p>Analysts said the market is still expecting the Fed to add permanent reserves to the banking system through a coupon pass operation soon, but not necessarily on Friday.</p>
+<p>-- N.A. Treasury Desk, 212-859-1676</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="NEW YORK"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241811" id="root" date="1996-12-07" xml:lang="en">
+<title>JORDAN: King Hussein on first visit to UAE since 1990.</title>
+<headline>King Hussein on first visit to UAE since 1990.</headline>
+<dateline>AMMAN 1996-12-07</dateline>
+<text>
+<p>King Hussein of Jordan flew to the United Arab Emirates on Saturday on his first trip since relations were soured over the 1990 Gulf crisis.</p>
+<p>Palace officials said the king left Amman accompanied by his Prime Minister Abdul-Karim al-Kabariti.</p>
+<p>They said the king would meet UAE leader Sheikh Zaid bin Sultan al-Nahayan for talks on improving relations between the two countries and to congratulate him on his 30 years of rule.</p>
+<p>Sheikh Zaid, who recently returned to Abu Dhabi after surgery in the United States, is recuperating while other Gulf Arab leaders open their annual summit in Qatar on Saturday.</p>
+<p>Jordan angered its Arab Gulf allies six years ago because it refused to join the U.S.-led military coalition which recaptured Kuwait from Iraqi forces in February 1991.</p>
+<p>The king turned against his neighbour and ally Saddam Hussein last year. But Jordanian businesses are now crying out for trade with Iraq following its oil-for-food deal with the U.N. and King Hussein met Iraqi Foreign Minister Mohammed Saeed al-Sahaf on Friday.</p>
+<p>Sheikh Zaid, worried by Iraq's international isolation and the growing power of Iran, has called on fellow Gulf states to heal the scars caused by the 1990-91 crisis.</p>
+<p>The king, who earlier this year visited Saudi Arabia, Bahrain and Qatar and hosted Sultan Qaboos bin Said of Oman, has begun patching up differences with the Gulf states, once his main financial supporters.</p>
+<p>But ties with Kuwait have yet to improve, despite a series of meetings between officials and high-level contacts.</p>
+<p>King Hussein wants the Gulf states to employ more Jordanians after it stopped recruiting them during the Gulf crisis. Kabariti is also a keen advocate of better ties with the Gulf.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="JORDAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="UAE">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDIP">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="AMMAN"/>
+<dc element="dc.creator.location.country.name" value="JORDAN"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

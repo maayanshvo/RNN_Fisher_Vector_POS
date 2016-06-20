@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241146" id="root" date="1996-12-06" xml:lang="en">
+<title>AUSTRALIA: RTRS-Woolworths and Burmah in oil deal.</title>
+<headline>RTRS-Woolworths and Burmah in oil deal.</headline>
+<dateline>SYDNEY 1996-12-06</dateline>
+<text>
+<p>Retailer Woolworths Ltd said on Friday it had reached agreement with Burmah Oil to sell refined petroleum product from some Woolworths outlets in New South Wales and Victoria.</p>
+<p>Burmah is part of the Burmah Castrol Group.  </p>
+<p>Woolworths said in August it planned to establish more than 35 petrol outlets over the next 12-18 months in or adjacent to car parking areas in New South Wales and Victoria.</p>
+<p>&quot;Additional sites are also under review, with the objective of establishing up to 200 sites in the next three to five years,&quot; Woolworths and Burmah said in a statement.</p>
+<p>Burmah has about 115 filling stations in New South Wales and Victoria.</p>
+<p>Woolworths said in August that the petrol sold from its supermarket carparks would be imported.  </p>
+<p>Woolworths has watched closely the success of Tesco Plc's petrol retailing operations in Britain.</p>
+<p>British supermarkets increased their share of the petrol market to 20-25 percent by discounting, as they can cover potential losses on petrol at least in part by added grocery sales created as customers make one stop for all their shopping.</p>
+<p>Woolworths said last month it aimed to achieve a one percent increase in sales from its shopping centres because of the linked petrol outlets. Woolworths' test site in Dubbo, central NSW, has slightly exceeded the one percent increase since its opening several months ago. - Sydney Newsroom 61-2 373-1800</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="AUSTR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="I64100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C33">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SYDNEY"/>
+<dc element="dc.creator.location.country.name" value="AUSTRALIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

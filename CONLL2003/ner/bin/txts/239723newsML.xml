@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239723" id="root" date="1996-12-06" xml:lang="en">
+<title>LATVIA: Latvia budget deficit at 26 mln lats - ministry.</title>
+<headline>Latvia budget deficit at 26 mln lats - ministry.</headline>
+<dateline>RIGA 1996-12-06</dateline>
+<text>
+<p>Latvia's budget deficit was 26 million lats so far this year, the finance ministry said on Friday.</p>
+<p>The planned deficit for 1996 is 40 million lats, and the government is aiming for a balanced budget next year.</p>
+<p>The finance ministry said in a statement total income was 416.17 million lats and spending was 442.41 million lats.</p>
+<p>It said some 60 percent of the 188.66 million lats of internal state debt was in the form of government Treasury bills, of which there was 114.49 million lats outstanding.</p>
+<p>The state owed some 22.27 million lats to commercial banks and had taken over the debts of two state-owned banks, Unibanka and the Savings Bank, worth 51.90 million lats, it said.</p>
+<p>-- Riga Newsroom, +371 721 5240</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="LATV">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E211">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="RIGA"/>
+<dc element="dc.creator.location.country.name" value="LATVIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241921" id="root" date="1996-12-07" xml:lang="en">
+<title>INDIA: India shows interest in buying more Malaysian crude.</title>
+<headline>India shows interest in buying more Malaysian crude.</headline>
+<dateline>GOA, India 1996-12-07</dateline>
+<text>
+<p>India has evinced interest in increasing its crude oil supplies from Malaysia, Bikash Bora, chairman of the state-run Oil and Natural Gas Corp (ONGC) said on Saturday.</p>
+<p>Bora told Reuters after bilateral talks between the officials of India and Malaysia that India was keen to increase its crude purchases to one million tonnes per year from 750,000 tonnes.</p>
+<p>&quot;We wanted to know if they can supply one million tonnes of crude. They said they would favourably consider it,&quot; Bora said.</p>
+<p>He said India also showed interest in working together with Malaysia's Petroliam Nasional (Petronas) in exploration and get supplies of liquified natural gas (LNG) on a long term basis.</p>
+<p>Bora said India and Malaysia were also looking at working jointly in countries like Sudan.</p>
+<p>State-owned Indian Oil Corp (IOC) is also discussing plans to build an export refinery with Petronas on India's east coast, A.K. Arora, IOC's director of refineries and pipelines, said on Thursday.</p>
+<p>In an interview with Reuters, Arora said the two national oil companies &quot;have conceptualized the project as an export unit.&quot;</p>
+<p>He said the production capacity and configuration of the refinery have not been finalised but he expected the output to be at least 120,000 barrels per day (bpd).</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="INDIA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="MALAY">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I13000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I1300003">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="I14000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C31">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C311">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="GOA, India"/>
+<dc element="dc.creator.location.country.name" value="INDIA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

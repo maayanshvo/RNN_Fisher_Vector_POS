@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239986" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: PRESALE - Florida.</title>
+<headline>PRESALE - Florida.</headline>
+<text>
+<p>AMT: 44,455,000     DATE: 12/10/96	NYC Time: 1100     CUSIP: see note</p>
+<p>ISSUER: Florida							  ST: FL</p>
+<p>ISSUE: DOT refunding, Series 1996				  TAX STAT: Exempt-FFC</p>
+<p>M/SP/F:								    BOOK ENTRY: N</p>
+<p>ENHANCEMENTS: None						     BANK QUAL: N</p>
+<p>DTD: 12/01/96							    SURE BID: Y</p>
+<p>DUE: 7/1/98-21						SR MGR:</p>
+<p>1ST CPN: 07/01/97</p>
+<p>CALL: 7/1/06 at 101, dtp 7/1/07			 TIC</p>
+<p>DELIVERY: 4 weeks approx				  ORDERS:</p>
+<p>PAYING AGENT: State Street Bank and Trust Co. NA, New York</p>
+<p>L.O.: Greenberg, Traurig, Hoffman, Lipoff, Rosen &amp; Quentel, PA, Miami</p>
+<p>F.A.:</p>
+<p>LAST SALE: $150,000,000 P/MBIA 4/11/95@5.8004%TIC; 18yrs 10mos Avg; BBI-6.03%</p>
+<p>NOTES: cusip 341148 (98-10), 341149 (11-21)</p>
+<p>Year		     Amount    Coupon     Yield     Price  Conc.</p>
+<p>1998		    175,000</p>
+<p>1999		    180,000</p>
+<p>2000		    190,000</p>
+<p>2001		    200,000</p>
+<p>2002		  1,290,000</p>
+<p>2003		  1,350,000</p>
+<p>2004		  1,415,000</p>
+<p>2005		  1,480,000</p>
+<p>2006		  1,550,000</p>
+<p>2007		  1,635,000</p>
+<p>2008		  1,720,000</p>
+<p>2009		  1,805,000</p>
+<p>2010		  1,905,000</p>
+<p>2011		  2,005,000</p>
+<p>2012		  2,120,000</p>
+<p>2013		  2,240,000</p>
+<p>2014		  2,370,000</p>
+<p>2015		  2,505,000</p>
+<p>2016		  2,645,000</p>
+<p>2017		  2,800,000</p>
+<p>2018		  2,955,000</p>
+<p>2019		  3,125,000</p>
+<p>2020		  3,305,000</p>
+<p>2021		  3,490,000</p>
+<p>COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="E21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E212">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

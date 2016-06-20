@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241579" id="root" date="1996-12-07" xml:lang="en">
+<title>UK: SOCCER-ENGLISH LEAGUE AND CUP RESULTS.</title>
+<headline>SOCCER-ENGLISH LEAGUE AND CUP RESULTS.</headline>
+<dateline>LONDON 1996-12-07</dateline>
+<text>
+<p>Results of English league and cup</p>
+<p>matches on Saturday:</p>
+<p>Premier league</p>
+<p> Arsenal	   2   Derby		   2</p>
+<p> Chelsea	   2   Everton		 2</p>
+<p> Coventry	  1   Tottenham	     2</p>
+<p> Leicester	 1   Blackburn	     1</p>
+<p> Liverpool	 0   Sheffield Wednesday 1</p>
+<p> Middlesbrough   0   Leeds		   0</p>
+<p> Southampton     0   Aston Villa	   1</p>
+<p> Sunderland	1   Wimbledon	     3</p>
+<p>Division one</p>
+<p> Barnsley	   3  Southend		0</p>
+<p> Birmingham	 0  Grimsby		 0</p>
+<p> Charlton	   2  Swindon		 0</p>
+<p> Crystal Palace   2  Oxford		  2</p>
+<p> Huddersfield     2  Norwich		 0</p>
+<p> Ipswich	    0  Wolverhampton	 0</p>
+<p> Manchester City  3  Bradford		2</p>
+<p> Oldham	     0  Queens Park Rangers 2</p>
+<p> Reading	    0  Port Vale	     1</p>
+<p> Sheffield United 1  Portsmouth	    0</p>
+<p> Stoke		2  Tranmere		0</p>
+<p>Playing Sunday: West Bromwich v Bolton</p>
+<p>F.A. Challenge Cup second round</p>
+<p> Barnet		3  Wycombe		3</p>
+<p> Blackpool	   0  Hednesford	   1</p>
+<p> Bristol City	9  St Albans	    2</p>
+<p> Cambridge United  0  Woking		 2</p>
+<p> Carlisle	    1  Darlington	   0</p>
+<p> Chester	     1  Boston		 0</p>
+<p> Chesterfield	2  Scarborough	  0</p>
+<p> Enfield	     1  Peterborough	 1</p>
+<p> Hull		  1  Crewe		  5</p>
+<p> Leyton Orient     1  Stevenage	    2</p>
+<p> Luton		 2  Boreham Wood	 1</p>
+<p> Mansfield	   0  Stockport	    3</p>
+<p> Notts County	3  Rochdale	     1</p>
+<p> Preston	     2  York		   3</p>
+<p> Sudbury Town	1  Brentford	    3</p>
+<p> Walsall	     1  Burnley		1</p>
+<p> Watford	     5  Ashford Town	 0</p>
+<p> Wrexham	     2  Scunthorpe	   2</p>
+<p> Cardiff	     0  Gillingham	   2</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GSPO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

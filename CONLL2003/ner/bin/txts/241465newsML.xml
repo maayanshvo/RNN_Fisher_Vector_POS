@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241465" id="root" date="1996-12-06" xml:lang="en">
+<title>GERMANY: German Nov steel output up 4.6 pct in November.</title>
+<headline>German Nov steel output up 4.6 pct in November.</headline>
+<dateline>WIESBADEN, Germany 1996-12-06</dateline>
+<text>
+<p>The Federal Statistics Office gave the following data on pan-German steel production (in millions of tonnes):</p>
+<p>Nov</p>
+<p>		  Pct change	 Pig iron</p>
+<p>		     2.48	     +3.0</p>
+<p> Crude steel     3.66	     +4.6</p>
+<p>Jan-Nov	 Pct Change	 Pig iron</p>
+<p>		    25.31	     -9.3</p>
+<p> Crude steel    36.50	     -7.0</p>
+<p>NOTE - Percentage changes are against year-earlier figures. The statistics office said the output increases in November were the first gains since September 1995.</p>
+<p>-- Bonn newsroom, 49-228-26097150</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="GFR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I22100">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C21">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="WIESBADEN, Germany"/>
+<dc element="dc.creator.location.country.name" value="GERMANY"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

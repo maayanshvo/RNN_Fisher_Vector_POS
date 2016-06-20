@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240087" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: CBOT corn ends lower amid Dow jitters, soy drop.</title>
+<headline>CBOT corn ends lower amid Dow jitters, soy drop.</headline>
+<dateline>CHICAGO 1996-12-06</dateline>
+<text>
+<p>CBOT corn futures closed lower amid nervousness about gyrations in the Dow Industrial stock average with a late drop in soybeans lending pressure, traders said.</p>
+<p>There were few fresh features with pressure coming from a setback after Thursday's late short-covering rally, they said.</p>
+<p>&quot;Yesterday was overdone and there was just not enough steam to keep it going,&quot; said Ron Kucha of O'Connor and Co. &quot;The stock market wasn't as bad as thought.&quot;</p>
+<p>The Dow dropped early by roughly 140 points but by 1445 CST was down a more modest 60 points at roughly 6376.</p>
+<p>Slow farmer selling underpinned the market but the volume was thin with gains in the wheat and soyoil futures keeping a floor under the market.</p>
+<p>Cargill Inc bought two million bushels of March and Refco Inc sold two million March and two million May, traders said.</p>
+<p>Corn futures volume was estimated by the CBOT at 58,000 contracts, below the 77,899 traded Thursday. Corn options volume was estimated at 18,000 contracts, below the 20,921 traded Thursday.</p>
+<p>Corn closed 1/4 to 1-1/4 cents per bushel lower, with December down 1-1/4 at $2.67-1/4.</p>
+<p>((Sam Nelson 312-408-8721))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M141">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="CHICAGO"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

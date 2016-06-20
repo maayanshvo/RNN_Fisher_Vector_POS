@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="239812" id="root" date="1996-12-06" xml:lang="en">
+<title>CUBA: Delays building hotels costing Cuba lost revenue.</title>
+<headline>Delays building hotels costing Cuba lost revenue.</headline>
+<dateline>HAVANA 1996-12-06</dateline>
+<text>
+<p>Delays completing new hotels in Cuba have cost the island some $41 million in lost tourism revenue, a senior official said in remarks published Friday.</p>
+<p>Vice-president Carlos Lage, heading a meeting of tourism industry officials that was reported in the Communist Party newspaper Granma, cited construction delays as a key problem as Cuba seeks to expand the sector.</p>
+<p>He said there had been delays in completion of some nine buildings -- 1,857 new hotel rooms -- and that this involved a loss of some $41 million in revenue. Lage did not specify the period in which this revenue was lost.</p>
+<p>But the delays appear to be chronic. This time last year, President Fidel Castro blasted construction workers for failing to meet targets.</p>
+<p>Communist-ruled Cuba expects to receive more than 900,000 foreign tourists this year, up from 740,000 in 1995.</p>
+<p>The industry is now the country's main foreign exhange earner. The island has a target of two million visitors by the year 2000, which will involve doubling hotel capacity from the current figure of around 25,000 hotel rooms.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CUBA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I66500">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C24">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E51">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="E511">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GTOUR">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HAVANA"/>
+<dc element="dc.creator.location.country.name" value="CUBA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

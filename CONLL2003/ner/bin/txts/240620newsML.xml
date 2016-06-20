@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240620" id="root" date="1996-12-06" xml:lang="en">
+<title>UK: London platinum falls to fresh three-year low fix.</title>
+<headline>London platinum falls to fresh three-year low fix.</headline>
+<dateline>LONDON 1996-12-06</dateline>
+<text>
+<p>Platinum slumped to a fresh three-year low fixing on Friday afternoon at $370.25 per ounce.</p>
+<p>It was its lowest fix since December 1, 1993. On Friday morning it recorded $372.00.  </p>
+<p>&quot;It is a bit puzzling. There has been a big seller in the market (Thursday and Friday) which has put pressure on the platinum-gold spread,&quot; one dealer said.</p>
+<p>Other dealers said unwinding of a long platinum position in Tokyo overnight had started the price weakness.</p>
+<p>Platinum briefly traded at a discount to gold on Friday morning as the yellow metal rallied in response to weaker stock and bond markets.</p>
+<p>Imports by Japan, the leading user of platinum, have been lower this year than last, which has put the price under pressure in a well-supplied market, dealers said.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="UK">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M14">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M142">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="LONDON"/>
+<dc element="dc.creator.location.country.name" value="UK"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

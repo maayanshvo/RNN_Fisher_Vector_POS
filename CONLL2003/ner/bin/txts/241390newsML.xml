@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241390" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: Dong-A Pharm says buying back shares.</title>
+<headline>Dong-A Pharm says buying back shares.</headline>
+<dateline>SEOUL 1996-12-06</dateline>
+<text>
+<p>South Korea's Dong-A Pharmaceutical said in a statement on Friday it would buy back 50,000 of its own common shares on the open market to boost share prices.</p>
+<p>The buyback, representing 0.61 percent of its share capital, will take place between December 9 and March 8, a company statement said.  </p>
+<p>Dong-A currently holds 24,020 of its own common shares, which represents 0.29 percent of its share capital.</p>
+<p>The statement said the purchases would be made at the closing price of the previous day.</p>
+<p>Dong-A shares were trading at 18,000 won on Friday morning, unchanged from Thursday.</p>
+<p>-- Seoul Newsroom (822) 727 5645</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I25700">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C17">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C171">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C18">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="C181">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="SEOUL"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

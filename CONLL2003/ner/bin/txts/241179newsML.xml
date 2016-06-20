@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241179" id="root" date="1996-12-06" xml:lang="en">
+<title>SOUTH KOREA: South Korea's 3-yr yields hit new year high.</title>
+<headline>South Korea's 3-yr yields hit new year high.</headline>
+<text>
+<p>Yields on three-year benchmark corporate bonds rose on Friday to close at a new year high of 12.65 percent amid depressed buying sentiment, brokers said.</p>
+<p>This is the highest since September 27, 1995, they said.</p>
+<p>* 3-yr corporates close at 12.65 vs 12.59 pct</p>
+<p>* 3-mth CDs end unchanged at 13.70</p>
+<p>* Overnight average call rates unchanged at 13.00</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SKOREA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="M12">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M13">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="M131">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="MCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location.country.name" value="SOUTH KOREA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

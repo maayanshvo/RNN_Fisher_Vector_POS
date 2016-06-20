@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240485" id="root" date="1996-12-06" xml:lang="en">
+<title>USA: Grant Geophysical files Chap 11 bankruptcy.</title>
+<headline>Grant Geophysical files Chap 11 bankruptcy.</headline>
+<dateline>HOUSTON 1996-12-06</dateline>
+<text>
+<p>Grant Geophysical Inc on Friday said it filed for Chapter 11 bankruptcy protection in the U.S. Bankruptcy Court in Delaware.</p>
+<p>The company also said it anticipates the court will allow it principal lender, Foothill Capitol Corp, to provide additional funding for continuing operations. Grant expects to seek a purchaser for its domestic business &quot;as soon as reasonably practicable,&quot; they said in a statement.</p>
+<p>Grant also announced the resignation of president and chief executive officer Thomas Portwood Jr.</p>
+<p>J. Kelly Elliott, currently chairman, was named acting president and chief executive.</p>
+<p>About 40 employees at the company's Houston office were terminated as of December 2, as part of a cost-cutting measure, Grant added.</p>
+<p>-- New York Newsdesk +1 212 859 1610</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="USA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C16">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="HOUSTON"/>
+<dc element="dc.creator.location.country.name" value="USA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

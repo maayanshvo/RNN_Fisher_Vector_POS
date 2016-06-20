@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241849" id="root" date="1996-12-07" xml:lang="en">
+<title>CANADA: CAW says concludes talks with Canadian.</title>
+<headline>CAW says concludes talks with Canadian.</headline>
+<dateline>TORONTO 1996-12-06</dateline>
+<text>
+<p>The union representing 3,700 ticket agents at Canadian Airlines Corp said said on Friday that it has concluded talks with the airline over its restructuring plan.</p>
+<p>&quot;The bargaining committee has concluded its discussions with the company on a number of collective bargaining issues,&quot; the Canadian Auto Workers said in a statement.</p>
+<p>The union is the only one of six unions at Canada's second largest airline which has not accepted a restructuring plan to save the company.</p>
+<p>The airline is seeking wage cuts of C$35 million ($26 million) a year from Canadian's 16,400 employees, which it has called crucial to its survival.</p>
+<p>The union said it plans to hold a news conference on Saturday morning to announce its decision regarding the federal government's ordered vote on forced wage cuts.</p>
+<p>Canadian Labor Minister Alfonso Gagliano on Wednesday invoked a little-used section in the Canadian Labor Code to force the vote, which has been adamantly opposed by CAW leader Buzz Hargrove.</p>
+<p>((Reuters Toronto Bureau (416) 941-8100))</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="CANA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:industries:1.0">
+  <code code="I75000">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="C11">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="C42">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="CCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="E41">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="ECAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GJOB">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="TORONTO"/>
+<dc element="dc.creator.location.country.name" value="CANADA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

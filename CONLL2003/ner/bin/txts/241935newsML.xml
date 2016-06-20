@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="241935" id="root" date="1996-12-07" xml:lang="en">
+<title>SRI LANKA: Sri Lanka deputy defence minister safe - official.</title>
+<headline>Sri Lanka deputy defence minister safe - official.</headline>
+<dateline>COLOMBO 1996-12-07</dateline>
+<text>
+<p>A military helicopter carrying Sri Lanka's deputy defence minister and army chief crash-landed in the country's north on Saturday, but both men are safe, a military official said.</p>
+<p>The helicopter, with minister Anuruddha Ratwatte and army commander Lieutenant-General Rohan Daluwatte, came down in rebel-held territory north of the town of Vavuniya, about 220 km (135 miles) from the capital Colombo.  </p>
+<p>&quot;It had crash-landed after experiencing mechanical trouble,&quot; the official told Reuters.</p>
+<p>A senior air force official said the men had been brought to Vavuniya and were safe. &quot;They are all fine,&quot; he said.</p>
+<p>Ratwatte and Daluwatte are widely credited with the military's recent victories over separatist Tamil Tiger guerrillas in the north of this Indian Ocean island nation.</p>
+<p>The Sri Lankan government has been embroiled in an ethnic war since 1983 against Tamil Tiger rebels demanding a separate homeland in the north and east of the predominantly Sinhalese nation.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="SRILAN">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GDEF">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+  <code code="GPOL">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-07"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-07"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-07"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="COLOMBO"/>
+<dc element="dc.creator.location.country.name" value="SRI LANKA"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<newsitem itemid="240994" id="root" date="1996-12-06" xml:lang="en">
+<title>FRANCE: False bomb alerts disrupt Paris transport.</title>
+<headline>False bomb alerts disrupt Paris transport.</headline>
+<dateline>PARIS 1996-12-06</dateline>
+<text>
+<p>False bomb alerts disrupted Paris underground railways on Friday and authorities studied tougher security measures three days after a bomb left on a train by suspected Algerian Islamic extremists killed three people.</p>
+<p>Bomb disposal experts were called out to the Gare du Nord after a suspect package was found at about 7 a.m. (0600 GMT), disrupting traffic on two lines of the tightly-guarded RER suburban express railway.</p>
+<p>Another suspect package was found at the Chatelet station but traffic was unaffected. Both proved false alerts, the latest to disrupt traffic since the blast on a rush-hour train on Tuesday evening at the Port-Royal station.</p>
+<p>A 25-year-old Moroccan man, Mohamed Ben Chaou, became the third person killed by the blast when he died of his injuries on Thursday night. A newly-married Canadian woman and a man from New Caledonia died instantly in the bomb that injured 90 others.</p>
+<p>The head of the Paris regional transport authority said he was studying sealing areas under seats in trains and buses in an attempt to make it harder to conceal bombs.</p>
+<p>Tuesday's bomb, concealed in a bulky 13-kg (27-pound) gas canister, was placed under a seat.</p>
+<p>&quot;We have to work out whether it would be efficient. I have ordered a study,&quot; Jean-Paul Bailly told Radio Luxembourg, adding it would involve redesigning 200,000 seats in underground trains and more than 300,000 in buses.</p>
+<p>He also said the transport authority would study the possibility of using cameras to record what was going on in stations. French laws allow cameras to record only if guards spot something suspicious.</p>
+<p>Investigators said they suspected Algerian militants primarily because the bombing methods and target were strikingly similar to a series of bloody attacks last year which were claimed by fundamentalist rebels from the former French colony.</p>
+<p>Last year's bombs killed eight people and injured more than 160.</p>
+<p>The rebels accuse France of backing the Algiers government in a war that has claimed an estimated 50,000 lives since 1992, when the authorities scrapped elections the Islamic fundamentalists were poised to win.</p>
+<p>The daily Le Parisien said a bomb similar to the one used in Tuesday's attack had exploded in a remote area outside Paris two weeks ago. Investigators were trying to determine whether the blast had been a test for the Paris train bombing.</p>
+</text>
+<copyright>(c) Reuters Limited 1996</copyright>
+<metadata>
+<codes class="bip:countries:1.0">
+  <code code="ALG">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="FRA">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<codes class="bip:topics:1.0">
+  <code code="GCAT">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GCRIM">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+  <code code="GVIO">
+    <editdetail attribution="Reuters BIP Coding Group" action="confirmed" date="1996-12-06"/>
+  </code>
+</codes>
+<dc element="dc.date.created" value="1996-12-06"/>
+<dc element="dc.publisher" value="Reuters Holdings Plc"/>
+<dc element="dc.date.published" value="1996-12-06"/>
+<dc element="dc.source" value="Reuters"/>
+<dc element="dc.creator.location" value="PARIS"/>
+<dc element="dc.creator.location.country.name" value="FRANCE"/>
+<dc element="dc.source" value="Reuters"/>
+</metadata>
+</newsitem>
